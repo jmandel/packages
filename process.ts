@@ -91,7 +91,6 @@ Object.values(output).filter(o => o.added).forEach(packageItem => {
   delete packageItem.added;
 })
 
-
-await Deno.writeTextFile("packages.json", JSON.stringify(output, null, 2));
+const sortedOutput: Output = _.fromPairs(_.sortBy(_.toPairs(output), ([key]) => key));
+await Deno.writeTextFile("packages.json", JSON.stringify(sortedOutput, null, 2));
 console.log("Output file updated: packages.json");
-
