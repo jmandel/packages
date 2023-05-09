@@ -7,7 +7,7 @@ interface InputItem {
 }
 
 interface Location {
-  tgz: string;
+  url: string;
   repo?: string;
   branch?: string;
 }
@@ -32,11 +32,11 @@ function extractLocation(repo: string, date: string): Location {
   const repoName = segments[1];
   const branch = segments[3];
 
-  const tgz = `https://build.fhir.org/ig/${org}/${repoName}/branches/${branch}/package.tgz`;
+  const url = `https://build.fhir.org/ig/${org}/${repoName}/branches/${branch}/package.tgz`;
   const repoUrl = `https://github.com/${org}/${repoName}`;
 
   return {
-    tgz,
+    url,
     repo: repoUrl,
     branch,
     lastSeen: new Date(date),
@@ -66,7 +66,7 @@ output = _.reduce(
     if (accumulator[name]) {
       accumulator[name].locations = _.chain(accumulator[name].locations)
             .concat([location])
-            .groupBy("tgz")
+            .groupBy("url")
             .map((group) => _.maxBy(group, "lastSeen"))
             .value();
 
@@ -86,8 +86,8 @@ output = _.reduce(
 Object.values(output).filter(o => o.added).forEach(packageItem => {
   packageItem.current = _.maxBy(packageItem.locations, (location: Location) => {
     const branchScore = (location.branch === "main" || location.branch === "master") ? 1 : 0;
-    return branchScore * 1e10 + location.lastSeen.getTime();
-  })?.tgz;
+    return (branchScore * 1e10 + location.lastSeen.getTime() / 10e10);
+  })?.url;
   delete packageItem.added;
 })
 
