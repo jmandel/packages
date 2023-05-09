@@ -1,7 +1,7 @@
 name: Update packages.json
 on:
   schedule:
-    - cron: '0 0 * * *' # Run every day at midnight (UTC)
+    - cron: '44 * * * *' # Run hourly at x:44
   workflow_dispatch:
 permissions:
   contents: write
