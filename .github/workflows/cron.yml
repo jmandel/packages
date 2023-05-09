@@ -1,7 +1,7 @@
-name: Update packages.tgz
+name: Update packages.json
 on:
   schedule:
-    - cron: '0 0 * * *' # Run every day at midnight (UTC)
+    - cron: '44 * * * *' # Run hourly at x:44
   workflow_dispatch:
 permissions:
   contents: write
@@ -22,8 +22,10 @@ jobs:
         run: |
           curl -L -o qas.json https://build.fhir.org/ig/qas.json
           deno run --allow-read --allow-write process.ts
+          deno run --allow-read --allow-write process-minimal.ts
           git config user.name "GitHub Action"
           git config user.email "fhir@users.noreply.github.com"
           git add packages.json
-          git commit -m "Update packages.json" || exit 0
+          git add packages-minimal.json
+          git commit -m "Update packages" || exit 0
           git push

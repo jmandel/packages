@@ -7,7 +7,7 @@ interface InputItem {
 }
 
 interface Location {
-  tgz: string;
+  url: string;
   repo?: string;
   branch?: string;
 }
@@ -23,7 +23,7 @@ interface Output {
 }
 
 function readJson(path: string) {
-  return JSON.parse(Deno.readTextFileSync(path))
+  return JSON.parse(Deno.readTextFileSync(path));
 }
 
 function extractLocation(repo: string, date: string): Location {
@@ -32,15 +32,15 @@ function extractLocation(repo: string, date: string): Location {
   const repoName = segments[1];
   const branch = segments[3];
 
-  const tgz = `https://build.fhir.org/ig/${org}/${repoName}/branches/${branch}/package.tgz`;
+  const url =
+    `https://build.fhir.org/ig/${org}/${repoName}/branches/${branch}/package.tgz`;
   const repoUrl = `https://github.com/${org}/${repoName}`;
 
   return {
-    tgz,
+    url,
     repo: repoUrl,
     branch,
     lastSeen: new Date(date),
-
   };
 }
 
@@ -64,34 +64,43 @@ output = _.reduce(
     const location = extractLocation(item.repo, item.date);
 
     if (accumulator[name]) {
-      accumulator[name].locations = _.chain(accumulator[name].locations)
-            .concat([location])
-            .groupBy("tgz")
-            .map((group) => _.maxBy(group, "lastSeen"))
-            .value();
-
+      accumulator[name].locations = _.chain(
+        accumulator[name].locations.map((l) => ({
+          ...l,
+          lastSeen: new Date(l.lastSeen),
+        })),
+      )
+        .concat([location])
+        .groupBy("url")
+        .map((group) => _.maxBy(group, "lastSeen"))
+        .value();
     } else {
       accumulator[name] = {
         name,
         locations: [location],
-        added: true
+        added: true,
       };
     }
 
     return accumulator;
   },
-  output
+  output,
 );
 
-Object.values(output).filter(o => o.added).forEach(packageItem => {
+Object.values(output).filter((o) => o.added).forEach((packageItem) => {
   packageItem.current = _.maxBy(packageItem.locations, (location: Location) => {
-    const branchScore = (location.branch === "main" || location.branch === "master") ? 1 : 0;
-    return branchScore * 1e10 + location.lastSeen.getTime();
-  })?.tgz;
+    const branchScore =
+      (location.branch === "main" || location.branch === "master") ? 1 : 0;
+    return (branchScore * 1e10 + location.lastSeen.getTime() / 10e10);
+  })?.url;
   delete packageItem.added;
-})
+});
 
-
-await Deno.writeTextFile("packages.json", JSON.stringify(output, null, 2));
+const sortedOutput: Output = _.fromPairs(
+  _.sortBy(_.toPairs(output), ([key]) => key),
+);
+await Deno.writeTextFile(
+  "packages.json",
+  JSON.stringify(sortedOutput, null, 2),
+);
 console.log("Output file updated: packages.json");
-

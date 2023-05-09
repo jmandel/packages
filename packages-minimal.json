@@ -1,0 +1,2682 @@
+[
+  {
+    "name": "AboriginalTorresStraitIslanderHealthCheck",
+    "current": {
+      "url": "https://build.fhir.org/ig/aehrc/smart-health-checks-fhir-ig/branches/master/package.tgz",
+      "repo": "https://github.com/aehrc/smart-health-checks-fhir-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "actnow.canshare.co.nz",
+    "current": {
+      "url": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz",
+      "repo": "https://github.com/davidhay25/actnow",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "arkhn.fhir.uv.osiris",
+    "current": {
+      "url": "https://build.fhir.org/ig/arkhn/arkhn-ig-osiris/branches/master/package.tgz",
+      "repo": "https://github.com/arkhn/arkhn-ig-osiris",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "au.digitalhealth.r4",
+    "current": {
+      "url": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz",
+      "repo": "https://github.com/AuDigitalHealth/ci-fhir-r4",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "au.digitalhealth.stu3.medicare-records",
+    "current": {
+      "url": "https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/master/package.tgz",
+      "repo": "https://github.com/AuDigitalHealth/ci-medicare-records",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "care.commonprofiles",
+    "current": {
+      "url": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/48-add-regex-for-organisationsnummer-in-organizationsevendorlite/package.tgz",
+      "repo": "https://github.com/SvenskaIndustriProfiler/fhir",
+      "branch": "48-add-regex-for-organisationsnummer-in-organizationsevendorlite"
+    }
+  },
+  {
+    "name": "care.commonprofiles.fhir",
+    "current": {
+      "url": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/master/package.tgz",
+      "repo": "https://github.com/SvenskaIndustriProfiler/fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.cara.fhir.epr.emed",
+    "current": {
+      "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz",
+      "repo": "https://github.com/CARA-ch/ch-emed-epr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.chmed.emediplan",
+    "current": {
+      "url": "https://build.fhir.org/ig/ahdis/chmed/branches/master/package.tgz",
+      "repo": "https://github.com/ahdis/chmed",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-allergyintolerance",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+      "branch": "pjolo"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-core",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-emed",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-emed",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-epr-mhealth",
+    "current": {
+      "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz",
+      "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-epr-ppqm",
+    "current": {
+      "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/master/package.tgz",
+      "repo": "https://github.com/ehealthsuisse/ch-epr-ppqm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-epr-term",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-epr-term",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-etoc",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-etoc",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz",
+      "repo": "https://github.com/pjolo/ch-emc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-lab-dr",
+    "current": {
+      "url": "https://build.fhir.org/ig/lpg-tech/ch-lab-dr/branches/master/package.tgz",
+      "repo": "https://github.com/lpg-tech/ch-lab-dr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-lab-lr",
+    "current": {
+      "url": "https://build.fhir.org/ig/lpg-tech/ch-lab-lr/branches/master/package.tgz",
+      "repo": "https://github.com/lpg-tech/ch-lab-lr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-lab-order",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-lab-order",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-lab-report",
+    "current": {
+      "url": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz",
+      "repo": "https://github.com/lpg-tech/ch-lab-report",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-orf",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-orf",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-vacd",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-vacd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ig-template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.hci.ig.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/ralych/ig-template-hci/branches/master/package.tgz",
+      "repo": "https://github.com/ralych/ig-template-hci",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.hcisolutions.ig.analyzer",
+    "current": {
+      "url": "https://build.fhir.org/ig/ahdis/hci-analyzer/branches/master/package.tgz",
+      "repo": "https://github.com/ahdis/hci-analyzer",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.myorganization.fhir",
+    "current": {
+      "url": "https://build.fhir.org/ig/ahdis/WorkshopIG/branches/main/package.tgz",
+      "repo": "https://github.com/ahdis/WorkshopIG",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ch.raly.map-example",
+    "current": {
+      "url": "https://build.fhir.org/ig/ralych/ig-map-example/branches/master/package.tgz",
+      "repo": "https://github.com/ralych/ig-map-example",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "cinc.fhir.ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz",
+      "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "cqf.fhir.cds4cpm",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/cds4cpm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "cqf.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/cqf-ig-template/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/cqf-ig-template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "csiro.fhir.au.smartforms",
+    "current": {
+      "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
+      "repo": "https://github.com/aehrc/smart-forms-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "de.dve.etpro",
+    "current": {
+      "url": "https://build.fhir.org/ig/mburwit/etpro/branches/master/package.tgz",
+      "repo": "https://github.com/mburwit/etpro",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "de.netzwerk-universitaetsmedizin.ceosys.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/master/package.tgz",
+      "repo": "https://github.com/CEOsys/ig-template-ceosys",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "de.netzwerk-universitaetsmedizin.codexplus.celida.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/CODEX-CELIDA/ig-template-celida/branches/master/package.tgz",
+      "repo": "https://github.com/CODEX-CELIDA/ig-template-celida",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "devdays.letsbuildafhirspec.igpublisher",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/devdays-covid19-vaccine/branches/main/package.tgz",
+      "repo": "https://github.com/costateixeira/devdays-covid19-vaccine",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "dk.fhir.ig.dk-medcom-acknowledgement",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/githubpagesmaster/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
+      "branch": "githubpagesmaster"
+    }
+  },
+  {
+    "name": "dk.fhir.ig.dk-medcom-hospitalnotification",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/githubpagesmaster/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
+      "branch": "githubpagesmaster"
+    }
+  },
+  {
+    "name": "dk.fhir.ig.kl.common.caresocial",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/KL-dk/branches/master/package.tgz",
+      "repo": "https://github.com/hl7dk/KL-dk",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "dk.fhir.ig.kl.tools.care",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/KL-dk-tools/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/KL-dk-tools",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ebm-cpg.netzwerk-universitaetsmedizin.de",
+    "current": {
+      "url": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/master/package.tgz",
+      "repo": "https://github.com/CEOsys/cpg-on-ebm-on-fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ehi.api",
+    "current": {
+      "url": "https://build.fhir.org/ig/argonautproject/ehi-api/branches/master/package.tgz",
+      "repo": "https://github.com/argonautproject/ehi-api",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "example.fhir.uv.mycontentig",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/sample-content-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "example.fhir.uv.myig",
+    "current": {
+      "url": "https://build.fhir.org/ig/FHIR/sample-ig/branches/master/package.tgz",
+      "repo": "https://github.com/FHIR/sample-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.asu.consent-validation",
+    "current": {
+      "url": "https://build.fhir.org/ig/mojitoj/ASU-FHIR-consent-validation/branches/master/package.tgz",
+      "repo": "https://github.com/mojitoj/ASU-FHIR-consent-validation",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.base.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-base",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.ca.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-ca/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-ca",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "fhir.carequality.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/Carequality/ig-template-carequality/branches/master/package.tgz",
+      "repo": "https://github.com/Carequality/ig-template-carequality",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.cdc.opioid-cds-r4",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/opioid-cds-r4",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.cdc.opioid-mme-r4",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/opioid-mme-r4/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/opioid-mme-r4",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.cqf.ccc",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/cqf-ccc/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/cqf-ccc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.cqf.common",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/cqf/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/cqf",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.dependency.ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/DigitalSQR/fhir.dependency.ig/branches/master/package.tgz",
+      "repo": "https://github.com/DigitalSQR/fhir.dependency.ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.dependent.ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/DigitalSQR/fhir.dependent.ig/branches/master/package.tgz",
+      "repo": "https://github.com/DigitalSQR/fhir.dependent.ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.example",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk_MunicipalityObservationResults",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.example.reslicedextension",
+    "current": {
+      "url": "https://build.fhir.org/ig/cmoesel/ReslicedExtension/branches/main/package.tgz",
+      "repo": "https://github.com/cmoesel/ReslicedExtension",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "fhir.fshtank",
+    "current": {
+      "url": "https://build.fhir.org/ig/standardhealth/FSHTank/branches/master/package.tgz",
+      "repo": "https://github.com/standardhealth/FSHTank",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.hl7chile.ListaDeEspera",
+    "current": {
+      "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/main/package.tgz",
+      "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "fhir.medcomguidetestig",
+    "current": {
+      "url": "https://build.fhir.org/ig/tmsMedcom/MedComGuideTest/branches/master/package.tgz",
+      "repo": "https://github.com/tmsMedcom/MedComGuideTest",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.minsal.ListaDeEspera",
+    "current": {
+      "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
+      "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.nachc.hiv-cds",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/hiv-cds/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/hiv-cds",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.org.nz.ig.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
+      "repo": "https://github.com/HL7NZ/nzbase",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.org.nz.ig.datastandarddesigner",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7NZ/data-standard-designer/branches/main/package.tgz",
+      "repo": "https://github.com/HL7NZ/data-standard-designer",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "fhir.qpath4ms",
+    "current": {
+      "url": "https://build.fhir.org/ig/helict/qpath4ms-ig/branches/master/package.tgz",
+      "repo": "https://github.com/helict/qpath4ms-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.uv.crossborderdataexchange",
+    "current": {
+      "url": "https://build.fhir.org/ig/InteropEHRate-project/cross-border-data-exchange/branches/master/package.tgz",
+      "repo": "https://github.com/InteropEHRate-project/cross-border-data-exchange",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.uv.researchdatasharing",
+    "current": {
+      "url": "https://build.fhir.org/ig/InteropEHRate-project/research-data-sharing/branches/master/package.tgz",
+      "repo": "https://github.com/InteropEHRate-project/research-data-sharing",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "fhir.who.ddcc",
+    "current": {
+      "url": "https://build.fhir.org/ig/dvci/ddcc/branches/tx-cleanup/package.tgz",
+      "repo": "https://github.com/dvci/ddcc",
+      "branch": "tx-cleanup"
+    }
+  },
+  {
+    "name": "fish",
+    "current": {
+      "url": "https://build.fhir.org/ig/schanceee/test-example/branches/master/package.tgz",
+      "repo": "https://github.com/schanceee/test-example",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "gov.healthit.ecqi.ecqms",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2022/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/ecqm-content-qicore-2022",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7-pt.fhir.uv.pem-h",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-pt/pem-h/branches/main/package.tgz",
+      "repo": "https://github.com/hl7-pt/pem-h",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.au.base.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/hl7.au.base.template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.au.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/hl7.au.fhir.template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.base.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-hl7",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.be.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.cda.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-cda/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-cda",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.cda.us.ccda",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.cda.us.ccdar2dot2",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.2/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/CDA-ccda-2.2",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.cda.uv.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/CDA-core-2.0",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.cql",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cql",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.davinci.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-davinci",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.gh",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/gravitate-health",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.gh-ips",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/gravitate-health-ips",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.gk",
+    "current": {
+      "url": "https://build.fhir.org/ig/gatekeeper-project/gk-fhir-ig/branches/master/package.tgz",
+      "repo": "https://github.com/gatekeeper-project/gk-fhir-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.idea4rc",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/idea4rc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.pcsp",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/pcsp/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/pcsp",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.unicom",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/unicom-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.xeh",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/x-ehealth/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/x-ehealth",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.xpandh.hdr",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/xpandh-hdr/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/xpandh-hdr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.eu.fhir.xpandh.lab",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/xpandh-lab/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/xpandh-lab",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.affiliate.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-affiliate/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-affiliate",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.au.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz",
+      "repo": "https://github.com/ci-collaborative/au-fhir-base-r4",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.au.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/au-fhir-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.au.draft.diagnostic-orders",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/draft-diagnostic-orders/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/draft-diagnostic-orders",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.au.draft.mydraftig",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/draft.hl7.org.au-ig/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/draft.hl7.org.au-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.au.pd",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/au-fhir-pd/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/au-fhir-pd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.consent",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/consent/branches/issue-1/package.tgz",
+      "repo": "https://github.com/hl7-be/consent",
+      "branch": "issue-1"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.core-clinical",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/core-clinical",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.eattestation",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/eattestation/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/eattestation",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.etariff",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/etariff/branches/issue-3/package.tgz",
+      "repo": "https://github.com/hl7-be/etariff",
+      "branch": "issue-3"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.lab",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/lab",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.manzana",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/manzana/branches/releasecandidate/package.tgz",
+      "repo": "https://github.com/hl7-be/manzana",
+      "branch": "releasecandidate"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.medication",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/medication",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.mycarenet",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/mycarenet",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.nihdi-terminology",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/nihdi-terminology",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.public-health",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/qa-cleanup/package.tgz",
+      "repo": "https://github.com/hl7-be/public-health",
+      "branch": "qa-cleanup"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.referral",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/referral",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.be.vaccination",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-be/vaccination",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.ca.baseline",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz",
+      "repo": "https://github.com/HL7-Canada/ca-baseline",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.cda",
+    "current": {
+      "url": "https://build.fhir.org/ig/ahdis/cda-core-2.0/branches/master/package.tgz",
+      "repo": "https://github.com/ahdis/cda-core-2.0",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.cl.recetachile",
+    "current": {
+      "url": "https://build.fhir.org/ig/Minsal-CL/SNRE/branches/master/package.tgz",
+      "repo": "https://github.com/Minsal-CL/SNRE",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.dk.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz",
+      "repo": "https://github.com/hl7dk/dk-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.dk.kl.gateway.care",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/master/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-gateway",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.dk.kl.gateway.municipality-care-data",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-municipality-care-data/branches/master/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-gateway-municipality-care-data",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.dk.kl.messaging.ffb",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-ffb-messaging/branches/master/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-ffb-messaging",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.dk.kl.reporting.ffb",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-ffb-reporting/branches/master/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-ffb-reporting",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.ee.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
+      "repo": "https://github.com/HL7EE/ig-ee-base",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.eu.laboratory",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/laboratory",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.fi.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/package.tgz",
+      "repo": "https://github.com/fhir-fi/finnish-base-profiles",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.fi.smart",
+    "current": {
+      "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz",
+      "repo": "https://github.com/fhir-fi/finnish-smart",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.it.cda2fhir",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-it/cda2fhir/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-it/cda2fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.it.lab-report",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-it/lab-report/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-it/lab-report",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.nl.zorgviewer",
+    "current": {
+      "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
+      "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-fhir/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.bfdr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-bfdr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.breast-radiology",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-breast-radiology-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-breast-radiology-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.bser",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/bser",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.cancer-reporting",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cancer-reporting",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.cardx-htn",
+    "current": {
+      "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/CardX-HTN/branches/master/package.tgz",
+      "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/CardX-HTN",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.carin-bb",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/carin-bb",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.ccda",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ccda-on-fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.cdmh",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cdmh/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cdmh",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.central-cancer-registry-reporting",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-central-cancer-registry-reporting-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.cimilabs",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cimi-labs/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cimi-labs",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.codex-radiation-therapy",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/codex-radiation-therapy",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/US-Core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.covid19library",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-COVID19Library-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-COVID19Library-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.cqfmeasures",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cqf-measures",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.ctcae",
+    "current": {
+      "url": "https://build.fhir.org/ig/standardhealth/fsh-ae/branches/master/package.tgz",
+      "repo": "https://github.com/standardhealth/fsh-ae",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-alerts",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-alerts/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-alerts",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-atr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-atr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-atr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-cdex",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-ecdx",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-crd",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-crd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-deqm",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-deqm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-drug-formulary",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-pdex-formulary",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-dtr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-dtr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-hrex",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-ehrx/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-ehrx",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-pas",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-pas",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-pcde",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-pcde/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-pcde",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-pct",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-pct",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-pdex",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-epdx",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-pdex-plan-net",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-pdex-plan-net",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-ra",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-ra",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.davinci-vbpr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/davinci-vbpr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.dental-data-exchange",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/dental-data-exchange/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/dental-data-exchange",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.directory-attestation",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-directory-attestation/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-directory-attestation",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.directory-exchange",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-directory-exchange/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-directory-exchange",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.directory-query",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-directory-query/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-directory-query",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.dme-orders",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/dme-orders/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/dme-orders",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.ecr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/case-reporting",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.exchange-routing",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-exchange-routing-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-exchange-routing-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.hai",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/HAI/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/HAI",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.hai-ltcf",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/HAI-LTCF/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/HAI-LTCF",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.health-care-surveys-reporting",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.home-lab-report",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/home-lab-report/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/home-lab-report",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.hsds",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/FHIR-IG-Human-Services-Directory",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.icsr-ae-reporting",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-icsr-ae-reporting/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/fhir-icsr-ae-reporting",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.identity-matching",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-identity-matching-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.insurance-card",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/carin-digital-insurance-card",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.lower-extremity-skin-wound-assessment",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-skin-wound-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-skin-wound-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.mcc",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-us-mcc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.mcode",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-mCODE-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.mdi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-mdi-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.medmorph",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-medmorph/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-medmorph",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.medmorph-research-dex",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-medmorph-research-dex-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-medmorph-research-dex-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.mihr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-mmm-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-mmm-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.military-service",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-military-service/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-military-service",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.ndh",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-us-ndh",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.nhsn-ade",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-nhsn-ade-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-nhsn-ade-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.odh",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/us-odh/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/us-odh",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.ohsuhypertensionig",
+    "current": {
+      "url": "https://build.fhir.org/ig/OHSUCMP/htnu18ig/branches/master/package.tgz",
+      "repo": "https://github.com/OHSUCMP/htnu18ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.os",
+    "current": {
+      "url": "https://build.fhir.org/ig/standardhealth/os-ig/branches/master/package.tgz",
+      "repo": "https://github.com/standardhealth/os-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pacio-adi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-pacio-adi",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pacio-cs",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-pacio-cognitive-status/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-pacio-cognitive-status",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pacio-fs",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-pacio-functional-status/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-pacio-functional-status",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pacio-pfe",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-pacio-pfe",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pacio-rt",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-pacio-rt/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-pacio-rt",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pedcan",
+    "current": {
+      "url": "https://build.fhir.org/ig/standardhealth/ped-cancer-ig/branches/master/package.tgz",
+      "repo": "https://github.com/standardhealth/ped-cancer-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.ph-library",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-us-ph-library",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.physical-activity",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/physical-activity/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/physical-activity",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.pq-cmc",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.qicore",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-qi-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.registry-protocols",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-registry-protocols-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-registry-protocols-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.sdoh-clinicalcare",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.sirb",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-sirb/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-sirb",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.specialty-rx",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-specialty-rx/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-specialty-rx",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.spl",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-spl/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/fhir-spl",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.udap-security",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-udap-security-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.vitals",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cimi-vital-signs",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.vr-common-library",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/vr-common-library",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.us.vrdr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/vrdr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.adverseeventclinicalcare",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ae-care-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ae-care-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.adverseeventclinicalresearch",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ae-research-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.adverseeventclinicalresearchR4backport",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ae-research-backport-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.bulkdata",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/bulk-data",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.cmi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/Content-Management-Infrastructure-IG/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/Content-Management-Infrastructure-IG",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.cpg",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/cqf-recommendations",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.crmi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/crmi-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.dicom-sr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/dicom-sr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.dx-pq",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/uv-dx-pq",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ebm",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ebm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ehrs-rle",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ehrs-rle-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ehrs-rle-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.emedicinal-product-info",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/emedicinal-product-info",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.extensions",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-extensions",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.eyecare",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-eyecare-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-eyecare-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.fhir-for-fair",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-for-fair/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-for-fair",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.fhircast",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhircast-docs",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.genomics-reporting",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/genomics-reporting",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.howto",
+    "current": {
+      "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/master/package.tgz",
+      "repo": "https://github.com/FHIR/ig-guidance",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ichom-breast-cancer",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ichom-breast-cancer-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ichom-breast-cancer-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ichom.breastcancer",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ichom-breast-cancer-ig/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ichom-breast-cancer-ig",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ihe-sdc-ecc",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ihe-sdc-ecc-on-fhir/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ihe-sdc-ecc-on-fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ipa",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ipa",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.ips",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-ips",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.livd",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/livd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.order-catalog",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-order-catalog/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-order-catalog",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.patient-corrections",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/fhir-patient-correction",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.pddi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/PDDI-CDS/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/PDDI-CDS",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.phd",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/phd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.playground",
+    "current": {
+      "url": "https://build.fhir.org/ig/HealthIntersections/fhir-playground/branches/main/package.tgz",
+      "repo": "https://github.com/HealthIntersections/fhir-playground",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.pocd",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/uv-pocd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.radiation-dose-summary",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.rtls",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/rtls-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/rtls-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.saner",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-saner/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-saner",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.sdc",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/sdc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.security-label-ds4p",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-security-label-ds4p/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-security-label-ds4p",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.shc-vaccination",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-shc-vaccination-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-shc-vaccination-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.shorthand",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-shorthand",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.smart-app-launch",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/smart-app-launch",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.smart-web-messaging",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/smart-web-messaging/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/smart-web-messaging",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.subscriptions-backport",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/fhir-subscription-backport-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.tools",
+    "current": {
+      "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/package.tgz",
+      "repo": "https://github.com/FHIR/fhir-tools-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.v2mappings",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/v2-to-fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.vhdir",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/VhDir/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/VhDir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.vulcan-eproduct-info",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/vulcan-eproduct-info/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/vulcan-eproduct-info",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.vulcan-rwd",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/vulcan-rwd/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/vulcan-rwd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.vulcan-schedule",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/Vulcan-schedule-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.uv.vulcan-soa",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/Vulcan-schedule-ig",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhirpath",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/FHIRPath",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fi.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/fhir-fi/ig-template-fhir-fi/branches/master/package.tgz",
+      "repo": "https://github.com/fhir-fi/ig-template-fhir-fi",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.gravity.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-gravity/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-gravity",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.org.nz.fhir.ig.cca",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7NZ/cca/branches/master/package.tgz",
+      "repo": "https://github.com/HL7NZ/cca",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.org.nz.fhir.ig.formulary",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz",
+      "repo": "https://github.com/HL7NZ/nzf",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.org.nz.fhir.ig.hpi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7NZ/hpi/branches/master/package.tgz",
+      "repo": "https://github.com/HL7NZ/hpi",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.org.nz.fhir.ig.mdr",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7NZ/mdr/branches/master/package.tgz",
+      "repo": "https://github.com/HL7NZ/mdr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.terminology",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/UTG",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.utg.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-utg/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-utg",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.vulcan.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ig-template-vulcan/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ig-template-vulcan",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.xprod.uv.gender-harmony",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/fhir-gender-harmony",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "hl7se.fhir.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz",
+      "repo": "https://github.com/HL7Sweden/basprofiler-r4",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "icare",
+    "current": {
+      "url": "https://build.fhir.org/ig/standardhealth/fsh-icare/branches/master/package.tgz",
+      "repo": "https://github.com/standardhealth/fsh-icare",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe-fhir-pharm-medicationrecord",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/pharm-medo/branches/main/package.tgz",
+      "repo": "https://github.com/IHE/pharm-medo",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ihe.domain.profile",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/supplement-template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ihe-ig-template/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ihe-ig-template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.formatcode.fhir",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/FormatCode/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/FormatCode",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.aips",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.aIPS/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.aIPS",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.balp",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/main/package.tgz",
+      "repo": "https://github.com/IHE/ITI.BasicAudit",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ihe.iti.dsubm",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.DSUBm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.mcsd",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/MedCom.SOR.mCSD/branches/main/package.tgz",
+      "repo": "https://github.com/medcomdk/MedCom.SOR.mCSD",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ihe.iti.mhd",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.MHD",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.mhds",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.MHDS/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.MHDS",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.mhds.flow",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/MHDS-flow/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/MHDS-flow",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ihe.iti.mxde",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.mXDE/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.mXDE",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.npfs",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.NPFS/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.NPFS",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.pcf",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.PCF/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.PCF",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.pdqm",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/main/package.tgz",
+      "repo": "https://github.com/IHE/ITI.PDQm",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "ihe.iti.pixm",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.PIXm/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.PIXm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.pmir",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.PMIR/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.PMIR",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.scheduling",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.Scheduling",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.iti.svcm",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.SVCM/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/ITI.SVCM",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pcc.ems-overall",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/EMS-Overall/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/EMS-Overall",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pcc.pcs",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/PCC.PCS",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pcc.qedm",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/QEDm/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/QEDm",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pcc.ript",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/PCC.RIPT/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/PCC.RIPT",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pharm.mpd",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/pharm-mpd",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pharm.supply",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/pharm-supply/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/pharm-supply",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.pharm.unicom.transactions",
+    "current": {
+      "url": "https://build.fhir.org/ig/unicom-project-eu/unicom-ihe-transactions/branches/master/package.tgz",
+      "repo": "https://github.com/unicom-project-eu/unicom-ihe-transactions",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.rad.imr",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/RAD.IMR/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/RAD.IMR",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ihe.rad.ira",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/RAD.IRA/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/RAD.IRA",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "johnmoehrke.consentwithsegmentation",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/ConsentWithSegmentation",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "johnmoehrke.slicingslicedextension",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/SlicingSlicedExtension/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/SlicingSlicedExtension",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "johnmoehrke.testConsent.example",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/testConsent/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/testConsent",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "johnmoehrke.testbinary",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/testBinary",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "johnmoehrke.testcore.example",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/testCore/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/testCore",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "johnmoehrke.testdicom.example",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/testDicom/branches/master/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/testDicom",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "kl.dk.fhir.rehab",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-gateway-rehab",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "kl.dk.fhir.term",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-term/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-term",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "kl.fhir.dk.children",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-children",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "kl.fhir.dk.prevention",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-gateway-prevention",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.acknowledgement",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.acknowledgementtestscripts",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement-testscripts/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement-testscripts",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.carecommunication",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.carecommunicationtestscripts",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.hospitalnotification",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.hospitalnotificationtestscripts",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification-testscripts/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification-testscripts",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.messaging",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.metadata.apd",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-apd-cda/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-apd-cda",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.metadata.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata-core/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.metadata.qrd",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-qrd-cda/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-qrd-cda",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.terminology",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-terminology",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.testscripts.hospitalnotification",
+    "current": {
+      "url": "https://build.fhir.org/ig/tmsMedcom/HospitalNotificationTouchStoneTestscripts/branches/master/package.tgz",
+      "repo": "https://github.com/tmsMedcom/HospitalNotificationTouchStoneTestscripts",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.xds.metadata",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medicalert.fhir.ig.firstresponder",
+    "current": {
+      "url": "https://build.fhir.org/ig/daniel-thomson/medicalert/branches/master/package.tgz",
+      "repo": "https://github.com/daniel-thomson/medicalert",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "medigree.fhir.r5demo",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/r5demo/branches/master/package.tgz",
+      "repo": "https://github.com/costateixeira/r5demo",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "naps.fhir.au.gp",
+    "current": {
+      "url": "https://build.fhir.org/ig/aehrc/gp-naps-fhir/branches/master/package.tgz",
+      "repo": "https://github.com/aehrc/gp-naps-fhir",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ncez.cz.fhir.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
+      "repo": "https://github.com/ncez-cz/cz-core",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ncez.cz.fhir.hdr",
+    "current": {
+      "url": "https://build.fhir.org/ig/ncez-cz/cz-hdr/branches/master/package.tgz",
+      "repo": "https://github.com/ncez-cz/cz-hdr",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ncez.cz.fhir.imaging",
+    "current": {
+      "url": "https://build.fhir.org/ig/ncez-cz/cz-img/branches/master/package.tgz",
+      "repo": "https://github.com/ncez-cz/cz-img",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ncez.cz.fhir.lab",
+    "current": {
+      "url": "https://build.fhir.org/ig/ncez-cz/cz-lab/branches/master/package.tgz",
+      "repo": "https://github.com/ncez-cz/cz-lab",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ncez.fhir.cz.patientsummary",
+    "current": {
+      "url": "https://build.fhir.org/ig/ncez-cz/cz-patsum/branches/master/package.tgz",
+      "repo": "https://github.com/ncez-cz/cz-patsum",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "nz.central.ihub.ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/master/package.tgz",
+      "repo": "https://github.com/tewhatuora/centralRegion-integrationHub-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "openhie.fhir.casereporting",
+    "current": {
+      "url": "https://build.fhir.org/ig/openhie/case-reporting/branches/master/package.tgz",
+      "repo": "https://github.com/openhie/case-reporting",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "openhie.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/openhie/openhie-ig-template/branches/master/package.tgz",
+      "repo": "https://github.com/openhie/openhie-ig-template",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "sequoiaproject.fhir.us.pushnotifications",
+    "current": {
+      "url": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz",
+      "repo": "https://github.com/Carequality/CEQSubscription",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "snomed-ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHTSDO/snomed-ig/branches/master/package.tgz",
+      "repo": "https://github.com/IHTSDO/snomed-ig",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "tewhatuora.fhir.ig.nzips",
+    "current": {
+      "url": "https://build.fhir.org/ig/daniel-thomson/nzips/branches/master/package.tgz",
+      "repo": "https://github.com/daniel-thomson/nzips",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "uk-core-access",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7-UK/UK-Core-Access/branches/master/package.tgz",
+      "repo": "https://github.com/HL7-UK/UK-Core-Access",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ukcore-access",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7-UK/UK-Core-Access/branches/rik-change/package.tgz",
+      "repo": "https://github.com/HL7-UK/UK-Core-Access",
+      "branch": "rik-change"
+    }
+  },
+  {
+    "name": "uv.esavi",
+    "current": {
+      "url": "https://build.fhir.org/ig/PanAmericanHealthOrganization/OPS-ESAVI/branches/master/package.tgz",
+      "repo": "https://github.com/PanAmericanHealthOrganization/OPS-ESAVI",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "vital-records-fhir-messaging",
+    "current": {
+      "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz",
+      "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "who.fhir.anc-cds",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/master/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-anc",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "who.fhir.immunization",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "who.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "xxexample.fhir.uv.myig",
+    "current": {
+      "url": "https://build.fhir.org/ig/DigitalSQR/autobuildbase/branches/master/package.tgz",
+      "repo": "https://github.com/DigitalSQR/autobuildbase",
+      "branch": "master"
+    }
+  }
+]
