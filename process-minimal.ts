@@ -57,7 +57,7 @@ const score = (location: Location) => {
   return (branchScore * 1e10 + location.lastSeen!.getTime() / 10e10);
 };
 
-const packages = _.chain(qaData)
+const packagesFrom = (previousPackages) =>  _.chain(qaData)
   .map((v: InputItem) => ({
     name: v["package-id"],
     location: extractLocation(v.repo, v.date),
@@ -74,6 +74,12 @@ const packages = _.chain(qaData)
 
 await Deno.writeTextFile(
   "packages-minimal.json",
-  JSON.stringify(packages, null, 2),
+  JSON.stringify(packagesFrom(previousPackages), null, 2),
 );
+
+await Deno.writeTextFile(
+  "packages-minimal-from-start.json",
+  JSON.stringify(packagesFrom([]), null, 2),
+);
+
 console.log("Output file updated: packages-minimal.json");

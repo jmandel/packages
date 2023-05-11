@@ -27,5 +27,8 @@ jobs:
           git config user.email "fhir@users.noreply.github.com"
           git add packages.json
           git add packages-minimal.json
+          diff packages-minimal.json packages-minimal-from-start.json > packages.diff || true
+          cat packages.diff
+          git add packages.diff
           git commit -m "Update packages" || exit 0
           git push
