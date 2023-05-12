@@ -10,6 +10,18 @@ Package resolvers should use `current` when resolving a dependency like `"hl7.fh
 
 ---
 
-Reporting on ambiguous packages
+## Reporting on ambiguous packages
 
-    cat packages.json  |  jq '[.[] | .locations = (.locations | map(select(.branch == "main" or .branch == "master"))) | select(.locations| length >= 2)]' > ambiguous-packages.json
+```
+cat packages.json | jq '
+[
+  .[]
+  | del(.current)
+  | .locations = (
+      .locations
+      | map(del(.url) | select(.branch == "main" or .branch == "master"))
+  )
+  | select(.locations | length >= 2)
+  | select(all(.locations[]; .lastSeen | startswith("2023")))
+]' > ambiguous-packages.json
+```
