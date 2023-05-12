@@ -1,0 +1,322 @@
+[
+  {
+    "name": "ch.fhir.ig.ch-ig",
+    "locations": [
+      {
+        "repo": "https://github.com/pjolo/ch-emc",
+        "branch": "master",
+        "lastSeen": "2023-03-17T10:54:49.000Z"
+      },
+      {
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "master",
+        "lastSeen": "2023-05-11T19:58:18.000Z"
+      }
+    ]
+  },
+  {
+    "name": "gov.healthit.ecqi.ecqms",
+    "locations": [
+      {
+        "repo": "https://github.com/cqframework/ecqm-content-r4-2021",
+        "branch": "master",
+        "lastSeen": "2023-05-04T20:17:12.000Z"
+      },
+      {
+        "repo": "https://github.com/cqframework/ecqm-content-qicore-2022",
+        "branch": "master",
+        "lastSeen": "2023-05-05T19:29:43.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.cda.uv.core",
+    "locations": [
+      {
+        "repo": "https://github.com/ahdis/cda-core-2.0",
+        "branch": "main",
+        "lastSeen": "2023-02-07T18:09:47.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/CDA-core-2.0",
+        "branch": "master",
+        "lastSeen": "2023-05-05T17:23:34.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.au.base",
+    "locations": [
+      {
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "master",
+        "lastSeen": "2023-05-02T23:58:01.000Z"
+      },
+      {
+        "repo": "https://github.com/ci-collaborative/au-fhir-base-r4",
+        "branch": "master",
+        "lastSeen": "2023-05-04T01:55:04.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.au.core",
+    "locations": [
+      {
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "master",
+        "lastSeen": "2023-05-11T23:16:04.000Z"
+      },
+      {
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "main",
+        "lastSeen": "2023-05-11T23:40:45.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.us.cardx-htn",
+    "locations": [
+      {
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/CardX-HTN",
+        "branch": "master",
+        "lastSeen": "2023-03-09T15:28:52.000Z"
+      },
+      {
+        "repo": "https://github.com/mcode/CardX-HTN",
+        "branch": "master",
+        "lastSeen": "2023-02-23T20:48:15.000Z"
+      },
+      {
+        "repo": "https://github.com/mcode/CardX-HTN",
+        "branch": "main",
+        "lastSeen": "2023-02-23T20:16:41.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.us.os",
+    "locations": [
+      {
+        "repo": "https://github.com/standardhealth/os-ig",
+        "branch": "master",
+        "lastSeen": "2023-02-28T20:13:04.000Z"
+      },
+      {
+        "repo": "https://github.com/standardhealth/os-ig",
+        "branch": "main",
+        "lastSeen": "2023-02-22T14:18:55.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.us.specialty-rx",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/fhir-specialty-rx",
+        "branch": "master",
+        "lastSeen": "2023-05-09T21:05:41.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/fhir-specialty-rx",
+        "branch": "main",
+        "lastSeen": "2023-01-22T23:04:24.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.crmi",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/crmi-ig",
+        "branch": "master",
+        "lastSeen": "2023-05-08T17:15:03.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/crmi-ig",
+        "branch": "main",
+        "lastSeen": "2023-02-27T20:22:31.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.dicom-sr",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/dicom-sr",
+        "branch": "master",
+        "lastSeen": "2023-01-15T22:42:54.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/dicom-sr",
+        "branch": "main",
+        "lastSeen": "2023-01-15T22:42:59.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.dx-pq",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/uv-dx-pq",
+        "branch": "master",
+        "lastSeen": "2023-04-16T15:50:43.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/uv-dx-pq",
+        "branch": "main",
+        "lastSeen": "2023-01-30T10:45:54.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.emedicinal-product-info",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/emedicinal-product-info",
+        "branch": "master",
+        "lastSeen": "2023-05-11T12:03:29.000Z"
+      },
+      {
+        "repo": "https://github.com/joofio/vulcan-eproduct-info",
+        "branch": "master",
+        "lastSeen": "2023-04-24T13:47:35.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.ihe-sdc-ecc",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/ihe-sdc-ecc-on-fhir",
+        "branch": "master",
+        "lastSeen": "2023-02-06T14:29:04.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/ihe-sdc-ecc-on-fhir",
+        "branch": "main",
+        "lastSeen": "2023-01-26T12:34:53.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.patient-corrections",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/fhir-patient-correction",
+        "branch": "master",
+        "lastSeen": "2023-05-11T19:38:06.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/fhir-patient-correction",
+        "branch": "main",
+        "lastSeen": "2023-05-11T19:42:08.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.rtls",
+    "locations": [
+      {
+        "repo": "https://github.com/HL7/rtls-ig",
+        "branch": "master",
+        "lastSeen": "2023-05-10T16:46:10.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/rtls-ig",
+        "branch": "main",
+        "lastSeen": "2023-03-27T19:15:40.000Z"
+      }
+    ]
+  },
+  {
+    "name": "hl7.fhir.uv.smart-app-launch",
+    "locations": [
+      {
+        "repo": "https://github.com/Healthedata1/smart-app-launch-brver",
+        "branch": "master",
+        "lastSeen": "2023-03-01T23:24:53.000Z"
+      },
+      {
+        "repo": "https://github.com/HL7/smart-app-launch",
+        "branch": "master",
+        "lastSeen": "2023-05-04T20:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "ihe.iti.mcsd",
+    "locations": [
+      {
+        "repo": "https://github.com/IHE/ITI.mCSD",
+        "branch": "main",
+        "lastSeen": "2023-04-26T18:24:16.000Z"
+      },
+      {
+        "repo": "https://github.com/medcomdk/MedCom.SOR.mCSD",
+        "branch": "main",
+        "lastSeen": "2023-05-08T13:26:42.000Z"
+      }
+    ]
+  },
+  {
+    "name": "ihe.pharm.mpd",
+    "locations": [
+      {
+        "repo": "https://github.com/IHE/pharm-mpd",
+        "branch": "master",
+        "lastSeen": "2023-04-07T13:05:03.000Z"
+      },
+      {
+        "repo": "https://github.com/IHE/pharm-mm",
+        "branch": "master",
+        "lastSeen": "2023-02-04T16:49:41.000Z"
+      }
+    ]
+  },
+  {
+    "name": "ihe.rad.ira",
+    "locations": [
+      {
+        "repo": "https://github.com/IHE/RAD.RTC-IMR",
+        "branch": "master",
+        "lastSeen": "2023-03-08T16:08:37.000Z"
+      },
+      {
+        "repo": "https://github.com/IHE/RAD.IRA",
+        "branch": "master",
+        "lastSeen": "2023-04-23T15:18:44.000Z"
+      }
+    ]
+  },
+  {
+    "name": "who.fhir.immunization",
+    "locations": [
+      {
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "master",
+        "lastSeen": "2023-04-13T07:35:35.000Z"
+      },
+      {
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "main",
+        "lastSeen": "2023-05-09T20:48:58.000Z"
+      }
+    ]
+  },
+  {
+    "name": "xxexample.fhir.uv.myig",
+    "locations": [
+      {
+        "repo": "https://github.com/DigitalSQR/autobuildbase",
+        "branch": "master",
+        "lastSeen": "2023-04-13T14:34:46.000Z"
+      },
+      {
+        "repo": "https://github.com/costateixeira/testworkflows",
+        "branch": "master",
+        "lastSeen": "2023-03-13T12:12:00.000Z"
+      }
+    ]
+  }
+]

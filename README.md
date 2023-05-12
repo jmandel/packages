@@ -7,3 +7,9 @@ The `packages.json` file provides the set of locations where each FHIR package h
 
 Package resolvers should use `current` when resolving a dependency like `"hl7.fhir.us.core": "#current"`.
 
+
+---
+
+Reporting on ambiguous packages
+
+    cat packages.json  |  jq '[.[] | .locations = (.locations | map(select(.branch == "main" or .branch == "master"))) | select(.locations| length >= 2)]' > ambiguous-packages.json
