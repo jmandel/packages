@@ -1,11 +1,23 @@
-# packages.json
+# `packages-minimal.json`
 
-The `packages.json` file provides the set of locations where each FHIR package has pre-release content available.
+Provides the set of locations where each FHIR package has pre-release content available.
 
-* `current` -- the official location for the main CI Build of the package. If you need to update this, submit a PR to edit this field
-* `locations` -- list of all locations where this package has CI Build content available. This includes feature branches and forks
+* `name` -- NPM package name (e.g., `hl7.fhir.us.core`)
+* `current` -- official location for the main CI Build of the package. If you need to update this, submit a PR to edit this field
+  * `url` -- package.tgz location
+  * `repo` -- authoritative source control location for this package
+  * `branch` -- authoritative branch for this package
 
-Package resolvers should use `current` when resolving a dependency like `"hl7.fhir.us.core": "#current"`.
+Package resolvers should use `.current.url` when resolving a dependency like `"hl7.fhir.us.core": "#current"`.
+
+# `considerations.json`
+
+Lists potential location changes for packages tracked in the auto build system. This file is automatically populated and should be manually reviewed. On review, these changes can be:
+
+* Accepted -- update `packages-minimal.json` with the new location for the package
+* Rejected -- update `rejections.json` with the rejected location for this package
+
+Either of these actions will cause the entry to be removed from `considerations.json` automatically.
 
 
 ---
