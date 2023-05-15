@@ -95,5 +95,3 @@ await Deno.writeTextFile(
   "considerations.json",
   JSON.stringify(newConsiderations, null, 2),
 );
-
-console.log("Output file updated: packages-minimal.json");
