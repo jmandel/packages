@@ -1884,7 +1884,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "main",
-        "lastSeen": "2023-05-12T05:16:23.000Z"
+        "lastSeen": "2023-05-15T00:46:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -3643,6 +3643,12 @@
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "may-connectathon",
         "lastSeen": "2023-05-10T05:17:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/stu2-ballot-May2023/package.tgz",
+        "repo": "https://github.com/HL7/davinci-ra",
+        "branch": "stu2-ballot-May2023",
+        "lastSeen": "2023-05-15T00:04:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz"
@@ -7158,7 +7164,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/centralRegion-integrationHub-ig",
         "branch": "master",
-        "lastSeen": "2023-05-12T01:27:05.000Z"
+        "lastSeen": "2023-05-15T00:06:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/master/package.tgz"
