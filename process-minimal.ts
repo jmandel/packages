@@ -15,12 +15,19 @@ interface Location {
 
 interface OutputItem {
   name: string;
-  locations: Location[];
-  current: string;
+  current: Location
 }
 
-function readJson(path: string) {
-  return JSON.parse(Deno.readTextFileSync(path));
+function readJson(path: string, defaultJson = []) {
+try {
+    return JSON.parse(Deno.readTextFileSync(path));
+} catch (error) {
+  if (error instanceof Deno.errors.NotFound) {
+    return defaultJson
+  } else {
+    throw error;
+  }
+}
 }
 
 function extractLocation(repo: string, date: string): Location {
@@ -40,16 +47,7 @@ function extractLocation(repo: string, date: string): Location {
   };
 }
 
-let previousPackages: OutputItem[];
-try {
-  previousPackages = await readJson("packages-minimal.json");
-} catch (error) {
-  if (error instanceof Deno.errors.NotFound) {
-    previousPackages = [];
-  } else {
-    throw error;
-  }
-}
+const previousPackages: OutputItem[] = await readJson("packages-minimal.json");
 
 const qaData: InputItem[] = await readJson("qas.json");
 const score = (location: Location) => {
@@ -57,7 +55,7 @@ const score = (location: Location) => {
   return (branchScore * 1e10 + location.lastSeen!.getTime() / 10e10);
 };
 
-const packagesFrom = (previousPackages) =>  _.chain(qaData)
+const packagesFrom = (previousPackages: OutputItem[]): OutputItem[] =>  _.chain(qaData)
   .map((v: InputItem) => ({
     name: v["package-id"],
     location: extractLocation(v.repo, v.date),
@@ -65,21 +63,39 @@ const packagesFrom = (previousPackages) =>  _.chain(qaData)
   .groupBy("name")
   .map((v: InputItem[], name: string) => ({
     name,
-    current: {...(_.chain(v).map("location").maxBy(score).value()), lastSeen: undefined},
+    current: (_.chain(v).map("location").maxBy(score).value())
   }))
+  .map((i: OutputItem) => {
+    delete i.current["lastSeen"];
+    return i
+  })
   .differenceBy(Object.values(previousPackages), "name")
   .concat(previousPackages)
   .sortBy("name")
   .value();
 
+const packagesOutput = packagesFrom(previousPackages)
 await Deno.writeTextFile(
   "packages-minimal.json",
-  JSON.stringify(packagesFrom(previousPackages), null, 2),
+  JSON.stringify(packagesOutput, null, 2),
 );
 
+const packagesFromStart = packagesFrom([])
+
+interface Rejection {
+  name: string,
+  locationUrl: string
+}
+const rejections: OutputItem[] = readJson("rejections.json");
+const newConsiderations = _.chain(packagesFromStart).differenceWith(packagesOutput, _.isEqual).differenceWith(rejections, _.isEqual).value();
+// console.log("fromsTart", packagesFromStart);
+console.log("diffs", _.chain(packagesFromStart).differenceWith(packagesOutput, _.isEqual).value())
+
 await Deno.writeTextFile(
-  "packages-minimal-from-start.json",
-  JSON.stringify(packagesFrom([]), null, 2),
+  "considerations.json",
+  JSON.stringify(newConsiderations, null, 2),
 );
+
+
 
 console.log("Output file updated: packages-minimal.json");
