@@ -6,5 +6,13 @@
       "repo": "https://github.com/HL7Chile/deis",
       "branch": "master"
     }
+  },
+  {
+    "name": "openmrs.fhir.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/openmrs/openmrs-contrib-fhir2-ig/branches/main/package.tgz",
+      "repo": "https://github.com/openmrs/openmrs-contrib-fhir2-ig",
+      "branch": "main"
+    }
   }
 ]
