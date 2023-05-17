@@ -1344,7 +1344,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2023-05-12T04:29:11.000Z"
+        "lastSeen": "2023-05-17T19:34:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz"
@@ -5971,6 +5971,12 @@
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "phoenix",
         "lastSeen": "2023-05-01T17:05:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/feature-dnewingh-ecg-activity-definition/package.tgz",
+        "repo": "https://github.com/HL7/Vulcan-schedule-ig",
+        "branch": "feature-dnewingh-ecg-activity-definition",
+        "lastSeen": "2023-05-17T19:33:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz"
