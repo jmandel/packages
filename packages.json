@@ -5437,6 +5437,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "kp-FHIR-39293",
         "lastSeen": "2023-05-09T23:10:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/FHIR-34418-repeat-expansions/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "FHIR-34418-repeat-expansions",
+        "lastSeen": "2023-05-19T21:10:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
