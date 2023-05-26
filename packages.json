@@ -4830,7 +4830,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2023-05-26T16:37:04.000Z"
+        "lastSeen": "2023-05-26T17:29:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -7651,6 +7651,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
         "branch": "removecqf",
         "lastSeen": "2023-03-10T09:07:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/costateixeira-patch-1/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
+        "branch": "costateixeira-patch-1",
+        "lastSeen": "2023-05-26T17:26:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
