@@ -1601,6 +1601,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
   },
+  "hl7.be.fhir.wow": {
+    "name": "hl7.be.fhir.wow",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7-be-wow/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7-be-wow",
+        "branch": "master",
+        "lastSeen": "2023-05-29T07:18:55.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-be/hl7-be-wow/branches/master/package.tgz"
+  },
   "hl7.cda.template": {
     "name": "hl7.cda.template",
     "locations": [
@@ -1968,7 +1980,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2023-05-29T05:00:45.000Z"
+        "lastSeen": "2023-05-29T07:43:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -2730,7 +2742,7 @@
         "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7EE/ig-ee-base",
         "branch": "master",
-        "lastSeen": "2023-05-29T05:37:41.000Z"
+        "lastSeen": "2023-05-29T08:02:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
@@ -7392,7 +7404,7 @@
         "url": "https://build.fhir.org/ig/aehrc/gp-naps-fhir/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/gp-naps-fhir",
         "branch": "master",
-        "lastSeen": "2023-05-19T05:07:25.000Z"
+        "lastSeen": "2023-05-29T07:40:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/gp-naps-fhir/branches/2023Mar/package.tgz",
