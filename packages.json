@@ -3732,7 +3732,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-05-30T12:24:54.000Z"
+        "lastSeen": "2023-05-30T16:24:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -4375,6 +4375,12 @@
         "repo": "https://github.com/HL7/fhir-military-service",
         "branch": "master",
         "lastSeen": "2023-05-30T13:35:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-military-service/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-military-service",
+        "branch": "1.0.0",
+        "lastSeen": "2023-05-30T15:47:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-military-service/branches/master/package.tgz"
@@ -4884,7 +4890,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2023-05-28T21:32:54.000Z"
+        "lastSeen": "2023-05-30T16:25:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -6169,6 +6175,12 @@
         "repo": "https://github.com/HL7/vulcan-rwd",
         "branch": "master",
         "lastSeen": "2023-05-09T16:50:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vulcan-rwd/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/vulcan-rwd",
+        "branch": "1.0.0",
+        "lastSeen": "2023-05-30T15:47:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-rwd/branches/master/package.tgz"
