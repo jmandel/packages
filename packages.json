@@ -7601,6 +7601,18 @@
     ],
     "current": "https://build.fhir.org/ig/daniel-thomson/nzips/branches/master/package.tgz"
   },
+  "tewhatuora.govt.nz.fhir.guide": {
+    "name": "tewhatuora.govt.nz.fhir.guide",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-guidance-and-standards/branches/main/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-guidance-and-standards",
+        "branch": "main",
+        "lastSeen": "2023-05-30T02:49:21.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/tewhatuora/fhir-guidance-and-standards/branches/main/package.tgz"
+  },
   "uk-core-access": {
     "name": "uk-core-access",
     "locations": [
