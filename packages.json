@@ -5514,7 +5514,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR40658-Attribute-guides-profiles/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR40658-Attribute-guides-profiles",
-        "lastSeen": "2023-06-02T18:23:49.000Z"
+        "lastSeen": "2023-06-02T21:19:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/Section2Updates/package.tgz",
@@ -5689,6 +5689,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "FHIR-34418-repeat-expansions",
         "lastSeen": "2023-05-25T14:00:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kpower-FHIR-25170-workflow-RelatedArtifact/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "kpower-FHIR-25170-workflow-RelatedArtifact",
+        "lastSeen": "2023-06-02T21:31:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
