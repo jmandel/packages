@@ -834,7 +834,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2023-05-19T03:16:45.000Z"
+        "lastSeen": "2023-06-05T03:09:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -847,6 +847,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "connectathon2023",
         "lastSeen": "2023-05-07T19:17:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/CapabilityStatement-improvements-1/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "CapabilityStatement-improvements-1",
+        "lastSeen": "2023-06-05T03:10:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -2016,7 +2022,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2023-06-05T01:00:55.000Z"
+        "lastSeen": "2023-06-05T03:01:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
