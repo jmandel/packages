@@ -5761,6 +5761,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "kpower-FHIR-25170-workflow-RelatedArtifact",
         "lastSeen": "2023-06-02T21:31:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/newPhenotypeOperation/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "newPhenotypeOperation",
+        "lastSeen": "2023-06-07T22:43:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -7338,7 +7344,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.1.0/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway",
         "branch": "1.1.0",
-        "lastSeen": "2023-05-30T11:43:33.000Z"
+        "lastSeen": "2023-06-07T22:56:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.1.0/package.tgz"
