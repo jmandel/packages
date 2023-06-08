@@ -4465,6 +4465,12 @@
         "repo": "https://github.com/HL7/fhir-medmorph",
         "branch": "master",
         "lastSeen": "2023-06-08T18:18:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-medmorph/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-medmorph",
+        "branch": "1.0.0",
+        "lastSeen": "2023-06-08T19:29:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-medmorph/branches/master/package.tgz"
@@ -5203,6 +5209,12 @@
         "repo": "https://github.com/HL7/vrdr",
         "branch": "intervalasquantity",
         "lastSeen": "2023-05-18T18:49:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/CodedIndustryOccupation/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "CodedIndustryOccupation",
+        "lastSeen": "2023-06-08T19:23:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
