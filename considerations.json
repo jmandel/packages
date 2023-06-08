@@ -1,5 +1,13 @@
 [
   {
+    "name": "example.fhir.uv.myig",
+    "current": {
+      "url": "https://build.fhir.org/ig/trifork/medcom-ig-sample/branches/master/package.tgz",
+      "repo": "https://github.com/trifork/medcom-ig-sample",
+      "branch": "master"
+    }
+  },
+  {
     "name": "fhir.example",
     "current": {
       "url": "https://build.fhir.org/ig/garnetb/cp/branches/main/package.tgz",
@@ -21,6 +29,14 @@
       "url": "https://build.fhir.org/ig/hl7dk/kl-ffb-messaging/branches/1.0.0/package.tgz",
       "repo": "https://github.com/hl7dk/kl-ffb-messaging",
       "branch": "1.0.0"
+    }
+  },
+  {
+    "name": "hl7se.fhir.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/51-restrict-the-personnummer-slice-of-patientidentifiervalue-to-only-allow-digits-add-regex-for-all-known-identifier-types-used-nationally/package.tgz",
+      "repo": "https://github.com/HL7Sweden/basprofiler-r4",
+      "branch": "51-restrict-the-personnummer-slice-of-patientidentifiervalue-to-only-allow-digits-add-regex-for-all-known-identifier-types-used-nationally"
     }
   },
   {
