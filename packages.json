@@ -1421,6 +1421,18 @@
     ],
     "current": "https://build.fhir.org/ig/standardhealth/FSHTank/branches/master/package.tgz"
   },
+  "fhir.gdx": {
+    "name": "fhir.gdx",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz",
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
+        "branch": "main",
+        "lastSeen": "2023-06-11T18:41:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz"
+  },
   "fhir.hl7chile.ListaDeEspera": {
     "name": "fhir.hl7chile.ListaDeEspera",
     "locations": [
