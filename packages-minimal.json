@@ -2664,6 +2664,14 @@
     }
   },
   {
+    "name": "medcom.sor.mcsd",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/MedCom.SOR.mCSD/branches/medcom.sor-0.0.1/package.tgz",
+      "repo": "https://github.com/medcomdk/MedCom.SOR.mCSD",
+      "branch": "medcom.sor-0.0.1"
+    }
+  },
+  {
     "name": "medicalert.fhir.ig.firstresponder",
     "current": {
       "url": "https://build.fhir.org/ig/daniel-thomson/medicalert/branches/master/package.tgz",
