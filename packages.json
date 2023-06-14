@@ -331,6 +331,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "oe_complex_Cannot_invoke",
         "lastSeen": "2023-06-13T16:36:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue226/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue226",
+        "lastSeen": "2023-06-14T11:01:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -522,7 +528,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "master",
-        "lastSeen": "2023-05-16T11:16:38.000Z"
+        "lastSeen": "2023-06-14T11:13:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/ch-emed-validatation/package.tgz",
@@ -5490,7 +5496,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2023-06-14T10:27:54.000Z"
+        "lastSeen": "2023-06-14T11:20:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
