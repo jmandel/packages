@@ -234,7 +234,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "pjolo",
-        "lastSeen": "2023-05-30T08:06:54.000Z"
+        "lastSeen": "2023-06-15T14:05:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -1919,6 +1919,18 @@
     ],
     "current": "https://build.fhir.org/ig/gatekeeper-project/gk-fhir-ig/branches/master/package.tgz"
   },
+  "hl7.eu.fhir.gk-poc-ai": {
+    "name": "hl7.eu.fhir.gk-poc-ai",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/gatekeeper-project/poc-ai-gk/branches/master/package.tgz",
+        "repo": "https://github.com/gatekeeper-project/poc-ai-gk",
+        "branch": "master",
+        "lastSeen": "2023-06-15T13:57:28.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/gatekeeper-project/poc-ai-gk/branches/master/package.tgz"
+  },
   "hl7.eu.fhir.idea4rc": {
     "name": "hl7.eu.fhir.idea4rc",
     "locations": [
@@ -2352,7 +2364,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/lab",
         "branch": "master",
-        "lastSeen": "2023-06-01T08:03:56.000Z"
+        "lastSeen": "2023-06-15T14:17:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/issue-195/package.tgz",
@@ -2371,6 +2383,12 @@
         "repo": "https://github.com/hl7-be/lab",
         "branch": "issue-183",
         "lastSeen": "2023-03-02T21:18:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/lab/branches/issue-179/package.tgz",
+        "repo": "https://github.com/hl7-be/lab",
+        "branch": "issue-179",
+        "lastSeen": "2023-06-15T14:16:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz"
@@ -5880,7 +5898,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/better-wording-for-select-events/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "better-wording-for-select-events",
-        "lastSeen": "2023-06-14T13:59:40.000Z"
+        "lastSeen": "2023-06-15T14:31:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/syncerror-coding-array/package.tgz",
@@ -7236,7 +7254,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.Scheduling",
         "branch": "master",
-        "lastSeen": "2023-06-14T21:23:29.000Z"
+        "lastSeen": "2023-06-15T14:36:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz"
