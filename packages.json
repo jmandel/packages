@@ -2136,13 +2136,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2023-06-16T02:38:51.000Z"
+        "lastSeen": "2023-06-16T04:26:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "main",
         "lastSeen": "2023-05-15T00:46:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/0.2.0-preview/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "0.2.0-preview",
+        "lastSeen": "2023-06-16T04:29:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -3588,7 +3594,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2023-06-15T23:37:18.000Z"
+        "lastSeen": "2023-06-16T03:42:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz"
