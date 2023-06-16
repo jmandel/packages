@@ -4002,7 +4002,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2023-06-15T20:24:52.000Z"
+        "lastSeen": "2023-06-16T17:33:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -4686,7 +4686,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-06-16T14:57:43.000Z"
+        "lastSeen": "2023-06-16T16:49:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -6883,6 +6883,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-185-v2-v3-valuesets-for-informationsensitivitypolicy-have-the-same-oid",
         "lastSeen": "2023-06-15T19:17:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-432-moving-gender-harmony-terminology-from-extension-ig-into-tho/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-432-moving-gender-harmony-terminology-from-extension-ig-into-tho",
+        "lastSeen": "2023-06-16T15:30:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
