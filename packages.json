@@ -510,7 +510,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "main",
-        "lastSeen": "2023-06-14T20:42:39.000Z"
+        "lastSeen": "2023-06-20T15:50:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/workaround_sdc_problem/package.tgz",
@@ -1188,7 +1188,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "master",
-        "lastSeen": "2023-05-31T16:18:23.000Z"
+        "lastSeen": "2023-06-20T16:29:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz"
@@ -1212,7 +1212,7 @@
         "url": "https://build.fhir.org/ig/Carequality/ig-template-carequality/branches/master/package.tgz",
         "repo": "https://github.com/Carequality/ig-template-carequality",
         "branch": "master",
-        "lastSeen": "2023-03-28T12:36:18.000Z"
+        "lastSeen": "2023-06-20T16:27:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Carequality/ig-template-carequality/branches/master/package.tgz"
@@ -3522,7 +3522,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/lab-report",
         "branch": "master",
-        "lastSeen": "2023-06-19T09:20:57.000Z"
+        "lastSeen": "2023-06-20T16:04:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-it/lab-report/branches/master/package.tgz"
@@ -3822,7 +3822,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "master",
-        "lastSeen": "2023-06-20T15:21:34.000Z"
+        "lastSeen": "2023-06-20T15:53:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/motion-management/package.tgz",
@@ -4032,7 +4032,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-06-20T14:05:56.000Z"
+        "lastSeen": "2023-06-20T16:17:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -4422,7 +4422,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/USCOREv6_bret/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "USCOREv6_bret",
-        "lastSeen": "2023-06-15T23:31:12.000Z"
+        "lastSeen": "2023-06-20T16:29:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/condition-pertains-to-goal/package.tgz",
@@ -4651,6 +4651,18 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "addStagingSystems",
         "lastSeen": "2023-06-19T16:41:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/staging-updates/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "staging-updates",
+        "lastSeen": "2023-06-20T16:14:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/oncologySpecimen/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "oncologySpecimen",
+        "lastSeen": "2023-06-20T16:30:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -8280,7 +8292,7 @@
         "url": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz",
         "repo": "https://github.com/Carequality/CEQSubscription",
         "branch": "master",
-        "lastSeen": "2023-06-13T15:43:28.000Z"
+        "lastSeen": "2023-06-20T16:36:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz"
