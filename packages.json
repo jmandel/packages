@@ -522,7 +522,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/QuestionnaireModule_Bug/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "QuestionnaireModule_Bug",
-        "lastSeen": "2023-06-19T22:11:44.000Z"
+        "lastSeen": "2023-06-20T14:24:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz"
@@ -654,7 +654,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/complete-LabOrder-form/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "complete-LabOrder-form",
-        "lastSeen": "2023-06-20T12:56:24.000Z"
+        "lastSeen": "2023-06-20T14:10:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -2394,7 +2394,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/etariff/branches/issue-3/package.tgz",
         "repo": "https://github.com/hl7-be/etariff",
         "branch": "issue-3",
-        "lastSeen": "2023-06-20T08:22:03.000Z"
+        "lastSeen": "2023-06-20T13:44:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/etariff/branches/issue-6/package.tgz",
@@ -3877,6 +3877,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "trademark",
         "lastSeen": "2023-06-16T20:11:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/respMgmtCodes/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "respMgmtCodes",
+        "lastSeen": "2023-06-20T13:56:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -4026,7 +4032,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-06-20T12:59:30.000Z"
+        "lastSeen": "2023-06-20T14:05:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -4752,7 +4758,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-06-16T19:25:49.000Z"
+        "lastSeen": "2023-06-20T14:12:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -5556,7 +5562,7 @@
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "master",
-        "lastSeen": "2023-06-09T10:54:22.000Z"
+        "lastSeen": "2023-06-20T14:08:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/main/package.tgz",
