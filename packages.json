@@ -241,6 +241,18 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "master",
         "lastSeen": "2023-06-19T12:44:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/updateLicense/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "updateLicense",
+        "lastSeen": "2023-06-22T11:55:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/switchLicense/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "switchLicense",
+        "lastSeen": "2023-06-22T11:54:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -252,7 +264,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "master",
-        "lastSeen": "2023-05-15T13:49:34.000Z"
+        "lastSeen": "2023-06-22T12:21:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/oe_partial/package.tgz",
@@ -360,7 +372,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2023-06-16T12:41:13.000Z"
+        "lastSeen": "2023-06-22T12:07:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
