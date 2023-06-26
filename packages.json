@@ -672,7 +672,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2023-06-25T20:28:28.000Z"
+        "lastSeen": "2023-06-26T05:16:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -684,7 +684,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "master",
-        "lastSeen": "2023-06-25T20:35:34.000Z"
+        "lastSeen": "2023-06-26T05:14:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/0-generic-order/package.tgz",
@@ -727,6 +727,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "update-changelog",
         "lastSeen": "2023-06-25T14:19:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/profiling-sr-singletest/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "profiling-sr-singletest",
+        "lastSeen": "2023-06-26T05:14:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
