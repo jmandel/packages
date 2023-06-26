@@ -2712,7 +2712,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/qa-cleanup/package.tgz",
         "repo": "https://github.com/hl7-be/public-health",
         "branch": "qa-cleanup",
-        "lastSeen": "2023-05-16T08:12:49.000Z"
+        "lastSeen": "2023-06-26T12:56:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/public-health/branches/qa-cleanup/package.tgz"
@@ -2929,6 +2929,12 @@
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "issue-96",
         "lastSeen": "2023-02-15T21:39:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/v1.0.3/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "v1.0.3",
+        "lastSeen": "2023-06-26T12:10:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -3162,7 +3168,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-06-26T11:39:05.000Z"
+        "lastSeen": "2023-06-26T12:16:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -3702,7 +3708,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-06-26T09:24:05.000Z"
+        "lastSeen": "2023-06-26T11:56:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -4314,7 +4320,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-vbpr",
         "branch": "master",
-        "lastSeen": "2023-06-20T08:49:43.000Z"
+        "lastSeen": "2023-06-26T13:13:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz"
@@ -6288,7 +6294,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ichom-breast-cancer-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ichom-breast-cancer-ig",
         "branch": "master",
-        "lastSeen": "2023-06-26T11:29:45.000Z"
+        "lastSeen": "2023-06-26T12:46:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ichom-breast-cancer-ig/branches/ChangePatientGender/package.tgz",
@@ -7434,7 +7440,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "master",
-        "lastSeen": "2023-04-26T17:09:12.000Z"
+        "lastSeen": "2023-06-26T13:22:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz"
@@ -7590,7 +7596,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PCF/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.PCF",
         "branch": "master",
-        "lastSeen": "2023-06-24T17:33:12.000Z"
+        "lastSeen": "2023-06-26T13:08:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.PCF/branches/mlj_prepub_edits_PCF_1-0-0-comment/package.tgz",
