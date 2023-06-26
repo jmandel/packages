@@ -486,7 +486,7 @@
         "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_mcsd/package.tgz",
         "repo": "https://github.com/qligier/ch-epr-mhealth",
         "branch": "ql_mcsd",
-        "lastSeen": "2023-05-26T11:52:19.000Z"
+        "lastSeen": "2023-06-26T17:29:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/v2.0.0/package.tgz",
@@ -2719,6 +2719,18 @@
         "repo": "https://github.com/hl7-be/public-health",
         "branch": "issue-29",
         "lastSeen": "2023-06-26T14:54:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/public-health",
+        "branch": "master",
+        "lastSeen": "2023-06-26T16:57:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/releasecandidate/package.tgz",
+        "repo": "https://github.com/hl7-be/public-health",
+        "branch": "releasecandidate",
+        "lastSeen": "2023-06-26T17:07:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/public-health/branches/qa-cleanup/package.tgz"
@@ -4206,7 +4218,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/FHIR-36535/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "FHIR-36535",
-        "lastSeen": "2023-06-26T15:27:44.000Z"
+        "lastSeen": "2023-06-26T17:10:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz"
@@ -4962,7 +4974,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2023-06-25T19:54:53.000Z"
+        "lastSeen": "2023-06-26T16:55:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
