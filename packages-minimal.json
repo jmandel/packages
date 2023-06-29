@@ -3006,5 +3006,13 @@
       "repo": "https://github.com/DigitalSQR/autobuildbase",
       "branch": "master"
     }
+  },
+  {
+    "name": "xxxexample.fhir.uv.myig",
+    "current": {
+      "url": "https://build.fhir.org/ig/openhie/empty-fhir-ig/branches/master/package.tgz",
+      "repo": "https://github.com/openhie/empty-fhir-ig",
+      "branch": "master"
+    }
   }
 ]
