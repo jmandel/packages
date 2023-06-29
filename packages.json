@@ -1950,7 +1950,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/sd-type-namespace-issue/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
         "branch": "sd-type-namespace-issue",
-        "lastSeen": "2023-06-28T23:10:26.000Z"
+        "lastSeen": "2023-06-28T23:27:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -6859,6 +6859,12 @@
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "r5-links",
         "lastSeen": "2023-06-28T18:45:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/minor-updates-and-clarifications/package.tgz",
+        "repo": "https://github.com/HL7/fhir-shorthand",
+        "branch": "minor-updates-and-clarifications",
+        "lastSeen": "2023-06-29T01:01:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
