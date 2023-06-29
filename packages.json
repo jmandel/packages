@@ -342,7 +342,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2023-06-28T06:07:15.000Z"
+        "lastSeen": "2023-06-29T13:06:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -468,7 +468,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2023-06-29T11:39:12.000Z"
+        "lastSeen": "2023-06-29T12:54:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -487,6 +487,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue226",
         "lastSeen": "2023-06-13T12:46:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/v4.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "v4.0.0-ballot",
+        "lastSeen": "2023-06-29T13:14:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -3474,7 +3480,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "master",
-        "lastSeen": "2023-06-22T13:19:48.000Z"
+        "lastSeen": "2023-06-29T13:26:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/fix-toimintayksikko/package.tgz",
@@ -3672,7 +3678,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "master",
-        "lastSeen": "2023-04-28T21:55:51.000Z"
+        "lastSeen": "2023-06-29T13:21:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/fix-build-links/package.tgz",
@@ -4152,7 +4158,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-06-29T05:42:39.000Z"
+        "lastSeen": "2023-06-29T12:44:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -4290,7 +4296,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-06-29T12:34:44.000Z"
+        "lastSeen": "2023-06-29T13:31:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -5064,7 +5070,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-06-26T20:18:56.000Z"
+        "lastSeen": "2023-06-29T13:23:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -8826,7 +8832,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "main",
-        "lastSeen": "2023-06-28T16:16:45.000Z"
+        "lastSeen": "2023-06-29T13:39:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/business_rules_2/package.tgz",
