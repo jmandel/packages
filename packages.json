@@ -276,7 +276,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "master",
-        "lastSeen": "2023-06-29T14:39:29.000Z"
+        "lastSeen": "2023-06-29T15:16:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/updateLicense/package.tgz",
@@ -289,6 +289,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "switchLicense",
         "lastSeen": "2023-06-22T11:54:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/v2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "v2.0.0-ballot",
+        "lastSeen": "2023-06-29T14:48:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -877,6 +883,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "ballot_310_stu4_issues",
         "lastSeen": "2023-06-13T19:10:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/v4.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "v4.0.0-ballot",
+        "lastSeen": "2023-06-29T15:36:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -4206,7 +4218,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2023-06-16T14:42:35.000Z"
+        "lastSeen": "2023-06-29T15:07:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz"
@@ -5874,7 +5886,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ae-research-backport-ig",
         "branch": "master",
-        "lastSeen": "2023-06-28T09:36:21.000Z"
+        "lastSeen": "2023-06-29T15:09:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/mdc/package.tgz",
