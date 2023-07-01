@@ -86,5 +86,13 @@
       "repo": "https://github.com/openmrs/openmrs-contrib-fhir2-ig",
       "branch": "main"
     }
+  },
+  {
+    "name": "uv.esavi",
+    "current": {
+      "url": "https://build.fhir.org/ig/PanAmericanHealthOrganization/ESAVI-IG-FHIR/branches/master/package.tgz",
+      "repo": "https://github.com/PanAmericanHealthOrganization/ESAVI-IG-FHIR",
+      "branch": "master"
+    }
   }
 ]
