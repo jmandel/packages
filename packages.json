@@ -4806,13 +4806,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/conditionDOT-change-pattern/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "conditionDOT-change-pattern",
-        "lastSeen": "2023-06-24T00:46:28.000Z"
+        "lastSeen": "2023-07-05T13:22:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/ballotdrafting/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "ballotdrafting",
-        "lastSeen": "2023-07-05T12:35:21.000Z"
+        "lastSeen": "2023-07-05T13:31:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz"
@@ -5605,6 +5605,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
         "lastSeen": "2023-04-04T13:04:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "v5.0.0",
+        "lastSeen": "2023-07-05T13:33:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
