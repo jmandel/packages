@@ -913,6 +913,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "v4.0.0-ballot",
         "lastSeen": "2023-06-29T15:36:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_fixes_400/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "ballot_fixes_400",
+        "lastSeen": "2023-07-06T05:35:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -2029,6 +2035,12 @@
         "repo": "https://github.com/HL7/cda-ccda-2.2",
         "branch": "master",
         "lastSeen": "2021-11-24T17:43:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/trifolia-export/package.tgz",
+        "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
+        "branch": "trifolia-export",
+        "lastSeen": "2023-07-06T05:19:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.2/branches/master/package.tgz"
