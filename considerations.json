@@ -18,9 +18,9 @@
   {
     "name": "example.fhir.uv.myig",
     "current": {
-      "url": "https://build.fhir.org/ig/gauravvaishnav17/ig-test-fresh-build/branches/main/package.tgz",
-      "repo": "https://github.com/gauravvaishnav17/ig-test-fresh-build",
-      "branch": "main"
+      "url": "https://build.fhir.org/ig/gauravvaishnav17/sample-ig/branches/master/package.tgz",
+      "repo": "https://github.com/gauravvaishnav17/sample-ig",
+      "branch": "master"
     }
   },
   {
@@ -90,8 +90,8 @@
   {
     "name": "ndhm.in",
     "current": {
-      "url": "https://build.fhir.org/ig/gauravvaishnav17/ig-test/branches/main/package.tgz",
-      "repo": "https://github.com/gauravvaishnav17/ig-test",
+      "url": "https://build.fhir.org/ig/gauravvaishnav17/ig-test-fresh-build/branches/main/package.tgz",
+      "repo": "https://github.com/gauravvaishnav17/ig-test-fresh-build",
       "branch": "main"
     }
   },
