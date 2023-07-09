@@ -25,6 +25,36 @@
         "repo": "https://github.com/HL7/standard-patient-health-record-ig",
         "branch": "patient-journeys",
         "lastSeen": "2023-07-07T18:32:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/international-patient-summary/package.tgz",
+        "repo": "https://github.com/HL7/standard-patient-health-record-ig",
+        "branch": "international-patient-summary",
+        "lastSeen": "2023-07-09T00:56:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/ehi-export/package.tgz",
+        "repo": "https://github.com/HL7/standard-patient-health-record-ig",
+        "branch": "ehi-export",
+        "lastSeen": "2023-07-09T01:00:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/conformance-updates/package.tgz",
+        "repo": "https://github.com/HL7/standard-patient-health-record-ig",
+        "branch": "conformance-updates",
+        "lastSeen": "2023-07-09T01:02:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/mcode/package.tgz",
+        "repo": "https://github.com/HL7/standard-patient-health-record-ig",
+        "branch": "mcode",
+        "lastSeen": "2023-07-09T00:50:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/synthea-patients/package.tgz",
+        "repo": "https://github.com/HL7/standard-patient-health-record-ig",
+        "branch": "synthea-patients",
+        "lastSeen": "2023-07-09T00:44:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/patient-journeys/package.tgz"
