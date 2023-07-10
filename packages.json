@@ -2100,7 +2100,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/trifolia-export/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
         "branch": "trifolia-export",
-        "lastSeen": "2023-07-09T22:40:31.000Z"
+        "lastSeen": "2023-07-10T00:27:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.2/branches/master/package.tgz"
@@ -5298,7 +5298,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-07-08T15:32:33.000Z"
+        "lastSeen": "2023-07-10T00:17:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -7528,6 +7528,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/hpi/branches/master/package.tgz"
+  },
+  "hl7.org.nz.fhir.ig.icp": {
+    "name": "hl7.org.nz.fhir.ig.icp",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/acc-fhir-publisher/icp/branches/trunk/package.tgz",
+        "repo": "https://github.com/acc-fhir-publisher/icp",
+        "branch": "trunk",
+        "lastSeen": "2023-07-10T00:45:54.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/acc-fhir-publisher/icp/branches/trunk/package.tgz"
   },
   "hl7.org.nz.fhir.ig.mdr": {
     "name": "hl7.org.nz.fhir.ig.mdr",
