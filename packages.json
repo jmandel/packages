@@ -4506,7 +4506,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-07-09T21:57:33.000Z"
+        "lastSeen": "2023-07-10T12:45:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -5298,7 +5298,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-07-10T00:17:37.000Z"
+        "lastSeen": "2023-07-10T12:21:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -6300,7 +6300,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-07-06T12:59:51.000Z"
+        "lastSeen": "2023-07-10T12:11:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -8635,6 +8635,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement-testscripts",
         "branch": "master",
         "lastSeen": "2023-05-26T09:11:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement-testscripts/branches/v.2.0.1-rc1/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement-testscripts",
+        "branch": "v.2.0.1-rc1",
+        "lastSeen": "2023-07-10T12:33:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement-testscripts/branches/master/package.tgz"
@@ -8700,7 +8706,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2023-07-10T06:40:25.000Z"
+        "lastSeen": "2023-07-10T12:40:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
@@ -8838,7 +8844,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "master",
-        "lastSeen": "2023-07-06T07:23:32.000Z"
+        "lastSeen": "2023-07-10T12:46:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/v-1.4.0-1rc/package.tgz",
