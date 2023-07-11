@@ -1944,7 +1944,7 @@
         "url": "https://build.fhir.org/ig/caraowt/ig-caraowt/branches/master/package.tgz",
         "repo": "https://github.com/caraowt/ig-caraowt",
         "branch": "master",
-        "lastSeen": "2023-07-11T12:53:17.000Z"
+        "lastSeen": "2023-07-11T15:38:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/schanceee/test-example/branches/master/package.tgz"
@@ -2551,6 +2551,12 @@
         "repo": "https://github.com/hl7-be/consent",
         "branch": "issue-1",
         "lastSeen": "2023-04-17T12:50:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-1/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-1",
+        "lastSeen": "2023-07-11T15:00:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/consent/branches/issue-1/package.tgz"
@@ -4032,7 +4038,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-07-11T14:11:20.000Z"
+        "lastSeen": "2023-07-11T15:13:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -4116,7 +4122,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2023-06-13T15:35:16.000Z"
+        "lastSeen": "2023-07-11T15:23:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz"
@@ -4506,7 +4512,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2023-07-10T18:01:40.000Z"
+        "lastSeen": "2023-07-11T15:02:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -4530,7 +4536,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-07-11T14:31:28.000Z"
+        "lastSeen": "2023-07-11T15:35:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -8136,7 +8142,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.mXDE/branches/align-content-consumer/package.tgz",
         "repo": "https://github.com/IHE/ITI.mXDE",
         "branch": "align-content-consumer",
-        "lastSeen": "2023-07-07T20:54:17.000Z"
+        "lastSeen": "2023-07-11T15:05:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.mXDE/branches/master/package.tgz"
