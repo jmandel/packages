@@ -1747,6 +1747,12 @@
         "repo": "https://github.com/cmoesel/ReslicedExtension",
         "branch": "repeated-slicing-workaround",
         "lastSeen": "2023-05-31T22:38:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cmoesel/ReslicedExtension/branches/only-one-slicing-fsh/package.tgz",
+        "repo": "https://github.com/cmoesel/ReslicedExtension",
+        "branch": "only-one-slicing-fsh",
+        "lastSeen": "2023-07-12T19:12:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cmoesel/ReslicedExtension/branches/main/package.tgz"
@@ -4872,7 +4878,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2023-07-12T15:58:46.000Z"
+        "lastSeen": "2023-07-12T19:37:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz"
@@ -4896,7 +4902,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-IG-Human-Services-Directory",
         "branch": "master",
-        "lastSeen": "2023-07-12T17:55:16.000Z"
+        "lastSeen": "2023-07-12T18:54:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz"
@@ -4986,7 +4992,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/ballotdrafting/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "ballotdrafting",
-        "lastSeen": "2023-07-12T18:37:19.000Z"
+        "lastSeen": "2023-07-12T19:24:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz"
@@ -6757,6 +6763,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR41504",
         "lastSeen": "2023-07-12T14:10:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-40939-2/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-40939-2",
+        "lastSeen": "2023-07-12T19:04:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
