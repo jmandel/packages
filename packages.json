@@ -4200,7 +4200,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "master",
-        "lastSeen": "2023-07-11T17:28:30.000Z"
+        "lastSeen": "2023-07-12T16:02:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/submodule/package.tgz",
@@ -4872,7 +4872,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2023-07-12T14:01:43.000Z"
+        "lastSeen": "2023-07-12T15:58:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz"
@@ -6012,7 +6012,7 @@
         "url": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cimi-vital-signs",
         "branch": "master",
-        "lastSeen": "2023-07-11T20:17:22.000Z"
+        "lastSeen": "2023-07-12T15:57:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/master/package.tgz"
@@ -6169,6 +6169,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "new-death-date-profile",
         "lastSeen": "2023-07-11T18:39:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/new-decedent-pregnancy-profile/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "new-decedent-pregnancy-profile",
+        "lastSeen": "2023-07-12T15:32:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -8508,7 +8514,7 @@
         "url": "https://build.fhir.org/ig/vadi2/MRI-Scheduling/branches/master/package.tgz",
         "repo": "https://github.com/vadi2/MRI-Scheduling",
         "branch": "master",
-        "lastSeen": "2023-06-07T09:27:18.000Z"
+        "lastSeen": "2023-07-12T16:41:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/MRI-Scheduling/branches/master/package.tgz"
