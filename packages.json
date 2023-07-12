@@ -4896,7 +4896,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-IG-Human-Services-Directory",
         "branch": "master",
-        "lastSeen": "2023-07-10T21:03:59.000Z"
+        "lastSeen": "2023-07-12T17:55:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz"
@@ -4986,7 +4986,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/ballotdrafting/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "ballotdrafting",
-        "lastSeen": "2023-07-12T06:58:30.000Z"
+        "lastSeen": "2023-07-12T18:37:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz"
@@ -5334,13 +5334,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2023-07-11T21:24:32.000Z"
+        "lastSeen": "2023-07-12T18:03:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-07-11T21:22:33.000Z"
+        "lastSeen": "2023-07-12T17:42:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -6175,6 +6175,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "new-decedent-pregnancy-profile",
         "lastSeen": "2023-07-12T15:32:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/new-death-certification-profile/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "new-death-certification-profile",
+        "lastSeen": "2023-07-12T17:31:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
