@@ -2748,7 +2748,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/lab",
         "branch": "master",
-        "lastSeen": "2023-07-11T13:13:17.000Z"
+        "lastSeen": "2023-07-13T14:58:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/issue-195/package.tgz",
@@ -4992,7 +4992,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/ballotdrafting/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "ballotdrafting",
-        "lastSeen": "2023-07-12T19:24:37.000Z"
+        "lastSeen": "2023-07-13T15:02:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz"
@@ -6018,7 +6018,7 @@
         "url": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cimi-vital-signs",
         "branch": "master",
-        "lastSeen": "2023-07-12T23:55:48.000Z"
+        "lastSeen": "2023-07-13T15:04:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/master/package.tgz"
@@ -6193,6 +6193,18 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "new-injury-incident-profile",
         "lastSeen": "2023-07-13T13:52:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/new-manner-of-death-profile/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "new-manner-of-death-profile",
+        "lastSeen": "2023-07-13T14:47:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/new-profile-cause-of-death-1-and-2/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "new-profile-cause-of-death-1-and-2",
+        "lastSeen": "2023-07-13T15:14:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -6222,7 +6234,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ae-research-ig",
         "branch": "master",
-        "lastSeen": "2023-07-02T08:58:42.000Z"
+        "lastSeen": "2023-07-13T14:59:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ae-research-ig/branches/master/package.tgz"
@@ -6252,7 +6264,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ae-research-backport-ig",
         "branch": "master",
-        "lastSeen": "2023-07-02T08:59:21.000Z"
+        "lastSeen": "2023-07-13T14:59:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/mdc/package.tgz",
@@ -7932,7 +7944,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/coopers-edits/package.tgz",
         "repo": "https://github.com/HL7/fhir-gender-harmony",
         "branch": "coopers-edits",
-        "lastSeen": "2023-07-10T21:05:11.000Z"
+        "lastSeen": "2023-07-13T15:27:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz"
@@ -8542,6 +8554,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/MRI-Scheduling/branches/master/package.tgz"
+  },
+  "international-birth-and-child-model": {
+    "name": "international-birth-and-child-model",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/fetal_records/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/fetal_records",
+        "branch": "main",
+        "lastSeen": "2023-07-13T15:05:47.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/fetal_records/branches/main/package.tgz"
   },
   "johnmoehrke.consentwithsegmentation": {
     "name": "johnmoehrke.consentwithsegmentation",
