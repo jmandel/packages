@@ -8130,7 +8130,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/main/package.tgz",
         "repo": "https://github.com/IHE/ITI.BasicAudit",
         "branch": "main",
-        "lastSeen": "2023-07-12T21:19:12.000Z"
+        "lastSeen": "2023-07-14T12:11:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/remove_displaynames/package.tgz",
@@ -8620,6 +8620,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fetal_records/branches/main/package.tgz"
+  },
+  "johnmoehrke.basicaudit.no": {
+    "name": "johnmoehrke.basicaudit.no",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/NorwayAudit/branches/master/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/NorwayAudit",
+        "branch": "master",
+        "lastSeen": "2023-07-14T12:48:16.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/NorwayAudit/branches/master/package.tgz"
   },
   "johnmoehrke.consentwithsegmentation": {
     "name": "johnmoehrke.consentwithsegmentation",
