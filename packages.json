@@ -1956,7 +1956,7 @@
         "url": "https://build.fhir.org/ig/caraowt/ig-caraowt/branches/master/package.tgz",
         "repo": "https://github.com/caraowt/ig-caraowt",
         "branch": "master",
-        "lastSeen": "2023-07-17T08:02:36.000Z"
+        "lastSeen": "2023-07-17T14:26:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/schanceee/test-example/branches/master/package.tgz"
@@ -2928,7 +2928,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-53/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "issue-53",
-        "lastSeen": "2023-07-11T08:16:37.000Z"
+        "lastSeen": "2023-07-17T13:56:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/master/package.tgz"
@@ -3444,7 +3444,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-07-12T07:04:22.000Z"
+        "lastSeen": "2023-07-17T14:40:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -4578,7 +4578,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-07-17T13:40:03.000Z"
+        "lastSeen": "2023-07-17T14:02:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -5826,7 +5826,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2023-04-04T13:04:00.000Z"
+        "lastSeen": "2023-07-17T13:52:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -6271,6 +6271,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "drug-use-during-pregnancy",
         "lastSeen": "2023-07-14T17:47:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/new-related-person-mother-and-father-profiles/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "new-related-person-mother-and-father-profiles",
+        "lastSeen": "2023-07-17T14:10:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
