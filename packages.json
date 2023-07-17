@@ -1956,7 +1956,7 @@
         "url": "https://build.fhir.org/ig/caraowt/ig-caraowt/branches/master/package.tgz",
         "repo": "https://github.com/caraowt/ig-caraowt",
         "branch": "master",
-        "lastSeen": "2023-07-17T14:26:00.000Z"
+        "lastSeen": "2023-07-17T15:28:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/schanceee/test-example/branches/master/package.tgz"
@@ -2364,7 +2364,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh-hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh-hdr",
         "branch": "master",
-        "lastSeen": "2023-06-28T16:12:25.000Z"
+        "lastSeen": "2023-07-17T14:58:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-hdr/branches/master/package.tgz"
@@ -4578,7 +4578,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-07-17T14:02:45.000Z"
+        "lastSeen": "2023-07-17T15:27:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -5250,7 +5250,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/staging-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "staging-updates",
-        "lastSeen": "2023-06-29T16:08:35.000Z"
+        "lastSeen": "2023-07-17T15:05:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/oncologySpecimen/package.tgz",
@@ -5370,13 +5370,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2023-07-17T01:48:32.000Z"
+        "lastSeen": "2023-07-17T15:09:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-07-17T01:04:48.000Z"
+        "lastSeen": "2023-07-17T14:56:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -6277,6 +6277,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "new-related-person-mother-and-father-profiles",
         "lastSeen": "2023-07-17T14:10:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/new-education-level-profile/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "new-education-level-profile",
+        "lastSeen": "2023-07-17T14:50:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
