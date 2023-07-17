@@ -114,7 +114,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/ci-fhir-r4",
         "branch": "master",
-        "lastSeen": "2023-07-06T23:17:42.000Z"
+        "lastSeen": "2023-07-17T22:22:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz"
@@ -126,7 +126,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/ci-medicare-records",
         "branch": "master",
-        "lastSeen": "2023-07-17T04:17:45.000Z"
+        "lastSeen": "2023-07-17T22:15:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/master/package.tgz"
@@ -4140,7 +4140,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2023-07-17T20:55:12.000Z"
+        "lastSeen": "2023-07-17T22:01:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz"
@@ -4992,7 +4992,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "master",
-        "lastSeen": "2023-07-17T21:04:51.000Z"
+        "lastSeen": "2023-07-17T22:07:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/USCOREv6_bret/package.tgz",
@@ -6919,6 +6919,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "newPhenotypeOperation",
         "lastSeen": "2023-06-27T00:39:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/FHIR-38720-ISCN/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "FHIR-38720-ISCN",
+        "lastSeen": "2023-07-17T22:08:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -7447,6 +7453,12 @@
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "final-tweaks",
         "lastSeen": "2023-07-11T19:09:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/publication-request.json/package.tgz",
+        "repo": "https://github.com/HL7/fhir-shorthand",
+        "branch": "publication-request.json",
+        "lastSeen": "2023-07-17T22:34:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
@@ -8034,7 +8046,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/coopers-edits/package.tgz",
         "repo": "https://github.com/HL7/fhir-gender-harmony",
         "branch": "coopers-edits",
-        "lastSeen": "2023-07-13T18:46:15.000Z"
+        "lastSeen": "2023-07-17T21:48:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz"
