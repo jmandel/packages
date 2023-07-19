@@ -3024,6 +3024,14 @@
     }
   },
   {
+    "name": "smart-immunizations-mini",
+    "current": {
+      "url": "https://build.fhir.org/ig/DigitalSQR/smart-immunizations-mini/branches/main/package.tgz",
+      "repo": "https://github.com/DigitalSQR/smart-immunizations-mini",
+      "branch": "main"
+    }
+  },
+  {
     "name": "snomed-ig",
     "current": {
       "url": "https://build.fhir.org/ig/IHTSDO/snomed-ig/branches/master/package.tgz",
