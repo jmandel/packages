@@ -5058,7 +5058,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-mcc",
         "branch": "master",
-        "lastSeen": "2023-07-21T08:28:11.000Z"
+        "lastSeen": "2023-07-21T14:37:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-mcc/branches/USCOREv6_bret/package.tgz",
@@ -5328,7 +5328,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/add-metastatic-history/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "add-metastatic-history",
-        "lastSeen": "2023-07-20T16:59:27.000Z"
+        "lastSeen": "2023-07-21T14:20:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR41503/package.tgz",
@@ -9557,6 +9557,24 @@
     ],
     "current": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz"
   },
+  "smart-ig-empty": {
+    "name": "smart-ig-empty",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-empty",
+        "branch": "main",
+        "lastSeen": "2023-07-21T13:52:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/DigitalSQR/smart-ig-empty/branches/main/package.tgz",
+        "repo": "https://github.com/DigitalSQR/smart-ig-empty",
+        "branch": "main",
+        "lastSeen": "2023-07-21T13:50:32.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
+  },
   "smart-immunizations-mini": {
     "name": "smart-immunizations-mini",
     "locations": [
@@ -9727,6 +9745,12 @@
         "repo": "https://github.com/costateixeira/smart-core",
         "branch": "master",
         "lastSeen": "2023-07-19T21:25:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/DigitalSQR/smart-core/branches/master/package.tgz",
+        "repo": "https://github.com/DigitalSQR/smart-core",
+        "branch": "master",
+        "lastSeen": "2023-07-21T14:07:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-core/branches/master/package.tgz"
