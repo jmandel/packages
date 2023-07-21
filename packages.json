@@ -6012,7 +6012,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2023-07-19T14:20:38.000Z"
+        "lastSeen": "2023-07-21T19:56:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -6475,6 +6475,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "master",
         "lastSeen": "2022-02-02T20:41:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/migrate-to-sushi/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "migrate-to-sushi",
+        "lastSeen": "2023-07-21T20:26:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
