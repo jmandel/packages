@@ -136,6 +136,14 @@
     }
   },
   {
+    "name": "medigree.fhir.r5demo",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/r5demo/branches/branch2/package.tgz",
+      "repo": "https://github.com/costateixeira/r5demo",
+      "branch": "branch2"
+    }
+  },
+  {
     "name": "ndhm.in",
     "current": {
       "url": "https://build.fhir.org/ig/gauravvaishnav17/ig-test-build/branches/main/package.tgz",
