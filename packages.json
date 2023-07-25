@@ -4291,6 +4291,12 @@
         "repo": "https://github.com/HL7/carin-bb",
         "branch": "non-financial",
         "lastSeen": "2023-04-24T02:21:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/cs_example/package.tgz",
+        "repo": "https://github.com/HL7/carin-bb",
+        "branch": "cs_example",
+        "lastSeen": "2023-07-25T00:10:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-bb/branches/master/package.tgz"
@@ -5460,7 +5466,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2023-07-24T16:30:16.000Z"
+        "lastSeen": "2023-07-25T00:27:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -5922,7 +5928,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2023-07-24T17:52:02.000Z"
+        "lastSeen": "2023-07-24T23:54:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
