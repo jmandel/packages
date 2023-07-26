@@ -1195,6 +1195,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "questionnaire-context-display-2",
         "lastSeen": "2023-07-25T06:08:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/fix-html-tags/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "fix-html-tags",
+        "lastSeen": "2023-07-25T23:49:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -4242,7 +4248,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2023-07-25T23:35:04.000Z"
+        "lastSeen": "2023-07-26T00:20:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bser/branches/Before-Sept-2023-Ballot/package.tgz",
@@ -5766,7 +5772,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/adi-content-reorg/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "adi-content-reorg",
-        "lastSeen": "2023-07-23T17:26:45.000Z"
+        "lastSeen": "2023-07-26T00:32:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -6828,7 +6834,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/br-crmi-extensions/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "br-crmi-extensions",
-        "lastSeen": "2023-07-25T04:10:34.000Z"
+        "lastSeen": "2023-07-26T00:05:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -8329,6 +8335,12 @@
         "repo": "https://github.com/IHE/ITI.NPFS",
         "branch": "html-editing",
         "lastSeen": "2023-04-21T14:53:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/tableimgtitle/package.tgz",
+        "repo": "https://github.com/IHE/supplement-template",
+        "branch": "tableimgtitle",
+        "lastSeen": "2023-07-26T00:16:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz"
@@ -8437,6 +8449,18 @@
         "repo": "https://github.com/medcomdk/MedCom.SOR.mCSD",
         "branch": "main",
         "lastSeen": "2023-05-08T13:26:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.mCSD/branches/capread/package.tgz",
+        "repo": "https://github.com/IHE/ITI.mCSD",
+        "branch": "capread",
+        "lastSeen": "2023-07-26T00:25:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.mCSD/branches/vol1role/package.tgz",
+        "repo": "https://github.com/IHE/ITI.mCSD",
+        "branch": "vol1role",
+        "lastSeen": "2023-07-26T00:57:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/MedCom.SOR.mCSD/branches/main/package.tgz"
