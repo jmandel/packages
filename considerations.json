@@ -128,6 +128,14 @@
     }
   },
   {
+    "name": "ihe.iti.mcsd",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/ITI.mCSD/branches/main/package.tgz",
+      "repo": "https://github.com/IHE/ITI.mCSD",
+      "branch": "main"
+    }
+  },
+  {
     "name": "kl.dk.fhir.core",
     "current": {
       "url": "https://build.fhir.org/ig/hl7dk/KL-dk/branches/master/package.tgz",
