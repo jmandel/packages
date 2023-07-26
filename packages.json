@@ -1387,6 +1387,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
         "lastSeen": "2023-06-29T21:41:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "qa-fixes",
+        "lastSeen": "2023-07-26T08:28:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -4968,7 +4974,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2023-07-26T06:25:59.000Z"
+        "lastSeen": "2023-07-26T08:18:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz"
