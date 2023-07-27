@@ -2196,7 +2196,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
         "branch": "master",
-        "lastSeen": "2023-07-12T21:37:23.000Z"
+        "lastSeen": "2023-07-27T19:32:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/companion-guide-templates/package.tgz",
@@ -4494,7 +4494,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "master",
-        "lastSeen": "2023-07-27T16:15:46.000Z"
+        "lastSeen": "2023-07-27T21:10:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/motion-management/package.tgz",
@@ -4567,6 +4567,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "fixInvariant",
         "lastSeen": "2023-07-26T20:23:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixNewWarnings/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "fixNewWarnings",
+        "lastSeen": "2023-07-27T20:35:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
