@@ -1074,7 +1074,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/uflRefactor/package.tgz",
         "repo": "https://github.com/cqframework/cds4cpm",
         "branch": "uflRefactor",
-        "lastSeen": "2023-07-26T17:48:30.000Z"
+        "lastSeen": "2023-07-27T18:40:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/master/package.tgz",
@@ -1458,7 +1458,19 @@
         "url": "https://build.fhir.org/ig/mojitoj/ASU-FHIR-consent-validation/branches/master/package.tgz",
         "repo": "https://github.com/mojitoj/ASU-FHIR-consent-validation",
         "branch": "master",
-        "lastSeen": "2023-07-27T04:04:08.000Z"
+        "lastSeen": "2023-07-27T18:58:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mojitoj/ASU-FHIR-consent-validation/branches/qupdate/package.tgz",
+        "repo": "https://github.com/mojitoj/ASU-FHIR-consent-validation",
+        "branch": "qupdate",
+        "lastSeen": "2023-07-27T18:45:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mojitoj/ASU-FHIR-consent-validation/branches/update-profile/package.tgz",
+        "repo": "https://github.com/mojitoj/ASU-FHIR-consent-validation",
+        "branch": "update-profile",
+        "lastSeen": "2023-07-27T18:55:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mojitoj/ASU-FHIR-consent-validation/branches/master/package.tgz"
@@ -2304,7 +2316,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-07-27T17:27:56.000Z"
+        "lastSeen": "2023-07-27T17:56:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -5532,13 +5544,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2023-07-27T14:09:18.000Z"
+        "lastSeen": "2023-07-27T18:42:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-07-27T13:20:41.000Z"
+        "lastSeen": "2023-07-27T18:09:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -6120,7 +6132,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2023-07-27T16:14:08.000Z"
+        "lastSeen": "2023-07-27T17:40:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -7614,7 +7626,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "master",
-        "lastSeen": "2023-07-26T20:38:11.000Z"
+        "lastSeen": "2023-07-27T18:23:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/change-log/package.tgz",
@@ -8712,7 +8724,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/match/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "match",
-        "lastSeen": "2023-07-26T18:21:39.000Z"
+        "lastSeen": "2023-07-27T17:58:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/main/package.tgz"
@@ -8760,7 +8772,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.sIPS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.sIPS",
         "branch": "master",
-        "lastSeen": "2023-07-27T14:32:05.000Z"
+        "lastSeen": "2023-07-27T18:05:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.sIPS/branches/master/package.tgz"
