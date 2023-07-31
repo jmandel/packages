@@ -6048,7 +6048,7 @@
         "url": "https://build.fhir.org/ig/HL7/physical-activity/branches/master/package.tgz",
         "repo": "https://github.com/HL7/physical-activity",
         "branch": "master",
-        "lastSeen": "2023-07-31T15:38:43.000Z"
+        "lastSeen": "2023-07-31T22:55:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/physical-activity/branches/master/package.tgz"
@@ -6762,7 +6762,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-07-31T22:28:38.000Z"
+        "lastSeen": "2023-07-31T23:21:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -7273,6 +7273,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "kp-FHIR-39354",
         "lastSeen": "2023-07-24T17:23:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "biomarkers",
+        "lastSeen": "2023-07-31T23:21:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -8424,7 +8430,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-gender-harmony",
         "branch": "main",
-        "lastSeen": "2023-07-31T19:40:15.000Z"
+        "lastSeen": "2023-07-31T23:38:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/coopers-edits/package.tgz",
