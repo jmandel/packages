@@ -5340,7 +5340,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2023-08-01T11:56:00.000Z"
+        "lastSeen": "2023-08-01T12:49:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -5490,7 +5490,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/trg-staging-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "trg-staging-updates",
-        "lastSeen": "2023-08-01T12:07:17.000Z"
+        "lastSeen": "2023-08-01T12:48:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/tweakExtensible/package.tgz",
@@ -5503,6 +5503,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "FHIR40811",
         "lastSeen": "2023-07-31T18:58:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/deprecate-codes/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "deprecate-codes",
+        "lastSeen": "2023-08-01T13:16:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -6762,7 +6768,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-01T12:15:37.000Z"
+        "lastSeen": "2023-08-01T13:07:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -7321,6 +7327,12 @@
         "repo": "https://github.com/HL7/fetal_records",
         "branch": "main",
         "lastSeen": "2023-08-01T12:38:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fetal_records/branches/1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/fetal_records",
+        "branch": "1.0.0-ballot",
+        "lastSeen": "2023-08-01T13:29:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fetal_records/branches/main/package.tgz"
