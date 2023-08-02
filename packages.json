@@ -2412,7 +2412,7 @@
         "url": "https://build.fhir.org/ig/gatekeeper-project/poc-ai-gk/branches/master/package.tgz",
         "repo": "https://github.com/gatekeeper-project/poc-ai-gk",
         "branch": "master",
-        "lastSeen": "2023-07-27T12:31:41.000Z"
+        "lastSeen": "2023-08-02T17:39:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gatekeeper-project/poc-ai-gk/branches/master/package.tgz"
@@ -5539,6 +5539,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "trg-changes-part-2",
         "lastSeen": "2023-08-02T11:41:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/fix-bundle/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "fix-bundle",
+        "lastSeen": "2023-08-02T17:12:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -6120,7 +6126,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2023-07-31T17:49:29.000Z"
+        "lastSeen": "2023-08-02T16:43:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -6798,7 +6804,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-02T16:09:22.000Z"
+        "lastSeen": "2023-08-02T17:23:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -8514,7 +8520,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-gender-harmony",
         "branch": "main",
-        "lastSeen": "2023-08-01T22:36:43.000Z"
+        "lastSeen": "2023-08-02T16:49:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/coopers-edits/package.tgz",
@@ -8604,7 +8610,7 @@
         "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz",
         "repo": "https://github.com/IHE/supplement-template",
         "branch": "master",
-        "lastSeen": "2023-07-26T01:33:07.000Z"
+        "lastSeen": "2023-08-02T17:26:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.NPFS/branches/html-editing/package.tgz",
@@ -9012,7 +9018,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.SVCM/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.SVCM",
         "branch": "master",
-        "lastSeen": "2023-08-02T16:06:58.000Z"
+        "lastSeen": "2023-08-02T17:28:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.SVCM/branches/mlj-aug-2023-prepub-edits/package.tgz",
