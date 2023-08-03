@@ -6822,7 +6822,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-03T19:25:00.000Z"
+        "lastSeen": "2023-08-03T19:37:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -10321,6 +10321,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "precleanup",
         "lastSeen": "2023-08-02T04:39:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/cleanup/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "cleanup",
+        "lastSeen": "2023-08-03T20:15:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz"
