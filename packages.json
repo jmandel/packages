@@ -5382,7 +5382,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2023-08-07T12:20:58.000Z"
+        "lastSeen": "2023-08-07T14:34:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -5574,13 +5574,19 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/EOMFeedback/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "EOMFeedback",
-        "lastSeen": "2023-08-07T14:20:13.000Z"
+        "lastSeen": "2023-08-07T14:58:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/fixHistoryBinding/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "fixHistoryBinding",
         "lastSeen": "2023-08-07T14:27:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/StageTypeBindingStrength/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "StageTypeBindingStrength",
+        "lastSeen": "2023-08-07T14:46:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -6072,7 +6078,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "main",
-        "lastSeen": "2023-08-07T14:02:48.000Z"
+        "lastSeen": "2023-08-07T15:08:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz"
@@ -6858,7 +6864,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-07T07:56:33.000Z"
+        "lastSeen": "2023-08-07T14:56:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -7722,7 +7728,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2022-02-20T09:54:13.000Z"
+        "lastSeen": "2023-08-07T15:27:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
