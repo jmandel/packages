@@ -4422,7 +4422,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "master",
-        "lastSeen": "2023-07-20T16:33:29.000Z"
+        "lastSeen": "2023-08-08T16:57:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/submodule/package.tgz",
@@ -4830,7 +4830,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2023-07-06T21:11:44.000Z"
+        "lastSeen": "2023-08-08T16:47:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -6841,6 +6841,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "migrate-to-sushi",
         "lastSeen": "2023-07-25T20:41:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/fix-included-file/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "fix-included-file",
+        "lastSeen": "2023-08-08T17:14:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -6900,7 +6906,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-08T16:33:09.000Z"
+        "lastSeen": "2023-08-08T16:55:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
