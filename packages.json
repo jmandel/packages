@@ -4199,6 +4199,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-it/terminology/branches/master/package.tgz"
   },
+  "hl7.fhir.mi.base": {
+    "name": "hl7.fhir.mi.base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hsho1007/fhirigtest/branches/master/package.tgz",
+        "repo": "https://github.com/hsho1007/fhirigtest",
+        "branch": "master",
+        "lastSeen": "2023-08-09T08:25:46.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hsho1007/fhirigtest/branches/master/package.tgz"
+  },
   "hl7.fhir.nl.fhir-ig-sandbox-stu3": {
     "name": "hl7.fhir.nl.fhir-ig-sandbox-stu3",
     "locations": [
@@ -4236,7 +4248,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-08-07T14:07:22.000Z"
+        "lastSeen": "2023-08-09T07:34:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -9996,7 +10008,7 @@
         "url": "https://build.fhir.org/ig/awatson1978/fhir-access-control-ig/branches/master/package.tgz",
         "repo": "https://github.com/awatson1978/fhir-access-control-ig",
         "branch": "master",
-        "lastSeen": "2023-07-11T00:34:05.000Z"
+        "lastSeen": "2023-08-09T08:22:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/awatson1978/fhir-access-control-ig/branches/master/package.tgz"
@@ -10362,7 +10374,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-guidance-and-standards/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-guidance-and-standards",
         "branch": "main",
-        "lastSeen": "2023-08-07T00:08:04.000Z"
+        "lastSeen": "2023-08-09T08:20:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-guidance-and-standards/branches/main/package.tgz"
