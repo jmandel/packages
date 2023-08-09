@@ -323,6 +323,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7ch/cda-fhir-maps/branches/master/package.tgz"
   },
+  "ch.fhir.ig.ch-alis": {
+    "name": "ch.fhir.ig.ch-alis",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-alis/branches/master/package.tgz",
+        "repo": "https://github.com/ahdis/ch-alis",
+        "branch": "master",
+        "lastSeen": "2023-08-09T09:50:56.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/ahdis/ch-alis/branches/master/package.tgz"
+  },
   "ch.fhir.ig.ch-allergyintolerance": {
     "name": "ch.fhir.ig.ch-allergyintolerance",
     "locations": [
@@ -4248,7 +4260,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-08-09T09:19:00.000Z"
+        "lastSeen": "2023-08-09T09:57:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
