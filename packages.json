@@ -4349,6 +4349,18 @@
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
   },
+  "hl7.fhir.pt.pem-h": {
+    "name": "hl7.fhir.pt.pem-h",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/pem-h/branches/main/package.tgz",
+        "repo": "https://github.com/hl7-pt/pem-h",
+        "branch": "main",
+        "lastSeen": "2023-08-10T18:55:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-pt/pem-h/branches/main/package.tgz"
+  },
   "hl7.fhir.template": {
     "name": "hl7.fhir.template",
     "locations": [
@@ -7542,7 +7554,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "biomarkers",
-        "lastSeen": "2023-08-09T18:28:35.000Z"
+        "lastSeen": "2023-08-10T18:35:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
