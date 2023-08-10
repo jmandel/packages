@@ -4878,7 +4878,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-08-10T13:58:08.000Z"
+        "lastSeen": "2023-08-10T22:35:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -5749,6 +5749,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "tweakHistoryOfMetastaticCancer",
         "lastSeen": "2023-08-10T21:25:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/newVarianceFromCGP/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "newVarianceFromCGP",
+        "lastSeen": "2023-08-10T22:17:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -6660,7 +6666,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/STU2.2-preview1-edits/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "STU2.2-preview1-edits",
-        "lastSeen": "2023-08-10T21:05:17.000Z"
+        "lastSeen": "2023-08-10T21:26:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -6985,6 +6991,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "fix-included-file",
         "lastSeen": "2023-08-08T17:14:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/increase-sushi-timeout/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "increase-sushi-timeout",
+        "lastSeen": "2023-08-10T21:33:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
