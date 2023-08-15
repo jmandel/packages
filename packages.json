@@ -2142,7 +2142,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-base",
         "branch": "main",
-        "lastSeen": "2023-08-15T14:30:21.000Z"
+        "lastSeen": "2023-08-15T21:56:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/smart-base/branches/main/package.tgz"
@@ -2220,7 +2220,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2023/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2023",
         "branch": "master",
-        "lastSeen": "2023-08-15T21:15:50.000Z"
+        "lastSeen": "2023-08-15T22:00:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2022/branches/master/package.tgz"
@@ -2374,6 +2374,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.2/branches/master/package.tgz"
+  },
+  "hl7.cda.us.eyecare": {
+    "name": "hl7.cda.us.eyecare",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/cda-eyecare/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/cda-eyecare",
+        "branch": "main",
+        "lastSeen": "2023-08-15T22:07:52.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/cda-eyecare/branches/main/package.tgz"
   },
   "hl7.cda.uv.core": {
     "name": "hl7.cda.uv.core",
@@ -4920,7 +4932,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2023-08-15T04:54:43.000Z"
+        "lastSeen": "2023-08-15T21:56:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -4938,7 +4950,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2023-08-09T17:43:03.000Z"
+        "lastSeen": "2023-08-15T22:13:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -5562,7 +5574,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2023-08-15T19:31:55.000Z"
+        "lastSeen": "2023-08-15T22:01:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -6402,7 +6414,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-library",
         "branch": "master",
-        "lastSeen": "2023-08-15T20:25:29.000Z"
+        "lastSeen": "2023-08-15T22:18:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz"
@@ -6726,7 +6738,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2023-06-22T16:24:24.000Z"
+        "lastSeen": "2023-08-15T21:23:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -6954,7 +6966,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/addTransitionTableBFDR/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "addTransitionTableBFDR",
-        "lastSeen": "2023-08-15T20:26:56.000Z"
+        "lastSeen": "2023-08-15T21:03:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -7183,6 +7195,12 @@
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "rik",
         "lastSeen": "2023-07-31T11:48:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/rik2/package.tgz",
+        "repo": "https://github.com/HL7/uv-dx-pq",
+        "branch": "rik2",
+        "lastSeen": "2023-08-15T21:47:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -10656,7 +10674,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/TerminologyServices/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/TerminologyServices",
         "branch": "master",
-        "lastSeen": "2023-08-15T21:33:57.000Z"
+        "lastSeen": "2023-08-15T22:10:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/TerminologyServices/branches/master/package.tgz"
