@@ -4111,6 +4111,12 @@
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "fix_build_error",
         "lastSeen": "2023-08-14T08:09:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/fix_sushi_version/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-base-profiles",
+        "branch": "fix_sushi_version",
+        "lastSeen": "2023-08-15T09:04:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/package.tgz"
@@ -10765,6 +10771,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-emcare",
         "branch": "develop",
         "lastSeen": "2023-08-14T17:16:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-emcare/branches/develop-last-working-edition/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-emcare",
+        "branch": "develop-last-working-edition",
+        "lastSeen": "2023-08-15T09:35:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-emcare/branches/develop/package.tgz"

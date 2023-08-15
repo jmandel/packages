@@ -214,5 +214,13 @@
       "repo": "https://github.com/PanAmericanHealthOrganization/ESAVI-IG-FHIR",
       "branch": "master"
     }
+  },
+  {
+    "name": "who.fhir.emc-cds",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-emcare/branches/develop-last-working-edition/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-emcare",
+      "branch": "develop-last-working-edition"
+    }
   }
 ]
