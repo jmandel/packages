@@ -84,7 +84,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/dev/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "dev",
-        "lastSeen": "2023-08-15T05:34:08.000Z"
+        "lastSeen": "2023-08-16T23:32:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/main/package.tgz"
@@ -6816,7 +6816,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-07-13T14:25:56.000Z"
+        "lastSeen": "2023-08-16T22:41:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -6991,6 +6991,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "addTransitionTableBFDR",
         "lastSeen": "2023-08-16T21:39:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/NVSSIG-39-MDI-use-table/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "NVSSIG-39-MDI-use-table",
+        "lastSeen": "2023-08-16T22:39:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -8988,7 +8994,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-gender-harmony",
         "branch": "main",
-        "lastSeen": "2023-08-15T21:41:16.000Z"
+        "lastSeen": "2023-08-16T23:35:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/coopers-edits/package.tgz",
