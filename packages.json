@@ -2388,7 +2388,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-eyecare/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-eyecare",
         "branch": "main",
-        "lastSeen": "2023-08-15T22:07:52.000Z"
+        "lastSeen": "2023-08-17T19:26:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-eyecare/branches/main/package.tgz"
@@ -6324,13 +6324,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-34795_v2/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-34795_v2",
-        "lastSeen": "2023-08-17T17:44:08.000Z"
+        "lastSeen": "2023-08-17T19:02:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "main",
-        "lastSeen": "2023-08-17T18:36:25.000Z"
+        "lastSeen": "2023-08-17T19:04:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -7039,6 +7039,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "NVSSIG-39-MDI-use-table",
         "lastSeen": "2023-08-16T22:39:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/MDI-compositions-comments/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "MDI-compositions-comments",
+        "lastSeen": "2023-08-17T18:39:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
