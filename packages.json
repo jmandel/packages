@@ -3719,6 +3719,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
   },
+  "hl7.fhir.eu.base": {
+    "name": "hl7.fhir.eu.base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-eu/base",
+        "branch": "master",
+        "lastSeen": "2023-08-17T17:25:13.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz"
+  },
   "hl7.fhir.eu.laboratory": {
     "name": "hl7.fhir.eu.laboratory",
     "locations": [
@@ -5304,7 +5316,7 @@
         "url": "https://build.fhir.org/ig/HL7/HAI/branches/master/package.tgz",
         "repo": "https://github.com/HL7/HAI",
         "branch": "master",
-        "lastSeen": "2023-08-16T14:38:01.000Z"
+        "lastSeen": "2023-08-17T17:33:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/HAI/branches/master/package.tgz"
@@ -6307,6 +6319,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "FHIR-34507",
         "lastSeen": "2023-08-03T18:42:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-34795_v2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "fhir-34795_v2",
+        "lastSeen": "2023-08-17T17:15:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -7230,7 +7248,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-17T14:32:07.000Z"
+        "lastSeen": "2023-08-17T16:52:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -7248,7 +7266,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/rik2/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "rik2",
-        "lastSeen": "2023-08-17T14:31:54.000Z"
+        "lastSeen": "2023-08-17T16:50:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
