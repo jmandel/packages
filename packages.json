@@ -5382,7 +5382,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-IG-Human-Services-Directory",
         "branch": "master",
-        "lastSeen": "2023-08-18T21:04:29.000Z"
+        "lastSeen": "2023-08-20T22:25:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz"
@@ -6349,6 +6349,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "main",
         "lastSeen": "2023-08-17T19:04:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/FHIR-35078-goals-vs-observations/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "FHIR-35078-goals-vs-observations",
+        "lastSeen": "2023-08-20T22:17:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -8772,7 +8778,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/cca/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/cca",
         "branch": "master",
-        "lastSeen": "2023-04-13T20:52:14.000Z"
+        "lastSeen": "2023-08-20T22:35:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/cca/branches/master/package.tgz"
