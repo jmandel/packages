@@ -66,7 +66,7 @@
         "url": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz",
         "repo": "https://github.com/davidhay25/actnow",
         "branch": "main",
-        "lastSeen": "2023-05-10T18:14:44.000Z"
+        "lastSeen": "2023-08-21T02:43:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz"
@@ -84,7 +84,13 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/dev/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "dev",
-        "lastSeen": "2023-08-17T01:45:53.000Z"
+        "lastSeen": "2023-08-21T03:18:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/josh-css/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/adha-template-base",
+        "branch": "josh-css",
+        "lastSeen": "2023-08-21T03:16:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/main/package.tgz"
@@ -126,7 +132,7 @@
         "url": "https://build.fhir.org/ig/robeastwood-agency/test-fhir-ig-2/branches/main/package.tgz",
         "repo": "https://github.com/robeastwood-agency/test-fhir-ig-2",
         "branch": "main",
-        "lastSeen": "2023-08-17T01:47:52.000Z"
+        "lastSeen": "2023-08-21T03:20:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz"
@@ -6361,6 +6367,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-34832",
         "lastSeen": "2023-08-21T02:14:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-34830/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "fhir-34830",
+        "lastSeen": "2023-08-21T02:58:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -6523,6 +6535,12 @@
         "repo": "https://github.com/HL7/physical-activity",
         "branch": "master",
         "lastSeen": "2023-08-09T02:27:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/physical-activity/branches/br-cqf-inclusion/package.tgz",
+        "repo": "https://github.com/HL7/physical-activity",
+        "branch": "br-cqf-inclusion",
+        "lastSeen": "2023-08-21T03:31:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/physical-activity/branches/master/package.tgz"
@@ -10872,7 +10890,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzips/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-nzips",
         "branch": "main",
-        "lastSeen": "2023-08-08T04:31:46.000Z"
+        "lastSeen": "2023-08-21T04:29:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-nzips/branches/main/package.tgz"
