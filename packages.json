@@ -2262,7 +2262,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2023/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2023",
         "branch": "master",
-        "lastSeen": "2023-08-15T22:00:42.000Z"
+        "lastSeen": "2023-08-21T17:16:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2022/branches/master/package.tgz"
@@ -5058,7 +5058,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-08-21T14:25:17.000Z"
+        "lastSeen": "2023-08-21T17:21:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -6384,7 +6384,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/FHIR-35078-goals-vs-observations/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "FHIR-35078-goals-vs-observations",
-        "lastSeen": "2023-08-21T15:50:25.000Z"
+        "lastSeen": "2023-08-21T17:01:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-34832/package.tgz",
@@ -7986,7 +7986,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ichom-breast-cancer-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ichom-breast-cancer-ig",
         "branch": "master",
-        "lastSeen": "2023-08-18T15:35:31.000Z"
+        "lastSeen": "2023-08-21T16:37:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ichom-breast-cancer-ig/branches/ChangePatientGender/package.tgz",
@@ -11029,6 +11029,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "business_rules_2",
         "lastSeen": "2023-06-29T12:03:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/updatebusinessrules/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+        "branch": "updatebusinessrules",
+        "lastSeen": "2023-08-21T17:20:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
