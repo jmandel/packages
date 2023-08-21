@@ -4403,6 +4403,18 @@
     ],
     "current": "https://build.fhir.org/ig/hsho1007/fhirigtest/branches/master/package.tgz"
   },
+  "hl7.fhir.mi.phr": {
+    "name": "hl7.fhir.mi.phr",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IOP-ezCaretech/mi-phr/branches/master/package.tgz",
+        "repo": "https://github.com/IOP-ezCaretech/mi-phr",
+        "branch": "master",
+        "lastSeen": "2023-08-21T07:02:25.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IOP-ezCaretech/mi-phr/branches/master/package.tgz"
+  },
   "hl7.fhir.nl.fhir-ig-sandbox-stu3": {
     "name": "hl7.fhir.nl.fhir-ig-sandbox-stu3",
     "locations": [
