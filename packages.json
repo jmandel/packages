@@ -84,7 +84,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/dev/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "dev",
-        "lastSeen": "2023-08-21T03:18:17.000Z"
+        "lastSeen": "2023-08-22T01:13:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/josh-css/package.tgz",
@@ -132,7 +132,7 @@
         "url": "https://build.fhir.org/ig/robeastwood-agency/test-fhir-ig-2/branches/main/package.tgz",
         "repo": "https://github.com/robeastwood-agency/test-fhir-ig-2",
         "branch": "main",
-        "lastSeen": "2023-08-21T03:20:27.000Z"
+        "lastSeen": "2023-08-22T01:01:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz"
@@ -2413,6 +2413,12 @@
         "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
         "branch": "master",
         "lastSeen": "2023-08-15T19:00:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/Jira-updates/package.tgz",
+        "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
+        "branch": "Jira-updates",
+        "lastSeen": "2023-08-21T23:39:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.2/branches/master/package.tgz"
@@ -4422,7 +4428,7 @@
         "url": "https://build.fhir.org/ig/IOP-ezCaretech/mi-phr/branches/master/package.tgz",
         "repo": "https://github.com/IOP-ezCaretech/mi-phr",
         "branch": "master",
-        "lastSeen": "2023-08-21T08:40:47.000Z"
+        "lastSeen": "2023-08-22T01:06:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IOP-ezCaretech/mi-phr/branches/master/package.tgz"
