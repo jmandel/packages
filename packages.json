@@ -6420,7 +6420,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "main",
-        "lastSeen": "2023-08-22T20:45:38.000Z"
+        "lastSeen": "2023-08-23T00:30:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/FHIR-35078-goals-vs-observations/package.tgz",
@@ -6451,6 +6451,18 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "revert-15-master_main_merge",
         "lastSeen": "2023-08-22T19:56:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/merge-v3/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "merge-v3",
+        "lastSeen": "2023-08-23T00:40:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master-main-merge-v2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "master-main-merge-v2",
+        "lastSeen": "2023-08-23T00:25:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -7398,7 +7410,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-08-22T22:56:36.000Z"
+        "lastSeen": "2023-08-23T00:37:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
