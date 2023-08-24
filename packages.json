@@ -5094,7 +5094,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-08-21T17:21:43.000Z"
+        "lastSeen": "2023-08-24T19:48:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -6697,6 +6697,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "br-updates-2023-07-20",
         "lastSeen": "2023-07-21T06:01:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v6.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "v6.0.0-ballot",
+        "lastSeen": "2023-08-24T19:55:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
