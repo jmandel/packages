@@ -2207,6 +2207,18 @@
     ],
     "current": "https://build.fhir.org/ig/costateixeira/smart-base/branches/main/package.tgz"
   },
+  "fhir.who.smart-ig-empty": {
+    "name": "fhir.who.smart-ig-empty",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-empty",
+        "branch": "main",
+        "lastSeen": "2023-08-24T21:06:34.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
+  },
   "fhir.who.smart-ig-starter-kit": {
     "name": "fhir.who.smart-ig-starter-kit",
     "locations": [
@@ -9241,6 +9253,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-459-Add-jurisdiction-to-Usage-context-type",
         "lastSeen": "2023-08-22T22:07:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-457-Addition-of-HL7-value-sets-for-CPT/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-457-Addition-of-HL7-value-sets-for-CPT",
+        "lastSeen": "2023-08-24T20:30:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
