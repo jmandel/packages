@@ -6648,7 +6648,7 @@
         "url": "https://build.fhir.org/ig/HL7/physical-activity/branches/master/package.tgz",
         "repo": "https://github.com/HL7/physical-activity",
         "branch": "master",
-        "lastSeen": "2023-08-25T14:26:10.000Z"
+        "lastSeen": "2023-08-25T15:24:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/physical-activity/branches/br-cqf-inclusion/package.tgz",
@@ -8718,7 +8718,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-08-21T15:47:28.000Z"
+        "lastSeen": "2023-08-25T15:40:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -9259,6 +9259,18 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-457-Addition-of-HL7-value-sets-for-CPT",
         "lastSeen": "2023-08-24T20:30:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/up-454-take-2/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "up-454-take-2",
+        "lastSeen": "2023-08-25T14:54:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/up-443-take-2/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "up-443-take-2",
+        "lastSeen": "2023-08-25T14:59:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
