@@ -200,6 +200,14 @@
     }
   },
   {
+    "name": "my-ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/historytest/branches/master/package.tgz",
+      "repo": "https://github.com/costateixeira/historytest",
+      "branch": "master"
+    }
+  },
+  {
     "name": "ndhm.in",
     "current": {
       "url": "https://build.fhir.org/ig/gauravvaishnav17/ig-test/branches/main/package.tgz",
@@ -228,14 +236,6 @@
     "current": {
       "url": "https://build.fhir.org/ig/PanAmericanHealthOrganization/ESAVI-IG-FHIR/branches/master/package.tgz",
       "repo": "https://github.com/PanAmericanHealthOrganization/ESAVI-IG-FHIR",
-      "branch": "master"
-    }
-  },
-  {
-    "name": "xxxexample.fhir.uv.myig",
-    "current": {
-      "url": "https://build.fhir.org/ig/costateixeira/historytest/branches/master/package.tgz",
-      "repo": "https://github.com/costateixeira/historytest",
       "branch": "master"
     }
   }
