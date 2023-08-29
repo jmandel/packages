@@ -2520,7 +2520,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-eyecare/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-eyecare",
         "branch": "main",
-        "lastSeen": "2023-08-22T05:11:29.000Z"
+        "lastSeen": "2023-08-29T21:00:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-eyecare/branches/main/package.tgz"
@@ -5208,7 +5208,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-08-29T20:29:43.000Z"
+        "lastSeen": "2023-08-29T21:06:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -5580,7 +5580,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-icsr-ae-reporting/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-icsr-ae-reporting",
         "branch": "main",
-        "lastSeen": "2023-08-17T18:07:45.000Z"
+        "lastSeen": "2023-08-29T21:08:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-icsr-ae-reporting/branches/main/package.tgz"
@@ -6480,7 +6480,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-08-29T12:31:43.000Z"
+        "lastSeen": "2023-08-29T20:58:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -6625,6 +6625,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-35646",
         "lastSeen": "2023-08-29T12:27:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-42098/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "fhir-42098",
+        "lastSeen": "2023-08-29T21:00:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
