@@ -456,7 +456,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2023-06-29T13:06:32.000Z"
+        "lastSeen": "2023-08-30T12:52:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -3349,6 +3349,12 @@
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "issue-54",
         "lastSeen": "2023-08-29T15:30:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-58/package.tgz",
+        "repo": "https://github.com/hl7-be/mycarenet",
+        "branch": "issue-58",
+        "lastSeen": "2023-08-30T13:24:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/master/package.tgz"
@@ -5208,7 +5214,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-08-30T12:28:29.000Z"
+        "lastSeen": "2023-08-30T13:31:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -8113,6 +8119,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-40658-Contextual-Subject-Invariants",
         "lastSeen": "2023-08-17T22:54:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-40578/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-40578",
+        "lastSeen": "2023-08-30T13:05:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -8389,6 +8401,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
         "lastSeen": "2022-12-07T16:31:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "emptyReasonModeling",
+        "lastSeen": "2023-08-30T13:32:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
@@ -8916,7 +8934,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/update-view-purpose/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "update-view-purpose",
-        "lastSeen": "2023-08-30T12:42:56.000Z"
+        "lastSeen": "2023-08-30T12:49:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
