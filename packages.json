@@ -2959,6 +2959,12 @@
         "repo": "https://github.com/hl7au/au-fhir-pd",
         "branch": "master",
         "lastSeen": "2023-08-18T05:15:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-pd/branches/transition-to-templates/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/au-fhir-pd",
+        "branch": "transition-to-templates",
+        "lastSeen": "2023-08-30T22:36:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-pd/branches/master/package.tgz"
@@ -4788,7 +4794,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CardX-HTN-MNG",
         "branch": "master",
-        "lastSeen": "2023-08-30T19:29:36.000Z"
+        "lastSeen": "2023-08-30T21:47:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/CardX-HTN/branches/master/package.tgz"
@@ -6504,7 +6510,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-08-29T20:58:36.000Z"
+        "lastSeen": "2023-08-30T22:16:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -6661,6 +6667,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-34512",
         "lastSeen": "2023-08-30T01:35:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mytest/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mytest",
+        "lastSeen": "2023-08-30T22:14:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -8922,7 +8934,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-08-28T22:09:53.000Z"
+        "lastSeen": "2023-08-30T22:06:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
