@@ -144,7 +144,7 @@
         "url": "https://build.fhir.org/ig/aehrc/primary-care-data-technical/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/primary-care-data-technical",
         "branch": "master",
-        "lastSeen": "2023-09-01T07:08:23.000Z"
+        "lastSeen": "2023-09-01T09:04:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/primary-care-data-technical/branches/master/package.tgz"
@@ -960,7 +960,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "master",
-        "lastSeen": "2023-08-29T12:52:59.000Z"
+        "lastSeen": "2023-09-01T09:14:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/1-tvt/package.tgz",
@@ -973,6 +973,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "constraints-composition",
         "lastSeen": "2023-08-25T16:50:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/comp.author_mz/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "comp.author_mz",
+        "lastSeen": "2023-09-01T09:12:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -3084,7 +3090,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/capabilities/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/capabilities",
         "branch": "master",
-        "lastSeen": "2023-08-28T15:56:42.000Z"
+        "lastSeen": "2023-09-01T08:48:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/capabilities/branches/issue-1/package.tgz",
+        "repo": "https://github.com/hl7-be/capabilities",
+        "branch": "issue-1",
+        "lastSeen": "2023-09-01T08:48:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/capabilities/branches/master/package.tgz"
@@ -11022,7 +11034,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/v-1.5.0-rc1-HomeCareObs/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "v-1.5.0-rc1-HomeCareObs",
-        "lastSeen": "2023-08-30T13:53:14.000Z"
+        "lastSeen": "2023-09-01T09:05:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz"
