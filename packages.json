@@ -289,6 +289,12 @@
         "repo": "https://github.com/SvenskaIndustriProfiler/fhir",
         "branch": "65-move-publish-to-separate-module",
         "lastSeen": "2023-06-27T10:48:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/69-rename-github-project/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "69-rename-github-project",
+        "lastSeen": "2023-09-01T09:58:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/master/package.tgz"
