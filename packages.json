@@ -6318,7 +6318,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/stu3-data-dictionary-v2/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "stu3-data-dictionary-v2",
-        "lastSeen": "2023-08-31T11:30:29.000Z"
+        "lastSeen": "2023-09-01T19:27:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/NukeXMLFile/package.tgz",
@@ -7578,13 +7578,19 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/newCompositionBFDR/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "newCompositionBFDR",
-        "lastSeen": "2023-08-17T20:54:47.000Z"
+        "lastSeen": "2023-09-01T17:56:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/mappingBFDR/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "mappingBFDR",
         "lastSeen": "2023-08-31T18:19:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/patientvitalrecords/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "patientvitalrecords",
+        "lastSeen": "2023-09-01T18:41:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
