@@ -96,6 +96,14 @@
     }
   },
   {
+    "name": "fhir.who.smart-ig-empty",
+    "current": {
+      "url": "https://build.fhir.org/ig/litlfred/smart-trust-racsel/branches/main/package.tgz",
+      "repo": "https://github.com/litlfred/smart-trust-racsel",
+      "branch": "main"
+    }
+  },
+  {
     "name": "fish",
     "current": {
       "url": "https://build.fhir.org/ig/caraowt/CARA-Implementation-Guide/branches/master/package.tgz",
