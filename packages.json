@@ -576,7 +576,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2023-09-07T07:21:00.000Z"
+        "lastSeen": "2023-09-07T08:07:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -4140,7 +4140,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-09-06T17:32:17.000Z"
+        "lastSeen": "2023-09-07T08:39:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -4842,7 +4842,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2023-09-06T14:22:46.000Z"
+        "lastSeen": "2023-09-07T08:36:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -8425,6 +8425,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-40445",
         "lastSeen": "2023-08-30T17:36:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-41433/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-41433",
+        "lastSeen": "2023-09-07T08:08:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -9612,7 +9618,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2023-09-07T06:45:47.000Z"
+        "lastSeen": "2023-09-07T07:14:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -9810,7 +9816,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/up-435-Fix-existing-ICD-9-CM-metadata-record,-add-ICD-9-PCS,-and-fix-Using-ICD-with-HL7-standards-page/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "up-435-Fix-existing-ICD-9-CM-metadata-record,-add-ICD-9-PCS,-and-fix-Using-ICD-with-HL7-standards-page",
-        "lastSeen": "2023-08-26T01:00:58.000Z"
+        "lastSeen": "2023-09-07T07:18:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-456-Update-Using-CPT-with-HL7-Standards-page/package.tgz",
