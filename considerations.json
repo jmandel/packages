@@ -48,14 +48,6 @@
     }
   },
   {
-    "name": "ch.fhir.ig.ch-ig",
-    "current": {
-      "url": "https://build.fhir.org/ig/pjolo/testIG/branches/master/package.tgz",
-      "repo": "https://github.com/pjolo/testIG",
-      "branch": "master"
-    }
-  },
-  {
     "name": "ch.fhir.ig.ch-lab-report",
     "current": {
       "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
