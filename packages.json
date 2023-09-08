@@ -6942,7 +6942,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/STU2_STU1ballot_changes/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "STU2_STU1ballot_changes",
-        "lastSeen": "2023-09-07T03:02:56.000Z"
+        "lastSeen": "2023-09-08T13:18:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -11947,6 +11947,12 @@
         "repo": "https://github.com/DigitalSQR/smart-ig-base",
         "branch": "main",
         "lastSeen": "2023-08-15T09:55:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-base",
+        "branch": "main",
+        "lastSeen": "2023-09-08T12:51:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/DigitalSQR/smart-ig-base/branches/main/package.tgz"
