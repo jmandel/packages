@@ -320,6 +320,14 @@
     }
   },
   {
+    "name": "cms.fhir.mct",
+    "current": {
+      "url": "https://build.fhir.org/ig/cqframework/mct-ig/branches/master/package.tgz",
+      "repo": "https://github.com/cqframework/mct-ig",
+      "branch": "master"
+    }
+  },
+  {
     "name": "cqf.fhir.cds4cpm",
     "current": {
       "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/master/package.tgz",
