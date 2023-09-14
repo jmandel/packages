@@ -5964,7 +5964,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-IG-Human-Services-Directory",
         "branch": "master",
-        "lastSeen": "2023-09-14T17:14:08.000Z"
+        "lastSeen": "2023-09-14T22:02:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz"
@@ -8671,6 +8671,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "biomarkers-slicing-fix",
         "lastSeen": "2023-09-12T16:25:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kp-FHIR-41249-HPO-updates/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "kp-FHIR-41249-HPO-updates",
+        "lastSeen": "2023-09-14T21:59:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
