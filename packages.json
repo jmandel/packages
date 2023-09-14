@@ -726,7 +726,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/issue234_publisher/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue234_publisher",
-        "lastSeen": "2023-09-14T12:16:03.000Z"
+        "lastSeen": "2023-09-14T13:26:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -1224,7 +1224,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_resolution_400/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "ballot_resolution_400",
-        "lastSeen": "2023-09-01T06:48:46.000Z"
+        "lastSeen": "2023-09-14T12:58:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -3913,6 +3913,12 @@
         "repo": "https://github.com/hl7-be/referral",
         "branch": "issue-267",
         "lastSeen": "2023-09-05T14:29:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral/branches/earlyadopter/package.tgz",
+        "repo": "https://github.com/hl7-be/referral",
+        "branch": "earlyadopter",
+        "lastSeen": "2023-09-14T12:53:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -10099,6 +10105,12 @@
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "master",
         "lastSeen": "2023-03-08T19:15:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/danka74/basprofiler-r4/branches/master/package.tgz",
+        "repo": "https://github.com/danka74/basprofiler-r4",
+        "branch": "master",
+        "lastSeen": "2023-09-14T13:27:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
@@ -10248,7 +10260,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "master",
-        "lastSeen": "2023-09-14T09:45:21.000Z"
+        "lastSeen": "2023-09-14T13:31:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz"
