@@ -1465,6 +1465,12 @@
         "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
         "branch": "genome-sequencing-questionnaire",
         "lastSeen": "2023-09-12T02:26:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/Remote-Monitoring/package.tgz",
+        "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
+        "branch": "Remote-Monitoring",
+        "lastSeen": "2023-09-18T04:14:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz"
