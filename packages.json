@@ -1980,7 +1980,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "master",
-        "lastSeen": "2023-09-13T13:18:05.000Z"
+        "lastSeen": "2023-09-19T02:52:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz"
@@ -6678,7 +6678,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2023-09-19T00:28:28.000Z"
+        "lastSeen": "2023-09-19T02:11:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -7242,7 +7242,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/ICF_category_value_sets/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "ICF_category_value_sets",
-        "lastSeen": "2023-09-08T07:07:04.000Z"
+        "lastSeen": "2023-09-19T03:25:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/SNOMED-For-ICF/package.tgz",
@@ -9534,7 +9534,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-09-18T22:51:10.000Z"
+        "lastSeen": "2023-09-19T03:08:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -9619,6 +9619,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "column_types",
         "lastSeen": "2023-09-18T23:05:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/add-table-data-class/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "add-table-data-class",
+        "lastSeen": "2023-09-19T03:06:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
