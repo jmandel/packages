@@ -151,6 +151,12 @@
         "repo": "https://github.com/arkhn/arkhn-ig-osiris",
         "branch": "master",
         "lastSeen": "2023-08-28T10:50:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/InstitutNationalduCancer/ImplementationGuide_OsirisFHIR/branches/master/package.tgz",
+        "repo": "https://github.com/InstitutNationalduCancer/ImplementationGuide_OsirisFHIR",
+        "branch": "master",
+        "lastSeen": "2023-09-19T09:34:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/arkhn/arkhn-ig-osiris/branches/master/package.tgz"
@@ -636,7 +642,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2023-09-13T14:25:18.000Z"
+        "lastSeen": "2023-09-19T10:06:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -4380,7 +4386,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-09-17T20:34:06.000Z"
+        "lastSeen": "2023-09-19T09:52:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -5106,7 +5112,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-09-19T09:28:16.000Z"
+        "lastSeen": "2023-09-19T10:27:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -12391,6 +12397,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
         "branch": "costateixeira-patch-2",
         "lastSeen": "2023-06-14T13:59:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/costateixeira-patch-3/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
+        "branch": "costateixeira-patch-3",
+        "lastSeen": "2023-09-19T09:49:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
