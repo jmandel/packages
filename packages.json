@@ -1998,7 +1998,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "master",
-        "lastSeen": "2023-09-20T21:36:50.000Z"
+        "lastSeen": "2023-09-20T21:44:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz"
@@ -2484,7 +2484,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "master",
-        "lastSeen": "2023-09-20T19:56:47.000Z"
+        "lastSeen": "2023-09-20T21:56:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz"
@@ -2808,7 +2808,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
         "branch": "master",
-        "lastSeen": "2023-09-16T16:00:11.000Z"
+        "lastSeen": "2023-09-20T18:35:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/companion-guide-templates/package.tgz",
@@ -2946,7 +2946,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-davinci",
         "branch": "master",
-        "lastSeen": "2023-09-20T21:38:06.000Z"
+        "lastSeen": "2023-09-20T21:46:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz"
@@ -5604,7 +5604,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-09-20T05:19:45.000Z"
+        "lastSeen": "2023-09-20T22:20:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -6024,7 +6024,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2023-09-20T18:58:27.000Z"
+        "lastSeen": "2023-09-20T21:45:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz"
@@ -6739,6 +6739,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "fix-diagram-broken-link",
         "lastSeen": "2023-09-19T12:00:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/updateIgnoreWarnings/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "updateIgnoreWarnings",
+        "lastSeen": "2023-09-20T22:22:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -7818,7 +7824,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-08-29T15:38:31.000Z"
+        "lastSeen": "2023-09-20T20:11:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -10824,7 +10830,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/match/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "match",
-        "lastSeen": "2023-09-20T20:45:49.000Z"
+        "lastSeen": "2023-09-20T22:40:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/main/package.tgz"
