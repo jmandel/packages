@@ -2946,7 +2946,13 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/simple-datatypes/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-2.0",
         "branch": "simple-datatypes",
-        "lastSeen": "2023-09-22T02:53:53.000Z"
+        "lastSeen": "2023-09-22T15:25:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/simple-datatypes-validation-test/package.tgz",
+        "repo": "https://github.com/HL7/CDA-core-2.0",
+        "branch": "simple-datatypes-validation-test",
+        "lastSeen": "2023-09-22T15:33:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/master/package.tgz"
@@ -7140,7 +7146,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-09-07T14:12:25.000Z"
+        "lastSeen": "2023-09-22T15:34:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -8922,7 +8928,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "biomarkers",
-        "lastSeen": "2023-09-15T16:13:18.000Z"
+        "lastSeen": "2023-09-22T15:30:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers-slicing-fix/package.tgz",
@@ -9672,7 +9678,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-09-21T15:22:04.000Z"
+        "lastSeen": "2023-09-22T15:42:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -9786,7 +9792,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/validate-fp/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "validate-fp",
-        "lastSeen": "2023-09-21T16:38:16.000Z"
+        "lastSeen": "2023-09-22T15:21:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreach/package.tgz",
