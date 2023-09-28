@@ -3012,7 +3012,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-09-27T12:41:20.000Z"
+        "lastSeen": "2023-09-28T08:08:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -8935,6 +8935,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-41378",
         "lastSeen": "2023-09-27T13:18:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-40566/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-40566",
+        "lastSeen": "2023-09-28T07:44:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -11586,7 +11592,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-prevention",
         "branch": "main",
-        "lastSeen": "2023-09-28T07:42:05.000Z"
+        "lastSeen": "2023-09-28T08:28:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz"
@@ -11598,7 +11604,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-rehab",
         "branch": "main",
-        "lastSeen": "2023-09-27T20:48:47.000Z"
+        "lastSeen": "2023-09-28T08:29:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz"
@@ -11773,6 +11779,12 @@
         "repo": "https://github.com/sunekochhansen/dk-medcom-core",
         "branch": "master",
         "lastSeen": "2023-09-06T09:46:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/v.2.2.0-rc/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "v.2.2.0-rc",
+        "lastSeen": "2023-09-28T08:07:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -12817,6 +12829,12 @@
         "repo": "https://github.com/JohanGHole/dhis2-test-ig",
         "branch": "squash",
         "lastSeen": "2023-09-13T08:49:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/draft-et-rse/branches/main/package.tgz",
+        "repo": "https://github.com/hl7-pt/draft-et-rse",
+        "branch": "main",
+        "lastSeen": "2023-09-28T08:36:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/openhie/empty-fhir-ig/branches/master/package.tgz"
