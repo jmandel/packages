@@ -4530,7 +4530,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-09-29T15:29:31.000Z"
+        "lastSeen": "2023-10-02T19:47:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -5394,7 +5394,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2023-09-28T19:36:27.000Z"
+        "lastSeen": "2023-10-02T20:03:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bser/branches/Before-Sept-2023-Ballot/package.tgz",
@@ -7458,7 +7458,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-34470/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-34470",
-        "lastSeen": "2023-09-29T14:59:16.000Z"
+        "lastSeen": "2023-10-02T19:08:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -9961,6 +9961,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "table-horiz-scroll",
         "lastSeen": "2023-09-22T14:39:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/fix-where-tests/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "fix-where-tests",
+        "lastSeen": "2023-10-02T20:36:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
