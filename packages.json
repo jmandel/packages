@@ -2946,7 +2946,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-2.0",
         "branch": "master",
-        "lastSeen": "2023-10-03T15:23:22.000Z"
+        "lastSeen": "2023-10-03T16:30:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/rhofstede-fixes/package.tgz",
@@ -3750,7 +3750,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "master",
-        "lastSeen": "2023-04-13T07:43:36.000Z"
+        "lastSeen": "2023-10-03T16:24:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v2/package.tgz",
@@ -9108,7 +9108,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "biomarkers",
-        "lastSeen": "2023-09-22T15:30:35.000Z"
+        "lastSeen": "2023-10-03T16:01:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers-slicing-fix/package.tgz",
@@ -11513,6 +11513,18 @@
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/NorwayAudit/branches/master/package.tgz"
   },
+  "johnmoehrke.consentwithseg-testing": {
+    "name": "johnmoehrke.consentwithseg-testing",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSeg-testing/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/ConsentWithSeg-testing",
+        "branch": "main",
+        "lastSeen": "2023-10-03T16:12:16.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSeg-testing/branches/main/package.tgz"
+  },
   "johnmoehrke.consentwithsegmentation": {
     "name": "johnmoehrke.consentwithsegmentation",
     "locations": [
@@ -11520,7 +11532,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentWithSegmentation",
         "branch": "main",
-        "lastSeen": "2023-09-07T18:35:56.000Z"
+        "lastSeen": "2023-10-03T16:39:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz"
