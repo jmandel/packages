@@ -846,7 +846,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-ppqm",
         "branch": "master",
-        "lastSeen": "2023-06-26T19:10:59.000Z"
+        "lastSeen": "2023-10-03T12:40:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/release2024/package.tgz",
@@ -4542,7 +4542,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-10-03T10:01:32.000Z"
+        "lastSeen": "2023-10-03T12:06:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -5028,7 +5028,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/kela-provenance-test/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "kela-provenance-test",
-        "lastSeen": "2023-09-25T20:20:32.000Z"
+        "lastSeen": "2023-10-03T12:20:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/editorial-fixes/package.tgz",
@@ -5292,7 +5292,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-10-02T06:41:00.000Z"
+        "lastSeen": "2023-10-03T12:43:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -5347,6 +5347,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "0.14.0-sprint16",
         "lastSeen": "2023-09-19T14:13:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.15.0-sprint17/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "0.15.0-sprint17",
+        "lastSeen": "2023-10-03T12:45:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
@@ -12810,7 +12816,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2023-10-03T11:10:29.000Z"
+        "lastSeen": "2023-10-03T11:57:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/test-workflows/branches/main/package.tgz",
