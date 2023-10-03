@@ -120,6 +120,14 @@
     }
   },
   {
+    "name": "ccu",
+    "current": {
+      "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
+      "repo": "https://github.com/kyriosdata/farol",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ch.cara.fhir.epr.emed",
     "current": {
       "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz",
