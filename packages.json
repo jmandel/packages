@@ -5280,7 +5280,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2023-09-19T14:17:03.000Z"
+        "lastSeen": "2023-10-03T12:46:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -5292,7 +5292,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2023-10-03T12:43:03.000Z"
+        "lastSeen": "2023-10-03T13:20:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -10003,6 +10003,18 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "fix-collection-test",
         "lastSeen": "2023-10-02T21:18:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/2023-10-gg-fix-fhirpath-tests/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "2023-10-gg-fix-fhirpath-tests",
+        "lastSeen": "2023-10-03T13:04:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/fix-oftype/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "fix-oftype",
+        "lastSeen": "2023-10-03T13:08:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -10698,7 +10710,7 @@
         "url": "https://build.fhir.org/ig/unicom-project-eu/d4.12/branches/master/package.tgz",
         "repo": "https://github.com/unicom-project-eu/d4.12",
         "branch": "master",
-        "lastSeen": "2023-09-24T08:34:26.000Z"
+        "lastSeen": "2023-10-03T13:36:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/unicom-project-eu/d4.12/branches/master/package.tgz"
