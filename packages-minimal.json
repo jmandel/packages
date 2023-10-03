@@ -624,6 +624,14 @@
     }
   },
   {
+    "name": "fhir.giis",
+    "current": {
+      "url": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz",
+      "repo": "https://github.com/cens-chile/giis_fhir_IG",
+      "branch": "main"
+    }
+  },
+  {
     "name": "fhir.hl7chile.ListaDeEspera",
     "current": {
       "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/main/package.tgz",
