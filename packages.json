@@ -1170,7 +1170,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/observation-R5/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "observation-R5",
-        "lastSeen": "2023-10-03T21:03:18.000Z"
+        "lastSeen": "2023-10-04T12:19:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -2670,7 +2670,7 @@
         "url": "https://build.fhir.org/ig/DigitalSQR/smart-ig-starter-kit/branches/main/package.tgz",
         "repo": "https://github.com/DigitalSQR/smart-ig-starter-kit",
         "branch": "main",
-        "lastSeen": "2023-09-27T06:13:09.000Z"
+        "lastSeen": "2023-10-04T12:19:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/main/package.tgz",
@@ -9115,6 +9115,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR37325",
         "lastSeen": "2023-10-04T11:06:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-36726/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-36726",
+        "lastSeen": "2023-10-04T12:35:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -11988,7 +11994,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.2.1.1-rc",
-        "lastSeen": "2023-10-04T11:14:39.000Z"
+        "lastSeen": "2023-10-04T12:37:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -12834,7 +12840,7 @@
         "url": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz",
         "repo": "https://github.com/gcangioli/who-umc-poc",
         "branch": "master",
-        "lastSeen": "2023-10-02T14:54:44.000Z"
+        "lastSeen": "2023-10-04T12:15:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
@@ -13093,6 +13099,24 @@
         "repo": "https://github.com/hl7-pt/draft-et-rse",
         "branch": "test-identifiers",
         "lastSeen": "2023-10-01T15:40:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/sri-lanka-connectathon/branches/squash/package.tgz",
+        "repo": "https://github.com/jembi/sri-lanka-connectathon",
+        "branch": "squash",
+        "lastSeen": "2023-10-04T12:18:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/sri-lanka-connectathon/branches/parse-cql/package.tgz",
+        "repo": "https://github.com/jembi/sri-lanka-connectathon",
+        "branch": "parse-cql",
+        "lastSeen": "2023-10-04T12:17:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/sri-lanka-connectathon/branches/Richard/package.tgz",
+        "repo": "https://github.com/jembi/sri-lanka-connectathon",
+        "branch": "Richard",
+        "lastSeen": "2023-10-04T12:19:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/openhie/empty-fhir-ig/branches/master/package.tgz"
