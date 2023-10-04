@@ -3048,7 +3048,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/failing-examples/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-sd",
         "branch": "failing-examples",
-        "lastSeen": "2023-10-03T18:30:55.000Z"
+        "lastSeen": "2023-10-04T14:22:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/simple-datatypes-validation-test/package.tgz",
@@ -11923,6 +11923,12 @@
         "repo": "https://github.com/medcomdk/ehmi_balp",
         "branch": "main",
         "lastSeen": "2023-10-04T10:54:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/ehmi_balp/branches/0.2.0-a1/package.tgz",
+        "repo": "https://github.com/medcomdk/ehmi_balp",
+        "branch": "0.2.0-a1",
+        "lastSeen": "2023-10-04T14:05:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_balp/branches/main/package.tgz"
@@ -11988,7 +11994,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master",
-        "lastSeen": "2023-07-07T13:08:35.000Z"
+        "lastSeen": "2023-10-04T14:17:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
@@ -12774,7 +12780,7 @@
         "url": "https://build.fhir.org/ig/PanAmericanHealthOrganization/ESAVI-IG-FHIR/branches/master/package.tgz",
         "repo": "https://github.com/PanAmericanHealthOrganization/ESAVI-IG-FHIR",
         "branch": "master",
-        "lastSeen": "2023-09-20T12:03:52.000Z"
+        "lastSeen": "2023-10-04T14:26:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/PanAmericanHealthOrganization/OPS-ESAVI/branches/master/package.tgz"
@@ -12840,7 +12846,7 @@
         "url": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz",
         "repo": "https://github.com/gcangioli/who-umc-poc",
         "branch": "master",
-        "lastSeen": "2023-10-04T13:01:55.000Z"
+        "lastSeen": "2023-10-04T13:49:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
