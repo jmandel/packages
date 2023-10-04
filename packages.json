@@ -2460,7 +2460,7 @@
         "url": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz",
         "repo": "https://github.com/cens-chile/giis_fhir_IG",
         "branch": "main",
-        "lastSeen": "2023-10-03T23:11:24.000Z"
+        "lastSeen": "2023-10-04T16:13:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz"
@@ -2893,6 +2893,12 @@
         "repo": "https://github.com/HL7/CDA-ccda-2.1-sd",
         "branch": "Jira-updates-FSH-prep",
         "lastSeen": "2023-09-28T23:58:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
+        "repo": "https://github.com/HL7/CDA-ccda",
+        "branch": "Jira-updates",
+        "lastSeen": "2023-10-04T15:41:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -3036,7 +3042,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-sd",
         "branch": "master",
-        "lastSeen": "2023-10-03T22:00:49.000Z"
+        "lastSeen": "2023-10-04T16:24:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/simple-datatypes/package.tgz",
@@ -5448,7 +5454,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-10-01T06:12:59.000Z"
+        "lastSeen": "2023-10-04T16:00:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -5970,7 +5976,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2023-10-03T20:55:57.000Z"
+        "lastSeen": "2023-10-04T16:08:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -6336,7 +6342,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-IG-Human-Services-Directory",
         "branch": "master",
-        "lastSeen": "2023-09-20T20:52:52.000Z"
+        "lastSeen": "2023-10-04T15:45:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-IG-Human-Services-Directory/branches/master/package.tgz"
@@ -7680,7 +7686,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-common-library-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-common-library-ig",
         "branch": "master",
-        "lastSeen": "2022-07-12T21:52:24.000Z"
+        "lastSeen": "2023-10-04T15:58:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-phpl/branches/master/package.tgz",
@@ -8022,7 +8028,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-10-01T06:12:00.000Z"
+        "lastSeen": "2023-10-04T15:57:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -9192,7 +9198,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "biomarkers",
-        "lastSeen": "2023-10-03T16:01:36.000Z"
+        "lastSeen": "2023-10-04T16:24:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/biomarkers-slicing-fix/package.tgz",
