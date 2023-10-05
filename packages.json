@@ -421,6 +421,12 @@
         "repo": "https://github.com/CARA-ch/ch-emed-epr",
         "branch": "fhirtips",
         "lastSeen": "2023-06-27T12:46:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/28-update-treatment-guidance/package.tgz",
+        "repo": "https://github.com/CARA-ch/ch-emed-epr",
+        "branch": "28-update-treatment-guidance",
+        "lastSeen": "2023-10-05T07:58:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz"
@@ -8970,7 +8976,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2023-10-04T13:05:09.000Z"
+        "lastSeen": "2023-10-05T07:56:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -9024,7 +9030,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/addUnsubscribeResponse/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "addUnsubscribeResponse",
-        "lastSeen": "2023-06-28T08:57:47.000Z"
+        "lastSeen": "2023-10-05T07:52:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/JIRA_36791/package.tgz",
@@ -12586,6 +12592,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/openmrs-contrib-fhir2-ig/branches/main/package.tgz"
+  },
+  "path.fhir.tap.terminology": {
+    "name": "path.fhir.tap.terminology",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/DigitalSQR/TAP-terminology/branches/main/package.tgz",
+        "repo": "https://github.com/DigitalSQR/TAP-terminology",
+        "branch": "main",
+        "lastSeen": "2023-10-05T08:24:07.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/DigitalSQR/TAP-terminology/branches/main/package.tgz"
   },
   "path.vn.terminology": {
     "name": "path.vn.terminology",
