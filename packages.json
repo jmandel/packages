@@ -2922,7 +2922,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "Jira-updates",
-        "lastSeen": "2023-10-05T16:57:43.000Z"
+        "lastSeen": "2023-10-05T17:28:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -6144,7 +6144,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2023-09-28T18:57:59.000Z"
+        "lastSeen": "2023-10-05T18:06:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -7591,6 +7591,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "FHIR-34805",
         "lastSeen": "2023-10-05T00:50:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/FHIR-34505/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "FHIR-34505",
+        "lastSeen": "2023-10-05T17:01:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -10147,6 +10153,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "fix-oftype",
         "lastSeen": "2023-10-03T13:08:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/fix-foreach/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "fix-foreach",
+        "lastSeen": "2023-10-05T17:54:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -10416,7 +10428,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/mdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/mdr",
         "branch": "master",
-        "lastSeen": "2023-10-04T20:17:20.000Z"
+        "lastSeen": "2023-10-05T18:31:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/mdr/branches/master/package.tgz"
@@ -12371,6 +12383,18 @@
     ],
     "current": "https://build.fhir.org/ig/costateixeira/r5demo/branches/master/package.tgz"
   },
+  "minsal.fhir.core": {
+    "name": "minsal.fhir.core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/hpd/branches/master/package.tgz",
+        "repo": "https://github.com/Minsal-CL/hpd",
+        "branch": "master",
+        "lastSeen": "2023-10-05T18:35:34.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Minsal-CL/hpd/branches/master/package.tgz"
+  },
   "mitre.fast.access-control": {
     "name": "mitre.fast.access-control",
     "locations": [
@@ -13020,7 +13044,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/cleanup/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "cleanup",
-        "lastSeen": "2023-10-04T14:55:31.000Z"
+        "lastSeen": "2023-10-05T18:37:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz"
