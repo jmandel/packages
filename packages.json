@@ -4566,7 +4566,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/v.3.1.0-rc1/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "v.3.1.0-rc1",
-        "lastSeen": "2023-10-09T14:16:09.000Z"
+        "lastSeen": "2023-10-09T16:17:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/v.3.0.0-rc1/package.tgz",
@@ -4686,7 +4686,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-10-09T07:01:58.000Z"
+        "lastSeen": "2023-10-09T16:29:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -10243,6 +10243,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "fix-foreach",
         "lastSeen": "2023-10-05T17:54:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/columns/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "columns",
+        "lastSeen": "2023-10-09T16:40:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -11376,7 +11382,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/match/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "match",
-        "lastSeen": "2023-09-26T00:25:41.000Z"
+        "lastSeen": "2023-10-09T15:52:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/oe_pdqmresults/package.tgz",
