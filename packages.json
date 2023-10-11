@@ -227,6 +227,18 @@
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/ig/branches/main/package.tgz"
   },
+  "capstmt": {
+    "name": "capstmt",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/capstmt",
+        "branch": "main",
+        "lastSeen": "2023-10-11T14:28:36.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz"
+  },
   "cara": {
     "name": "cara",
     "locations": [
@@ -3852,7 +3864,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/lab",
         "branch": "master",
-        "lastSeen": "2023-10-08T12:22:57.000Z"
+        "lastSeen": "2023-10-11T14:19:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/issue-195/package.tgz",
@@ -3883,6 +3895,12 @@
         "repo": "https://github.com/hl7-be/lab",
         "branch": "issue-199",
         "lastSeen": "2023-06-20T21:44:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/lab/branches/issue-227/package.tgz",
+        "repo": "https://github.com/hl7-be/lab",
+        "branch": "issue-227",
+        "lastSeen": "2023-10-11T14:17:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz"
@@ -8286,7 +8304,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-10-10T19:17:40.000Z"
+        "lastSeen": "2023-10-11T13:51:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -10170,7 +10188,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-10-10T18:15:36.000Z"
+        "lastSeen": "2023-10-11T13:53:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -10338,7 +10356,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/update-sql-name-regex/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "update-sql-name-regex",
-        "lastSeen": "2023-10-11T13:29:25.000Z"
+        "lastSeen": "2023-10-11T13:50:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
