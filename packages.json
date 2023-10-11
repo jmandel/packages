@@ -5232,13 +5232,19 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/kela-provenance-test/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "kela-provenance-test",
-        "lastSeen": "2023-10-03T12:20:27.000Z"
+        "lastSeen": "2023-10-11T17:13:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/editorial-fixes/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "editorial-fixes",
         "lastSeen": "2023-10-03T11:18:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/kela-provenance-test-2/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-base-profiles",
+        "branch": "kela-provenance-test-2",
+        "lastSeen": "2023-10-11T17:13:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/package.tgz"
@@ -8532,7 +8538,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/dataDictionaryUpdates/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "dataDictionaryUpdates",
-        "lastSeen": "2023-10-10T22:07:46.000Z"
+        "lastSeen": "2023-10-11T16:53:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -8652,7 +8658,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2023-10-11T15:23:22.000Z"
+        "lastSeen": "2023-10-11T17:29:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz"
@@ -10200,7 +10206,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-10-11T13:53:41.000Z"
+        "lastSeen": "2023-10-11T16:48:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -10362,7 +10368,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/columns/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "columns",
-        "lastSeen": "2023-10-09T16:40:41.000Z"
+        "lastSeen": "2023-10-11T17:27:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/update-sql-name-regex/package.tgz",
@@ -13254,7 +13260,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/cleanup/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "cleanup",
-        "lastSeen": "2023-10-09T22:21:40.000Z"
+        "lastSeen": "2023-10-11T16:41:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz"
