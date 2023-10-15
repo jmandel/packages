@@ -8634,7 +8634,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/editflags/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "editflags",
-        "lastSeen": "2023-10-12T14:31:27.000Z"
+        "lastSeen": "2023-10-15T22:09:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/narrative-content/package.tgz",
@@ -12342,7 +12342,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/ehmi_mCSD",
         "branch": "main",
-        "lastSeen": "2023-10-15T16:19:33.000Z"
+        "lastSeen": "2023-10-15T22:26:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz"
@@ -13144,6 +13144,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-nzips/branches/main/package.tgz"
+  },
+  "tewhatuora.fhir.ig.fhir-nzps": {
+    "name": "tewhatuora.fhir.ig.fhir-nzps",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-nzps",
+        "branch": "main",
+        "lastSeen": "2023-10-15T22:32:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzips/branches/main/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-nzips",
+        "branch": "main",
+        "lastSeen": "2023-10-15T22:27:28.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz"
   },
   "tewhatuora.fhir.ig.nzips": {
     "name": "tewhatuora.fhir.ig.nzips",
