@@ -6517,6 +6517,12 @@
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "pre2023SepConnectathon",
         "lastSeen": "2023-09-15T16:14:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/stable/package.tgz",
+        "repo": "https://github.com/HL7/eLTSS",
+        "branch": "stable",
+        "lastSeen": "2023-10-16T06:06:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz"
@@ -12474,7 +12480,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2023-10-13T12:16:22.000Z"
+        "lastSeen": "2023-10-16T06:25:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
