@@ -2208,7 +2208,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "master",
-        "lastSeen": "2023-07-18T02:24:58.000Z"
+        "lastSeen": "2023-10-17T17:11:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/321-links-to-category-and-evidence-type/package.tgz",
@@ -3156,7 +3156,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-sd",
         "branch": "master",
-        "lastSeen": "2023-10-17T16:38:49.000Z"
+        "lastSeen": "2023-10-17T17:00:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/simple-datatypes/package.tgz",
@@ -6090,7 +6090,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-10-10T19:56:16.000Z"
+        "lastSeen": "2023-10-17T17:04:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -8376,7 +8376,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2023-10-17T16:17:10.000Z"
+        "lastSeen": "2023-10-17T17:14:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -11370,7 +11370,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "master",
-        "lastSeen": "2023-10-16T13:48:52.000Z"
+        "lastSeen": "2023-10-17T16:47:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/switch_r4b_2_r4/package.tgz",
@@ -13543,6 +13543,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
         "branch": "med-resources",
         "lastSeen": "2023-10-17T16:34:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/br-library-refresh/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
+        "branch": "br-library-refresh",
+        "lastSeen": "2023-10-17T17:18:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
