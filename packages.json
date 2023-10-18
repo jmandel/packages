@@ -1302,7 +1302,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-orf",
         "branch": "master",
-        "lastSeen": "2023-10-11T12:15:56.000Z"
+        "lastSeen": "2023-10-18T12:12:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/oe_update_core/package.tgz",
@@ -1345,6 +1345,18 @@
         "repo": "https://github.com/hl7ch/ch-orf",
         "branch": "pjolo-patch-1",
         "lastSeen": "2023-10-10T12:37:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/issue152_home/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-orf",
+        "branch": "issue152_home",
+        "lastSeen": "2023-10-18T12:21:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/issue153_spelling/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-orf",
+        "branch": "issue153_spelling",
+        "lastSeen": "2023-10-18T12:37:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz"
@@ -3252,7 +3264,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-10-17T10:21:58.000Z"
+        "lastSeen": "2023-10-18T12:44:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -9036,7 +9048,7 @@
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/master/package.tgz",
         "repo": "https://github.com/joofio/vulcan-eproduct-info",
         "branch": "master",
-        "lastSeen": "2023-06-14T14:00:01.000Z"
+        "lastSeen": "2023-10-18T12:42:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/remove-spor/package.tgz",
@@ -9534,7 +9546,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-40566/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-40566",
-        "lastSeen": "2023-10-04T07:41:20.000Z"
+        "lastSeen": "2023-10-18T12:30:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-37288/package.tgz",
@@ -9660,7 +9672,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/pw-genomic-study-backport/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "pw-genomic-study-backport",
-        "lastSeen": "2023-10-17T22:33:33.000Z"
+        "lastSeen": "2023-10-18T12:06:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -9883,6 +9895,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "emptyReasonModeling",
         "lastSeen": "2023-10-05T02:04:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonNarrative/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "emptyReasonNarrative",
+        "lastSeen": "2023-10-18T12:44:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
