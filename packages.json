@@ -377,6 +377,18 @@
     ],
     "current": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/master/package.tgz"
   },
+  "catopia.fhir.smart-immunizations-measles": {
+    "name": "catopia.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/litlfred/smart-immunizations-measles-catopia/branches/main/package.tgz",
+        "repo": "https://github.com/litlfred/smart-immunizations-measles-catopia",
+        "branch": "main",
+        "lastSeen": "2023-10-19T11:48:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/litlfred/smart-immunizations-measles-catopia/branches/main/package.tgz"
+  },
   "ccu": {
     "name": "ccu",
     "locations": [
@@ -9018,7 +9030,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-10-19T11:08:04.000Z"
+        "lastSeen": "2023-10-19T12:04:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/main/package.tgz",
@@ -9600,7 +9612,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-41378/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-41378",
-        "lastSeen": "2023-10-04T20:40:22.000Z"
+        "lastSeen": "2023-10-19T12:07:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-40566/package.tgz",
@@ -12318,7 +12330,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testMed/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testMed",
         "branch": "main",
-        "lastSeen": "2023-10-18T19:18:12.000Z"
+        "lastSeen": "2023-10-19T12:42:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testMed/branches/main/package.tgz"

@@ -128,6 +128,14 @@
     }
   },
   {
+    "name": "catopia.fhir.smart-immunizations-measles",
+    "current": {
+      "url": "https://build.fhir.org/ig/litlfred/smart-immunizations-measles-catopia/branches/main/package.tgz",
+      "repo": "https://github.com/litlfred/smart-immunizations-measles-catopia",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ccu",
     "current": {
       "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
