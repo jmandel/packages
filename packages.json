@@ -4926,7 +4926,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-10-13T12:26:50.000Z"
+        "lastSeen": "2023-10-20T07:37:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -5628,7 +5628,7 @@
         "url": "https://build.fhir.org/ig/IOP-ezCaretech/mi-phr/branches/master/package.tgz",
         "repo": "https://github.com/IOP-ezCaretech/mi-phr",
         "branch": "master",
-        "lastSeen": "2023-10-20T06:14:56.000Z"
+        "lastSeen": "2023-10-20T07:18:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IOP-ezCaretech/mi-phr/branches/master/package.tgz"
@@ -9486,7 +9486,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2023-10-12T07:57:10.000Z"
+        "lastSeen": "2023-10-20T07:06:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -9636,7 +9636,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-40566/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-40566",
-        "lastSeen": "2023-10-18T12:30:29.000Z"
+        "lastSeen": "2023-10-20T07:09:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-37288/package.tgz",
@@ -9769,6 +9769,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "pw-genomic-study-backport",
         "lastSeen": "2023-10-19T23:41:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/somaticExample/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "somaticExample",
+        "lastSeen": "2023-10-20T07:38:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
