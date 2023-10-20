@@ -9774,7 +9774,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/somaticExample/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "somaticExample",
-        "lastSeen": "2023-10-20T07:38:17.000Z"
+        "lastSeen": "2023-10-20T07:49:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -12720,7 +12720,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2023-10-19T13:32:20.000Z"
+        "lastSeen": "2023-10-20T08:23:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
@@ -13378,6 +13378,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/TerminologyServices/branches/master/package.tgz"
+  },
+  "testIgNameExtensions": {
+    "name": "testIgNameExtensions",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/adamzkover/testIgNameExtensions/branches/main/package.tgz",
+        "repo": "https://github.com/adamzkover/testIgNameExtensions",
+        "branch": "main",
+        "lastSeen": "2023-10-20T08:00:37.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/adamzkover/testIgNameExtensions/branches/main/package.tgz"
   },
   "tewhatuora.fhir.ig.fhir-nzips": {
     "name": "tewhatuora.fhir.ig.fhir-nzips",
