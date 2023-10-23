@@ -3114,13 +3114,13 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "Jira-updates",
-        "lastSeen": "2023-10-21T05:00:45.000Z"
+        "lastSeen": "2023-10-23T17:33:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2023-10-20T17:25:47.000Z"
+        "lastSeen": "2023-10-23T17:34:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -3264,7 +3264,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-sd",
         "branch": "master",
-        "lastSeen": "2023-10-23T17:24:57.000Z"
+        "lastSeen": "2023-10-23T18:01:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/simple-datatypes/package.tgz",
@@ -3301,6 +3301,12 @@
         "repo": "https://github.com/HL7/CDA-core-sd",
         "branch": "unordered-choice",
         "lastSeen": "2023-10-12T16:55:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/2.0.0-sd-ballot/package.tgz",
+        "repo": "https://github.com/HL7/CDA-core-sd",
+        "branch": "2.0.0-sd-ballot",
+        "lastSeen": "2023-10-23T18:07:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/master/package.tgz"
@@ -8082,7 +8088,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/narrative-cleanup/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "narrative-cleanup",
-        "lastSeen": "2023-10-23T13:34:24.000Z"
+        "lastSeen": "2023-10-23T18:21:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fhir-42985/package.tgz",
@@ -8352,7 +8358,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-registry-protocols-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-registry-protocols-ig",
         "branch": "master",
-        "lastSeen": "2023-10-23T17:17:43.000Z"
+        "lastSeen": "2023-10-23T17:55:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-registry-protocols-ig/branches/master/package.tgz"
@@ -8934,7 +8940,13 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/VRDR_CleanUp/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "VRDR_CleanUp",
-        "lastSeen": "2023-10-23T16:01:30.000Z"
+        "lastSeen": "2023-10-23T17:16:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/clean-up/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "clean-up",
+        "lastSeen": "2023-10-23T17:13:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -12738,7 +12750,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/ehmi_mCSD",
         "branch": "main",
-        "lastSeen": "2023-10-23T15:45:30.000Z"
+        "lastSeen": "2023-10-23T18:07:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz"
