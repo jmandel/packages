@@ -72,14 +72,6 @@
     }
   },
   {
-    "name": "fhir.cqf.ccc",
-    "current": {
-      "url": "https://build.fhir.org/ig/cqframework/cqf-ccc/branches/qa-check/package.tgz",
-      "repo": "https://github.com/cqframework/cqf-ccc",
-      "branch": "qa-check"
-    }
-  },
-  {
     "name": "fhir.who.smart-base",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base-old/branches/main/package.tgz",

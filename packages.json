@@ -781,6 +781,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "valuesets_mz",
         "lastSeen": "2023-10-21T13:09:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_conformsto/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "oe_conformsto",
+        "lastSeen": "2023-10-23T13:22:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -1075,6 +1081,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "mz_cm-vs-error",
         "lastSeen": "2023-09-22T06:45:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_url_resolve/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "oe_url_resolve",
+        "lastSeen": "2023-10-23T13:31:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -8047,6 +8059,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "Use_Case_Content_Buttons",
         "lastSeen": "2023-10-18T16:53:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/narrative-cleanup/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "narrative-cleanup",
+        "lastSeen": "2023-10-23T13:34:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
