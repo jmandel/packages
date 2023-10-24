@@ -6294,7 +6294,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-10-24T20:06:31.000Z"
+        "lastSeen": "2023-10-24T21:13:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -7501,6 +7501,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "fixCMWarning",
         "lastSeen": "2023-10-23T14:33:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/updatePubReq/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "updatePubReq",
+        "lastSeen": "2023-10-24T20:43:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -7848,7 +7854,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-10-23T23:38:58.000Z"
+        "lastSeen": "2023-10-24T21:15:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -8107,6 +8113,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-42985",
         "lastSeen": "2023-10-23T16:58:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/invariant_errors/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "invariant_errors",
+        "lastSeen": "2023-10-24T20:54:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -12192,7 +12204,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.APS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.APS",
         "branch": "master",
-        "lastSeen": "2023-10-24T20:08:42.000Z"
+        "lastSeen": "2023-10-24T20:51:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.APS/branches/master/package.tgz"
