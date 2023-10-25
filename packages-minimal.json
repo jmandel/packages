@@ -3888,6 +3888,14 @@
     }
   },
   {
+    "name": "zm-fhir-smart-immunizations-measles",
+    "current": {
+      "url": "https://build.fhir.org/ig/MOH-Zambia/smart-immunizations-measles/branches/main/package.tgz",
+      "repo": "https://github.com/MOH-Zambia/smart-immunizations-measles",
+      "branch": "main"
+    }
+  },
+  {
     "name": "zm.gov.moh.fhir.smart-immunizations-measles",
     "current": {
       "url": "https://build.fhir.org/ig/MOH-Zambia/smart-immunizations-measles/branches/main/package.tgz",
