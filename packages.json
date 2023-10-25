@@ -35,6 +35,42 @@
     ],
     "current": "https://build.fhir.org/ig/vyenugadhati/ChgIGTest/branches/main/package.tgz"
   },
+  "Hellomed.fhir.smart-immunizations-measles": {
+    "name": "Hellomed.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/rukundoaloyz/smart-immunizations-measles/branches/main/package.tgz",
+        "repo": "https://github.com/rukundoaloyz/smart-immunizations-measles",
+        "branch": "main",
+        "lastSeen": "2023-10-25T09:44:31.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/rukundoaloyz/smart-immunizations-measles/branches/main/package.tgz"
+  },
+  "KenyaSM.fhir.smart-immunizations-measles": {
+    "name": "KenyaSM.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/samkanga/smart-immunizations-measles-KenyaSM/branches/main/package.tgz",
+        "repo": "https://github.com/samkanga/smart-immunizations-measles-KenyaSM",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:36:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/samkanga/smart-immunizations-measles-KenyaSM/branches/main/package.tgz"
+  },
+  "PatLand-who.fhir.smart-immunizations-measles": {
+    "name": "PatLand-who.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/PatriciaRose963/smart-immunizations-measles_PatLand/branches/main/package.tgz",
+        "repo": "https://github.com/PatriciaRose963/smart-immunizations-measles_PatLand",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:35:26.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/PatriciaRose963/smart-immunizations-measles_PatLand/branches/main/package.tgz"
+  },
   "StandardPatientHealthRecordIG": {
     "name": "StandardPatientHealthRecordIG",
     "locations": [
@@ -148,6 +184,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-fhir/branches/main/package.tgz"
+  },
+  "antartica.fhir.smart-immunizations-measles": {
+    "name": "antartica.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/carlsbox/smart-immunizations-measles-antartica/branches/main/package.tgz",
+        "repo": "https://github.com/carlsbox/smart-immunizations-measles-antartica",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:18:22.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/carlsbox/smart-immunizations-measles-antartica/branches/main/package.tgz"
   },
   "arkhn.fhir.uv.osiris": {
     "name": "arkhn.fhir.uv.osiris",
@@ -1996,6 +2044,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/KL-dk-tools/branches/main/package.tgz"
+  },
+  "donlandia.fhir.smart-immunizations-measles": {
+    "name": "donlandia.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/brooksdonald/smart-immunizations-measles-donlandia/branches/main/package.tgz",
+        "repo": "https://github.com/brooksdonald/smart-immunizations-measles-donlandia",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:29:54.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/brooksdonald/smart-immunizations-measles-donlandia/branches/main/package.tgz"
   },
   "ebm-cpg.netzwerk-universitaetsmedizin.de": {
     "name": "ebm-cpg.netzwerk-universitaetsmedizin.de",
@@ -12954,7 +13014,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.3.0-rc1-master-/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "2.3.0-rc1-master-",
-        "lastSeen": "2023-10-25T08:02:26.000Z"
+        "lastSeen": "2023-10-25T10:26:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -13205,6 +13265,18 @@
     ],
     "current": "https://build.fhir.org/ig/costateixeira/r5demo/branches/master/package.tgz"
   },
+  "mh.fhir.smart-immunizations-measles": {
+    "name": "mh.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/mimohuss/mh-smart-immunizations-measles/branches/main/package.tgz",
+        "repo": "https://github.com/mimohuss/mh-smart-immunizations-measles",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:34:47.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/mimohuss/mh-smart-immunizations-measles/branches/main/package.tgz"
+  },
   "minsal.fhir.core": {
     "name": "minsal.fhir.core",
     "locations": [
@@ -13228,6 +13300,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/awatson1978/fhir-access-control-ig/branches/master/package.tgz"
+  },
+  "moh.catopiatz.fhir.smart-immunizations-measles-tz": {
+    "name": "moh.catopiatz.fhir.smart-immunizations-measles-tz",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/jennylthompson/smart-immunizations-measles-tz/branches/main/package.tgz",
+        "repo": "https://github.com/jennylthompson/smart-immunizations-measles-tz",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:23:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/jennylthompson/smart-immunizations-measles-tz/branches/main/package.tgz"
   },
   "my-ig": {
     "name": "my-ig",
@@ -13517,6 +13601,18 @@
     ],
     "current": "https://build.fhir.org/ig/robeastwood-agency/test-fhir-ig/branches/main/package.tgz"
   },
+  "rwanda.fhir.smart-immunizations-measles": {
+    "name": "rwanda.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Emma-Marie-UMUTONIWASE/smart-immunizations-measles/branches/main/package.tgz",
+        "repo": "https://github.com/Emma-Marie-UMUTONIWASE/smart-immunizations-measles",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:24:25.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Emma-Marie-UMUTONIWASE/smart-immunizations-measles/branches/main/package.tgz"
+  },
   "sequoiaproject.fhir.us.pushnotifications": {
     "name": "sequoiaproject.fhir.us.pushnotifications",
     "locations": [
@@ -13612,6 +13708,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/IHTSDO/snomed-ig/branches/master/package.tgz"
+  },
+  "tanzania.fhir.smart-immunizations-measles": {
+    "name": "tanzania.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/johnatwho/smart-immunizations-measles-tanzania/branches/main/package.tgz",
+        "repo": "https://github.com/johnatwho/smart-immunizations-measles-tanzania",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:15:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fidelis1001/smart-immunizations-measles-tanzania/branches/main/package.tgz",
+        "repo": "https://github.com/fidelis1001/smart-immunizations-measles-tanzania",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:17:23.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/fidelis1001/smart-immunizations-measles-tanzania/branches/main/package.tgz"
   },
   "terminology-services": {
     "name": "terminology-services",
@@ -14035,6 +14149,18 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
         "branch": "fixing-sm-contra",
         "lastSeen": "2023-10-25T08:07:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/steveleshan/smart-immunizations-measles-Kenya/branches/main/package.tgz",
+        "repo": "https://github.com/steveleshan/smart-immunizations-measles-Kenya",
+        "branch": "main",
+        "lastSeen": "2023-10-25T09:44:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/DanielNgandu/smart-immunizations-measles-path-zambia/branches/main/package.tgz",
+        "repo": "https://github.com/DanielNgandu/smart-immunizations-measles-path-zambia",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:27:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
@@ -14194,5 +14320,29 @@
       }
     ],
     "current": "https://build.fhir.org/ig/openhie/empty-fhir-ig/branches/master/package.tgz"
+  },
+  "zambia.fhir.smart-immunizations-measles": {
+    "name": "zambia.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/rmrlangford/smart-immunizations-measles/branches/main/package.tgz",
+        "repo": "https://github.com/rmrlangford/smart-immunizations-measles",
+        "branch": "main",
+        "lastSeen": "2023-10-25T09:44:39.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/rmrlangford/smart-immunizations-measles/branches/main/package.tgz"
+  },
+  "zm.gov.moh.fhir.smart-immunizations-measles": {
+    "name": "zm.gov.moh.fhir.smart-immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/MOH-Zambia/smart-immunizations-measles/branches/main/package.tgz",
+        "repo": "https://github.com/MOH-Zambia/smart-immunizations-measles",
+        "branch": "main",
+        "lastSeen": "2023-10-25T10:09:01.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/MOH-Zambia/smart-immunizations-measles/branches/main/package.tgz"
   }
 }
