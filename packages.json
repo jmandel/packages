@@ -390,7 +390,7 @@
         "url": "https://build.fhir.org/ig/litlfred/smart-immunizations-measles-catopia/branches/main/package.tgz",
         "repo": "https://github.com/litlfred/smart-immunizations-measles-catopia",
         "branch": "main",
-        "lastSeen": "2023-10-25T06:01:23.000Z"
+        "lastSeen": "2023-10-25T07:12:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-immunizations-measles-catopia/branches/main/package.tgz"
@@ -2892,13 +2892,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ot/branches/test/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ot",
         "branch": "test",
-        "lastSeen": "2023-10-24T13:55:45.000Z"
+        "lastSeen": "2023-10-25T07:25:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ot/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ot",
         "branch": "main",
-        "lastSeen": "2023-10-22T13:53:56.000Z"
+        "lastSeen": "2023-10-25T07:26:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ot/branches/action/package.tgz",
@@ -4206,7 +4206,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "master",
-        "lastSeen": "2023-08-30T07:17:20.000Z"
+        "lastSeen": "2023-10-25T07:21:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/releasecandidate/package.tgz",
@@ -4242,7 +4242,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-54/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "issue-54",
-        "lastSeen": "2023-08-29T15:30:15.000Z"
+        "lastSeen": "2023-10-25T07:19:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-58/package.tgz",
@@ -5545,6 +5545,12 @@
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "warn-for-bad-examples",
         "lastSeen": "2023-10-22T11:18:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/remove-register-details/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-base-profiles",
+        "branch": "remove-register-details",
+        "lastSeen": "2023-10-25T06:48:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/package.tgz"
@@ -12948,7 +12954,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2023-10-25T05:46:52.000Z"
+        "lastSeen": "2023-10-25T06:58:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
