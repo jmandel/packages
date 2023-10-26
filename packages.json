@@ -8268,7 +8268,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/ig_publisher_1.4.16/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "ig_publisher_1.4.16",
-        "lastSeen": "2023-10-25T13:10:02.000Z"
+        "lastSeen": "2023-10-26T17:14:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-qa-cleanup/package.tgz",
@@ -11701,6 +11701,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-479-Move-edible-substance-type-value-set-from-FHIR-core-to-THO",
         "lastSeen": "2023-10-25T08:56:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-480-Update-numerator-definition-in-MeasurePopulationType-code-system/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-480-Update-numerator-definition-in-MeasurePopulationType-code-system",
+        "lastSeen": "2023-10-26T16:38:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -12270,7 +12276,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/match/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "match",
-        "lastSeen": "2023-10-26T15:10:25.000Z"
+        "lastSeen": "2023-10-26T17:13:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/oe_pdqmresults/package.tgz",
@@ -12324,7 +12330,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.Scheduling",
         "branch": "master",
-        "lastSeen": "2023-10-26T16:01:50.000Z"
+        "lastSeen": "2023-10-26T17:40:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/IHE-Scheduling-AH2/package.tgz",
