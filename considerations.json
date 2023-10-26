@@ -336,14 +336,6 @@
     }
   },
   {
-    "name": "who.fhir.smart-immunizations-measles",
-    "current": {
-      "url": "https://build.fhir.org/ig/DanielNgandu/smart-immunizations-measles-path-zambia/branches/main/package.tgz",
-      "repo": "https://github.com/DanielNgandu/smart-immunizations-measles-path-zambia",
-      "branch": "main"
-    }
-  },
-  {
     "name": "xxxexample.fhir.uv.myig",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-pt/draft-et-rse/branches/main/package.tgz",
