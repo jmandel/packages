@@ -4878,13 +4878,19 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "master",
-        "lastSeen": "2023-08-16T14:11:51.000Z"
+        "lastSeen": "2023-10-30T18:35:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-update-template/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "es-update-template",
         "lastSeen": "2023-10-27T01:35:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/isolate-templateid/package.tgz",
+        "repo": "https://github.com/HL7-Canada/ca-baseline",
+        "branch": "isolate-templateid",
+        "lastSeen": "2023-10-30T18:34:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz"
@@ -6738,7 +6744,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2023-10-27T16:49:56.000Z"
+        "lastSeen": "2023-10-30T17:53:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -9000,7 +9006,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-10-23T21:43:51.000Z"
+        "lastSeen": "2023-10-30T18:19:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
