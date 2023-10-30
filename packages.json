@@ -2214,7 +2214,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2023-10-06T16:47:05.000Z"
+        "lastSeen": "2023-10-30T08:21:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -9648,7 +9648,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2023-10-30T07:18:26.000Z"
+        "lastSeen": "2023-10-30T07:48:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
@@ -13302,7 +13302,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.3.0-rc1-master-/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "2.3.0-rc1-master-",
-        "lastSeen": "2023-10-25T10:26:27.000Z"
+        "lastSeen": "2023-10-30T07:43:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -13405,6 +13405,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "master",
         "lastSeen": "2023-07-06T07:34:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.1.0-rc1-master/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "2.1.0-rc1-master",
+        "lastSeen": "2023-10-30T08:15:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
