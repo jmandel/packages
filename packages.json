@@ -3349,6 +3349,12 @@
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "addr-test",
         "lastSeen": "2023-10-27T22:25:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/timezone-test/package.tgz",
+        "repo": "https://github.com/HL7/CDA-ccda",
+        "branch": "timezone-test",
+        "lastSeen": "2023-10-31T02:21:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -6534,7 +6540,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-10-31T00:06:29.000Z"
+        "lastSeen": "2023-10-31T03:10:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -9666,7 +9672,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2023-10-31T02:42:48.000Z"
+        "lastSeen": "2023-10-31T02:57:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
