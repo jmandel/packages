@@ -6330,7 +6330,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/narrative-text/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "narrative-text",
-        "lastSeen": "2023-10-31T17:48:13.000Z"
+        "lastSeen": "2023-10-31T19:47:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz"
@@ -6546,7 +6546,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-10-31T03:10:18.000Z"
+        "lastSeen": "2023-10-31T19:32:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -9600,7 +9600,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-10-31T19:27:50.000Z"
+        "lastSeen": "2023-10-31T19:41:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -12235,6 +12235,12 @@
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "4.2.1",
         "lastSeen": "2023-08-08T11:59:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/identifier_profile/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "identifier_profile",
+        "lastSeen": "2023-10-31T19:57:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
@@ -13224,7 +13230,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/ehmi_mCSD",
         "branch": "main",
-        "lastSeen": "2023-10-31T19:19:57.000Z"
+        "lastSeen": "2023-10-31T19:57:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz"
@@ -14448,7 +14454,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
         "branch": "main",
-        "lastSeen": "2023-10-31T07:57:27.000Z"
+        "lastSeen": "2023-10-31T20:09:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/release-candidate/package.tgz",
