@@ -9030,7 +9030,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-11-01T16:30:00.000Z"
+        "lastSeen": "2023-11-01T17:58:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -11292,7 +11292,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/processing-algorithm/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "processing-algorithm",
-        "lastSeen": "2023-11-01T16:01:27.000Z"
+        "lastSeen": "2023-11-01T17:57:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -12187,6 +12187,12 @@
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "typos110",
         "lastSeen": "2023-10-31T21:57:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/tx_typos/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DSUBm",
+        "branch": "tx_typos",
+        "lastSeen": "2023-11-01T18:15:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz"
@@ -12673,6 +12679,12 @@
         "repo": "https://github.com/IHE/PCC.APS",
         "branch": "master",
         "lastSeen": "2023-10-24T22:43:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/master/package.tgz",
+        "repo": "https://github.com/IHE/PCC.mAPS",
+        "branch": "master",
+        "lastSeen": "2023-11-01T17:44:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.APS/branches/master/package.tgz"
