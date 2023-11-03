@@ -5094,7 +5094,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/snre/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/snre",
         "branch": "master",
-        "lastSeen": "2023-10-12T20:39:59.000Z"
+        "lastSeen": "2023-11-03T20:30:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/snre/branches/master/package.tgz"
@@ -8208,7 +8208,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-11-03T17:52:05.000Z"
+        "lastSeen": "2023-11-03T20:19:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -9439,6 +9439,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "codedFetalDeath",
         "lastSeen": "2023-11-02T22:30:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/procedure-fix/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "procedure-fix",
+        "lastSeen": "2023-11-03T19:57:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -10812,7 +10818,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-03T02:03:00.000Z"
+        "lastSeen": "2023-11-03T20:37:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
