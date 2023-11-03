@@ -2892,7 +2892,7 @@
         "url": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz",
         "repo": "https://github.com/cens-chile/giis_fhir_IG",
         "branch": "main",
-        "lastSeen": "2023-10-30T19:32:07.000Z"
+        "lastSeen": "2023-11-03T18:07:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz"
@@ -4968,7 +4968,7 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "master",
-        "lastSeen": "2023-10-30T18:35:54.000Z"
+        "lastSeen": "2023-11-03T18:35:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-update-template/package.tgz",
@@ -4981,6 +4981,12 @@
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "isolate-templateid",
         "lastSeen": "2023-10-30T18:34:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/DiagnosticReport-effective-changes/package.tgz",
+        "repo": "https://github.com/HL7-Canada/ca-baseline",
+        "branch": "DiagnosticReport-effective-changes",
+        "lastSeen": "2023-11-03T17:56:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz"
@@ -6624,7 +6630,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-11-03T16:13:28.000Z"
+        "lastSeen": "2023-11-03T17:52:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -8202,7 +8208,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-11-02T16:03:43.000Z"
+        "lastSeen": "2023-11-03T17:52:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -9114,7 +9120,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-11-02T17:58:08.000Z"
+        "lastSeen": "2023-11-03T17:43:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -9420,7 +9426,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/VRDR-tx-reorg/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "VRDR-tx-reorg",
-        "lastSeen": "2023-11-02T03:09:20.000Z"
+        "lastSeen": "2023-11-03T17:57:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/artifacts-clean-up/package.tgz",
@@ -12858,7 +12864,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.ODH",
         "branch": "master",
-        "lastSeen": "2023-11-03T11:16:42.000Z"
+        "lastSeen": "2023-11-03T18:23:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz"
@@ -12912,7 +12918,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/main/package.tgz",
         "repo": "https://github.com/IHE/pharm-meow",
         "branch": "main",
-        "lastSeen": "2023-11-03T17:43:04.000Z"
+        "lastSeen": "2023-11-03T17:55:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/history/package.tgz",
@@ -14700,7 +14706,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
         "branch": "main",
-        "lastSeen": "2023-11-03T15:42:04.000Z"
+        "lastSeen": "2023-11-03T17:58:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/release-candidate/package.tgz",
