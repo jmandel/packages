@@ -1404,7 +1404,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "master",
-        "lastSeen": "2023-10-21T09:41:16.000Z"
+        "lastSeen": "2023-11-03T14:31:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/1-tvt/package.tgz",
@@ -1452,7 +1452,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/4-sepsis/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "4-sepsis",
-        "lastSeen": "2023-11-02T21:11:42.000Z"
+        "lastSeen": "2023-11-03T14:11:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/categorization-observation/package.tgz",
@@ -1596,7 +1596,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2023-11-03T12:43:48.000Z"
+        "lastSeen": "2023-11-03T14:35:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -9535,6 +9535,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "master",
         "lastSeen": "2021-11-09T20:35:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/show-cardinality/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "show-cardinality",
+        "lastSeen": "2023-11-03T14:16:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -12270,7 +12276,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "master",
-        "lastSeen": "2023-11-03T13:25:51.000Z"
+        "lastSeen": "2023-11-03T14:30:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/switch_r4b_2_r4/package.tgz",
@@ -12313,6 +12319,12 @@
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "notification-shape",
         "lastSeen": "2023-11-03T13:23:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/34-must-a-resource-notification-broker-support-all-filter-criteria/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DSUBm",
+        "branch": "34-must-a-resource-notification-broker-support-all-filter-criteria",
+        "lastSeen": "2023-11-03T14:29:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz"
