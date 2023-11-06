@@ -3648,7 +3648,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-11-06T14:15:24.000Z"
+        "lastSeen": "2023-11-06T15:00:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -3708,7 +3708,7 @@
         "url": "https://build.fhir.org/ig/gatekeeper-project/gk-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/gatekeeper-project/gk-fhir-ig",
         "branch": "master",
-        "lastSeen": "2023-06-23T08:24:24.000Z"
+        "lastSeen": "2023-11-06T15:35:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gatekeeper-project/gk-fhir-ig/branches/master/package.tgz"
@@ -5226,13 +5226,13 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/v.3.1.0-rc1/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "v.3.1.0-rc1",
-        "lastSeen": "2023-10-24T15:34:10.000Z"
+        "lastSeen": "2023-11-06T15:17:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/v.3.0.0-rc1/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "v.3.0.0-rc1",
-        "lastSeen": "2023-10-17T13:38:55.000Z"
+        "lastSeen": "2023-11-06T15:24:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -9426,7 +9426,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/dataDictUpdates/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "dataDictUpdates",
-        "lastSeen": "2023-11-06T13:45:10.000Z"
+        "lastSeen": "2023-11-06T15:03:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/VRCL-tx-reorg/package.tgz",
@@ -9768,7 +9768,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-11-06T10:50:49.000Z"
+        "lastSeen": "2023-11-06T15:01:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -9846,7 +9846,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2023-11-06T13:26:58.000Z"
+        "lastSeen": "2023-11-06T15:40:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
@@ -12108,7 +12108,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-gender-harmony",
         "branch": "main",
-        "lastSeen": "2023-09-29T04:21:27.000Z"
+        "lastSeen": "2023-11-06T15:37:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-gender-harmony/branches/coopers-edits/package.tgz",
@@ -12216,7 +12216,7 @@
         "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz",
         "repo": "https://github.com/IHE/supplement-template",
         "branch": "master",
-        "lastSeen": "2023-10-30T20:51:26.000Z"
+        "lastSeen": "2023-11-06T14:47:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.NPFS/branches/html-editing/package.tgz",
@@ -12744,7 +12744,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/match/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "match",
-        "lastSeen": "2023-10-30T14:40:11.000Z"
+        "lastSeen": "2023-11-06T15:12:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/oe_pdqmresults/package.tgz",
@@ -13054,6 +13054,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/fhir-bfdr/branches/master/package.tgz"
+  },
+  "ihe.rad.idr": {
+    "name": "ihe.rad.idr",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IHE/RAD.IDR/branches/master/package.tgz",
+        "repo": "https://github.com/IHE/RAD.IDR",
+        "branch": "master",
+        "lastSeen": "2023-11-06T15:25:14.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IHE/RAD.IDR/branches/master/package.tgz"
   },
   "ihe.rad.imr": {
     "name": "ihe.rad.imr",
@@ -13530,7 +13542,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-mCSD/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-mCSD",
         "branch": "main",
-        "lastSeen": "2023-11-06T14:19:20.000Z"
+        "lastSeen": "2023-11-06T14:58:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz"
