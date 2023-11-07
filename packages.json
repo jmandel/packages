@@ -828,7 +828,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2023-11-02T17:08:09.000Z"
+        "lastSeen": "2023-11-07T09:46:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -1248,7 +1248,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_url_resolve/package.tgz",
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "oe_url_resolve",
-        "lastSeen": "2023-10-23T13:47:56.000Z"
+        "lastSeen": "2023-11-07T10:20:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -1410,7 +1410,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "master",
-        "lastSeen": "2023-11-03T14:31:45.000Z"
+        "lastSeen": "2023-11-07T09:42:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/1-tvt/package.tgz",
@@ -1968,7 +1968,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2023-11-07T00:39:02.000Z"
+        "lastSeen": "2023-11-07T10:13:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -13566,7 +13566,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-mCSD/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-mCSD",
         "branch": "main",
-        "lastSeen": "2023-11-07T09:37:10.000Z"
+        "lastSeen": "2023-11-07T10:05:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz"
@@ -14896,6 +14896,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
+  },
+  "who.fhir.smart-ips-pilgrimage": {
+    "name": "who.fhir.smart-ips-pilgrimage",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
+        "branch": "main",
+        "lastSeen": "2023-11-07T10:30:29.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
   },
   "who.fhir.smart-ot": {
     "name": "who.fhir.smart-ot",
