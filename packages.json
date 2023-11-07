@@ -9523,6 +9523,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "renameContent",
         "lastSeen": "2023-11-07T18:15:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/abstractObservation/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "abstractObservation",
+        "lastSeen": "2023-11-07T19:36:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -10896,7 +10902,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-07T19:26:50.000Z"
+        "lastSeen": "2023-11-07T20:22:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -11244,7 +11250,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/master/package.tgz",
         "repo": "https://github.com/HL7/smart-app-launch",
         "branch": "master",
-        "lastSeen": "2023-11-07T16:58:39.000Z"
+        "lastSeen": "2023-11-07T19:44:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/pab/package.tgz",
