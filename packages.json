@@ -6036,7 +6036,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "master",
-        "lastSeen": "2023-11-02T14:20:29.000Z"
+        "lastSeen": "2023-11-09T20:36:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/fix-build-links/package.tgz",
@@ -6078,7 +6078,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/v1-0-0/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "v1-0-0",
-        "lastSeen": "2023-11-02T14:25:05.000Z"
+        "lastSeen": "2023-11-09T20:38:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/restore-ci-mode/package.tgz",
@@ -6090,7 +6090,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/finishing-touches/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "finishing-touches",
-        "lastSeen": "2023-11-07T15:21:43.000Z"
+        "lastSeen": "2023-11-09T20:28:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz"
@@ -7068,7 +7068,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2023-11-09T11:27:35.000Z"
+        "lastSeen": "2023-11-09T19:41:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -9162,7 +9162,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/STU2-initial/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "STU2-initial",
-        "lastSeen": "2023-11-09T19:05:21.000Z"
+        "lastSeen": "2023-11-09T19:44:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -10225,6 +10225,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "2023-10-gg-qa",
         "lastSeen": "2023-10-31T06:24:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/br-cds-extension-qa-2023-11-09/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "br-cds-extension-qa-2023-11-09",
+        "lastSeen": "2023-11-09T20:01:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -11016,7 +11022,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-09T19:08:45.000Z"
+        "lastSeen": "2023-11-09T20:17:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -12252,7 +12258,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-480-Update-numerator-definition-in-MeasurePopulationType-code-system/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-480-Update-numerator-definition-in-MeasurePopulationType-code-system",
-        "lastSeen": "2023-10-26T16:38:05.000Z"
+        "lastSeen": "2023-11-09T19:23:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-458-Allow-CMS-Place-of-Service-codes-for-HealthcareServiceLocation/package.tgz",
