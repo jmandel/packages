@@ -3384,13 +3384,19 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-hl7",
         "branch": "master",
-        "lastSeen": "2023-11-14T00:12:14.000Z"
+        "lastSeen": "2023-11-16T20:35:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/costateixeira-patch-1/package.tgz",
         "repo": "https://github.com/HL7/ig-template-hl7",
         "branch": "costateixeira-patch-1",
         "lastSeen": "2023-10-20T13:03:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/2023-11-gg-messages/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-hl7",
+        "branch": "2023-11-gg-messages",
+        "lastSeen": "2023-11-16T20:02:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz"
@@ -6540,7 +6546,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fixwarnings/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "fixwarnings",
-        "lastSeen": "2023-11-16T01:08:28.000Z"
+        "lastSeen": "2023-11-16T19:49:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7266,7 +7272,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2023-11-16T19:20:28.000Z"
+        "lastSeen": "2023-11-16T19:55:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -8178,7 +8184,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2023-11-16T19:04:50.000Z"
+        "lastSeen": "2023-11-16T20:21:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -8988,7 +8994,7 @@
         "url": "https://build.fhir.org/ig/standardhealth/ped-cancer-ig/branches/1024-high-priority-changes/package.tgz",
         "repo": "https://github.com/standardhealth/ped-cancer-ig",
         "branch": "1024-high-priority-changes",
-        "lastSeen": "2023-10-24T18:57:14.000Z"
+        "lastSeen": "2023-11-16T19:40:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/standardhealth/ped-cancer-ig/branches/master/package.tgz"
@@ -9366,7 +9372,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-11-16T18:16:10.000Z"
+        "lastSeen": "2023-11-16T20:27:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -10597,6 +10603,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "br-cds-extension-qa-2023-11-09",
         "lastSeen": "2023-11-09T20:01:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/2023-11-gg-committee-case/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "2023-11-gg-committee-case",
+        "lastSeen": "2023-11-16T20:08:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -11394,7 +11406,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-16T19:02:00.000Z"
+        "lastSeen": "2023-11-16T20:25:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -12984,7 +12996,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/mlj-DSUBm-nov-2023-prepub-edits/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "mlj-DSUBm-nov-2023-prepub-edits",
-        "lastSeen": "2023-11-16T16:56:23.000Z"
+        "lastSeen": "2023-11-16T20:17:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/master/package.tgz"
@@ -13794,7 +13806,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentWithSegmentation",
         "branch": "main",
-        "lastSeen": "2023-11-16T17:05:25.000Z"
+        "lastSeen": "2023-11-16T20:23:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz"
