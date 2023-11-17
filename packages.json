@@ -6546,7 +6546,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/dataDict/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "dataDict",
-        "lastSeen": "2023-11-15T19:16:10.000Z"
+        "lastSeen": "2023-11-17T02:59:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fixwarnings/package.tgz",
@@ -9463,6 +9463,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "fetalDeathExt",
         "lastSeen": "2023-11-16T22:49:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/SDIntros/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "SDIntros",
+        "lastSeen": "2023-11-17T03:02:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -9937,6 +9943,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "profiles-moves",
         "lastSeen": "2023-11-15T20:57:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/DDPlurality/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "DDPlurality",
+        "lastSeen": "2023-11-17T03:08:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
