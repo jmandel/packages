@@ -3882,7 +3882,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2023-11-16T15:38:12.000Z"
+        "lastSeen": "2023-11-17T17:56:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz"
@@ -5166,7 +5166,7 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "master",
-        "lastSeen": "2023-11-14T19:01:43.000Z"
+        "lastSeen": "2023-11-17T18:31:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-update-template/package.tgz",
@@ -5543,6 +5543,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz"
   },
+  "hl7.fhir.eu.extensions.r4": {
+    "name": "hl7.fhir.eu.extensions.r4",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions-r4/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions-r4",
+        "branch": "master",
+        "lastSeen": "2023-11-17T18:03:26.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-eu/extensions-r4/branches/master/package.tgz"
+  },
   "hl7.fhir.eu.laboratory": {
     "name": "hl7.fhir.eu.laboratory",
     "locations": [
@@ -5556,7 +5568,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-11-17T09:59:24.000Z"
+        "lastSeen": "2023-11-17T18:30:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -6576,7 +6588,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fixwarnings/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "fixwarnings",
-        "lastSeen": "2023-11-17T17:12:28.000Z"
+        "lastSeen": "2023-11-17T17:43:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -9408,7 +9420,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-11-16T20:27:09.000Z"
+        "lastSeen": "2023-11-17T18:21:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -9492,7 +9504,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/SDIntros/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "SDIntros",
-        "lastSeen": "2023-11-17T03:02:47.000Z"
+        "lastSeen": "2023-11-17T18:15:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
