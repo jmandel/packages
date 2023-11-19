@@ -15089,6 +15089,18 @@
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
   },
+  "smart.who.int.immunizations-measles": {
+    "name": "smart.who.int.immunizations-measles",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
+        "branch": "main",
+        "lastSeen": "2023-11-19T19:59:18.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
+  },
   "snomed-ig": {
     "name": "snomed-ig",
     "locations": [
@@ -15246,7 +15258,7 @@
         "url": "https://build.fhir.org/ig/unicom-project-eu/d4.12/branches/master/package.tgz",
         "repo": "https://github.com/unicom-project-eu/d4.12",
         "branch": "master",
-        "lastSeen": "2023-11-19T12:44:57.000Z"
+        "lastSeen": "2023-11-19T20:01:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/unicom-project-eu/d4.12/branches/master/package.tgz"
