@@ -3936,13 +3936,13 @@
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/mpd-r5/package.tgz",
         "repo": "https://github.com/hl7-eu/unicom-ig",
         "branch": "mpd-r5",
-        "lastSeen": "2023-11-19T02:05:07.000Z"
+        "lastSeen": "2023-11-20T21:00:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/unicom-ig",
         "branch": "master",
-        "lastSeen": "2023-11-20T19:21:01.000Z"
+        "lastSeen": "2023-11-20T21:10:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/costateixeira-patch-1/package.tgz",
@@ -3967,6 +3967,12 @@
         "repo": "https://github.com/hl7-eu/unicom-ig",
         "branch": "costateixeira-patch-4",
         "lastSeen": "2023-11-14T18:49:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/costateixeira-patch-5/package.tgz",
+        "repo": "https://github.com/hl7-eu/unicom-ig",
+        "branch": "costateixeira-patch-5",
+        "lastSeen": "2023-11-20T21:09:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/master/package.tgz"
@@ -6624,7 +6630,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/dataDictWidths/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "dataDictWidths",
-        "lastSeen": "2023-11-20T20:20:28.000Z"
+        "lastSeen": "2023-11-20T21:14:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7494,7 +7500,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2023-11-20T17:32:28.000Z"
+        "lastSeen": "2023-11-20T20:45:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
@@ -10248,7 +10254,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/point-to-example-IGs/package.tgz",
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "point-to-example-IGs",
-        "lastSeen": "2023-11-20T19:14:20.000Z"
+        "lastSeen": "2023-11-20T20:37:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -10416,7 +10422,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-11-20T20:21:01.000Z"
+        "lastSeen": "2023-11-20T20:57:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -15168,7 +15174,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/release-candidate/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
         "branch": "release-candidate",
-        "lastSeen": "2023-11-20T20:14:31.000Z"
+        "lastSeen": "2023-11-20T21:09:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
