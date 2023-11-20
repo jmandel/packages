@@ -3552,7 +3552,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "Jira-updates",
-        "lastSeen": "2023-11-20T17:34:54.000Z"
+        "lastSeen": "2023-11-20T18:18:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
@@ -3942,7 +3942,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/unicom-ig",
         "branch": "master",
-        "lastSeen": "2023-11-14T18:50:36.000Z"
+        "lastSeen": "2023-11-20T19:21:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/costateixeira-patch-1/package.tgz",
@@ -7128,7 +7128,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2023-10-19T23:33:20.000Z"
+        "lastSeen": "2023-11-20T19:03:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -10237,6 +10237,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "chf-examples-to-fsh",
         "lastSeen": "2023-11-20T14:28:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/point-to-example-IGs/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "point-to-example-IGs",
+        "lastSeen": "2023-11-20T19:14:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -15264,7 +15270,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-nzps",
         "branch": "main",
-        "lastSeen": "2023-11-20T02:45:06.000Z"
+        "lastSeen": "2023-11-20T19:01:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz"
