@@ -72,14 +72,6 @@
     }
   },
   {
-    "name": "cqf.fhir.cds4cpm",
-    "current": {
-      "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/uflRefactor/package.tgz",
-      "repo": "https://github.com/cqframework/cds4cpm",
-      "branch": "uflRefactor"
-    }
-  },
-  {
     "name": "example.fhir.uv.myig",
     "current": {
       "url": "https://build.fhir.org/ig/NamGyu-Lee/phis-sample-ig/branches/master/package.tgz",
