@@ -714,7 +714,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2023-11-16T09:41:09.000Z"
+        "lastSeen": "2023-11-21T10:10:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -823,6 +823,18 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "oe_252",
         "lastSeen": "2023-11-06T20:06:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue254_identifierDataTypes/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue254_identifierDataTypes",
+        "lastSeen": "2023-11-21T10:05:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue256/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue256",
+        "lastSeen": "2023-11-21T10:11:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -2796,7 +2808,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG",
         "branch": "main",
-        "lastSeen": "2023-11-20T11:45:05.000Z"
+        "lastSeen": "2023-11-21T10:30:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/iclBranding/package.tgz",
@@ -2827,6 +2839,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG",
         "branch": "IMMZC_CodeSystem",
         "lastSeen": "2023-11-20T11:44:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/IMMZBRegisterClientProfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG",
+        "branch": "IMMZBRegisterClientProfile",
+        "lastSeen": "2023-11-21T10:29:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/main/package.tgz"
@@ -11550,7 +11568,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-20T03:58:37.000Z"
+        "lastSeen": "2023-11-21T10:33:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
