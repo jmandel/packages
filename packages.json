@@ -528,7 +528,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2023-11-22T21:03:19.000Z"
+        "lastSeen": "2023-11-22T22:37:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -6660,7 +6660,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-11-22T15:37:36.000Z"
+        "lastSeen": "2023-11-22T22:08:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -6744,13 +6744,19 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/examplenarrative/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "examplenarrative",
-        "lastSeen": "2023-11-22T21:06:02.000Z"
+        "lastSeen": "2023-11-22T21:43:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/transitionToCSV/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "transitionToCSV",
         "lastSeen": "2023-11-22T20:44:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/errorFix/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "errorFix",
+        "lastSeen": "2023-11-22T21:53:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -9067,6 +9073,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-qa-cleanup4",
         "lastSeen": "2023-11-22T21:19:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-pub-request-add/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mlt-pub-request-add",
+        "lastSeen": "2023-11-22T21:38:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -9102,7 +9114,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2023-10-27T23:11:27.000Z"
+        "lastSeen": "2023-11-22T21:47:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -10428,7 +10440,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/chf-examples-to-fsh/package.tgz",
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "chf-examples-to-fsh",
-        "lastSeen": "2023-11-22T21:21:46.000Z"
+        "lastSeen": "2023-11-22T22:03:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/point-to-example-IGs/package.tgz",
@@ -13752,7 +13764,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.Scheduling",
         "branch": "master",
-        "lastSeen": "2023-10-27T18:21:06.000Z"
+        "lastSeen": "2023-11-22T22:32:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/IHE-Scheduling-AH2/package.tgz",
