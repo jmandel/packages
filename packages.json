@@ -642,7 +642,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "master",
-        "lastSeen": "2023-11-22T15:38:16.000Z"
+        "lastSeen": "2023-11-22T15:48:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/updateLicense/package.tgz",
@@ -1464,7 +1464,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/IG-ohne-Q/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "IG-ohne-Q",
-        "lastSeen": "2023-11-22T10:03:11.000Z"
+        "lastSeen": "2023-11-22T15:46:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/publisher-1-5-4/package.tgz",
@@ -5430,7 +5430,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2023-11-22T13:11:14.000Z"
+        "lastSeen": "2023-11-22T15:48:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz"
@@ -6654,7 +6654,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-11-21T20:35:03.000Z"
+        "lastSeen": "2023-11-22T15:37:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -7164,7 +7164,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2023-11-21T15:05:31.000Z"
+        "lastSeen": "2023-11-22T16:01:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -9684,13 +9684,13 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/SDIntros/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "SDIntros",
-        "lastSeen": "2023-11-17T18:15:39.000Z"
+        "lastSeen": "2023-11-22T16:19:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/content-transition/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "content-transition",
-        "lastSeen": "2023-11-21T17:04:03.000Z"
+        "lastSeen": "2023-11-22T15:37:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/patientName/package.tgz",
@@ -10183,6 +10183,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "dataDictWidths",
         "lastSeen": "2023-11-21T21:40:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/dependencyTest/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "dependencyTest",
+        "lastSeen": "2023-11-22T16:28:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -10248,7 +10254,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/mdc/package.tgz",
         "repo": "https://github.com/HL7/fhir-ae-research-backport-ig",
         "branch": "mdc",
-        "lastSeen": "2023-07-14T15:42:49.000Z"
+        "lastSeen": "2023-11-22T16:32:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-backport-ig/branches/futurework/package.tgz",
@@ -10279,6 +10285,12 @@
         "repo": "https://github.com/HL7/fhir-ae-research-ig",
         "branch": "1.0.0-ballot",
         "lastSeen": "2023-07-30T14:01:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ae-research-ig/branches/mdc-ballot/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ae-research-ig",
+        "branch": "mdc-ballot",
+        "lastSeen": "2023-11-22T16:34:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ae-research-ig/branches/master/package.tgz"
@@ -11178,7 +11190,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-36792/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-36792",
-        "lastSeen": "2023-10-27T19:06:57.000Z"
+        "lastSeen": "2023-11-22T16:11:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-37750/package.tgz",
