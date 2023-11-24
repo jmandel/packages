@@ -528,7 +528,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2023-11-24T16:09:51.000Z"
+        "lastSeen": "2023-11-24T20:09:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -6720,7 +6720,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-11-24T17:14:22.000Z"
+        "lastSeen": "2023-11-24T20:10:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -10632,7 +10632,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2023-11-24T17:23:14.000Z"
+        "lastSeen": "2023-11-24T20:00:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz"
@@ -11335,6 +11335,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-43151",
         "lastSeen": "2023-11-22T14:05:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/LYTrent-patch-1/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "LYTrent-patch-1",
+        "lastSeen": "2023-11-24T20:16:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
