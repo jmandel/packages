@@ -336,6 +336,14 @@
     }
   },
   {
+    "name": "uptis-fhir-poc",
+    "current": {
+      "url": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/medschema-sandbox/package.tgz",
+      "repo": "https://github.com/TEHIK-EE/FHIR-PoC",
+      "branch": "medschema-sandbox"
+    }
+  },
+  {
     "name": "uv.esavi",
     "current": {
       "url": "https://build.fhir.org/ig/PanAmericanHealthOrganization/ESAVI-IG-FHIR/branches/master/package.tgz",
