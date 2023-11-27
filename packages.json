@@ -6870,7 +6870,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/structureDefToCSV/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "structureDefToCSV",
-        "lastSeen": "2023-11-27T16:51:57.000Z"
+        "lastSeen": "2023-11-27T17:54:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -9325,6 +9325,12 @@
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "frank",
         "lastSeen": "2023-11-27T17:08:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pdmp",
+        "branch": "scott",
+        "lastSeen": "2023-11-27T18:18:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz"
@@ -9858,7 +9864,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/scriptsToCSV/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "scriptsToCSV",
-        "lastSeen": "2023-11-27T17:14:34.000Z"
+        "lastSeen": "2023-11-27T18:19:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -9936,7 +9942,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-11-27T14:55:12.000Z"
+        "lastSeen": "2023-11-27T17:41:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -10764,7 +10770,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-11-26T23:12:41.000Z"
+        "lastSeen": "2023-11-27T18:08:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -11538,7 +11544,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kp-coverage-and-negatives/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "kp-coverage-and-negatives",
-        "lastSeen": "2023-11-22T23:02:09.000Z"
+        "lastSeen": "2023-11-27T18:37:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -11916,7 +11922,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-27T16:16:54.000Z"
+        "lastSeen": "2023-11-27T18:34:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
