@@ -896,6 +896,14 @@
     }
   },
   {
+    "name": "flute.requirements",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/flute/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/flute",
+      "branch": "master"
+    }
+  },
+  {
     "name": "gov.healthit.ecqi.ecqms",
     "current": {
       "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2022/branches/master/package.tgz",
