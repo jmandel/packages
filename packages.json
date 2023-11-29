@@ -564,7 +564,7 @@
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz",
         "repo": "https://github.com/CARA-ch/ch-emed-epr",
         "branch": "master",
-        "lastSeen": "2023-11-29T14:01:49.000Z"
+        "lastSeen": "2023-11-29T15:33:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/describeworkflows/package.tgz",
@@ -6949,6 +6949,18 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "saulNarr",
         "lastSeen": "2023-11-29T14:18:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/contentTransitions/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "contentTransitions",
+        "lastSeen": "2023-11-29T14:59:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/brokenLinks/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "brokenLinks",
+        "lastSeen": "2023-11-29T15:01:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -8952,7 +8964,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-11-28T00:34:16.000Z"
+        "lastSeen": "2023-11-29T14:49:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -9282,7 +9294,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt_qa_cleanup5/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt_qa_cleanup5",
-        "lastSeen": "2023-11-29T13:41:15.000Z"
+        "lastSeen": "2023-11-29T15:39:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -12048,7 +12060,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-28T20:37:25.000Z"
+        "lastSeen": "2023-11-29T14:57:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
