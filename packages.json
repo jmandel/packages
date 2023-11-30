@@ -3294,7 +3294,7 @@
         "url": "https://build.fhir.org/ig/drajer-health/uds-plus/branches/master/package.tgz",
         "repo": "https://github.com/drajer-health/uds-plus",
         "branch": "master",
-        "lastSeen": "2023-11-28T18:27:08.000Z"
+        "lastSeen": "2023-11-30T22:30:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/drajer-health/uds-plus/branches/master/package.tgz"
@@ -3822,7 +3822,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "Jira-updates",
-        "lastSeen": "2023-11-30T17:21:29.000Z"
+        "lastSeen": "2023-11-30T21:53:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
@@ -3990,7 +3990,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-core-sd",
         "branch": "master",
-        "lastSeen": "2023-11-29T21:52:17.000Z"
+        "lastSeen": "2023-11-30T22:15:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-core-sd/branches/simple-datatypes/package.tgz",
@@ -6864,7 +6864,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-11-30T17:55:59.000Z"
+        "lastSeen": "2023-11-30T21:39:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -7015,6 +7015,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "dataDictMotherFather",
         "lastSeen": "2023-11-30T21:26:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/dataDictMothFath/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "dataDictMothFath",
+        "lastSeen": "2023-11-30T21:59:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7896,7 +7902,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2023-11-30T21:02:26.000Z"
+        "lastSeen": "2023-11-30T22:04:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
@@ -10044,7 +10050,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/saulNarr/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "saulNarr",
-        "lastSeen": "2023-11-28T22:22:33.000Z"
+        "lastSeen": "2023-11-30T21:40:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/revampFormMapping/package.tgz",
@@ -11664,7 +11670,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2023-11-30T20:47:48.000Z"
+        "lastSeen": "2023-11-30T22:15:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -11754,7 +11760,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/somaticExample/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "somaticExample",
-        "lastSeen": "2023-11-30T00:54:46.000Z"
+        "lastSeen": "2023-11-30T22:13:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kp-FHIR-42763-new-warnings-qa/package.tgz",
@@ -12156,7 +12162,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-30T21:34:08.000Z"
+        "lastSeen": "2023-11-30T22:11:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -12768,7 +12774,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-subscription-backport-ig",
         "branch": "master",
-        "lastSeen": "2023-01-09T22:29:01.000Z"
+        "lastSeen": "2023-11-30T21:45:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/propose-changes/package.tgz",
@@ -12780,7 +12786,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/tickets/package.tgz",
         "repo": "https://github.com/HL7/fhir-subscription-backport-ig",
         "branch": "tickets",
-        "lastSeen": "2023-11-09T00:49:06.000Z"
+        "lastSeen": "2023-11-30T21:43:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/master/package.tgz"
