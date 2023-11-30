@@ -6960,7 +6960,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/contentTransitions/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "contentTransitions",
-        "lastSeen": "2023-11-29T21:34:23.000Z"
+        "lastSeen": "2023-11-30T00:25:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/brokenLinks/package.tgz",
@@ -9991,6 +9991,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "saulNarr",
         "lastSeen": "2023-11-28T22:22:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/revampFormMapping/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "revampFormMapping",
+        "lastSeen": "2023-11-30T00:29:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -11592,7 +11598,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2023-11-29T02:09:17.000Z"
+        "lastSeen": "2023-11-30T00:12:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -11682,7 +11688,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/somaticExample/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "somaticExample",
-        "lastSeen": "2023-11-29T23:23:48.000Z"
+        "lastSeen": "2023-11-30T00:54:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kp-FHIR-42763-new-warnings-qa/package.tgz",
@@ -11695,6 +11701,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "kp-coverage-and-negatives",
         "lastSeen": "2023-11-28T22:58:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kp-FHIR-41247/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "kp-FHIR-41247",
+        "lastSeen": "2023-11-30T00:01:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -12072,7 +12084,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-11-29T22:52:28.000Z"
+        "lastSeen": "2023-11-30T00:00:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
