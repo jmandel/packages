@@ -3294,7 +3294,7 @@
         "url": "https://build.fhir.org/ig/drajer-health/uds-plus/branches/master/package.tgz",
         "repo": "https://github.com/drajer-health/uds-plus",
         "branch": "master",
-        "lastSeen": "2023-11-30T22:30:36.000Z"
+        "lastSeen": "2023-11-30T23:01:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/drajer-health/uds-plus/branches/master/package.tgz"
@@ -4531,6 +4531,12 @@
         "repo": "https://github.com/hl7au/draft-diagnostic-orders",
         "branch": "0.0.8",
         "lastSeen": "2023-11-23T07:16:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/draft-diagnostic-orders/branches/0.0.9/package.tgz",
+        "repo": "https://github.com/hl7au/draft-diagnostic-orders",
+        "branch": "0.0.9",
+        "lastSeen": "2023-11-30T22:39:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/draft-diagnostic-orders/branches/master/package.tgz"
@@ -6864,7 +6870,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-11-30T21:39:05.000Z"
+        "lastSeen": "2023-11-30T22:39:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -7020,7 +7026,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/dataDictMothFath/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "dataDictMothFath",
-        "lastSeen": "2023-11-30T21:59:32.000Z"
+        "lastSeen": "2023-11-30T22:39:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7512,7 +7518,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-atr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-atr",
         "branch": "master",
-        "lastSeen": "2023-11-29T22:23:16.000Z"
+        "lastSeen": "2023-11-30T23:22:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-atr/branches/master/package.tgz"
@@ -7632,7 +7638,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2023-11-30T03:17:48.000Z"
+        "lastSeen": "2023-11-30T23:11:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -10057,6 +10063,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "revampFormMapping",
         "lastSeen": "2023-11-30T00:29:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/raceEducationIntros/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "raceEducationIntros",
+        "lastSeen": "2023-11-30T23:26:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -10134,7 +10146,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-11-30T17:25:48.000Z"
+        "lastSeen": "2023-11-30T23:21:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -10584,7 +10596,13 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/formsMappingEdit/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "formsMappingEdit",
-        "lastSeen": "2023-11-30T17:09:34.000Z"
+        "lastSeen": "2023-11-30T22:55:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/raceEducationChanges/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "raceEducationChanges",
+        "lastSeen": "2023-11-30T23:16:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -11670,7 +11688,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2023-11-30T22:15:52.000Z"
+        "lastSeen": "2023-11-30T23:37:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -16194,7 +16212,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/cleanup/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "cleanup",
-        "lastSeen": "2023-11-29T21:45:20.000Z"
+        "lastSeen": "2023-11-30T23:24:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz"
