@@ -7134,7 +7134,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/credits/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "credits",
-        "lastSeen": "2023-12-01T19:03:36.000Z"
+        "lastSeen": "2023-12-01T19:34:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7746,7 +7746,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2023-11-30T23:11:38.000Z"
+        "lastSeen": "2023-12-01T20:24:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -7759,6 +7759,12 @@
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "2.0.0",
         "lastSeen": "2023-11-21T18:34:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/lynnlaakso-patch-1/package.tgz",
+        "repo": "https://github.com/HL7/davinci-pas",
+        "branch": "lynnlaakso-patch-1",
+        "lastSeen": "2023-12-01T20:19:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz"
@@ -10183,6 +10189,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "raceEducationIntros",
         "lastSeen": "2023-11-30T23:26:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/credits/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "credits",
+        "lastSeen": "2023-12-01T20:30:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -12294,7 +12306,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-12-01T17:22:13.000Z"
+        "lastSeen": "2023-12-01T20:08:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -15876,7 +15888,7 @@
         "url": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz",
         "repo": "https://github.com/Carequality/CEQSubscription",
         "branch": "master",
-        "lastSeen": "2023-10-03T19:20:04.000Z"
+        "lastSeen": "2023-12-01T19:43:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz"
