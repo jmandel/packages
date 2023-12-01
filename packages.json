@@ -5166,13 +5166,55 @@
         "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-1/package.tgz",
         "repo": "https://github.com/hl7-be/patientwill",
         "branch": "issue-1",
-        "lastSeen": "2023-10-19T06:54:35.000Z"
+        "lastSeen": "2023-12-01T15:38:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-9/package.tgz",
         "repo": "https://github.com/hl7-be/patientwill",
         "branch": "issue-9",
         "lastSeen": "2023-10-19T06:53:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-24/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-24",
+        "lastSeen": "2023-12-01T15:18:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-29/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-29",
+        "lastSeen": "2023-12-01T15:04:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-27/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-27",
+        "lastSeen": "2023-12-01T14:47:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-26/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-26",
+        "lastSeen": "2023-12-01T15:00:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-23/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-23",
+        "lastSeen": "2023-12-01T15:29:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-22/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-22",
+        "lastSeen": "2023-12-01T15:37:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-25/package.tgz",
+        "repo": "https://github.com/hl7-be/patientwill",
+        "branch": "issue-25",
+        "lastSeen": "2023-12-01T15:08:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-1/package.tgz"
@@ -5928,7 +5970,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2023-11-30T21:08:40.000Z"
+        "lastSeen": "2023-12-01T14:57:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -6900,7 +6942,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-12-01T00:15:41.000Z"
+        "lastSeen": "2023-12-01T14:58:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -7758,7 +7800,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post-publish_stu2/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "post-publish_stu2",
-        "lastSeen": "2023-11-17T05:22:07.000Z"
+        "lastSeen": "2023-12-01T15:03:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/dev/package.tgz",
@@ -7777,6 +7819,12 @@
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "dev2",
         "lastSeen": "2023-11-10T17:47:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/dev-stu2_1/package.tgz",
+        "repo": "https://github.com/HL7/davinci-epdx",
+        "branch": "dev-stu2_1",
+        "lastSeen": "2023-12-01T15:03:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz"
@@ -13614,7 +13662,7 @@
         "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz",
         "repo": "https://github.com/IHE/supplement-template",
         "branch": "master",
-        "lastSeen": "2023-11-30T17:46:45.000Z"
+        "lastSeen": "2023-12-01T15:24:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.NPFS/branches/html-editing/package.tgz",
