@@ -9792,7 +9792,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
         "branch": "trial",
-        "lastSeen": "2023-12-04T18:51:29.000Z"
+        "lastSeen": "2023-12-04T19:53:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz",
@@ -10230,7 +10230,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/saulNarr/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "saulNarr",
-        "lastSeen": "2023-12-04T18:55:32.000Z"
+        "lastSeen": "2023-12-04T19:49:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/revampFormMapping/package.tgz",
@@ -11868,7 +11868,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2023-12-04T17:09:00.000Z"
+        "lastSeen": "2023-12-04T20:07:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -14929,6 +14929,12 @@
         "repo": "https://github.com/JohnMoehrke/testVital",
         "branch": "using-no-profiles",
         "lastSeen": "2023-12-04T19:28:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/raw-profiles/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/testVital",
+        "branch": "raw-profiles",
+        "lastSeen": "2023-12-04T20:04:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/using-fhir-core-profiles/package.tgz"
