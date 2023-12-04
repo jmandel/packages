@@ -6750,7 +6750,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/lab-report",
         "branch": "master",
-        "lastSeen": "2023-11-13T10:45:41.000Z"
+        "lastSeen": "2023-12-04T17:16:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/lab-report/branches/hl7-eu-guide/package.tgz",
@@ -7153,6 +7153,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "NoneSpecFix",
         "lastSeen": "2023-12-04T15:07:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/dataDictIntro/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "dataDictIntro",
+        "lastSeen": "2023-12-04T16:52:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7578,7 +7584,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2023-12-01T13:57:51.000Z"
+        "lastSeen": "2023-12-04T16:35:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -8940,7 +8946,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "ming1",
-        "lastSeen": "2023-12-01T22:09:54.000Z"
+        "lastSeen": "2023-12-04T16:59:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/may2023-connectathon/package.tgz",
@@ -10092,7 +10098,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-12-01T18:47:38.000Z"
+        "lastSeen": "2023-12-04T17:27:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -11178,7 +11184,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-12-04T16:33:14.000Z"
+        "lastSeen": "2023-12-04T17:01:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -11850,7 +11856,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2023-12-03T14:15:23.000Z"
+        "lastSeen": "2023-12-04T17:09:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
