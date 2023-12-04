@@ -3928,6 +3928,14 @@
     }
   },
   {
+    "name": "tewhatuora.fhir.mywai",
+    "current": {
+      "url": "https://build.fhir.org/ig/daniel-thomson/mywai/branches/main/package.tgz",
+      "repo": "https://github.com/daniel-thomson/mywai",
+      "branch": "main"
+    }
+  },
+  {
     "name": "tewhatuora.fhir.nzps",
     "current": {
       "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz",
