@@ -360,6 +360,14 @@
     }
   },
   {
+    "name": "who.fhir.smart-ig-starter-kit",
+    "current": {
+      "url": "https://build.fhir.org/ig/gpvillanueva/nutritionph/branches/main/package.tgz",
+      "repo": "https://github.com/gpvillanueva/nutritionph",
+      "branch": "main"
+    }
+  },
+  {
     "name": "who.fhir.smart-immunizations-measles",
     "current": {
       "url": "https://build.fhir.org/ig/DanielNgandu/smart-immunizations-measles-path-zambia/branches/main/package.tgz",
