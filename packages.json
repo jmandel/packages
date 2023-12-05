@@ -1530,7 +1530,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/IG-ohne-Q/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "IG-ohne-Q",
-        "lastSeen": "2023-12-05T17:35:49.000Z"
+        "lastSeen": "2023-12-05T21:52:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/publisher-1-5-4/package.tgz",
@@ -4651,6 +4651,12 @@
         "repo": "https://github.com/AuDigitalHealth/au-fhir-pd",
         "branch": "identifier-cleanup",
         "lastSeen": "2023-11-28T22:29:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-pd/branches/mandate-identifiers/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/au-fhir-pd",
+        "branch": "mandate-identifiers",
+        "lastSeen": "2023-12-05T21:44:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-pd/branches/master/package.tgz"
@@ -7189,6 +7195,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "contentTranFormat",
         "lastSeen": "2023-12-05T14:26:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/usualworkcomp/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "usualworkcomp",
+        "lastSeen": "2023-12-05T22:09:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -7860,7 +7872,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2023-12-05T06:18:27.000Z"
+        "lastSeen": "2023-12-05T22:05:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -10392,7 +10404,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-12-01T17:14:55.000Z"
+        "lastSeen": "2023-12-05T22:15:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -10855,6 +10867,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "sheetsUpdate",
         "lastSeen": "2023-12-05T15:45:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/usualwork/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "usualwork",
+        "lastSeen": "2023-12-05T22:28:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -11268,7 +11286,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-12-05T21:09:11.000Z"
+        "lastSeen": "2023-12-05T22:09:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
