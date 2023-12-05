@@ -2178,7 +2178,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/cds4cpm",
         "branch": "master",
-        "lastSeen": "2023-08-14T15:26:57.000Z"
+        "lastSeen": "2023-12-05T16:13:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cds4cpm/branches/test-ufl-refactor/package.tgz",
@@ -4134,7 +4134,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-12-05T14:47:38.000Z"
+        "lastSeen": "2023-12-05T16:39:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -4164,7 +4164,7 @@
         "url": "https://build.fhir.org/ig/gmej/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/gmej/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-12-05T15:31:42.000Z"
+        "lastSeen": "2023-12-05T15:49:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz"
@@ -7008,7 +7008,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-12-05T14:46:36.000Z"
+        "lastSeen": "2023-12-05T15:52:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -7140,7 +7140,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/revampFormsMapping/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "revampFormsMapping",
-        "lastSeen": "2023-12-01T21:32:32.000Z"
+        "lastSeen": "2023-12-05T15:31:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fixIds/package.tgz",
@@ -10158,7 +10158,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-12-04T17:27:16.000Z"
+        "lastSeen": "2023-12-05T16:27:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -10308,7 +10308,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/usualWork/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "usualWork",
-        "lastSeen": "2023-12-05T15:21:35.000Z"
+        "lastSeen": "2023-12-05T15:48:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -10843,6 +10843,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "raceEducationChanges",
         "lastSeen": "2023-11-30T23:16:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/sheetsUpdate/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "sheetsUpdate",
+        "lastSeen": "2023-12-05T15:45:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -11256,7 +11262,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-12-05T14:29:55.000Z"
+        "lastSeen": "2023-12-05T15:43:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
