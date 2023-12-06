@@ -11316,7 +11316,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-12-06T09:24:29.000Z"
+        "lastSeen": "2023-12-06T10:24:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -15925,6 +15925,12 @@
         "repo": "https://github.com/SanteonNL/sim-on-fhir",
         "branch": "bw-auto-ig-publish-test",
         "lastSeen": "2023-12-06T09:35:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/main/package.tgz",
+        "repo": "https://github.com/SanteonNL/sim-on-fhir",
+        "branch": "main",
+        "lastSeen": "2023-12-06T10:19:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/bw-auto-ig-publish-test/package.tgz"
