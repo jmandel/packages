@@ -11183,6 +11183,18 @@
     ],
     "current": "https://build.fhir.org/ig/cqframework/cpg-example-opioids/branches/main/package.tgz"
   },
+  "hl7.fhir.uv.cql": {
+    "name": "hl7.fhir.uv.cql",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/cql-ig",
+        "branch": "main",
+        "lastSeen": "2023-12-06T02:24:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz"
+  },
   "hl7.fhir.uv.crmi": {
     "name": "hl7.fhir.uv.crmi",
     "locations": [
