@@ -4795,6 +4795,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "issue-14",
         "lastSeen": "2023-02-22T16:41:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-22/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "issue-22",
+        "lastSeen": "2023-12-06T14:32:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -10194,7 +10200,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-12-06T03:36:04.000Z"
+        "lastSeen": "2023-12-06T14:15:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -10902,7 +10908,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/usualwork/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "usualwork",
-        "lastSeen": "2023-12-05T22:28:29.000Z"
+        "lastSeen": "2023-12-06T14:06:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -11328,7 +11334,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-12-06T13:13:26.000Z"
+        "lastSeen": "2023-12-06T14:31:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -11370,7 +11376,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2023-12-05T13:23:07.000Z"
+        "lastSeen": "2023-12-06T14:24:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -11401,6 +11407,12 @@
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "1.0.0",
         "lastSeen": "2023-08-04T08:45:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/patch-1/package.tgz",
+        "repo": "https://github.com/joofio/vulcan-eproduct-info",
+        "branch": "patch-1",
+        "lastSeen": "2023-12-06T14:21:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz"
@@ -11946,7 +11958,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-36792/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-36792",
-        "lastSeen": "2023-11-22T16:11:22.000Z"
+        "lastSeen": "2023-12-06T14:05:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-37750/package.tgz",
@@ -11983,6 +11995,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "LYTrent-patch-1",
         "lastSeen": "2023-11-28T19:55:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-36913/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-36913",
+        "lastSeen": "2023-12-06T14:37:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
