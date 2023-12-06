@@ -568,6 +568,14 @@
     }
   },
   {
+    "name": "elga.iv.hi",
+    "current": {
+      "url": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz",
+      "repo": "https://github.com/gabriel0316/ig-tooling",
+      "branch": "main"
+    }
+  },
+  {
     "name": "example.fhir.uv.mycontentig",
     "current": {
       "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
