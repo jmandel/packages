@@ -1530,7 +1530,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/IG-ohne-Q/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "IG-ohne-Q",
-        "lastSeen": "2023-12-05T21:52:14.000Z"
+        "lastSeen": "2023-12-06T17:27:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/publisher-1-5-4/package.tgz",
@@ -3319,6 +3319,12 @@
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "ks_test",
         "lastSeen": "2023-12-06T15:42:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/ks_variant_change/package.tgz",
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
+        "branch": "ks_variant_change",
+        "lastSeen": "2023-12-06T16:45:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz"
@@ -10212,7 +10218,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-12-06T14:15:37.000Z"
+        "lastSeen": "2023-12-06T17:19:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -10380,7 +10386,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixBirthDate/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "fixBirthDate",
-        "lastSeen": "2023-12-06T16:33:35.000Z"
+        "lastSeen": "2023-12-06T17:11:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -11352,7 +11358,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2023-12-06T16:28:34.000Z"
+        "lastSeen": "2023-12-06T17:27:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz"
@@ -12036,7 +12042,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2023-12-06T05:06:29.000Z"
+        "lastSeen": "2023-12-06T17:24:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -12378,7 +12384,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2023-12-06T15:14:06.000Z"
+        "lastSeen": "2023-12-06T16:39:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -16753,6 +16759,12 @@
         "repo": "https://github.com/costateixeira/empty9",
         "branch": "main",
         "lastSeen": "2023-12-05T17:23:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/pmanko/smart-hiv/branches/main/package.tgz",
+        "repo": "https://github.com/pmanko/smart-hiv",
+        "branch": "main",
+        "lastSeen": "2023-12-06T16:58:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
