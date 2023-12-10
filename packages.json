@@ -11316,7 +11316,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cql-ig",
         "branch": "main",
-        "lastSeen": "2023-12-10T22:21:40.000Z"
+        "lastSeen": "2023-12-10T23:41:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz"
@@ -16878,7 +16878,7 @@
         "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/main/package.tgz",
         "repo": "https://github.com/I-TECH-UW/smart-hiv",
         "branch": "main",
-        "lastSeen": "2023-12-10T21:21:34.000Z"
+        "lastSeen": "2023-12-10T23:14:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/abertnamanya/smart-hiv/branches/main/package.tgz",
@@ -16897,6 +16897,30 @@
         "repo": "https://github.com/I-TECH-UW/smart-hiv",
         "branch": "fixDeploymentErrors",
         "lastSeen": "2023-12-10T22:36:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/fixBreakingCI/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "fixBreakingCI",
+        "lastSeen": "2023-12-10T23:20:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/update-health-domain/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "update-health-domain",
+        "lastSeen": "2023-12-10T23:21:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/fixCI/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "fixCI",
+        "lastSeen": "2023-12-10T23:28:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/fixDeploymentIssues/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "fixDeploymentIssues",
+        "lastSeen": "2023-12-10T23:02:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
