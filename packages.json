@@ -11316,7 +11316,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cql-ig",
         "branch": "main",
-        "lastSeen": "2023-12-07T04:43:47.000Z"
+        "lastSeen": "2023-12-10T22:21:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz"
@@ -16891,6 +16891,12 @@
         "repo": "https://github.com/I-TECH-UW/smart-hiv",
         "branch": "l2-datadictionary",
         "lastSeen": "2023-12-08T23:53:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/fixDeploymentErrors/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "fixDeploymentErrors",
+        "lastSeen": "2023-12-10T22:36:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
