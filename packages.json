@@ -9960,13 +9960,13 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
         "branch": "trial",
-        "lastSeen": "2023-12-11T00:11:39.000Z"
+        "lastSeen": "2023-12-11T07:13:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
         "branch": "master",
-        "lastSeen": "2023-10-23T20:42:27.000Z"
+        "lastSeen": "2023-12-11T07:13:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/PlanDefError/package.tgz",
@@ -11598,7 +11598,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2023-11-12T11:08:26.000Z"
+        "lastSeen": "2023-12-11T06:53:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -16524,7 +16524,7 @@
         "url": "https://build.fhir.org/ig/unicom-project-eu/d4.12/branches/master/package.tgz",
         "repo": "https://github.com/unicom-project-eu/d4.12",
         "branch": "master",
-        "lastSeen": "2023-11-23T22:29:33.000Z"
+        "lastSeen": "2023-12-11T07:34:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/unicom-project-eu/d4.12/branches/master/package.tgz"
@@ -16543,6 +16543,12 @@
         "repo": "https://github.com/TEHIK-EE/FHIR-PoC",
         "branch": "medschema-sandbox",
         "lastSeen": "2023-11-09T21:42:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/rutt-test/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/FHIR-PoC",
+        "branch": "rutt-test",
+        "lastSeen": "2023-12-11T07:37:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/master/package.tgz"
@@ -16705,6 +16711,12 @@
         "repo": "https://github.com/I-TECH-UW/smart-hiv",
         "branch": "main",
         "lastSeen": "2023-12-11T00:24:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/abertnamanya/smart-hiv/branches/main/package.tgz",
+        "repo": "https://github.com/abertnamanya/smart-hiv",
+        "branch": "main",
+        "lastSeen": "2023-12-11T06:43:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/main/package.tgz"
