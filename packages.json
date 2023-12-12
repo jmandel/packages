@@ -13164,7 +13164,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2023-11-10T21:10:44.000Z"
+        "lastSeen": "2023-12-12T11:18:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -13357,6 +13357,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "contained-resources",
         "lastSeen": "2023-12-11T19:45:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/fhir-version/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "fhir-version",
+        "lastSeen": "2023-12-12T11:21:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
