@@ -7759,6 +7759,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "bioeffdose",
         "lastSeen": "2023-10-27T21:52:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/FHIR-41885-identifier-slice-cardinality/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "FHIR-41885-identifier-slice-cardinality",
+        "lastSeen": "2023-12-12T13:18:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -12744,7 +12750,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2023-12-11T15:13:09.000Z"
+        "lastSeen": "2023-12-12T13:24:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -13068,7 +13074,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/fsh-3.0-resolutions-cmm-1/package.tgz",
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "fsh-3.0-resolutions-cmm-1",
-        "lastSeen": "2023-12-07T18:57:18.000Z"
+        "lastSeen": "2023-12-12T13:22:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
@@ -13374,7 +13380,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/columnar-data-types/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "columnar-data-types",
-        "lastSeen": "2023-12-12T12:45:23.000Z"
+        "lastSeen": "2023-12-12T12:49:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/duplicate-columns/package.tgz",
