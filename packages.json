@@ -13363,6 +13363,30 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "fhir-version",
         "lastSeen": "2023-12-12T11:21:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/columnar-duplicated-content/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "columnar-duplicated-content",
+        "lastSeen": "2023-12-12T12:29:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/columnar-data-types/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "columnar-data-types",
+        "lastSeen": "2023-12-12T12:45:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/duplicate-columns/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "duplicate-columns",
+        "lastSeen": "2023-12-12T12:14:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/columnar-system-version/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "columnar-system-version",
+        "lastSeen": "2023-12-12T12:32:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
