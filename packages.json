@@ -3918,7 +3918,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "Jira-updates",
-        "lastSeen": "2023-12-12T05:47:36.000Z"
+        "lastSeen": "2023-12-12T17:51:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
@@ -7789,6 +7789,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "FHIR-42893-reason-for-revision-typo",
         "lastSeen": "2023-12-12T15:32:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/FHIR-41682-OORO-renaming/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "FHIR-41682-OORO-renaming",
+        "lastSeen": "2023-12-12T18:23:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -10170,7 +10176,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-resp-net-ig",
         "branch": "master",
-        "lastSeen": "2023-12-12T17:23:34.000Z"
+        "lastSeen": "2023-12-12T17:56:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/master/package.tgz"
@@ -10410,7 +10416,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-12-12T16:16:42.000Z"
+        "lastSeen": "2023-12-12T17:50:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -11292,7 +11298,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CardX-HTN-MNG",
         "branch": "master",
-        "lastSeen": "2023-12-11T18:44:20.000Z"
+        "lastSeen": "2023-12-12T18:39:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
@@ -11334,7 +11340,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "master",
-        "lastSeen": "2023-12-12T07:36:59.000Z"
+        "lastSeen": "2023-12-12T17:45:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/migrate-to-sushi/package.tgz",
@@ -11395,6 +11401,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "qa",
         "lastSeen": "2023-12-11T21:56:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/clean-up/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "clean-up",
+        "lastSeen": "2023-12-12T17:54:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -12666,7 +12678,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2023-12-12T17:42:42.000Z"
+        "lastSeen": "2023-12-12T18:14:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
@@ -13488,7 +13500,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/v2-to-fhir",
         "branch": "master",
-        "lastSeen": "2023-12-12T17:34:17.000Z"
+        "lastSeen": "2023-12-12T18:11:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/hans-updates/package.tgz",
