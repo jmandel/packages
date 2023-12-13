@@ -4212,7 +4212,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-12-11T21:20:38.000Z"
+        "lastSeen": "2023-12-13T19:06:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -9990,7 +9990,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "main",
-        "lastSeen": "2023-12-13T18:16:51.000Z"
+        "lastSeen": "2023-12-13T19:22:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott-work/package.tgz",
@@ -10008,7 +10008,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/frank/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "frank",
-        "lastSeen": "2023-12-13T18:16:58.000Z"
+        "lastSeen": "2023-12-13T19:22:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott/package.tgz",
@@ -10452,7 +10452,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2023-12-12T17:50:56.000Z"
+        "lastSeen": "2023-12-13T19:34:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -10633,6 +10633,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "usagePage",
         "lastSeen": "2023-12-07T17:33:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/patientVS/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "patientVS",
+        "lastSeen": "2023-12-13T19:17:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -10710,7 +10716,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-12-13T17:54:15.000Z"
+        "lastSeen": "2023-12-13T19:19:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -12714,7 +12720,7 @@
         "url": "https://build.fhir.org/ig/HL7/livd/branches/ballot-work/package.tgz",
         "repo": "https://github.com/HL7/livd",
         "branch": "ballot-work",
-        "lastSeen": "2023-12-13T17:27:19.000Z"
+        "lastSeen": "2023-12-13T18:51:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz"
