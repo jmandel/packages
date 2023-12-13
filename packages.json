@@ -204,7 +204,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "main",
-        "lastSeen": "2023-12-12T01:25:28.000Z"
+        "lastSeen": "2023-12-13T22:00:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/dev/package.tgz",
@@ -229,6 +229,12 @@
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "v0.0.2",
         "lastSeen": "2023-09-11T22:58:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/v0.1.1/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/adha-template-base",
+        "branch": "v0.1.1",
+        "lastSeen": "2023-12-13T22:04:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/main/package.tgz"
@@ -7836,7 +7842,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-12-11T21:44:00.000Z"
+        "lastSeen": "2023-12-13T22:11:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -8382,7 +8388,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2023-12-13T21:11:04.000Z"
+        "lastSeen": "2023-12-13T22:16:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz"
@@ -12726,7 +12732,7 @@
         "url": "https://build.fhir.org/ig/HL7/livd/branches/ballot-work/package.tgz",
         "repo": "https://github.com/HL7/livd",
         "branch": "ballot-work",
-        "lastSeen": "2023-12-13T21:06:02.000Z"
+        "lastSeen": "2023-12-13T22:29:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz"
@@ -13255,6 +13261,12 @@
         "repo": "https://github.com/HL7/smart-app-launch",
         "branch": "headers-case-insensitive",
         "lastSeen": "2023-10-30T16:52:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/ballot-publication/package.tgz",
+        "repo": "https://github.com/HL7/smart-app-launch",
+        "branch": "ballot-publication",
+        "lastSeen": "2023-12-13T21:45:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/master/package.tgz"
@@ -13566,7 +13578,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/v2-to-fhir",
         "branch": "master",
-        "lastSeen": "2023-12-13T20:41:48.000Z"
+        "lastSeen": "2023-12-13T22:02:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/hans-updates/package.tgz",
@@ -15420,7 +15432,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testDicom/branches/master/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testDicom",
         "branch": "master",
-        "lastSeen": "2023-08-03T11:43:11.000Z"
+        "lastSeen": "2023-12-13T22:27:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testDicom/branches/master/package.tgz"
