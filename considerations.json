@@ -224,14 +224,6 @@
     }
   },
   {
-    "name": "hl7.fhir.us.ga4gh.phenopacket",
-    "current": {
-      "url": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/master/package.tgz",
-      "repo": "https://github.com/HL7/phenomics-exchange-ig",
-      "branch": "master"
-    }
-  },
-  {
     "name": "hl7.fhir.us.ph-library",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-common-library-ig/branches/master/package.tgz",
@@ -405,6 +397,14 @@
       "url": "https://build.fhir.org/ig/DanielNgandu/smart-immunizations-measles-path-zambia/branches/main/package.tgz",
       "repo": "https://github.com/DanielNgandu/smart-immunizations-measles-path-zambia",
       "branch": "main"
+    }
+  },
+  {
+    "name": "who.fhir.template",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/support-for-submenus/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
+      "branch": "support-for-submenus"
     }
   },
   {
