@@ -293,6 +293,18 @@
     ],
     "current": "https://build.fhir.org/ig/aehrc/primary-care-data-technical/branches/master/package.tgz"
   },
+  "au.csiro.fhir.logical-models": {
+    "name": "au.csiro.fhir.logical-models",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/aehrc/logical-model-web/branches/main/package.tgz",
+        "repo": "https://github.com/aehrc/logical-model-web",
+        "branch": "main",
+        "lastSeen": "2023-12-14T07:41:31.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/aehrc/logical-model-web/branches/main/package.tgz"
+  },
   "au.digitalhealth.r4": {
     "name": "au.digitalhealth.r4",
     "locations": [
@@ -3954,7 +3966,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/Jira-updates/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "Jira-updates",
-        "lastSeen": "2023-12-14T05:20:48.000Z"
+        "lastSeen": "2023-12-14T06:12:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
@@ -7854,7 +7866,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-12-14T00:16:03.000Z"
+        "lastSeen": "2023-12-14T06:28:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
