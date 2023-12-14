@@ -3336,7 +3336,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "master",
-        "lastSeen": "2023-12-12T19:23:04.000Z"
+        "lastSeen": "2023-12-14T00:46:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_test/package.tgz",
@@ -3379,6 +3379,12 @@
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "update_transport_narrative",
         "lastSeen": "2023-12-13T18:20:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_report_bundle/package.tgz",
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
+        "branch": "mlt_report_bundle",
+        "lastSeen": "2023-12-14T00:42:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz"
@@ -7842,7 +7848,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2023-12-13T22:11:40.000Z"
+        "lastSeen": "2023-12-14T00:16:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -13218,7 +13224,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/master/package.tgz",
         "repo": "https://github.com/HL7/smart-app-launch",
         "branch": "master",
-        "lastSeen": "2023-12-13T20:46:12.000Z"
+        "lastSeen": "2023-12-14T00:09:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/pab/package.tgz",
@@ -13524,7 +13530,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-subscription-backport-ig",
         "branch": "master",
-        "lastSeen": "2023-12-13T20:46:29.000Z"
+        "lastSeen": "2023-12-14T00:01:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/propose-changes/package.tgz",
