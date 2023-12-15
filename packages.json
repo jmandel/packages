@@ -2682,7 +2682,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sample-ig/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sample-ig",
         "branch": "master",
-        "lastSeen": "2022-06-06T13:18:06.000Z"
+        "lastSeen": "2023-12-15T00:40:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/medcom-ig-sample/branches/master/package.tgz",
@@ -10279,6 +10279,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "v6.0.0-ballot",
         "lastSeen": "2023-08-24T19:55:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/br-42099-negation-documentation/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "br-42099-negation-documentation",
+        "lastSeen": "2023-12-15T00:24:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
@@ -10812,7 +10818,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-12-13T19:19:16.000Z"
+        "lastSeen": "2023-12-14T23:48:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
