@@ -312,7 +312,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/ci-fhir-r4",
         "branch": "master",
-        "lastSeen": "2023-12-15T01:35:53.000Z"
+        "lastSeen": "2023-12-15T04:30:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/robeastwood-agency/test-fhir-ig-2/branches/main/package.tgz",
@@ -4284,7 +4284,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-12-15T03:41:39.000Z"
+        "lastSeen": "2023-12-15T04:43:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -13309,6 +13309,12 @@
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "fsh-3.0-resolutions-cmm-1",
         "lastSeen": "2023-12-12T13:22:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/fsh-3.0-resolutions-jka-1/package.tgz",
+        "repo": "https://github.com/HL7/fhir-shorthand",
+        "branch": "fsh-3.0-resolutions-jka-1",
+        "lastSeen": "2023-12-15T05:34:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
