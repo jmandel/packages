@@ -10003,6 +10003,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fhir-43304",
         "lastSeen": "2023-12-01T06:07:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/adi-stu2-merge/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "adi-stu2-merge",
+        "lastSeen": "2023-12-18T15:24:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -10783,6 +10789,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "dependencies",
         "lastSeen": "2023-12-15T22:12:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2023-12-18T15:15:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -11346,7 +11358,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/MDIUpdates/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "MDIUpdates",
-        "lastSeen": "2023-12-15T21:42:36.000Z"
+        "lastSeen": "2023-12-18T15:14:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/contentTransitions/package.tgz",
@@ -13746,7 +13758,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/v2-to-fhir",
         "branch": "master",
-        "lastSeen": "2023-12-13T22:02:51.000Z"
+        "lastSeen": "2023-12-18T15:22:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/hans-updates/package.tgz",
