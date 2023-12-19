@@ -10867,6 +10867,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "fixlinkstobuild",
         "lastSeen": "2023-12-18T17:31:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/scriptsUpdate/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "scriptsUpdate",
+        "lastSeen": "2023-12-19T20:51:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -10938,7 +10944,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixbcnodescription/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "fixbcnodescription",
-        "lastSeen": "2023-12-18T18:32:19.000Z"
+        "lastSeen": "2023-12-19T20:28:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -12348,7 +12354,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2023-11-29T14:26:04.000Z"
+        "lastSeen": "2023-12-19T21:12:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -12570,13 +12576,19 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/LYTrent-patch-1/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "LYTrent-patch-1",
-        "lastSeen": "2023-12-19T03:54:22.000Z"
+        "lastSeen": "2023-12-19T20:53:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-36913/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-36913",
         "lastSeen": "2023-12-06T14:47:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-37116/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-37116",
+        "lastSeen": "2023-12-19T21:15:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -14466,13 +14478,13 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-485-AdverseEvent-Clinical-Research-value-sets/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-485-AdverseEvent-Clinical-Research-value-sets",
-        "lastSeen": "2023-12-19T15:22:31.000Z"
+        "lastSeen": "2023-12-19T20:24:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-481-ucum-common-and-ucum-units-should-be-migrated-to-HL7-Terminology--THO-/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-481-ucum-common-and-ucum-units-should-be-migrated-to-HL7-Terminology--THO-",
-        "lastSeen": "2023-12-19T15:27:02.000Z"
+        "lastSeen": "2023-12-19T20:29:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-474-Add-new-code-to-coverage-selfpay-codesystem/package.tgz",
