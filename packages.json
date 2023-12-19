@@ -1146,7 +1146,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2023-11-22T14:22:10.000Z"
+        "lastSeen": "2023-12-19T15:22:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -1219,6 +1219,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue242_medAdmin",
         "lastSeen": "2023-11-15T09:06:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/v4.0.0/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "v4.0.0",
+        "lastSeen": "2023-12-19T15:23:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -7908,7 +7914,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/treated-fraction/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "treated-fraction",
-        "lastSeen": "2023-12-19T13:14:37.000Z"
+        "lastSeen": "2023-12-19T15:16:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixInvariant/package.tgz",
@@ -10404,7 +10410,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-resp-net-ig",
         "branch": "master",
-        "lastSeen": "2023-12-12T19:26:50.000Z"
+        "lastSeen": "2023-12-19T14:57:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/master/package.tgz"
