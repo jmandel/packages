@@ -7356,7 +7356,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-12-19T19:07:33.000Z"
+        "lastSeen": "2023-12-19T22:25:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -7591,6 +7591,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "scriptUpdate",
         "lastSeen": "2023-12-19T18:20:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/restorePlurality/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "restorePlurality",
+        "lastSeen": "2023-12-19T22:57:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -13866,7 +13872,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/v2-to-fhir",
         "branch": "master",
-        "lastSeen": "2023-12-19T22:31:02.000Z"
+        "lastSeen": "2023-12-19T22:44:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/hans-updates/package.tgz",
