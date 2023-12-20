@@ -1308,13 +1308,19 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-ppqm",
         "branch": "master",
-        "lastSeen": "2023-11-22T14:18:03.000Z"
+        "lastSeen": "2023-12-20T16:31:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/release2024/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-ppqm",
         "branch": "release2024",
         "lastSeen": "2023-05-31T16:47:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/v2.0.0/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-ppqm",
+        "branch": "v2.0.0",
+        "lastSeen": "2023-12-20T16:37:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-ppqm/branches/master/package.tgz"
@@ -1356,7 +1362,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "main",
-        "lastSeen": "2023-12-20T13:46:40.000Z"
+        "lastSeen": "2023-12-20T15:46:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/workaround_sdc_problem/package.tgz",
@@ -10903,6 +10909,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "scriptsUpdate",
         "lastSeen": "2023-12-19T22:17:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixBSTATE/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "fixBSTATE",
+        "lastSeen": "2023-12-20T16:25:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -10986,7 +10998,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2023-12-18T19:01:51.000Z"
+        "lastSeen": "2023-12-20T15:41:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
