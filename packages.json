@@ -2724,7 +2724,7 @@
         "url": "https://build.fhir.org/ig/ELGA-GmbH/iv-hi/branches/main/package.tgz",
         "repo": "https://github.com/ELGA-GmbH/iv-hi",
         "branch": "main",
-        "lastSeen": "2023-12-21T14:46:41.000Z"
+        "lastSeen": "2023-12-21T16:41:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz"
@@ -3456,7 +3456,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "master",
-        "lastSeen": "2023-12-14T14:54:56.000Z"
+        "lastSeen": "2023-12-21T16:31:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_test/package.tgz",
@@ -3511,6 +3511,12 @@
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "kp-variant-and-qa",
         "lastSeen": "2023-12-14T04:09:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt-menu-add-transport/package.tgz",
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
+        "branch": "mlt-menu-add-transport",
+        "lastSeen": "2023-12-21T16:30:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz"
@@ -10932,7 +10938,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2023-12-16T17:49:38.000Z"
+        "lastSeen": "2023-12-21T16:01:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -11868,7 +11874,7 @@
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/master/package.tgz",
         "repo": "https://github.com/HL7/data-access-policies",
         "branch": "master",
-        "lastSeen": "2023-12-21T15:39:55.000Z"
+        "lastSeen": "2023-12-21T15:47:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/moehrke-kanonymity/package.tgz",
