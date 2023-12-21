@@ -4386,7 +4386,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-12-18T17:37:09.000Z"
+        "lastSeen": "2023-12-21T21:17:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -7638,7 +7638,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/restorePlurality/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "restorePlurality",
-        "lastSeen": "2023-12-19T22:57:34.000Z"
+        "lastSeen": "2023-12-21T21:26:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -8263,6 +8263,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-42812",
         "lastSeen": "2023-12-13T19:42:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-41242/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-41242",
+        "lastSeen": "2023-12-21T20:44:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -8461,6 +8467,12 @@
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "dev-stu2_1",
         "lastSeen": "2023-12-01T15:03:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/problem_sushi_example/package.tgz",
+        "repo": "https://github.com/HL7/davinci-epdx",
+        "branch": "problem_sushi_example",
+        "lastSeen": "2023-12-21T21:16:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz"
@@ -10920,7 +10932,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/scriptsUpdate/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "scriptsUpdate",
-        "lastSeen": "2023-12-19T22:17:46.000Z"
+        "lastSeen": "2023-12-21T21:28:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixBSTATE/package.tgz",
@@ -17346,7 +17358,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "main",
-        "lastSeen": "2023-12-11T20:20:09.000Z"
+        "lastSeen": "2023-12-21T21:00:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/business_rules_2/package.tgz",
