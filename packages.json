@@ -2287,6 +2287,12 @@
         "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
         "branch": "037",
         "lastSeen": "2023-12-19T05:21:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/protoCommunication/package.tgz",
+        "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
+        "branch": "protoCommunication",
+        "lastSeen": "2023-12-21T23:33:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz"
@@ -4386,7 +4392,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2023-12-21T22:33:32.000Z"
+        "lastSeen": "2023-12-21T23:12:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -10392,7 +10398,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
         "branch": "trial",
-        "lastSeen": "2023-12-21T03:46:02.000Z"
+        "lastSeen": "2023-12-21T22:59:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz",
@@ -10956,7 +10962,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2023-12-21T16:01:33.000Z"
+        "lastSeen": "2023-12-21T23:14:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
