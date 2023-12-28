@@ -7681,6 +7681,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "datadictFDOB",
         "lastSeen": "2023-12-27T21:06:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/extension-display/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "extension-display",
+        "lastSeen": "2023-12-28T00:32:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
