@@ -7452,7 +7452,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2023-12-26T22:03:11.000Z"
+        "lastSeen": "2023-12-28T13:36:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -11046,7 +11046,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fatherNatural/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "fatherNatural",
-        "lastSeen": "2023-12-27T21:07:21.000Z"
+        "lastSeen": "2023-12-28T13:54:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/extension-display/package.tgz",
@@ -11059,6 +11059,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "form-mapping-edit",
         "lastSeen": "2023-12-28T03:51:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/displayVS/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "displayVS",
+        "lastSeen": "2023-12-28T13:53:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -11076,7 +11082,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2023-12-26T19:39:29.000Z"
+        "lastSeen": "2023-12-28T13:55:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
