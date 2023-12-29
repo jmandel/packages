@@ -11077,6 +11077,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "displayVS",
         "lastSeen": "2023-12-28T13:53:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/addLocation/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "addLocation",
+        "lastSeen": "2023-12-29T15:15:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
