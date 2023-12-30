@@ -12864,7 +12864,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/LYTrent-patch-2/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "LYTrent-patch-2",
-        "lastSeen": "2023-12-20T18:24:11.000Z"
+        "lastSeen": "2023-12-30T20:32:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/isaacvetter-patch-2/package.tgz",
@@ -12889,6 +12889,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "Rewrite-part-of-PR486",
         "lastSeen": "2023-12-28T21:20:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/systems-are-authorized-conte-sharing-example/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "systems-are-authorized-conte-sharing-example",
+        "lastSeen": "2023-12-30T20:19:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
