@@ -10357,6 +10357,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "liquid-CapStmt-v2",
         "lastSeen": "2023-12-02T01:11:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-pfe",
+        "branch": "1.0.0",
+        "lastSeen": "2024-01-02T17:52:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -17664,7 +17670,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/BFDR-messaging/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "BFDR-messaging",
-        "lastSeen": "2024-01-02T15:56:29.000Z"
+        "lastSeen": "2024-01-02T18:31:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
