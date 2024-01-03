@@ -3607,6 +3607,12 @@
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "mlt-menu-add-transport",
         "lastSeen": "2023-12-21T16:30:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/update-transport/package.tgz",
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
+        "branch": "update-transport",
+        "lastSeen": "2024-01-03T21:02:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz"
@@ -11760,7 +11766,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/locationDependency/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "locationDependency",
-        "lastSeen": "2024-01-03T19:09:51.000Z"
+        "lastSeen": "2024-01-03T20:54:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -17736,7 +17742,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/BFDR-messaging/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "BFDR-messaging",
-        "lastSeen": "2024-01-02T18:31:04.000Z"
+        "lastSeen": "2024-01-03T20:42:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/industryOccMessaging/package.tgz",
