@@ -3618,7 +3618,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/sc_report_example/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "sc_report_example",
-        "lastSeen": "2024-01-04T19:09:59.000Z"
+        "lastSeen": "2024-01-04T20:23:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_fix_menus/package.tgz",
@@ -7812,7 +7812,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/moveIdentifiers/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "moveIdentifiers",
-        "lastSeen": "2024-01-04T17:29:19.000Z"
+        "lastSeen": "2024-01-04T19:52:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/gestationCM/package.tgz",
@@ -8581,6 +8581,12 @@
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "phase_2",
         "lastSeen": "2024-01-03T23:33:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/STU_1.1.0/package.tgz",
+        "repo": "https://github.com/HL7/davinci-pct",
+        "branch": "STU_1.1.0",
+        "lastSeen": "2024-01-04T20:00:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz"
@@ -8604,7 +8610,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2024-01-04T18:19:04.000Z"
+        "lastSeen": "2024-01-04T19:56:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -10651,6 +10657,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "br-42099-negation-documentation",
         "lastSeen": "2023-12-15T00:24:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/ar-FHIR-42889/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "ar-FHIR-42889",
+        "lastSeen": "2024-01-04T20:13:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
@@ -17778,13 +17790,25 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/BFDR-messaging/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "BFDR-messaging",
-        "lastSeen": "2024-01-04T17:03:33.000Z"
+        "lastSeen": "2024-01-04T20:16:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/industryOccMessaging/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "industryOccMessaging",
         "lastSeen": "2024-01-03T21:45:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/Version2.0.0-draft/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+        "branch": "Version2.0.0-draft",
+        "lastSeen": "2024-01-04T20:33:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/Version2.0.0/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+        "branch": "Version2.0.0",
+        "lastSeen": "2024-01-04T20:03:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
