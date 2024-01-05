@@ -582,7 +582,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-01-05T17:08:55.000Z"
+        "lastSeen": "2024-01-05T19:11:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -4492,6 +4492,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/carmenmae/HL7FoodAllergy/branches/master/package.tgz"
+  },
+  "hl7.eu.fhir.coalesced": {
+    "name": "hl7.eu.fhir.coalesced",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/coalesced/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-eu/coalesced",
+        "branch": "master",
+        "lastSeen": "2024-01-05T19:37:45.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-eu/coalesced/branches/master/package.tgz"
   },
   "hl7.eu.fhir.gh": {
     "name": "hl7.eu.fhir.gh",
@@ -10002,7 +10014,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2023-12-13T14:08:54.000Z"
+        "lastSeen": "2024-01-05T19:13:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -16224,7 +16236,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testMed/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testMed",
         "branch": "main",
-        "lastSeen": "2023-11-29T12:55:12.000Z"
+        "lastSeen": "2024-01-05T18:50:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testMed/branches/main/package.tgz"
@@ -17722,6 +17734,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/PanAmericanHealthOrganization/OPS-ESAVI/branches/master/package.tgz"
+  },
+  "va.mhv.fhir.phr": {
+    "name": "va.mhv.fhir.phr",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/main/package.tgz",
+        "repo": "https://github.com/department-of-veterans-affairs/mhv-fhir-phr-mapping",
+        "branch": "main",
+        "lastSeen": "2024-01-05T19:36:41.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/main/package.tgz"
   },
   "vital-records-fhir-messaging": {
     "name": "vital-records-fhir-messaging",
