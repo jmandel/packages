@@ -2336,6 +2336,14 @@
     }
   },
   {
+    "name": "hl7.fhir.us.smp",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/smp-ig",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.us.specialty-rx",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/fhir-specialty-rx/branches/master/package.tgz",
