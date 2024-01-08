@@ -1369,6 +1369,12 @@
         "repo": "https://github.com/qligier/ch-epr-mhealth",
         "branch": "ql_issue_108",
         "lastSeen": "2024-01-08T08:26:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_issue_107/package.tgz",
+        "repo": "https://github.com/qligier/ch-epr-mhealth",
+        "branch": "ql_issue_107",
+        "lastSeen": "2024-01-08T09:33:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
@@ -1729,6 +1735,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "pjolo_suggestion",
         "lastSeen": "2023-12-07T07:36:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/ballot-2/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "ballot-2",
+        "lastSeen": "2024-01-08T09:18:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -5796,7 +5808,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-42/package.tgz",
         "repo": "https://github.com/hl7-be/patientwill",
         "branch": "issue-42",
-        "lastSeen": "2023-12-12T14:17:37.000Z"
+        "lastSeen": "2024-01-08T08:59:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/master/package.tgz",
@@ -5808,7 +5820,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patientwill/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/patientwill",
         "branch": "releasecandidate",
-        "lastSeen": "2024-01-08T08:30:15.000Z"
+        "lastSeen": "2024-01-08T09:31:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patientwill/branches/issue-1/package.tgz"
