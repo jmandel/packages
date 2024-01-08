@@ -1344,19 +1344,25 @@
         "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_remove_patient_from_iti65/package.tgz",
         "repo": "https://github.com/qligier/ch-epr-mhealth",
         "branch": "ql_remove_patient_from_iti65",
-        "lastSeen": "2023-12-28T10:31:50.000Z"
+        "lastSeen": "2024-01-08T07:01:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_missing_CS_imports/package.tgz",
         "repo": "https://github.com/qligier/ch-epr-mhealth",
         "branch": "ql_missing_CS_imports",
-        "lastSeen": "2023-12-28T10:19:09.000Z"
+        "lastSeen": "2024-01-08T07:20:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/update-IUA-to-revision/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "update-IUA-to-revision",
         "lastSeen": "2024-01-04T14:36:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_add_cs_pixm_supplier/package.tgz",
+        "repo": "https://github.com/qligier/ch-epr-mhealth",
+        "branch": "ql_add_cs_pixm_supplier",
+        "lastSeen": "2024-01-08T07:17:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
