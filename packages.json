@@ -1423,6 +1423,12 @@
         "repo": "https://github.com/qligier/ch-epr-mhealth",
         "branch": "ql_iti90_broken_link",
         "lastSeen": "2024-01-10T08:46:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_technical_fixes/package.tgz",
+        "repo": "https://github.com/qligier/ch-epr-mhealth",
+        "branch": "ql_technical_fixes",
+        "lastSeen": "2024-01-10T12:17:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
@@ -1644,7 +1650,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2024-01-09T16:43:48.000Z"
+        "lastSeen": "2024-01-10T11:42:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -1794,7 +1800,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/index-page/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "index-page",
-        "lastSeen": "2024-01-09T17:02:53.000Z"
+        "lastSeen": "2024-01-10T11:40:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -7434,7 +7440,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/dossier-pharma/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/dossier-pharma",
         "branch": "master",
-        "lastSeen": "2023-06-26T15:50:41.000Z"
+        "lastSeen": "2024-01-10T11:48:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-it/dossier-pharma/branches/master/package.tgz"
