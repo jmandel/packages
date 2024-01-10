@@ -12325,6 +12325,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "clean-up",
         "lastSeen": "2023-12-12T18:34:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/v2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "v2.0.0-ballot",
+        "lastSeen": "2024-01-10T06:36:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -12642,7 +12648,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2024-01-10T06:38:10.000Z"
+        "lastSeen": "2024-01-10T06:48:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
@@ -18096,7 +18102,7 @@
         "url": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz",
         "repo": "https://github.com/gcangioli/who-umc-poc",
         "branch": "master",
-        "lastSeen": "2023-10-26T12:54:31.000Z"
+        "lastSeen": "2024-01-10T06:46:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
