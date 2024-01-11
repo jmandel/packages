@@ -7740,7 +7740,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2024-01-09T16:31:12.000Z"
+        "lastSeen": "2024-01-11T20:46:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -8077,6 +8077,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "formsMappingCongenital",
         "lastSeen": "2024-01-11T19:07:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/ddIdentifiers/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "ddIdentifiers",
+        "lastSeen": "2024-01-11T20:45:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -8976,7 +8982,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-01-11T19:53:15.000Z"
+        "lastSeen": "2024-01-11T21:18:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -18132,7 +18138,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "main",
-        "lastSeen": "2024-01-05T20:46:59.000Z"
+        "lastSeen": "2024-01-11T20:50:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/business_rules_2/package.tgz",
@@ -18228,7 +18234,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/payloadID/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "payloadID",
-        "lastSeen": "2024-01-11T18:05:54.000Z"
+        "lastSeen": "2024-01-11T21:01:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
@@ -18240,7 +18246,7 @@
         "url": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz",
         "repo": "https://github.com/gcangioli/who-umc-poc",
         "branch": "master",
-        "lastSeen": "2024-01-11T20:28:38.000Z"
+        "lastSeen": "2024-01-11T20:43:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
