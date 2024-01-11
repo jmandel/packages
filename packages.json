@@ -1314,7 +1314,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "master",
-        "lastSeen": "2024-01-10T14:44:57.000Z"
+        "lastSeen": "2024-01-11T09:21:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/oe_pdqm_52/package.tgz",
@@ -3450,7 +3450,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-fhir-ig/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-fhir-ig",
         "branch": "main",
-        "lastSeen": "2024-01-11T08:01:58.000Z"
+        "lastSeen": "2024-01-11T09:33:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-fhir-ig/branches/administerVaccineVS/package.tgz",
@@ -3481,6 +3481,24 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-fhir-ig",
         "branch": "IMMZEReportGenerationModels",
         "lastSeen": "2024-01-11T08:01:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-fhir-ig/branches/aefiValueSets/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-fhir-ig",
+        "branch": "aefiValueSets",
+        "lastSeen": "2024-01-11T09:31:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-fhir-ig/branches/aefiCodeSystem/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-fhir-ig",
+        "branch": "aefiCodeSystem",
+        "lastSeen": "2024-01-11T09:09:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-fhir-ig/branches/vaccineLibraryCodeSystem/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-fhir-ig",
+        "branch": "vaccineLibraryCodeSystem",
+        "lastSeen": "2024-01-11T08:44:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/main/package.tgz"
@@ -10860,7 +10878,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
         "branch": "trial",
-        "lastSeen": "2024-01-10T21:03:22.000Z"
+        "lastSeen": "2024-01-11T08:55:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz",
