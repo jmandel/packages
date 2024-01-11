@@ -3714,7 +3714,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "master",
-        "lastSeen": "2024-01-10T02:21:55.000Z"
+        "lastSeen": "2024-01-11T17:32:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_test/package.tgz",
@@ -4680,7 +4680,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2024-01-09T03:26:38.000Z"
+        "lastSeen": "2024-01-11T17:01:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -8244,7 +8244,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/range/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "range",
-        "lastSeen": "2024-01-09T22:59:15.000Z"
+        "lastSeen": "2024-01-11T16:34:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz"
@@ -8748,7 +8748,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-01-09T17:17:06.000Z"
+        "lastSeen": "2024-01-11T17:32:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -16325,6 +16325,18 @@
     ],
     "current": "https://build.fhir.org/ig/IHE/fhir-bfdr/branches/master/package.tgz"
   },
+  "ihe.qrph.ccg": {
+    "name": "ihe.qrph.ccg",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
+        "repo": "https://github.com/IHE/QRPH.CCG",
+        "branch": "master",
+        "lastSeen": "2024-01-11T17:37:21.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
+  },
   "ihe.rad.idr": {
     "name": "ihe.rad.idr",
     "locations": [
@@ -18198,7 +18210,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/payloadID/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "payloadID",
-        "lastSeen": "2024-01-11T14:42:13.000Z"
+        "lastSeen": "2024-01-11T16:52:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
