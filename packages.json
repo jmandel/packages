@@ -3714,7 +3714,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "master",
-        "lastSeen": "2024-01-11T17:32:52.000Z"
+        "lastSeen": "2024-01-12T05:53:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_test/package.tgz",
@@ -3805,6 +3805,12 @@
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "jp_narrative_updates",
         "lastSeen": "2024-01-11T15:05:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_fix_v2snippets/package.tgz",
+        "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
+        "branch": "mlt_fix_v2snippets",
+        "lastSeen": "2024-01-12T05:51:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz"
