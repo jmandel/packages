@@ -192,14 +192,6 @@
     }
   },
   {
-    "name": "hl7.fhir.be.public-health",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/v1.0.2/package.tgz",
-      "repo": "https://github.com/hl7-be/public-health",
-      "branch": "v1.0.2"
-    }
-  },
-  {
     "name": "hl7.fhir.be.referral",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-be/referral/branches/earlyadopter/package.tgz",
