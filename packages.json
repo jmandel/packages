@@ -3840,7 +3840,7 @@
         "url": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz",
         "repo": "https://github.com/cens-chile/giis_fhir_IG",
         "branch": "main",
-        "lastSeen": "2023-12-26T21:00:33.000Z"
+        "lastSeen": "2024-01-15T21:35:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cens-chile/giis_fhir_IG/branches/main/package.tgz"
@@ -11665,6 +11665,12 @@
         "repo": "https://github.com/HL7/vrdr",
         "branch": "fixBundlesComps",
         "lastSeen": "2023-12-26T18:56:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/addMaternalDeathLinkages/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "addMaternalDeathLinkages",
+        "lastSeen": "2024-01-15T20:29:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -12217,6 +12223,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "ddIdentifiers",
         "lastSeen": "2024-01-11T21:36:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/addMaternalDeathLinkeage/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
+        "branch": "addMaternalDeathLinkeage",
+        "lastSeen": "2024-01-15T21:20:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -14430,7 +14442,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2024-01-15T16:56:56.000Z"
+        "lastSeen": "2024-01-15T21:38:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
