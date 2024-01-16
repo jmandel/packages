@@ -306,7 +306,7 @@
         "url": "https://build.fhir.org/ig/aehrc/logical-model-web/branches/main/package.tgz",
         "repo": "https://github.com/aehrc/logical-model-web",
         "branch": "main",
-        "lastSeen": "2024-01-16T03:16:22.000Z"
+        "lastSeen": "2024-01-16T21:37:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/logical-model-web/branches/main/package.tgz"
@@ -13843,6 +13843,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "emptyReasonNarrative",
         "lastSeen": "2023-11-22T17:08:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/AdvanceDirective/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "AdvanceDirective",
+        "lastSeen": "2024-01-16T20:49:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
