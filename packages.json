@@ -3887,6 +3887,30 @@
     ],
     "current": "https://build.fhir.org/ig/iteyes-inc/iteyes-ig/branches/main/package.tgz"
   },
+  "fhir.mamaToto": {
+    "name": "fhir.mamaToto",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/mamaToTo-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/mamaToTo-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2024-01-17T07:14:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/createBeneficiaryCodeSystem/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
+        "branch": "createBeneficiaryCodeSystem",
+        "lastSeen": "2024-01-17T07:33:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2024-01-17T07:36:51.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/main/package.tgz"
+  },
   "fhir.medcomguidetestig": {
     "name": "fhir.medcomguidetestig",
     "locations": [
