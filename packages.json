@@ -5226,7 +5226,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-01-22T00:31:13.000Z"
+        "lastSeen": "2024-01-23T02:29:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -14845,6 +14845,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "arjun-copy-edits",
         "lastSeen": "2023-12-18T18:39:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/union-test-updates/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "union-test-updates",
+        "lastSeen": "2024-01-23T02:07:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -15126,7 +15132,7 @@
         "url": "https://build.fhir.org/ig/acc-fhir-publisher/icp/branches/trunk/package.tgz",
         "repo": "https://github.com/acc-fhir-publisher/icp",
         "branch": "trunk",
-        "lastSeen": "2024-01-11T00:39:35.000Z"
+        "lastSeen": "2024-01-23T01:49:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/acc-fhir-publisher/icp/branches/trunk/package.tgz"
