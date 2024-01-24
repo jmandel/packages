@@ -984,7 +984,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2024-01-24T15:20:03.000Z"
+        "lastSeen": "2024-01-24T16:30:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -11850,7 +11850,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "main",
-        "lastSeen": "2024-01-16T17:48:28.000Z"
+        "lastSeen": "2024-01-24T15:48:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/fetalpresentation/package.tgz",
@@ -12402,7 +12402,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/vrdrForms/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_sandbox_ig",
         "branch": "vrdrForms",
-        "lastSeen": "2024-01-24T14:52:54.000Z"
+        "lastSeen": "2024-01-24T15:45:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_sandbox_ig/branches/main/package.tgz"
@@ -13633,6 +13633,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "Trent-SelectionEvents",
         "lastSeen": "2024-01-17T16:29:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/CustomEvents/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "CustomEvents",
+        "lastSeen": "2024-01-24T16:40:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
