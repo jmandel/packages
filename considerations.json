@@ -1,13 +1,5 @@
 [
   {
-    "name": "Kenya.fhir.smart-immunizations-measles",
-    "current": {
-      "url": "https://build.fhir.org/ig/Litlfred-team/smart-immunizations-measles--Kenya/branches/main/package.tgz",
-      "repo": "https://github.com/Litlfred-team/smart-immunizations-measles--Kenya",
-      "branch": "main"
-    }
-  },
-  {
     "name": "StandardPatientHealthRecordIG",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz",
@@ -368,6 +360,14 @@
     }
   },
   {
+    "name": "smart.who.int.trust",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+      "branch": "main"
+    }
+  },
+  {
     "name": "uv.esavi",
     "current": {
       "url": "https://build.fhir.org/ig/PanAmericanHealthOrganization/ESAVI-IG-FHIR/branches/master/package.tgz",
@@ -392,19 +392,19 @@
     }
   },
   {
+    "name": "who.trust",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/patch-1/package.tgz",
+      "repo": "https://github.com/costateixeira/smart-trust",
+      "branch": "patch-1"
+    }
+  },
+  {
     "name": "xxxexample.fhir.uv.myig",
     "current": {
       "url": "https://build.fhir.org/ig/srinithi1006/FoodAllergy/branches/master/package.tgz",
       "repo": "https://github.com/srinithi1006/FoodAllergy",
       "branch": "master"
-    }
-  },
-  {
-    "name": "zm-fhir-smart-immunizations-measles",
-    "current": {
-      "url": "https://build.fhir.org/ig/Litlfred-team/smart-immunizations-measles-zambia/branches/main/package.tgz",
-      "repo": "https://github.com/Litlfred-team/smart-immunizations-measles-zambia",
-      "branch": "main"
     }
   }
 ]
