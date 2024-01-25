@@ -1168,6 +1168,14 @@
     }
   },
   {
+    "name": "hl7.eu.fhir.ufis-swe-unicom",
+    "current": {
+      "url": "https://build.fhir.org/ig/joofio/ufis-swe-ig/branches/main/package.tgz",
+      "repo": "https://github.com/joofio/ufis-swe-ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.eu.fhir.unicom",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/master/package.tgz",
@@ -4013,6 +4021,14 @@
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-immunizations-measles",
       "branch": "main"
+    }
+  },
+  {
+    "name": "smart.who.int.trust",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+      "branch": "1.0.0"
     }
   },
   {
