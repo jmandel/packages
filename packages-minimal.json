@@ -4304,6 +4304,14 @@
     }
   },
   {
+    "name": "who.trust",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+      "branch": "main"
+    }
+  },
+  {
     "name": "xxexample.fhir.uv.myig",
     "current": {
       "url": "https://build.fhir.org/ig/DigitalSQR/autobuildbase/branches/master/package.tgz",
