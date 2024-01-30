@@ -174,7 +174,7 @@
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "master",
-        "lastSeen": "2024-01-30T14:10:37.000Z"
+        "lastSeen": "2024-01-30T15:09:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/ehi-export/package.tgz",
@@ -187,6 +187,12 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "ips-wrapper",
         "lastSeen": "2024-01-30T14:08:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/patient-journeys/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "patient-journeys",
+        "lastSeen": "2024-01-30T15:08:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/branches/patient-journeys/package.tgz"
@@ -7830,7 +7836,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/terminology/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/terminology",
         "branch": "master",
-        "lastSeen": "2023-12-20T13:31:56.000Z"
+        "lastSeen": "2024-01-30T14:39:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/terminology/branches/11122023/package.tgz",
@@ -18528,7 +18534,7 @@
         "url": "https://build.fhir.org/ig/NHSDigital/interoperability-standards-experimental/branches/master/package.tgz",
         "repo": "https://github.com/NHSDigital/interoperability-standards-experimental",
         "branch": "master",
-        "lastSeen": "2024-01-30T13:34:32.000Z"
+        "lastSeen": "2024-01-30T15:33:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/NHSDigital/hl7-fhir-publisher/branches/master/package.tgz"
