@@ -5419,6 +5419,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-fsh-conversion",
         "lastSeen": "2024-01-18T08:50:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-name-to-use/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft-name-to-use",
+        "lastSeen": "2024-02-01T00:28:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -14886,7 +14892,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2024-01-30T07:35:12.000Z"
+        "lastSeen": "2024-02-01T00:11:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -15121,6 +15127,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "union-test-updates",
         "lastSeen": "2024-01-23T04:17:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/forEachOrNull/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "forEachOrNull",
+        "lastSeen": "2024-02-01T00:12:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -18126,7 +18138,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/centralRegion-integrationHub-ig",
         "branch": "master",
-        "lastSeen": "2023-12-15T05:44:34.000Z"
+        "lastSeen": "2024-01-31T23:42:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/v0.2.0/package.tgz",
