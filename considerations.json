@@ -344,14 +344,6 @@
     }
   },
   {
-    "name": "medcom.fhir.dk.acknowledgement",
-    "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/v.2.0.2/package.tgz",
-      "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
-      "branch": "v.2.0.2"
-    }
-  },
-  {
     "name": "medcom.fhir.dk.messaging",
     "current": {
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.1.1-rc1/package.tgz",
