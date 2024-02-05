@@ -1483,6 +1483,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "ql_issue_140",
         "lastSeen": "2024-02-01T12:40:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/ql_trace_context/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
+        "branch": "ql_trace_context",
+        "lastSeen": "2024-02-05T06:59:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
