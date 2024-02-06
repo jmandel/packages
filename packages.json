@@ -14887,6 +14887,12 @@
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "fsh-3.0-resolutions-cmm-2",
         "lastSeen": "2024-02-05T16:59:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/overview-styling-jka/package.tgz",
+        "repo": "https://github.com/HL7/fhir-shorthand",
+        "branch": "overview-styling-jka",
+        "lastSeen": "2024-02-06T14:25:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
@@ -17611,6 +17617,12 @@
         "repo": "https://github.com/medcomdk/ehmi_balp",
         "branch": "0.2.0-a1",
         "lastSeen": "2023-10-04T14:05:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-com-status/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-com-status",
+        "branch": "main",
+        "lastSeen": "2024-02-06T14:23:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_balp/branches/main/package.tgz"
@@ -18780,7 +18792,7 @@
         "url": "https://build.fhir.org/ig/HL7-UK/UK-Core-Access/branches/master/package.tgz",
         "repo": "https://github.com/HL7-UK/UK-Core-Access",
         "branch": "master",
-        "lastSeen": "2023-10-31T09:15:57.000Z"
+        "lastSeen": "2024-02-06T14:31:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-UK/UK-Core-Access/branches/master/package.tgz"
@@ -19104,7 +19116,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2024-02-06T13:27:16.000Z"
+        "lastSeen": "2024-02-06T14:13:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
