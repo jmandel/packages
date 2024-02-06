@@ -15006,7 +15006,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/2024-ballot-reconciliation-uab/package.tgz",
         "repo": "https://github.com/HL7/smart-app-launch",
         "branch": "2024-ballot-reconciliation-uab",
-        "lastSeen": "2024-02-02T16:36:01.000Z"
+        "lastSeen": "2024-02-06T17:40:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/smart-app-launch-bvdh/branches/tst/package.tgz",
@@ -16015,6 +16015,24 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-486-Add-codes-to-http---terminology-hl7-org-CodeSystem-service-referral-method",
         "lastSeen": "2024-01-31T06:05:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-493-Create-the-Accessibility-Code-System-and-the-Accessibility-Value-Set/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-493-Create-the-Accessibility-Code-System-and-the-Accessibility-Value-Set",
+        "lastSeen": "2024-02-06T16:13:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-495-Create-the--Delivery-Methods--Code-System-and--Delivery-Methods--Value-Set/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-495-Create-the--Delivery-Methods--Code-System-and--Delivery-Methods--Value-Set",
+        "lastSeen": "2024-02-06T16:17:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-496-Create-the--Digital-Certificate-Use--Code-System-and--Digital-Certificate-Use--Value-Set/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-496-Create-the--Digital-Certificate-Use--Code-System-and--Digital-Certificate-Use--Value-Set",
+        "lastSeen": "2024-02-06T16:20:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -16495,6 +16513,12 @@
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "JohnMoehrke-patch-1",
         "lastSeen": "2024-02-06T13:23:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/Moehrke_builder_updates/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "Moehrke_builder_updates",
+        "lastSeen": "2024-02-06T17:23:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
