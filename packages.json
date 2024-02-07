@@ -5515,6 +5515,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-name-to-use",
         "lastSeen": "2024-02-01T00:28:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-ntu-qa/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft-ntu-qa",
+        "lastSeen": "2024-02-07T05:29:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -15024,7 +15030,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/2024-ballot-reconciliation-uab/package.tgz",
         "repo": "https://github.com/HL7/smart-app-launch",
         "branch": "2024-ballot-reconciliation-uab",
-        "lastSeen": "2024-02-06T20:59:53.000Z"
+        "lastSeen": "2024-02-07T05:20:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/smart-app-launch-bvdh/branches/tst/package.tgz",
