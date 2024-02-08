@@ -1344,7 +1344,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "master",
-        "lastSeen": "2024-02-07T03:59:00.000Z"
+        "lastSeen": "2024-02-08T19:05:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -9564,7 +9564,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-02-06T04:53:18.000Z"
+        "lastSeen": "2024-02-08T19:22:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -10531,6 +10531,12 @@
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "1.1.0",
         "lastSeen": "2023-11-16T22:32:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/STU2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mdi-ig",
+        "branch": "STU2",
+        "lastSeen": "2024-02-08T19:21:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz"
@@ -16201,6 +16207,24 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-505-Add--Not-Applicable--to-THO--Endpoint-Payload-Type--Code-System",
         "lastSeen": "2024-02-07T21:48:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-504-Add--Directory-Privacy--Code-to-THO--Consent-Scope--Code-System/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-504-Add--Directory-Privacy--Code-to-THO--Consent-Scope--Code-System",
+        "lastSeen": "2024-02-08T18:10:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-515-Add-OID-for-CMS-Hierarchical-Condition-Categories/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-515-Add-OID-for-CMS-Hierarchical-Condition-Categories",
+        "lastSeen": "2024-02-08T18:14:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-509-Add-values-to-THO--Validation-Process--Code-System/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-509-Add-values-to-THO--Validation-Process--Code-System",
+        "lastSeen": "2024-02-08T18:10:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -16554,7 +16578,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/edit-post-pc/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "edit-post-pc",
-        "lastSeen": "2024-02-08T17:21:40.000Z"
+        "lastSeen": "2024-02-08T19:19:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/R4BtoR4/package.tgz",
@@ -17016,7 +17040,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.Scheduling",
         "branch": "master",
-        "lastSeen": "2024-02-08T16:41:02.000Z"
+        "lastSeen": "2024-02-08T18:50:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/IHE-Scheduling-AH2/package.tgz",
