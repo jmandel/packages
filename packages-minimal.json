@@ -584,6 +584,22 @@
     }
   },
   {
+    "name": "dk.medcom.ehmi.eer",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-mCSD/branches/main/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-ehmi-mCSD",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "dk.medcom.ehmi.terminology",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
+      "branch": "main"
+    }
+  },
+  {
     "name": "donlandia.fhir.smart-immunizations-measles",
     "current": {
       "url": "https://build.fhir.org/ig/brooksdonald/smart-immunizations-measles-donlandia/branches/main/package.tgz",
