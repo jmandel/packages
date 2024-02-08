@@ -40,10 +40,26 @@
     }
   },
   {
+    "name": "ch.fhir.ig.ch-epr-term",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/emed-term/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-epr-term",
+      "branch": "emed-term"
+    }
+  },
+  {
     "name": "ch.fhir.ig.ch-lab-report",
     "current": {
       "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
       "repo": "https://github.com/hl7ch/ch-lab-report",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "ch.fhir.ig.ch-term",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-epr-term",
       "branch": "master"
     }
   },

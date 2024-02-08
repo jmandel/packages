@@ -810,7 +810,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2024-01-23T16:00:41.000Z"
+        "lastSeen": "2024-02-08T17:29:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -2251,6 +2251,12 @@
         "repo": "https://github.com/hl7ch/ch-epr-term",
         "branch": "issue23_nameChange",
         "lastSeen": "2024-02-08T14:54:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/master/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epr-term",
+        "branch": "master",
+        "lastSeen": "2024-02-08T17:02:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -5202,7 +5208,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2024-02-08T14:53:26.000Z"
+        "lastSeen": "2024-02-08T16:51:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz"
@@ -8622,7 +8628,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/mergeCodesystems/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "mergeCodesystems",
-        "lastSeen": "2024-02-08T16:12:53.000Z"
+        "lastSeen": "2024-02-08T16:37:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/consolidateBirthSexVS/package.tgz",
@@ -16548,7 +16554,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/edit-post-pc/package.tgz",
         "repo": "https://github.com/IHE/ITI.DSUBm",
         "branch": "edit-post-pc",
-        "lastSeen": "2024-02-08T16:22:56.000Z"
+        "lastSeen": "2024-02-08T17:21:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DSUBm/branches/R4BtoR4/package.tgz",
@@ -16944,7 +16950,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/match/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "match",
-        "lastSeen": "2024-02-08T16:25:52.000Z"
+        "lastSeen": "2024-02-08T17:41:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/oe_pdqmresults/package.tgz",
