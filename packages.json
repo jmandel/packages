@@ -606,7 +606,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-02-12T13:22:39.000Z"
+        "lastSeen": "2024-02-12T18:15:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -3294,7 +3294,7 @@
         "url": "https://build.fhir.org/ig/swantrace/ASU-research-consent-on-FHIR/branches/main/package.tgz",
         "repo": "https://github.com/swantrace/ASU-research-consent-on-FHIR",
         "branch": "main",
-        "lastSeen": "2024-02-11T02:08:13.000Z"
+        "lastSeen": "2024-02-12T18:25:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/swantrace/ASU-research-consent-on-FHIR/branches/removeProjectDuration/package.tgz",
@@ -11442,7 +11442,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "main",
-        "lastSeen": "2024-01-24T20:13:43.000Z"
+        "lastSeen": "2024-02-12T18:14:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott-work/package.tgz",
@@ -11460,7 +11460,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/frank/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "frank",
-        "lastSeen": "2024-01-24T20:12:44.000Z"
+        "lastSeen": "2024-02-12T18:13:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott/package.tgz",
@@ -11934,7 +11934,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-02-08T15:35:00.000Z"
+        "lastSeen": "2024-02-12T18:20:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -12234,7 +12234,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixHispanicNoUnknown/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "fixHispanicNoUnknown",
-        "lastSeen": "2024-02-02T20:17:52.000Z"
+        "lastSeen": "2024-02-12T18:18:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/consolidateBirthSexVS/package.tgz",
@@ -12247,6 +12247,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "doubleNames",
         "lastSeen": "2024-02-07T21:51:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/territoriesVS/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "territoriesVS",
+        "lastSeen": "2024-02-12T18:06:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
