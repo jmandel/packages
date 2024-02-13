@@ -5556,7 +5556,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-02-07T07:52:55.000Z"
+        "lastSeen": "2024-02-13T00:56:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -5610,7 +5610,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-ntu-qa/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-ntu-qa",
-        "lastSeen": "2024-02-12T22:58:22.000Z"
+        "lastSeen": "2024-02-13T01:40:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -15712,6 +15712,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/main/package.tgz"
+  },
+  "hl7.fhir.uv.xver": {
+    "name": "hl7.fhir.uv.xver",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cross-version/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cross-version",
+        "branch": "main",
+        "lastSeen": "2024-02-13T01:20:41.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/fhir-cross-version/branches/main/package.tgz"
   },
   "hl7.fhirpath": {
     "name": "hl7.fhirpath",
