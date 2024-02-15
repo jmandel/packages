@@ -272,14 +272,6 @@
     }
   },
   {
-    "name": "hl7.fhir.us.pedcan",
-    "current": {
-      "url": "https://build.fhir.org/ig/standardhealth/ped-cancer-ig/branches/1024-high-priority-changes/package.tgz",
-      "repo": "https://github.com/standardhealth/ped-cancer-ig",
-      "branch": "1024-high-priority-changes"
-    }
-  },
-  {
     "name": "hl7.fhir.us.ph-library",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-common-library-ig/branches/master/package.tgz",
