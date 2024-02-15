@@ -2341,6 +2341,18 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "prep_ballot_5_is208",
         "lastSeen": "2024-02-15T07:07:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/213-adapt-example-11-immunisation-administration/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "213-adapt-example-11-immunisation-administration",
+        "lastSeen": "2024-02-15T08:25:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/211-check-list-of-swissmedic-vaccines/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "211-check-list-of-swissmedic-vaccines",
+        "lastSeen": "2024-02-15T07:37:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
