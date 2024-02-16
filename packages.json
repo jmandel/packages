@@ -534,7 +534,7 @@
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/master/package.tgz",
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "master",
-        "lastSeen": "2023-12-08T10:39:58.000Z"
+        "lastSeen": "2024-02-16T10:14:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/72-review-consent-profile/package.tgz",
@@ -583,6 +583,30 @@
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "add-sushi-and-IG-documentation-for-PRs",
         "lastSeen": "2023-12-22T08:32:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/94-additional-examples-for-the-commonprofilescare-profiles/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "94-additional-examples-for-the-commonprofilescare-profiles",
+        "lastSeen": "2024-02-16T10:37:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/78-publisher-guide/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "78-publisher-guide",
+        "lastSeen": "2024-02-16T10:18:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/90-change-name-to-swedish-fhir-group/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "90-change-name-to-swedish-fhir-group",
+        "lastSeen": "2024-02-16T10:26:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/85-our-definition-of-must-support/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "85-our-definition-of-must-support",
+        "lastSeen": "2024-02-16T10:33:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/master/package.tgz"
@@ -7440,7 +7464,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-02-15T21:00:19.000Z"
+        "lastSeen": "2024-02-16T10:28:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -14467,6 +14491,12 @@
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "applying-backlog",
         "lastSeen": "2024-02-14T22:20:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/applying-backlog2/package.tgz",
+        "repo": "https://github.com/HL7/FHIRPath",
+        "branch": "applying-backlog2",
+        "lastSeen": "2024-02-16T10:41:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/markdown-conversion/package.tgz"
