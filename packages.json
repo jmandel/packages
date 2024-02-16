@@ -636,7 +636,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-02-16T20:20:13.000Z"
+        "lastSeen": "2024-02-16T21:36:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -7494,7 +7494,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-02-16T14:24:57.000Z"
+        "lastSeen": "2024-02-16T21:26:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -12192,7 +12192,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-02-16T19:55:38.000Z"
+        "lastSeen": "2024-02-16T21:30:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -12546,7 +12546,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/deathflag/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "deathflag",
-        "lastSeen": "2024-02-15T01:27:52.000Z"
+        "lastSeen": "2024-02-16T21:30:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -16711,6 +16711,18 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "test-ihe-dependency",
         "lastSeen": "2024-02-16T18:26:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-520-Create-Insurance-Coverage-Type-Code-System-and-Value-Set/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-520-Create-Insurance-Coverage-Type-Code-System-and-Value-Set",
+        "lastSeen": "2024-02-16T20:21:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-500-Create-the--Insurance-Product-Type--Code-System-and--Insurance-Product-Type--Value-Set/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-500-Create-the--Insurance-Product-Type--Code-System-and--Insurance-Product-Type--Value-Set",
+        "lastSeen": "2024-02-16T20:33:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
