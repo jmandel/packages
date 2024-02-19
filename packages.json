@@ -12625,6 +12625,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "nixRaceMVRCodeSystem",
         "lastSeen": "2024-02-19T15:57:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/practitioner/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "practitioner",
+        "lastSeen": "2024-02-19T18:52:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
