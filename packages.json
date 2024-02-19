@@ -636,7 +636,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-02-19T14:38:26.000Z"
+        "lastSeen": "2024-02-19T16:21:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -2125,6 +2125,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "specimen-container",
         "lastSeen": "2024-02-19T15:10:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/observation-extensions/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "observation-extensions",
+        "lastSeen": "2024-02-19T15:44:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -3198,7 +3204,7 @@
         "url": "https://build.fhir.org/ig/ELGA-GmbH/iv-hi/branches/main/package.tgz",
         "repo": "https://github.com/ELGA-GmbH/iv-hi",
         "branch": "main",
-        "lastSeen": "2024-02-12T16:05:56.000Z"
+        "lastSeen": "2024-02-19T16:27:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz"
@@ -12246,7 +12252,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-02-16T21:30:52.000Z"
+        "lastSeen": "2024-02-19T15:57:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -12606,13 +12612,13 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/addressFieldLengthLimits/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "addressFieldLengthLimits",
-        "lastSeen": "2024-02-16T22:33:11.000Z"
+        "lastSeen": "2024-02-19T15:41:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/nixRaceMVRCodeSystem/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "nixRaceMVRCodeSystem",
-        "lastSeen": "2024-02-16T23:04:53.000Z"
+        "lastSeen": "2024-02-19T15:57:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
