@@ -636,7 +636,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-02-19T23:12:08.000Z"
+        "lastSeen": "2024-02-20T15:23:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -1555,6 +1555,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "ql_trace_context",
         "lastSeen": "2024-02-05T18:58:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/ql_changelog/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
+        "branch": "ql_changelog",
+        "lastSeen": "2024-02-20T14:53:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
@@ -3084,7 +3090,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2024-02-20T11:49:15.000Z"
+        "lastSeen": "2024-02-20T14:51:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ehmi-eds-r5/branches/main/package.tgz",
@@ -3103,6 +3109,12 @@
         "repo": "https://github.com/medcomdk/dk-ehmi-mCSD",
         "branch": "main",
         "lastSeen": "2024-02-08T11:28:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eer",
+        "branch": "main",
+        "lastSeen": "2024-02-20T15:20:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-mCSD/branches/main/package.tgz"
@@ -9534,7 +9546,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-01-22T21:50:15.000Z"
+        "lastSeen": "2024-02-20T14:52:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -10302,7 +10314,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "master",
-        "lastSeen": "2024-02-14T21:16:31.000Z"
+        "lastSeen": "2024-02-20T14:47:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/stu_update/package.tgz",
@@ -10320,7 +10332,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/stu1.1/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "stu1.1",
-        "lastSeen": "2024-02-01T19:38:39.000Z"
+        "lastSeen": "2024-02-20T14:45:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz"
@@ -12720,7 +12732,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2024-02-19T21:26:32.000Z"
+        "lastSeen": "2024-02-20T14:48:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -12810,7 +12822,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/certifierChanges/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "certifierChanges",
-        "lastSeen": "2024-02-19T21:04:56.000Z"
+        "lastSeen": "2024-02-20T15:19:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/212-intros-DD/package.tgz",
@@ -13519,6 +13531,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "bulk-publish",
         "lastSeen": "2023-11-29T21:43:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/bulk-match/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "bulk-match",
+        "lastSeen": "2024-02-20T15:06:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
