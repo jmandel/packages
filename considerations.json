@@ -378,8 +378,8 @@
   {
     "name": "my-ig",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-pt/resp-ig/branches/master/package.tgz",
-      "repo": "https://github.com/hl7-pt/resp-ig",
+      "url": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-pt/adr-ig",
       "branch": "master"
     }
   },
@@ -402,8 +402,8 @@
   {
     "name": "smart.who.int.trust",
     "current": {
-      "url": "https://build.fhir.org/ig/ritikarawlani/smart-trust/branches/main/package.tgz",
-      "repo": "https://github.com/ritikarawlani/smart-trust",
+      "url": "https://build.fhir.org/ig/medigree/smart-trustTEST/branches/main/package.tgz",
+      "repo": "https://github.com/medigree/smart-trustTEST",
       "branch": "main"
     }
   },
