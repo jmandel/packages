@@ -9042,7 +9042,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/certifierAttendant/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "certifierAttendant",
-        "lastSeen": "2024-02-20T03:30:17.000Z"
+        "lastSeen": "2024-02-20T15:34:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/performedNotPerformedPlanned/package.tgz",
@@ -9066,7 +9066,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fetalPresentations/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "fetalPresentations",
-        "lastSeen": "2024-02-19T23:29:50.000Z"
+        "lastSeen": "2024-02-20T15:32:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -11730,7 +11730,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2024-02-09T17:20:16.000Z"
+        "lastSeen": "2024-02-20T16:11:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -12708,13 +12708,19 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/practitioner/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "practitioner",
-        "lastSeen": "2024-02-20T03:06:52.000Z"
+        "lastSeen": "2024-02-20T15:36:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/sheetsUpdate/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "sheetsUpdate",
         "lastSeen": "2024-02-19T20:54:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/navigationBar/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "navigationBar",
+        "lastSeen": "2024-02-20T16:21:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -12732,7 +12738,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2024-02-20T14:48:18.000Z"
+        "lastSeen": "2024-02-20T16:26:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -12822,7 +12828,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/certifierChanges/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "certifierChanges",
-        "lastSeen": "2024-02-20T15:19:38.000Z"
+        "lastSeen": "2024-02-20T15:58:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/212-intros-DD/package.tgz",
@@ -15798,7 +15804,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2024-02-19T15:26:38.000Z"
+        "lastSeen": "2024-02-20T16:25:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -16968,7 +16974,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-483-Define-software-system-type-codes/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-483-Define-software-system-type-codes",
-        "lastSeen": "2024-02-20T06:41:05.000Z"
+        "lastSeen": "2024-02-20T15:36:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-519-Activate-ICPC-2-code-system-metadata-record/package.tgz",
@@ -16986,7 +16992,13 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-482-Add-version-policy-code-system/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-482-Add-version-policy-code-system",
-        "lastSeen": "2024-02-20T06:47:59.000Z"
+        "lastSeen": "2024-02-20T15:43:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-521-Migrate-the-Jurisdiction-value-set-from-FHIR-core-to-THO/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-521-Migrate-the-Jurisdiction-value-set-from-FHIR-core-to-THO",
+        "lastSeen": "2024-02-20T15:46:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
