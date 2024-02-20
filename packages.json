@@ -1416,7 +1416,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "master",
-        "lastSeen": "2024-01-30T13:10:33.000Z"
+        "lastSeen": "2024-02-20T13:36:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/oe_pdqm_52/package.tgz",
@@ -1548,7 +1548,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/ql_issue_140/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "ql_issue_140",
-        "lastSeen": "2024-02-01T12:40:27.000Z"
+        "lastSeen": "2024-02-20T13:35:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/ql_trace_context/package.tgz",
@@ -1746,7 +1746,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "master",
-        "lastSeen": "2024-01-31T15:12:38.000Z"
+        "lastSeen": "2024-02-20T13:12:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz"
@@ -4284,7 +4284,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2024-02-20T12:33:56.000Z"
+        "lastSeen": "2024-02-20T13:21:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/immunization-ips-profile/package.tgz",
@@ -4309,6 +4309,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "medicationSummaryIPS",
         "lastSeen": "2024-02-20T12:32:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/medicationStatement/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "medicationStatement",
+        "lastSeen": "2024-02-20T13:20:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/medicationRequest/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "medicationRequest",
+        "lastSeen": "2024-02-20T12:57:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
@@ -15246,7 +15258,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2024-02-20T12:30:01.000Z"
+        "lastSeen": "2024-02-20T12:53:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
