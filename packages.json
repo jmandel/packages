@@ -4356,7 +4356,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2024-02-22T14:21:11.000Z"
+        "lastSeen": "2024-02-22T18:51:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/immunization-ips-profile/package.tgz",
@@ -4447,6 +4447,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "claimsProfilesFix",
         "lastSeen": "2024-02-22T14:13:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/claimsExtensions/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "claimsExtensions",
+        "lastSeen": "2024-02-22T18:46:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
@@ -9235,6 +9241,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "220-bindings-shorts",
         "lastSeen": "2024-02-20T22:03:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/minor-changes/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "minor-changes",
+        "lastSeen": "2024-02-22T19:06:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -9438,7 +9450,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-central-cancer-registry-reporting-ig",
         "branch": "master",
-        "lastSeen": "2024-02-22T18:29:39.000Z"
+        "lastSeen": "2024-02-22T19:04:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz"
@@ -10170,7 +10182,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-02-15T19:37:26.000Z"
+        "lastSeen": "2024-02-22T19:38:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -15876,7 +15888,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/fsh-3.0-resolutions-cmm-3/package.tgz",
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "fsh-3.0-resolutions-cmm-3",
-        "lastSeen": "2024-02-19T21:56:34.000Z"
+        "lastSeen": "2024-02-22T18:48:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/fsh-3.0-resolutions-jka-3/package.tgz",
@@ -18066,7 +18078,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PIXm/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.PIXm",
         "branch": "master",
-        "lastSeen": "2024-02-15T13:19:33.000Z"
+        "lastSeen": "2024-02-22T19:39:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.PIXm/branches/mlj_aug-2023-prpub-edits/package.tgz",
@@ -18091,6 +18103,12 @@
         "repo": "https://github.com/IHE/ITI.PIXm",
         "branch": "error-response-fix",
         "lastSeen": "2024-02-08T21:06:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.PIXm/branches/3.0.4/package.tgz",
+        "repo": "https://github.com/IHE/ITI.PIXm",
+        "branch": "3.0.4",
+        "lastSeen": "2024-02-22T19:38:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.PIXm/branches/master/package.tgz"
@@ -20382,7 +20400,7 @@
         "url": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/main/package.tgz",
         "repo": "https://github.com/department-of-veterans-affairs/mhv-fhir-phr-mapping",
         "branch": "main",
-        "lastSeen": "2024-02-22T18:05:07.000Z"
+        "lastSeen": "2024-02-22T18:38:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/main/package.tgz"
