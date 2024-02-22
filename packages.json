@@ -2335,6 +2335,12 @@
         "repo": "https://github.com/hl7ch/ch-epr-term",
         "branch": "mz_moa",
         "lastSeen": "2024-02-22T10:52:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/edqm-cs-fragment/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epr-term",
+        "branch": "edqm-cs-fragment",
+        "lastSeen": "2024-02-22T12:39:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -4344,7 +4350,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2024-02-22T09:42:48.000Z"
+        "lastSeen": "2024-02-22T12:31:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/immunization-ips-profile/package.tgz",
@@ -4410,13 +4416,25 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/claimsprofile/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "claimsprofile",
-        "lastSeen": "2024-02-22T08:38:28.000Z"
+        "lastSeen": "2024-02-22T12:08:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/coverage/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "coverage",
-        "lastSeen": "2024-02-22T10:05:24.000Z"
+        "lastSeen": "2024-02-22T12:19:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/revert-26-coverage/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "revert-26-coverage",
+        "lastSeen": "2024-02-22T12:04:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/revert-31-revert-26-coverage/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "revert-31-revert-26-coverage",
+        "lastSeen": "2024-02-22T12:29:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
