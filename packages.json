@@ -2365,6 +2365,12 @@
         "repo": "https://github.com/hl7ch/ch-epr-term",
         "branch": "edqm-cs-fragment",
         "lastSeen": "2024-02-22T12:39:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/mz_chcoreterminology/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epr-term",
+        "branch": "mz_chcoreterminology",
+        "lastSeen": "2024-02-23T13:39:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -7884,7 +7890,7 @@
         "url": "https://build.fhir.org/ig/danka74/hl7-eu-laboratory/branches/master/package.tgz",
         "repo": "https://github.com/danka74/hl7-eu-laboratory",
         "branch": "master",
-        "lastSeen": "2024-02-16T14:47:45.000Z"
+        "lastSeen": "2024-02-23T13:54:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/oe_ips110/package.tgz",
@@ -7897,6 +7903,12 @@
         "repo": "https://github.com/danka74/hl7-eu-laboratory",
         "branch": "crm-example",
         "lastSeen": "2024-02-16T16:21:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/danka74/hl7-eu-laboratory/branches/npu-ToS-link-update/package.tgz",
+        "repo": "https://github.com/danka74/hl7-eu-laboratory",
+        "branch": "npu-ToS-link-update",
+        "lastSeen": "2024-02-23T13:57:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -12997,6 +13009,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "gender-url",
         "lastSeen": "2024-02-21T15:20:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixSexAssigned/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "fixSexAssigned",
+        "lastSeen": "2024-02-23T13:50:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
