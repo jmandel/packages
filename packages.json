@@ -10428,7 +10428,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2024-02-22T21:33:50.000Z"
+        "lastSeen": "2024-02-26T06:28:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
@@ -16435,6 +16435,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "json-first",
         "lastSeen": "2024-02-23T16:59:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/nested-union-test/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "nested-union-test",
+        "lastSeen": "2024-02-26T06:41:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
