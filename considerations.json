@@ -368,22 +368,6 @@
     }
   },
   {
-    "name": "kl.dk.fhir.prevention",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/1.1.0/package.tgz",
-      "repo": "https://github.com/hl7dk/kl-gateway-prevention",
-      "branch": "1.1.0"
-    }
-  },
-  {
-    "name": "kl.dk.fhir.rehab",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/1.1.0/package.tgz",
-      "repo": "https://github.com/hl7dk/kl-gateway-rehab",
-      "branch": "1.1.0"
-    }
-  },
-  {
     "name": "minsal.fhir.core",
     "current": {
       "url": "https://build.fhir.org/ig/Minsal-CL/MFR/branches/main/package.tgz",

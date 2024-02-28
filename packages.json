@@ -6126,7 +6126,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/FHIR-43842-stds/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "FHIR-43842-stds",
-        "lastSeen": "2024-02-26T22:17:49.000Z"
+        "lastSeen": "2024-02-28T08:11:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/aucdi-mappings/package.tgz",
@@ -7926,7 +7926,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-02-25T21:39:02.000Z"
+        "lastSeen": "2024-02-28T08:36:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -7981,6 +7981,12 @@
         "repo": "https://github.com/danka74/hl7-eu-laboratory",
         "branch": "npu-ToS-link-update",
         "lastSeen": "2024-02-23T13:57:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/v0.1.0/package.tgz",
+        "repo": "https://github.com/hl7-eu/laboratory",
+        "branch": "v0.1.0",
+        "lastSeen": "2024-02-28T08:39:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -20820,7 +20826,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2024-02-27T17:17:07.000Z"
+        "lastSeen": "2024-02-28T08:38:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
