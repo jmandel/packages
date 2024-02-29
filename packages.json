@@ -2574,7 +2574,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
         "branch": "master",
-        "lastSeen": "2024-02-05T00:03:33.000Z"
+        "lastSeen": "2024-02-29T06:09:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/testing/package.tgz",
@@ -2773,6 +2773,12 @@
         "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
         "branch": "038",
         "lastSeen": "2024-02-05T00:04:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/039/package.tgz",
+        "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
+        "branch": "039",
+        "lastSeen": "2024-02-29T06:09:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz"
@@ -5982,7 +5988,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/FHIR43843-guidance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "FHIR43843-guidance",
-        "lastSeen": "2024-02-28T22:24:52.000Z"
+        "lastSeen": "2024-02-29T05:36:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -6012,7 +6018,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-02-28T04:36:03.000Z"
+        "lastSeen": "2024-02-29T06:17:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -19410,7 +19416,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/testexamples-3.0.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "testexamples-3.0.1",
-        "lastSeen": "2024-02-28T13:16:30.000Z"
+        "lastSeen": "2024-02-29T06:05:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
