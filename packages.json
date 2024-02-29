@@ -775,6 +775,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "v2.0.0",
         "lastSeen": "2023-12-19T17:31:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/issue92/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "issue92",
+        "lastSeen": "2024-02-29T09:38:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -2040,7 +2046,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-02-26T10:25:12.000Z"
+        "lastSeen": "2024-02-29T09:24:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -2491,6 +2497,18 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "211-check-list-of-swissmedic-vaccines",
         "lastSeen": "2024-02-15T07:37:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/217-define-fix-value-for-category-on-compositon/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "217-define-fix-value-for-category-on-compositon",
+        "lastSeen": "2024-02-29T09:08:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/184-redundant-codesystem-swissallergyintolerancecodesystem/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "184-redundant-codesystem-swissallergyintolerancecodesystem",
+        "lastSeen": "2024-02-29T08:54:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -3324,7 +3342,7 @@
         "url": "https://build.fhir.org/ig/ELGA-GmbH/iv-hi/branches/main/package.tgz",
         "repo": "https://github.com/ELGA-GmbH/iv-hi",
         "branch": "main",
-        "lastSeen": "2024-02-29T07:59:18.000Z"
+        "lastSeen": "2024-02-29T09:42:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ELGA-GmbH/iv-hi/branches/dependencies/package.tgz",
@@ -10410,7 +10428,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-02-22T19:38:29.000Z"
+        "lastSeen": "2024-02-29T08:40:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -19872,7 +19890,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/adr-ig",
         "branch": "master",
-        "lastSeen": "2024-02-20T11:45:49.000Z"
+        "lastSeen": "2024-02-29T09:26:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz",
@@ -19884,7 +19902,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/community-health-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/community-health-ig",
         "branch": "master",
-        "lastSeen": "2024-02-28T20:35:19.000Z"
+        "lastSeen": "2024-02-29T09:28:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-pt/resp-ig/branches/master/package.tgz",
