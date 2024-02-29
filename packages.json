@@ -1051,6 +1051,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue277",
         "lastSeen": "2024-02-24T09:47:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/baseProfile_AI/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "baseProfile_AI",
+        "lastSeen": "2024-02-29T14:34:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -2394,7 +2400,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epr-term",
         "branch": "master",
-        "lastSeen": "2024-02-29T09:53:03.000Z"
+        "lastSeen": "2024-02-29T14:31:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/mz_moa/package.tgz",
@@ -2442,7 +2448,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2024-02-15T07:08:30.000Z"
+        "lastSeen": "2024-02-29T14:29:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -3606,7 +3612,7 @@
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/main/package.tgz",
         "repo": "https://github.com/ReMeDi-Blut/remedi_ig",
         "branch": "main",
-        "lastSeen": "2024-02-27T14:28:11.000Z"
+        "lastSeen": "2024-02-29T14:11:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/draft/package.tgz",
@@ -18157,6 +18163,12 @@
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "Moehrke_builder_updates",
         "lastSeen": "2024-02-06T19:26:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/open-audit-entity-slicing/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "open-audit-entity-slicing",
+        "lastSeen": "2024-02-29T14:16:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
@@ -21066,7 +21078,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/cleanup/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "cleanup",
-        "lastSeen": "2024-02-29T13:26:13.000Z"
+        "lastSeen": "2024-02-29T14:28:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz"
