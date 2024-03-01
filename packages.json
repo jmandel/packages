@@ -1638,7 +1638,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/incorporate-IUA-CP-1288/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "incorporate-IUA-CP-1288",
-        "lastSeen": "2024-03-01T08:36:25.000Z"
+        "lastSeen": "2024-03-01T08:59:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
@@ -1836,7 +1836,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "master",
-        "lastSeen": "2024-02-20T13:12:01.000Z"
+        "lastSeen": "2024-03-01T08:40:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz"
@@ -2538,19 +2538,25 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/211-check-list-of-swissmedic-vaccines/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "211-check-list-of-swissmedic-vaccines",
-        "lastSeen": "2024-03-01T08:35:37.000Z"
+        "lastSeen": "2024-03-01T08:44:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/217-define-fix-value-for-category-on-compositon/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "217-define-fix-value-for-category-on-compositon",
-        "lastSeen": "2024-03-01T08:33:51.000Z"
+        "lastSeen": "2024-03-01T09:03:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/184-redundant-codesystem-swissallergyintolerancecodesystem/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "184-redundant-codesystem-swissallergyintolerancecodesystem",
         "lastSeen": "2024-03-01T08:35:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/218-depend-on-ch-core-profiles-michaela-ziegler-ahdis-ag/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "218-depend-on-ch-core-profiles-michaela-ziegler-ahdis-ag",
+        "lastSeen": "2024-03-01T09:04:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -3636,13 +3642,13 @@
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/main/package.tgz",
         "repo": "https://github.com/ReMeDi-Blut/remedi_ig",
         "branch": "main",
-        "lastSeen": "2024-02-29T14:11:17.000Z"
+        "lastSeen": "2024-03-01T09:20:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/draft/package.tgz",
         "repo": "https://github.com/ReMeDi-Blut/remedi_ig",
         "branch": "draft",
-        "lastSeen": "2024-02-22T10:55:45.000Z"
+        "lastSeen": "2024-03-01T08:48:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/master/package.tgz",
@@ -10620,7 +10626,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2024-02-28T04:03:26.000Z"
+        "lastSeen": "2024-03-01T08:50:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
