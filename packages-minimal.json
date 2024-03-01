@@ -2312,6 +2312,14 @@
     }
   },
   {
+    "name": "hl7.fhir.us.illTraveler",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ReportIIITraveler-ig/branches/master/package.tgz",
+      "repo": "https://github.com/HL7/ReportIIITraveler-ig",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.us.insurance-card",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz",
