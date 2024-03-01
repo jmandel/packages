@@ -534,7 +534,7 @@
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/master/package.tgz",
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "master",
-        "lastSeen": "2024-03-01T10:16:38.000Z"
+        "lastSeen": "2024-03-01T15:47:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/72-review-consent-profile/package.tgz",
@@ -5904,7 +5904,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh-ps",
         "branch": "master",
-        "lastSeen": "2024-03-01T11:27:08.000Z"
+        "lastSeen": "2024-03-01T16:02:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-ps/branches/master/package.tgz"
@@ -7740,19 +7740,25 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-02-29T20:20:43.000Z"
+        "lastSeen": "2024-03-01T15:51:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "0.1.5",
-        "lastSeen": "2024-02-08T13:33:52.000Z"
+        "lastSeen": "2024-03-01T15:52:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.6/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "0.1.6",
         "lastSeen": "2024-02-08T13:38:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/fix_pertinencia/package.tgz",
+        "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
+        "branch": "fix_pertinencia",
+        "lastSeen": "2024-03-01T15:51:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz"
@@ -9822,7 +9828,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "master",
-        "lastSeen": "2024-03-01T14:02:14.000Z"
+        "lastSeen": "2024-03-01T15:48:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/motion-management/package.tgz",
@@ -9978,7 +9984,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixCategory/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "fixCategory",
-        "lastSeen": "2024-02-28T20:34:21.000Z"
+        "lastSeen": "2024-03-01T16:02:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixFreeBreathingMMTechVS/package.tgz",
@@ -9990,7 +9996,13 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixRequestedSnomedCodes/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "fixRequestedSnomedCodes",
-        "lastSeen": "2024-02-29T23:36:29.000Z"
+        "lastSeen": "2024-03-01T15:48:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixRequestedSnomedCodesv2/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "fixRequestedSnomedCodesv2",
+        "lastSeen": "2024-03-01T15:48:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -11466,7 +11478,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-02-09T21:50:42.000Z"
+        "lastSeen": "2024-03-01T16:33:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -11604,7 +11616,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2024-02-25T00:38:06.000Z"
+        "lastSeen": "2024-03-01T15:50:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -15876,7 +15888,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2024-03-01T15:35:32.000Z"
+        "lastSeen": "2024-03-01T16:31:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
