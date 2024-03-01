@@ -750,7 +750,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "master",
-        "lastSeen": "2024-02-29T15:14:29.000Z"
+        "lastSeen": "2024-03-01T08:34:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/updateLicense/package.tgz",
@@ -1014,7 +1014,7 @@
         "url": "https://build.fhir.org/ig/ralych/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/ralych/ch-core",
         "branch": "master",
-        "lastSeen": "2023-11-24T13:55:00.000Z"
+        "lastSeen": "2024-03-01T08:26:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue266_conceptmap/package.tgz",
@@ -1069,6 +1069,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "baseProfile_AI",
         "lastSeen": "2024-02-29T14:49:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ralych/ch-core/branches/baseProfiles_VACD/package.tgz",
+        "repo": "https://github.com/ralych/ch-core",
+        "branch": "baseProfiles_VACD",
+        "lastSeen": "2024-03-01T08:29:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -1627,6 +1633,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
         "branch": "ql_changelog",
         "lastSeen": "2024-02-20T14:53:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/incorporate-IUA-CP-1288/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-mhealth",
+        "branch": "incorporate-IUA-CP-1288",
+        "lastSeen": "2024-03-01T08:36:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-mhealth/branches/master/package.tgz"
@@ -2526,19 +2538,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/211-check-list-of-swissmedic-vaccines/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "211-check-list-of-swissmedic-vaccines",
-        "lastSeen": "2024-02-15T07:37:35.000Z"
+        "lastSeen": "2024-03-01T08:35:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/217-define-fix-value-for-category-on-compositon/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "217-define-fix-value-for-category-on-compositon",
-        "lastSeen": "2024-02-29T09:08:10.000Z"
+        "lastSeen": "2024-03-01T08:33:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/184-redundant-codesystem-swissallergyintolerancecodesystem/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "184-redundant-codesystem-swissallergyintolerancecodesystem",
-        "lastSeen": "2024-02-29T08:54:42.000Z"
+        "lastSeen": "2024-03-01T08:35:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
