@@ -6259,6 +6259,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_allergyintolerance",
         "lastSeen": "2024-03-03T05:18:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/stu-notes/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "stu-notes",
+        "lastSeen": "2024-03-03T07:35:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -8058,7 +8064,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-02-28T08:45:24.000Z"
+        "lastSeen": "2024-03-03T07:07:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -17184,7 +17190,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2024-03-03T03:59:47.000Z"
+        "lastSeen": "2024-03-03T06:49:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -17652,7 +17658,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-518-Fix-Erroneous-URL-for-NUCC-Provider-Taxonomy/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-518-Fix-Erroneous-URL-for-NUCC-Provider-Taxonomy",
-        "lastSeen": "2024-02-20T06:50:58.000Z"
+        "lastSeen": "2024-03-03T06:39:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-483-Define-software-system-type-codes/package.tgz",
@@ -17682,7 +17688,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-521-Migrate-the-Jurisdiction-value-set-from-FHIR-core-to-THO/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-521-Migrate-the-Jurisdiction-value-set-from-FHIR-core-to-THO",
-        "lastSeen": "2024-02-20T19:41:00.000Z"
+        "lastSeen": "2024-03-03T06:20:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-525-Move-code-system-and-value-set-from-Quality-Measure-IG-to-THO/package.tgz",
@@ -17694,7 +17700,19 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-529-FHIR-39600-Endpoint-connection-type-cleanup--FHIR-35965-PA-content-erroneously-marked-as-example-content--FHIR-20484-add-definitions-for-diagnosis-role/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-529-FHIR-39600-Endpoint-connection-type-cleanup--FHIR-35965-PA-content-erroneously-marked-as-example-content--FHIR-20484-add-definitions-for-diagnosis-role",
-        "lastSeen": "2024-02-23T05:06:36.000Z"
+        "lastSeen": "2024-03-03T06:27:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-532-Update-HL7Workgroup-to-align-with-extensions-pack-code-system/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-532-Update-HL7Workgroup-to-align-with-extensions-pack-code-system",
+        "lastSeen": "2024-03-03T06:32:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-527-Fix-typo-in-display-of-one-AddressUse-concept/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-527-Fix-typo-in-display-of-one-AddressUse-concept",
+        "lastSeen": "2024-03-03T06:08:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
