@@ -6277,6 +6277,18 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "stu-notes",
         "lastSeen": "2024-03-03T07:35:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/future/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "future",
+        "lastSeen": "2024-03-03T22:07:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/capability-statements/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "capability-statements",
+        "lastSeen": "2024-03-03T21:39:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -12571,6 +12583,12 @@
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
         "branch": "dev",
         "lastSeen": "2023-12-11T02:00:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/ConnecathonJan2024/package.tgz",
+        "repo": "https://github.com/HL7/FHIR-us-pq-cmc",
+        "branch": "ConnecathonJan2024",
+        "lastSeen": "2024-03-03T21:39:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
@@ -17022,7 +17040,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/cca/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/cca",
         "branch": "master",
-        "lastSeen": "2023-11-22T17:58:20.000Z"
+        "lastSeen": "2024-03-03T21:52:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/cca/branches/master/package.tgz"
@@ -20904,7 +20922,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/ravimiskeem/package.tgz",
         "repo": "https://github.com/TEHIK-EE/FHIR-PoC",
         "branch": "ravimiskeem",
-        "lastSeen": "2024-03-03T21:03:40.000Z"
+        "lastSeen": "2024-03-03T22:23:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/master/package.tgz"
