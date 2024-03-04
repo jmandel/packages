@@ -160,6 +160,14 @@
     }
   },
   {
+    "name": "flute.requirements",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/flute-requirements/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/flute-requirements",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.cda.us.ccda",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
