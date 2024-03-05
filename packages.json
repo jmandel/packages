@@ -4248,7 +4248,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/2024-Updates-Debugging/package.tgz",
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "2024-Updates-Debugging",
-        "lastSeen": "2024-03-05T19:40:00.000Z"
+        "lastSeen": "2024-03-05T20:03:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -4290,7 +4290,7 @@
         "url": "https://build.fhir.org/ig/HL7/efss/branches/master/package.tgz",
         "repo": "https://github.com/HL7/efss",
         "branch": "master",
-        "lastSeen": "2024-02-27T14:40:18.000Z"
+        "lastSeen": "2024-03-05T19:44:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/efss/branches/main/package.tgz"
@@ -7799,6 +7799,18 @@
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/hpd/branches/master/package.tgz"
   },
+  "hl7.fhir.cl.minsal.mfr": {
+    "name": "hl7.fhir.cl.minsal.mfr",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/MFR/branches/main/package.tgz",
+        "repo": "https://github.com/Minsal-CL/MFR",
+        "branch": "main",
+        "lastSeen": "2024-03-05T20:39:32.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Minsal-CL/MFR/branches/main/package.tgz"
+  },
   "hl7.fhir.cl.minsal.mpi": {
     "name": "hl7.fhir.cl.minsal.mpi",
     "locations": [
@@ -9661,6 +9673,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "sheetUpdate",
         "lastSeen": "2024-03-04T16:05:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/STU2-preview1/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "STU2-preview1",
+        "lastSeen": "2024-03-05T19:48:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -10117,6 +10135,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "fixRequestedSnomedCodesv2",
         "lastSeen": "2024-03-01T15:48:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixCategoryV2/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "fixCategoryV2",
+        "lastSeen": "2024-03-05T20:00:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -11994,7 +12018,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-03-01T20:01:25.000Z"
+        "lastSeen": "2024-03-05T20:34:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -12354,7 +12378,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-adi-uc4-update/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-adi-uc4-update",
-        "lastSeen": "2024-03-05T04:33:07.000Z"
+        "lastSeen": "2024-03-05T20:33:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -18936,7 +18960,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.mAPS",
         "branch": "master",
-        "lastSeen": "2024-03-05T18:35:29.000Z"
+        "lastSeen": "2024-03-05T20:06:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.APS/branches/master/package.tgz"
@@ -20904,7 +20928,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-primary-care-acquisition/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-primary-care-acquisition",
         "branch": "main",
-        "lastSeen": "2024-03-04T20:50:10.000Z"
+        "lastSeen": "2024-03-05T20:34:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-primary-care-acquisition/branches/main/package.tgz"
