@@ -4243,6 +4243,12 @@
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "mboda-questionnaire",
         "lastSeen": "2023-08-28T18:56:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/2024-Updates-Debugging/package.tgz",
+        "repo": "https://github.com/cqframework/cqf-us",
+        "branch": "2024-Updates-Debugging",
+        "lastSeen": "2024-03-05T19:40:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -5778,7 +5784,7 @@
         "url": "https://build.fhir.org/ig/joofio/test-epi-composition/branches/main/package.tgz",
         "repo": "https://github.com/joofio/test-epi-composition",
         "branch": "main",
-        "lastSeen": "2024-03-05T18:36:15.000Z"
+        "lastSeen": "2024-03-05T19:30:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/joofio/test-epi-composition/branches/main/package.tgz"
@@ -9936,7 +9942,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "master",
-        "lastSeen": "2024-03-04T17:58:41.000Z"
+        "lastSeen": "2024-03-05T18:42:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/motion-management/package.tgz",
@@ -12690,7 +12696,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/ballot/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "ballot",
-        "lastSeen": "2024-03-05T18:27:53.000Z"
+        "lastSeen": "2024-03-05T19:32:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
@@ -21379,6 +21385,18 @@
         "repo": "https://github.com/mozzy11/smart-hiv",
         "branch": "main",
         "lastSeen": "2024-03-05T18:23:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/WSG-14-Github-CI-does-not-publish/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "WSG-14-Github-CI-does-not-publish",
+        "lastSeen": "2024-03-05T18:56:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/WSG-10-Translate-the-Data-Dictionary-DAK-into-a-logical-model/package.tgz",
+        "repo": "https://github.com/I-TECH-UW/smart-hiv",
+        "branch": "WSG-10-Translate-the-Data-Dictionary-DAK-into-a-logical-model",
+        "lastSeen": "2024-03-05T18:56:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/I-TECH-UW/smart-hiv/branches/main/package.tgz"
