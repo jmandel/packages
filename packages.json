@@ -6673,6 +6673,12 @@
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-72",
         "lastSeen": "2024-03-06T14:18:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-38/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "issue-38",
+        "lastSeen": "2024-03-06T15:01:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -7902,7 +7908,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-03-06T13:55:52.000Z"
+        "lastSeen": "2024-03-06T14:38:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
@@ -12774,13 +12780,13 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/ballot/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "ballot",
-        "lastSeen": "2024-03-06T05:06:08.000Z"
+        "lastSeen": "2024-03-06T15:08:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "master",
-        "lastSeen": "2024-03-06T05:08:08.000Z"
+        "lastSeen": "2024-03-06T15:09:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
@@ -14730,7 +14736,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2024-02-02T16:21:24.000Z"
+        "lastSeen": "2024-03-06T15:33:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz"
