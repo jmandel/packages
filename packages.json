@@ -4165,6 +4165,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-FHIR-IG",
         "branch": "administerVaccineExtensions",
         "lastSeen": "2024-03-05T11:37:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-FHIR-IG/branches/referenceExample/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/ChanjoKe-FHIR-IG",
+        "branch": "referenceExample",
+        "lastSeen": "2024-03-06T06:41:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/main/package.tgz"
@@ -6186,7 +6192,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-03-06T05:23:24.000Z"
+        "lastSeen": "2024-03-06T06:10:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -6354,13 +6360,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/capability-statements/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "capability-statements",
-        "lastSeen": "2024-03-03T21:39:06.000Z"
+        "lastSeen": "2024-03-06T05:41:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/github_120/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "github_120",
-        "lastSeen": "2024-03-06T01:38:55.000Z"
+        "lastSeen": "2024-03-06T05:40:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/must-support-obligation/package.tgz",
@@ -14850,7 +14856,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2024-03-06T04:10:07.000Z"
+        "lastSeen": "2024-03-06T05:55:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
@@ -21924,7 +21930,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
         "branch": "main",
-        "lastSeen": "2024-03-06T04:54:13.000Z"
+        "lastSeen": "2024-03-06T06:41:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
