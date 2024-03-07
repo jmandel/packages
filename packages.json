@@ -4296,7 +4296,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/2024-Updates-Debugging/package.tgz",
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "2024-Updates-Debugging",
-        "lastSeen": "2024-03-05T20:03:32.000Z"
+        "lastSeen": "2024-03-07T17:31:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -7662,7 +7662,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-298/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "issue-298",
-        "lastSeen": "2024-03-07T16:23:48.000Z"
+        "lastSeen": "2024-03-07T16:55:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -7776,7 +7776,7 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "master",
-        "lastSeen": "2023-12-16T00:35:21.000Z"
+        "lastSeen": "2024-03-07T16:56:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-update-template/package.tgz",
@@ -14514,7 +14514,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CardX-HTN-MNG",
         "branch": "master",
-        "lastSeen": "2024-03-07T16:41:08.000Z"
+        "lastSeen": "2024-03-07T16:45:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
@@ -20983,6 +20983,12 @@
         "repo": "https://github.com/medigree/smart-trustTEST",
         "branch": "main",
         "lastSeen": "2024-02-20T12:43:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/Alhassan/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "Alhassan",
+        "lastSeen": "2024-03-07T17:15:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
