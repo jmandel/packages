@@ -3444,7 +3444,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2024-01-25T19:25:11.000Z"
+        "lastSeen": "2024-03-07T03:51:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -3475,6 +3475,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "v0.4.0",
         "lastSeen": "2024-01-25T19:33:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/v0.4.1/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "v0.4.1",
+        "lastSeen": "2024-03-07T03:53:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -3918,7 +3924,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/l2-reconciliation/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "l2-reconciliation",
-        "lastSeen": "2024-02-22T16:49:49.000Z"
+        "lastSeen": "2024-03-07T03:59:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -5238,7 +5244,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.fhir.template",
         "branch": "master",
-        "lastSeen": "2024-02-23T04:40:32.000Z"
+        "lastSeen": "2024-03-07T03:52:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz"
@@ -5670,7 +5676,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-davinci",
         "branch": "master",
-        "lastSeen": "2023-09-20T21:46:46.000Z"
+        "lastSeen": "2024-03-07T03:54:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz"
@@ -6204,7 +6210,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-03-07T01:13:24.000Z"
+        "lastSeen": "2024-03-07T03:47:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -6378,7 +6384,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/github_120/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "github_120",
-        "lastSeen": "2024-03-06T23:19:18.000Z"
+        "lastSeen": "2024-03-07T03:39:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/must-support-obligation/package.tgz",
@@ -6397,6 +6403,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "example-cleanup",
         "lastSeen": "2024-03-07T00:59:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/github_127-hpii/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "github_127-hpii",
+        "lastSeen": "2024-03-07T04:05:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -15216,7 +15228,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/FHIR-44820/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "FHIR-44820",
-        "lastSeen": "2024-03-07T03:18:16.000Z"
+        "lastSeen": "2024-03-07T03:40:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
