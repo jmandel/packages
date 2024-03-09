@@ -6450,7 +6450,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/must-support-obligation/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "must-support-obligation",
-        "lastSeen": "2024-03-09T04:14:10.000Z"
+        "lastSeen": "2024-03-09T06:40:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/github_121-capabiitystatement/package.tgz",
@@ -6493,6 +6493,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "revert-136-examples-pract-roles-orgs",
         "lastSeen": "2024-03-09T02:15:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/0.3.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "0.3.0-ballot",
+        "lastSeen": "2024-03-09T07:11:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
