@@ -6235,6 +6235,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "revert-832-examples-qa",
         "lastSeen": "2024-03-07T06:19:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/4.2.0-preview/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "4.2.0-preview",
+        "lastSeen": "2024-03-09T05:58:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -6264,7 +6270,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-03-09T04:51:30.000Z"
+        "lastSeen": "2024-03-09T06:32:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -6474,7 +6480,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/examples-pract-roles-orgs/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "examples-pract-roles-orgs",
-        "lastSeen": "2024-03-09T05:18:37.000Z"
+        "lastSeen": "2024-03-09T06:07:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/STU-Notes-Update/package.tgz",
