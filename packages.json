@@ -2425,6 +2425,12 @@
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "bugfix",
         "lastSeen": "2024-03-01T11:05:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-rad-order",
+        "branch": "secondwind",
+        "lastSeen": "2024-03-11T15:38:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -5719,6 +5725,12 @@
         "repo": "https://github.com/ahdis/cda-core-2.0",
         "branch": "oe_cda_21069",
         "lastSeen": "2024-03-08T15:58:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/cda-core-2.0/branches/cda_mb_update/package.tgz",
+        "repo": "https://github.com/ahdis/cda-core-2.0",
+        "branch": "cda_mb_update",
+        "lastSeen": "2024-03-11T15:27:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/master/package.tgz"
@@ -8453,6 +8465,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
   },
+  "hl7.fhir.eu.spor": {
+    "name": "hl7.fhir.eu.spor",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/joofio/spor-as-cs/branches/main/package.tgz",
+        "repo": "https://github.com/joofio/spor-as-cs",
+        "branch": "main",
+        "lastSeen": "2024-03-11T15:13:30.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/joofio/spor-as-cs/branches/main/package.tgz"
+  },
   "hl7.fhir.fi.base": {
     "name": "hl7.fhir.fi.base",
     "locations": [
@@ -10896,7 +10920,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-03-06T20:46:34.000Z"
+        "lastSeen": "2024-03-11T15:36:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -19518,7 +19542,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.VRDR/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.VRDR",
         "branch": "master",
-        "lastSeen": "2024-03-06T21:59:15.000Z"
+        "lastSeen": "2024-03-11T14:19:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.VRDR/branches/master/package.tgz"
