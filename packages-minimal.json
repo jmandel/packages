@@ -4584,6 +4584,14 @@
     }
   },
   {
+    "name": "who.fhir.smart-measles-catopia",
+    "current": {
+      "url": "https://build.fhir.org/ig/DigitalSQR/catopia-measles/branches/main/package.tgz",
+      "repo": "https://github.com/DigitalSQR/catopia-measles",
+      "branch": "main"
+    }
+  },
+  {
     "name": "who.fhir.smart-ot",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ot/branches/test-jct/package.tgz",
