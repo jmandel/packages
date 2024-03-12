@@ -2460,7 +2460,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epr-term",
         "branch": "master",
-        "lastSeen": "2024-03-12T09:49:03.000Z"
+        "lastSeen": "2024-03-12T13:39:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/mz_moa/package.tgz",
@@ -5742,7 +5742,7 @@
         "url": "https://build.fhir.org/ig/ahdis/cda-core-2.0/branches/cda_mb_update/package.tgz",
         "repo": "https://github.com/ahdis/cda-core-2.0",
         "branch": "cda_mb_update",
-        "lastSeen": "2024-03-11T15:27:59.000Z"
+        "lastSeen": "2024-03-12T13:41:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-core-2.0/branches/master/package.tgz"
@@ -10086,7 +10086,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "master",
-        "lastSeen": "2024-02-28T19:50:56.000Z"
+        "lastSeen": "2024-03-12T14:23:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/submodule/package.tgz",
@@ -10435,6 +10435,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "mvs-edits",
         "lastSeen": "2024-03-12T09:29:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/relax-bindings/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "relax-bindings",
+        "lastSeen": "2024-03-12T13:52:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -11280,7 +11286,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "master",
-        "lastSeen": "2024-02-29T19:51:07.000Z"
+        "lastSeen": "2024-03-12T13:41:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/stu_update/package.tgz",
@@ -13062,7 +13068,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2024-03-01T14:38:55.000Z"
+        "lastSeen": "2024-03-12T13:43:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -15966,7 +15972,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2024-03-11T20:06:16.000Z"
+        "lastSeen": "2024-03-12T14:19:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -16518,7 +16524,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "update-r4-tooling",
-        "lastSeen": "2024-03-12T12:56:18.000Z"
+        "lastSeen": "2024-03-12T14:39:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz"
@@ -16746,7 +16752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "master",
-        "lastSeen": "2024-02-22T23:09:02.000Z"
+        "lastSeen": "2024-03-12T14:15:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/change-log/package.tgz",
@@ -21942,7 +21948,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/cleanup/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "cleanup",
-        "lastSeen": "2024-03-11T21:38:28.000Z"
+        "lastSeen": "2024-03-12T13:55:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz"
