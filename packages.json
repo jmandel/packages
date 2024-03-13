@@ -2106,7 +2106,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-03-13T16:05:28.000Z"
+        "lastSeen": "2024-03-13T21:14:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -2448,7 +2448,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "secondwind",
-        "lastSeen": "2024-03-13T18:27:08.000Z"
+        "lastSeen": "2024-03-13T21:43:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -8023,6 +8023,12 @@
         "repo": "https://github.com/HL7Chile/deis",
         "branch": "master",
         "lastSeen": "2023-12-05T12:44:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/deis/branches/master/package.tgz",
+        "repo": "https://github.com/Minsal-CL/deis",
+        "branch": "master",
+        "lastSeen": "2024-03-13T22:11:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/deis/branches/main/package.tgz"
@@ -10488,7 +10494,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2024-03-13T00:09:09.000Z"
+        "lastSeen": "2024-03-13T21:52:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -10992,7 +10998,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-03-13T14:33:55.000Z"
+        "lastSeen": "2024-03-13T22:30:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -14748,7 +14754,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CardX-HTN-MNG",
         "branch": "master",
-        "lastSeen": "2024-03-13T15:46:34.000Z"
+        "lastSeen": "2024-03-13T22:33:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
