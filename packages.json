@@ -6624,7 +6624,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/scaffold/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "scaffold",
-        "lastSeen": "2024-03-13T02:02:26.000Z"
+        "lastSeen": "2024-03-14T04:00:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/relationship/package.tgz",
@@ -10663,6 +10663,12 @@
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "2.0.1",
         "lastSeen": "2024-01-08T19:37:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/rhofstede-fixes/package.tgz",
+        "repo": "https://github.com/HL7/davinci-crd",
+        "branch": "rhofstede-fixes",
+        "lastSeen": "2024-03-14T04:28:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz"
