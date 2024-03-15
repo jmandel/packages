@@ -1481,6 +1481,18 @@
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
   },
+  "ch.fhir.ig.ch-epr-fhir": {
+    "name": "ch.fhir.ig.ch-epr-fhir",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz",
+        "repo": "https://github.com/qligier/ch-epr-mhealth",
+        "branch": "ql_renaming",
+        "lastSeen": "2024-03-15T09:21:50.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
+  },
   "ch.fhir.ig.ch-epr-mhealth": {
     "name": "ch.fhir.ig.ch-epr-mhealth",
     "locations": [
@@ -2634,7 +2646,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/226-base-chvacdmedication-on-chcoremedication-in-place-of-chemed/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "226-base-chvacdmedication-on-chcoremedication-in-place-of-chemed",
-        "lastSeen": "2024-03-15T07:47:53.000Z"
+        "lastSeen": "2024-03-15T08:55:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/228-base-chvacdallergyintolerance-on-chcoreallergyintolerance-in-place-of-challergyintolerance/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "228-base-chvacdallergyintolerance-on-chcoreallergyintolerance-in-place-of-challergyintolerance",
+        "lastSeen": "2024-03-15T08:56:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -7674,7 +7692,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "master",
-        "lastSeen": "2023-09-29T14:17:14.000Z"
+        "lastSeen": "2024-03-15T09:14:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-239/package.tgz",
@@ -7770,7 +7788,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/earlyadopter/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "earlyadopter",
-        "lastSeen": "2024-03-07T20:30:37.000Z"
+        "lastSeen": "2024-03-15T09:13:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/revert-271-issue-270/package.tgz",
@@ -21738,7 +21756,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/ravimiskeem/package.tgz",
         "repo": "https://github.com/TEHIK-EE/FHIR-PoC",
         "branch": "ravimiskeem",
-        "lastSeen": "2024-03-11T11:13:10.000Z"
+        "lastSeen": "2024-03-15T09:03:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/master/package.tgz"
@@ -21948,7 +21966,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2024-03-08T15:37:24.000Z"
+        "lastSeen": "2024-03-15T09:41:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz"
