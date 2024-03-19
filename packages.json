@@ -10171,6 +10171,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "NVSS-243-api-desc",
         "lastSeen": "2024-03-19T14:43:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/cleanUpScripts/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "cleanUpScripts",
+        "lastSeen": "2024-03-19T20:02:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -10680,7 +10686,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2024-03-19T18:41:00.000Z"
+        "lastSeen": "2024-03-19T19:47:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -11058,7 +11064,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "phase_2",
-        "lastSeen": "2024-03-19T06:17:43.000Z"
+        "lastSeen": "2024-03-19T20:13:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/STU_1.1.0/package.tgz",
@@ -11520,7 +11526,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "master",
-        "lastSeen": "2024-03-19T13:16:24.000Z"
+        "lastSeen": "2024-03-19T19:47:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/stu_update/package.tgz",
@@ -11538,7 +11544,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/stu1.1/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "stu1.1",
-        "lastSeen": "2024-03-12T19:54:32.000Z"
+        "lastSeen": "2024-03-19T19:45:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz"
@@ -13092,7 +13098,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "main",
-        "lastSeen": "2024-03-19T01:37:56.000Z"
+        "lastSeen": "2024-03-19T20:25:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott-work/package.tgz",
@@ -13122,7 +13128,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/Frank/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "Frank",
-        "lastSeen": "2024-03-19T01:37:04.000Z"
+        "lastSeen": "2024-03-19T20:24:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz"
@@ -14970,7 +14976,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CardX-HTN-MNG",
         "branch": "master",
-        "lastSeen": "2024-03-19T19:13:05.000Z"
+        "lastSeen": "2024-03-19T20:02:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
@@ -16794,7 +16800,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2024-03-19T19:21:29.000Z"
+        "lastSeen": "2024-03-19T20:29:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
@@ -17334,7 +17340,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2024-03-18T12:35:12.000Z"
+        "lastSeen": "2024-03-19T20:42:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/foreachornull/package.tgz",
@@ -17634,7 +17640,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/where-expectation/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "where-expectation",
-        "lastSeen": "2024-03-05T03:01:59.000Z"
+        "lastSeen": "2024-03-19T20:40:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/indexer-expressions/package.tgz",
