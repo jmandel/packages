@@ -8437,6 +8437,12 @@
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "related-person",
         "lastSeen": "2024-03-13T14:02:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/105-håndtering-af-producent-id-mangler-i-producer-for-observationen/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "105-håndtering-af-producent-id-mangler-i-producer-for-observationen",
+        "lastSeen": "2024-03-19T08:05:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
