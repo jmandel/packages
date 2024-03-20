@@ -9522,7 +9522,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-03-19T08:54:13.000Z"
+        "lastSeen": "2024-03-20T18:24:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -10740,7 +10740,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-03-20T17:11:40.000Z"
+        "lastSeen": "2024-03-20T18:19:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -13116,7 +13116,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "main",
-        "lastSeen": "2024-03-19T20:25:03.000Z"
+        "lastSeen": "2024-03-20T18:38:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/scott-work/package.tgz",
@@ -17730,7 +17730,7 @@
         "url": "https://build.fhir.org/ig/HL7/tinkar-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/tinkar-ig",
         "branch": "master",
-        "lastSeen": "2024-03-13T16:09:53.000Z"
+        "lastSeen": "2024-03-20T18:40:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/tinkar-ig/branches/master/package.tgz"
@@ -20170,6 +20170,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSeg-testing/branches/main/package.tgz"
+  },
+  "johnmoehrke.relatedpersonconsent.example": {
+    "name": "johnmoehrke.relatedpersonconsent.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/RelatedPersonConsent/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/RelatedPersonConsent",
+        "branch": "main",
+        "lastSeen": "2024-03-20T17:45:47.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/RelatedPersonConsent/branches/main/package.tgz"
   },
   "johnmoehrke.slicingslicedextension": {
     "name": "johnmoehrke.slicingslicedextension",
