@@ -40,6 +40,14 @@
     }
   },
   {
+    "name": "ch.fhir.ig.ch-core",
+    "current": {
+      "url": "https://build.fhir.org/ig/ralych/ch-core/branches/master/package.tgz",
+      "repo": "https://github.com/ralych/ch-core",
+      "branch": "master"
+    }
+  },
+  {
     "name": "ch.fhir.ig.ch-epr-fhir",
     "current": {
       "url": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_ppqm/package.tgz",
@@ -74,8 +82,8 @@
   {
     "name": "ch.fhir.ig.ch-term",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/master/package.tgz",
-      "repo": "https://github.com/hl7ch/ch-epr-term",
+      "url": "https://build.fhir.org/ig/ralych/ch-epr-term/branches/master/package.tgz",
+      "repo": "https://github.com/ralych/ch-epr-term",
       "branch": "master"
     }
   },
