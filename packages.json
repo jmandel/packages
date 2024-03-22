@@ -1459,6 +1459,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue252",
         "lastSeen": "2024-02-29T07:08:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/issue263_dosage/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "issue263_dosage",
+        "lastSeen": "2024-03-22T07:47:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -2154,7 +2160,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-03-21T13:57:37.000Z"
+        "lastSeen": "2024-03-22T08:13:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -7014,7 +7020,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "releasecandidate",
-        "lastSeen": "2024-03-21T13:36:21.000Z"
+        "lastSeen": "2024-03-22T08:09:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-11/package.tgz",
