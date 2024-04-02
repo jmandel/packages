@@ -2167,6 +2167,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "replace-sr-category",
         "lastSeen": "2024-03-23T14:29:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/order-detail/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "order-detail",
+        "lastSeen": "2024-04-02T07:17:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -2562,7 +2568,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "master",
-        "lastSeen": "2024-03-30T19:11:45.000Z"
+        "lastSeen": "2024-04-02T06:50:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -6781,6 +6787,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "0.3.0-ballot",
         "lastSeen": "2024-03-09T13:47:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_procedure/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_procedure",
+        "lastSeen": "2024-04-02T06:59:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -13572,13 +13584,13 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/ballot/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "ballot",
-        "lastSeen": "2024-04-02T06:36:16.000Z"
+        "lastSeen": "2024-04-02T07:20:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "master",
-        "lastSeen": "2024-03-30T01:39:46.000Z"
+        "lastSeen": "2024-04-02T07:26:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
