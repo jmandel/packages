@@ -11562,7 +11562,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2024-04-02T01:15:28.000Z"
+        "lastSeen": "2024-04-02T03:25:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
@@ -15762,7 +15762,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2024-04-01T07:30:00.000Z"
+        "lastSeen": "2024-04-02T03:35:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
@@ -18334,6 +18334,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cross-version/branches/main/package.tgz"
+  },
+  "hl7.fhir.vn.core": {
+    "name": "hl7.fhir.vn.core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nhphong245/vn-core-ig/branches/main/package.tgz",
+        "repo": "https://github.com/nhphong245/vn-core-ig",
+        "branch": "main",
+        "lastSeen": "2024-04-02T03:23:50.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nhphong245/vn-core-ig/branches/main/package.tgz"
   },
   "hl7.fhirpath": {
     "name": "hl7.fhirpath",
