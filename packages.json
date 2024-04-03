@@ -3354,7 +3354,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2024-04-02T21:31:35.000Z"
+        "lastSeen": "2024-04-03T16:07:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -7152,7 +7152,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "releasecandidate",
-        "lastSeen": "2024-04-02T11:59:24.000Z"
+        "lastSeen": "2024-04-03T16:12:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-11/package.tgz",
@@ -7171,6 +7171,12 @@
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-79",
         "lastSeen": "2024-04-03T06:40:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-93/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "issue-93",
+        "lastSeen": "2024-04-03T16:10:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -11628,7 +11634,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2024-04-03T14:21:59.000Z"
+        "lastSeen": "2024-04-03T16:35:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
@@ -12042,7 +12048,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2024-04-01T21:11:01.000Z"
+        "lastSeen": "2024-04-03T16:30:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -12474,7 +12480,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/ped-cancer-clean-up/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "ped-cancer-clean-up",
-        "lastSeen": "2024-04-03T13:42:33.000Z"
+        "lastSeen": "2024-04-03T16:01:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -12517,6 +12523,12 @@
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "index-change",
         "lastSeen": "2024-02-09T15:15:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/FMG/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mdi-ig",
+        "branch": "FMG",
+        "lastSeen": "2024-04-03T15:51:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz"
@@ -13272,7 +13284,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-adi-careplan-change/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-adi-careplan-change",
-        "lastSeen": "2024-04-03T08:56:42.000Z"
+        "lastSeen": "2024-04-03T16:01:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -15365,6 +15377,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
   },
+  "hl7.fhir.uv.cardx-htn-mng": {
+    "name": "hl7.fhir.uv.cardx-htn-mng",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
+        "repo": "https://github.com/HL7/CardX-HTN-MNG",
+        "branch": "master",
+        "lastSeen": "2024-04-03T16:33:32.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
+  },
   "hl7.fhir.uv.cmi": {
     "name": "hl7.fhir.uv.cmi",
     "locations": [
@@ -16596,7 +16620,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/LYTrent-patch-2/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "LYTrent-patch-2",
-        "lastSeen": "2024-04-02T18:39:20.000Z"
+        "lastSeen": "2024-04-03T16:13:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/isaacvetter-patch-2/package.tgz",
