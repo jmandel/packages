@@ -3840,6 +3840,14 @@
     }
   },
   {
+    "name": "jct.fhir.localspecification",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/LocalAdaptation/branches/main/package.tgz",
+      "repo": "https://github.com/costateixeira/LocalAdaptation",
+      "branch": "main"
+    }
+  },
+  {
     "name": "johnmoehrke.basicaudit.no",
     "current": {
       "url": "https://build.fhir.org/ig/JohnMoehrke/NorwayAudit/branches/master/package.tgz",
@@ -4221,6 +4229,14 @@
       "url": "https://build.fhir.org/ig/daniel-thomson/medicalert/branches/master/package.tgz",
       "repo": "https://github.com/daniel-thomson/medicalert",
       "branch": "master"
+    }
+  },
+  {
+    "name": "medigree.fhir.globalspecification",
+    "current": {
+      "url": "https://build.fhir.org/ig/medigree/GlobalSpecification/branches/main/package.tgz",
+      "repo": "https://github.com/medigree/GlobalSpecification",
+      "branch": "main"
     }
   },
   {

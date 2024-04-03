@@ -3354,7 +3354,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2024-04-03T16:07:27.000Z"
+        "lastSeen": "2024-04-03T18:16:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -6811,6 +6811,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "github_141",
         "lastSeen": "2024-04-02T21:22:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr-bodysite-guidance/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "cr-bodysite-guidance",
+        "lastSeen": "2024-04-03T18:15:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -11022,7 +11028,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-04-03T14:12:23.000Z"
+        "lastSeen": "2024-04-03T17:50:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -12048,7 +12054,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2024-04-03T16:30:02.000Z"
+        "lastSeen": "2024-04-03T17:32:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -15852,7 +15858,7 @@
         "url": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz",
         "repo": "https://github.com/cander2/epi-test",
         "branch": "master",
-        "lastSeen": "2024-04-03T14:06:36.000Z"
+        "lastSeen": "2024-04-03T18:14:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/epi-test/branches/master/package.tgz"
@@ -20723,6 +20729,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/fetal_records/branches/main/package.tgz"
   },
+  "jct.fhir.localspecification": {
+    "name": "jct.fhir.localspecification",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/LocalAdaptation/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/LocalAdaptation",
+        "branch": "main",
+        "lastSeen": "2024-04-03T18:33:00.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/costateixeira/LocalAdaptation/branches/main/package.tgz"
+  },
   "johnmoehrke.basicaudit.no": {
     "name": "johnmoehrke.basicaudit.no",
     "locations": [
@@ -21622,6 +21640,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/daniel-thomson/medicalert/branches/master/package.tgz"
+  },
+  "medigree.fhir.globalspecification": {
+    "name": "medigree.fhir.globalspecification",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medigree/GlobalSpecification/branches/main/package.tgz",
+        "repo": "https://github.com/medigree/GlobalSpecification",
+        "branch": "main",
+        "lastSeen": "2024-04-03T18:26:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/GlobalSpecification_JCT/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/GlobalSpecification_JCT",
+        "branch": "main",
+        "lastSeen": "2024-04-03T18:27:48.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medigree/GlobalSpecification/branches/main/package.tgz"
   },
   "medigree.fhir.r5demo": {
     "name": "medigree.fhir.r5demo",
