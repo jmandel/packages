@@ -1494,7 +1494,7 @@
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz",
         "repo": "https://github.com/CARA-ch/ch-emed-epr",
         "branch": "master",
-        "lastSeen": "2024-04-03T07:56:55.000Z"
+        "lastSeen": "2024-04-05T13:06:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/v1.0.0/package.tgz",
@@ -15516,7 +15516,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CardX-HTN-MNG",
         "branch": "master",
-        "lastSeen": "2024-04-04T20:37:28.000Z"
+        "lastSeen": "2024-04-05T13:09:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-HTN-MNG/branches/master/package.tgz"
@@ -16512,7 +16512,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2024-04-05T03:33:13.000Z"
+        "lastSeen": "2024-04-05T13:01:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -22427,6 +22427,18 @@
     ],
     "current": "https://build.fhir.org/ig/DigitalSQR/smart-immunizations-mini/branches/main/package.tgz"
   },
+  "smart.who.int.dak-tb": {
+    "name": "smart.who.int.dak-tb",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/DigitalSQR/smart-dak-tb/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/DigitalSQR/smart-dak-tb",
+        "branch": "release-candidate",
+        "lastSeen": "2024-04-05T13:02:46.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/DigitalSQR/smart-dak-tb/branches/release-candidate/package.tgz"
+  },
   "smart.who.int.immunization-measles": {
     "name": "smart.who.int.immunization-measles",
     "locations": [
@@ -23070,7 +23082,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2024-01-26T03:59:49.000Z"
+        "lastSeen": "2024-04-05T12:48:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/updatescript/package.tgz",
@@ -23490,7 +23502,7 @@
         "url": "https://build.fhir.org/ig/DigitalSQR/smart-dak-tb/branches/main/package.tgz",
         "repo": "https://github.com/DigitalSQR/smart-dak-tb",
         "branch": "main",
-        "lastSeen": "2024-04-05T11:30:38.000Z"
+        "lastSeen": "2024-04-05T13:00:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
