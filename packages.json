@@ -11118,7 +11118,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-04-04T12:54:57.000Z"
+        "lastSeen": "2024-04-06T14:36:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -15787,6 +15787,12 @@
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "br-crmi-changes-2024-03-08",
         "lastSeen": "2024-03-08T17:32:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/v1.0.0-snapshot/package.tgz",
+        "repo": "https://github.com/HL7/crmi-ig",
+        "branch": "v1.0.0-snapshot",
+        "lastSeen": "2024-04-06T14:39:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz"
