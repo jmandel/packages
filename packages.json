@@ -1093,6 +1093,12 @@
         "repo": "https://github.com/ralych/ch-core",
         "branch": "baseProfiles_VACD",
         "lastSeen": "2024-03-14T13:12:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_beruid/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "oe_beruid",
+        "lastSeen": "2024-04-08T11:32:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -1309,6 +1315,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "v1.2.0",
         "lastSeen": "2024-03-28T09:22:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_130work/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "oe_130work",
+        "lastSeen": "2024-04-08T11:19:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -3366,7 +3378,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2024-04-03T18:16:56.000Z"
+        "lastSeen": "2024-04-08T11:39:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.9.0-beta.1/package.tgz",
@@ -5280,7 +5292,7 @@
         "url": "https://build.fhir.org/ig/InteropEHRate-project/cross-border-data-exchange/branches/master/package.tgz",
         "repo": "https://github.com/InteropEHRate-project/cross-border-data-exchange",
         "branch": "master",
-        "lastSeen": "2023-12-15T11:23:03.000Z"
+        "lastSeen": "2024-04-08T11:29:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/InteropEHRate-project/cross-border-data-exchange/branches/master/package.tgz"
@@ -5292,7 +5304,7 @@
         "url": "https://build.fhir.org/ig/InteropEHRate-project/research-data-sharing/branches/master/package.tgz",
         "repo": "https://github.com/InteropEHRate-project/research-data-sharing",
         "branch": "master",
-        "lastSeen": "2023-12-15T11:24:42.000Z"
+        "lastSeen": "2024-04-08T11:24:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/InteropEHRate-project/research-data-sharing/branches/master/package.tgz"
