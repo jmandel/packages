@@ -8940,7 +8940,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-04-08T06:23:59.000Z"
+        "lastSeen": "2024-04-08T07:00:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -15978,7 +15978,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2024-04-07T10:00:57.000Z"
+        "lastSeen": "2024-04-08T07:18:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -16945,6 +16945,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "suppress-all-messaging",
         "lastSeen": "2024-04-05T20:04:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-42817/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-42817",
+        "lastSeen": "2024-04-08T07:40:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
