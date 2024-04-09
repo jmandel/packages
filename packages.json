@@ -5808,7 +5808,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2024-04-04T22:07:54.000Z"
+        "lastSeen": "2024-04-09T22:34:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/addr-test/package.tgz",
@@ -6936,7 +6936,7 @@
         "url": "https://build.fhir.org/ig/hl7au/draft-diagnostic-orders/branches/0.0.9/package.tgz",
         "repo": "https://github.com/hl7au/draft-diagnostic-orders",
         "branch": "0.0.9",
-        "lastSeen": "2024-01-25T23:13:38.000Z"
+        "lastSeen": "2024-04-09T22:55:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/draft-diagnostic-orders/branches/master/package.tgz"
@@ -7038,7 +7038,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-pd/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-pd",
         "branch": "master",
-        "lastSeen": "2024-01-09T02:28:50.000Z"
+        "lastSeen": "2024-04-09T23:10:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-pd/branches/transition-to-templates/package.tgz",
@@ -18565,6 +18565,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "profiling",
         "lastSeen": "2024-03-13T19:35:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/fix-type-assertions/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "fix-type-assertions",
+        "lastSeen": "2024-04-09T23:11:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
