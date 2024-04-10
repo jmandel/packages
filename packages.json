@@ -2790,7 +2790,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ig-template",
         "branch": "master",
-        "lastSeen": "2024-04-10T07:22:47.000Z"
+        "lastSeen": "2024-04-10T13:40:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/ql_searchform/package.tgz",
@@ -9000,7 +9000,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-04-08T07:00:22.000Z"
+        "lastSeen": "2024-04-10T12:52:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -19002,7 +19002,19 @@
         "url": "https://build.fhir.org/ig/cds-hooks/docs/branches/migrate-to-ig-publisher/package.tgz",
         "repo": "https://github.com/cds-hooks/docs",
         "branch": "migrate-to-ig-publisher",
-        "lastSeen": "2023-08-16T13:51:29.000Z"
+        "lastSeen": "2024-04-10T13:26:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/migrate-to-ig-publisher/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "migrate-to-ig-publisher",
+        "lastSeen": "2024-04-10T13:26:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "main",
+        "lastSeen": "2024-04-10T13:38:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cds-hooks/docs/branches/renam/package.tgz"
@@ -22962,7 +22974,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-04-10T09:34:21.000Z"
+        "lastSeen": "2024-04-10T12:56:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
