@@ -751,6 +751,12 @@
         "repo": "https://github.com/ahdis/ch-alis",
         "branch": "master",
         "lastSeen": "2024-04-15T20:58:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-alis/branches/alis50/package.tgz",
+        "repo": "https://github.com/ahdis/ch-alis",
+        "branch": "alis50",
+        "lastSeen": "2024-04-16T11:25:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-alis/branches/master/package.tgz"
@@ -2610,7 +2616,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/issue59_mz/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "issue59_mz",
-        "lastSeen": "2024-04-12T14:06:01.000Z"
+        "lastSeen": "2024-04-16T11:11:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -6468,7 +6474,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh-lab/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh-lab",
         "branch": "master",
-        "lastSeen": "2024-02-06T16:19:12.000Z"
+        "lastSeen": "2024-04-16T11:16:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-lab/branches/master/package.tgz"
@@ -7692,7 +7698,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "master",
-        "lastSeen": "2024-04-07T13:15:57.000Z"
+        "lastSeen": "2024-04-16T10:40:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v2/package.tgz",
@@ -8886,7 +8892,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/related-person/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "related-person",
-        "lastSeen": "2024-04-12T06:24:00.000Z"
+        "lastSeen": "2024-04-16T10:58:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/105-håndtering-af-producent-id-mangler-i-producer-for-observationen/package.tgz",
@@ -18691,6 +18697,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "fix-type-assertions",
         "lastSeen": "2024-04-09T23:11:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/expect-columns-test/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "expect-columns-test",
+        "lastSeen": "2024-04-16T11:35:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
