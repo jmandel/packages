@@ -1542,7 +1542,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "master",
-        "lastSeen": "2024-03-07T18:05:47.000Z"
+        "lastSeen": "2024-04-24T06:42:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -1578,7 +1578,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_mhd",
-        "lastSeen": "2024-04-22T15:59:27.000Z"
+        "lastSeen": "2024-04-24T07:02:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -2874,7 +2874,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ig-template",
         "branch": "master",
-        "lastSeen": "2024-04-23T15:09:06.000Z"
+        "lastSeen": "2024-04-24T07:33:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/ql_searchform/package.tgz",
@@ -2893,6 +2893,18 @@
         "repo": "https://github.com/hl7ch/ig-template",
         "branch": "ql_highlighting_theme",
         "lastSeen": "2024-02-14T08:44:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/oliveregger-patch-1/package.tgz",
+        "repo": "https://github.com/hl7ch/ig-template",
+        "branch": "oliveregger-patch-1",
+        "lastSeen": "2024-04-24T07:26:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/oe_prtemp/package.tgz",
+        "repo": "https://github.com/hl7ch/ig-template",
+        "branch": "oe_prtemp",
+        "lastSeen": "2024-04-24T07:28:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz"
