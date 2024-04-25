@@ -20023,6 +20023,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-528-Add-AI-Purpose-of-Use-codes",
         "lastSeen": "2024-03-27T18:06:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/testing-exclusion-of-not-selectable-codes/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "testing-exclusion-of-not-selectable-codes",
+        "lastSeen": "2024-04-25T15:19:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
