@@ -6012,7 +6012,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2024-04-26T15:47:29.000Z"
+        "lastSeen": "2024-04-26T17:04:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/addr-test/package.tgz",
@@ -10903,6 +10903,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "missingExampleInBundle",
         "lastSeen": "2024-04-15T18:28:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/STU2-Apr26/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "STU2-Apr26",
+        "lastSeen": "2024-04-26T16:46:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -11448,7 +11454,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2024-04-26T13:45:27.000Z"
+        "lastSeen": "2024-04-26T16:33:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -13807,6 +13813,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-adi-careplan-change",
         "lastSeen": "2024-04-18T02:58:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-update-use-case-narrative/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mlt-update-use-case-narrative",
+        "lastSeen": "2024-04-26T17:10:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -20268,7 +20280,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2024-04-19T12:38:06.000Z"
+        "lastSeen": "2024-04-26T17:04:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/update02/package.tgz",
@@ -23316,7 +23328,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
         "branch": "main",
-        "lastSeen": "2024-04-25T23:11:05.000Z"
+        "lastSeen": "2024-04-26T17:05:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
