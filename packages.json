@@ -14238,7 +14238,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "trial",
-        "lastSeen": "2024-04-29T19:33:24.000Z"
+        "lastSeen": "2024-04-30T18:26:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
@@ -21312,7 +21312,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.mAPS",
         "branch": "master",
-        "lastSeen": "2024-04-30T17:17:37.000Z"
+        "lastSeen": "2024-04-30T18:19:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/master/package.tgz"
@@ -23335,6 +23335,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "release-prepv1.0.0",
         "lastSeen": "2024-04-30T06:29:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/update-ig-setup/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
+        "branch": "update-ig-setup",
+        "lastSeen": "2024-04-30T18:04:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/release-prepv1.0.0/package.tgz"
