@@ -606,7 +606,7 @@
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/78-publisher-guide/package.tgz",
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "78-publisher-guide",
-        "lastSeen": "2024-03-14T20:07:56.000Z"
+        "lastSeen": "2024-05-06T08:16:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/90-change-name-to-swedish-fhir-group/package.tgz",
@@ -637,6 +637,12 @@
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "68-can-we-make-a-new-release",
         "lastSeen": "2024-03-15T10:12:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/add-publication-job/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "add-publication-job",
+        "lastSeen": "2024-05-06T08:38:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/master/package.tgz"
@@ -9132,7 +9138,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "master",
-        "lastSeen": "2024-05-03T13:04:07.000Z"
+        "lastSeen": "2024-05-06T07:49:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/2.2.0/package.tgz",
