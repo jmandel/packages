@@ -1422,7 +1422,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2024-03-28T09:13:04.000Z"
+        "lastSeen": "2024-05-06T14:22:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -4110,7 +4110,7 @@
         "url": "https://build.fhir.org/ig/argonautproject/cgm/branches/main/package.tgz",
         "repo": "https://github.com/argonautproject/cgm",
         "branch": "main",
-        "lastSeen": "2024-05-06T03:17:39.000Z"
+        "lastSeen": "2024-05-06T14:38:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/cgm/branches/main/package.tgz"
@@ -5886,13 +5886,19 @@
         "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/HL7Austria/at-fhir-ig-template",
         "branch": "master",
-        "lastSeen": "2024-04-24T16:11:10.000Z"
+        "lastSeen": "2024-05-06T14:40:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/remove-feedback-form/package.tgz",
         "repo": "https://github.com/HL7Austria/at-fhir-ig-template",
         "branch": "remove-feedback-form",
         "lastSeen": "2024-04-22T15:04:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/remove-script-tags/package.tgz",
+        "repo": "https://github.com/HL7Austria/at-fhir-ig-template",
+        "branch": "remove-script-tags",
+        "lastSeen": "2024-05-06T14:24:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/master/package.tgz"
@@ -9162,7 +9168,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "master",
-        "lastSeen": "2024-05-06T07:49:51.000Z"
+        "lastSeen": "2024-05-06T14:14:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/2.2.0/package.tgz",
@@ -9265,6 +9271,12 @@
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "release-prep",
         "lastSeen": "2024-05-06T06:35:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.2.0/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "3.2.0",
+        "lastSeen": "2024-05-06T14:12:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -18258,7 +18270,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2024-05-02T12:09:50.000Z"
+        "lastSeen": "2024-05-06T14:05:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -18270,7 +18282,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/fix-Jira-issues/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "fix-Jira-issues",
-        "lastSeen": "2024-05-02T11:51:29.000Z"
+        "lastSeen": "2024-05-06T13:59:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz"
@@ -21558,7 +21570,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.mAPS.us/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.mAPS.us",
         "branch": "master",
-        "lastSeen": "2024-05-06T12:05:30.000Z"
+        "lastSeen": "2024-05-06T14:20:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.mAPS.us/branches/master/package.tgz"
