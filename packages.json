@@ -2328,7 +2328,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-05-06T20:27:52.000Z"
+        "lastSeen": "2024-05-07T09:02:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -4248,7 +4248,7 @@
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/main/package.tgz",
         "repo": "https://github.com/ReMeDi-Blut/remedi_ig",
         "branch": "main",
-        "lastSeen": "2024-05-07T08:33:30.000Z"
+        "lastSeen": "2024-05-07T08:45:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ReMeDi-Blut/remedi_ig/branches/draft/package.tgz",
@@ -8107,6 +8107,12 @@
         "repo": "https://github.com/hl7-be/medication",
         "branch": "prescription",
         "lastSeen": "2024-04-14T06:15:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/medication/branches/may/package.tgz",
+        "repo": "https://github.com/hl7-be/medication",
+        "branch": "may",
+        "lastSeen": "2024-05-07T09:20:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -18354,7 +18360,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2024-05-07T08:24:14.000Z"
+        "lastSeen": "2024-05-07T09:11:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -18366,7 +18372,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/fix-Jira-issues/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "fix-Jira-issues",
-        "lastSeen": "2024-05-06T13:59:08.000Z"
+        "lastSeen": "2024-05-07T09:04:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz"
