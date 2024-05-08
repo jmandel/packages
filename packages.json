@@ -7369,6 +7369,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_blockvote-8-1",
         "lastSeen": "2024-05-07T06:48:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_blockvote-9/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_blockvote-9",
+        "lastSeen": "2024-05-08T23:38:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -16338,7 +16344,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/narrative-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "narrative-updates",
-        "lastSeen": "2024-05-08T19:36:28.000Z"
+        "lastSeen": "2024-05-08T23:09:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz"
@@ -21037,6 +21043,12 @@
         "repo": "https://github.com/IHE/ITI.Finance",
         "branch": "day1updates",
         "lastSeen": "2024-05-06T23:16:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.Finance/branches/day3updates/package.tgz",
+        "repo": "https://github.com/IHE/ITI.Finance",
+        "branch": "day3updates",
+        "lastSeen": "2024-05-08T22:59:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.Finance/branches/master/package.tgz"
@@ -21792,7 +21804,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCS",
         "branch": "master",
-        "lastSeen": "2024-05-08T21:17:40.000Z"
+        "lastSeen": "2024-05-08T22:52:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz"
