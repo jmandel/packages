@@ -1633,6 +1633,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_urlencoding",
         "lastSeen": "2024-05-03T16:26:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_teclo0805/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_teclo0805",
+        "lastSeen": "2024-05-08T15:20:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -2328,7 +2334,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-05-07T12:27:35.000Z"
+        "lastSeen": "2024-05-08T15:05:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -12030,7 +12036,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-05-03T17:03:41.000Z"
+        "lastSeen": "2024-05-08T14:59:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -18379,6 +18385,12 @@
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
         "lastSeen": "2024-05-08T12:53:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/uv-dx-pq",
+        "branch": "1.0.0",
+        "lastSeen": "2024-05-08T14:37:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
