@@ -4134,7 +4134,7 @@
         "url": "https://build.fhir.org/ig/argonautproject/cgm/branches/main/package.tgz",
         "repo": "https://github.com/argonautproject/cgm",
         "branch": "main",
-        "lastSeen": "2024-05-08T18:26:03.000Z"
+        "lastSeen": "2024-05-08T18:59:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/argonautproject/cgm/branches/add-sql/package.tgz",
@@ -11767,6 +11767,12 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "addl-uscdi",
         "lastSeen": "2023-10-18T21:49:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/7.0.0/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "7.0.0",
+        "lastSeen": "2024-05-08T19:22:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -12312,7 +12318,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-vbpr",
         "branch": "master",
-        "lastSeen": "2024-05-08T01:59:14.000Z"
+        "lastSeen": "2024-05-08T18:44:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz"
@@ -13530,7 +13536,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-05-08T18:16:50.000Z"
+        "lastSeen": "2024-05-08T18:58:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz"
@@ -16315,6 +16321,12 @@
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "main",
         "lastSeen": "2024-05-08T12:46:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/narrative-updates/package.tgz",
+        "repo": "https://github.com/HL7/fhir-clinical-document",
+        "branch": "narrative-updates",
+        "lastSeen": "2024-05-08T19:36:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz"
@@ -16542,7 +16554,7 @@
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "master",
-        "lastSeen": "2024-05-08T18:32:16.000Z"
+        "lastSeen": "2024-05-08T18:44:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/main/package.tgz",
@@ -19392,7 +19404,7 @@
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/termchangeset-ig",
         "branch": "master",
-        "lastSeen": "2024-05-07T21:26:38.000Z"
+        "lastSeen": "2024-05-08T19:25:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/tinkar-ig/branches/master/package.tgz"
@@ -20658,7 +20670,7 @@
         "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz",
         "repo": "https://github.com/IHE/supplement-template",
         "branch": "master",
-        "lastSeen": "2024-05-07T21:06:22.000Z"
+        "lastSeen": "2024-05-08T19:12:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.NPFS/branches/html-editing/package.tgz",
@@ -21768,7 +21780,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCS",
         "branch": "master",
-        "lastSeen": "2024-02-06T01:45:40.000Z"
+        "lastSeen": "2024-05-08T19:29:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz"
@@ -23760,7 +23772,7 @@
         "url": "https://build.fhir.org/ig/DigitalSQR/smart-dak-tb/branches/main/package.tgz",
         "repo": "https://github.com/DigitalSQR/smart-dak-tb",
         "branch": "main",
-        "lastSeen": "2024-05-08T08:35:33.000Z"
+        "lastSeen": "2024-05-08T19:05:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-tb/branches/v1.0.0/package.tgz",
