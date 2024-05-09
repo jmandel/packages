@@ -7387,6 +7387,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_FHIR-45191",
         "lastSeen": "2024-05-09T06:01:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_FHIR-45067/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_FHIR-45067",
+        "lastSeen": "2024-05-09T06:36:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -24312,7 +24318,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/medschema-sandbox/package.tgz",
         "repo": "https://github.com/TEHIK-EE/FHIR-PoC",
         "branch": "medschema-sandbox",
-        "lastSeen": "2024-05-08T09:16:00.000Z"
+        "lastSeen": "2024-05-09T06:56:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/FHIR-PoC/branches/rutt-test/package.tgz",
