@@ -408,14 +408,6 @@
     }
   },
   {
-    "name": "kl.dk.fhir.gateway",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/sygeplejeudvidelse/package.tgz",
-      "repo": "https://github.com/hl7dk/kl-gateway",
-      "branch": "sygeplejeudvidelse"
-    }
-  },
-  {
     "name": "medcom.fhir.dk.carecommunication",
     "current": {
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.4.0.0-rc1/package.tgz",
@@ -448,18 +440,10 @@
     }
   },
   {
-    "name": "minsal.fhir.core",
-    "current": {
-      "url": "https://build.fhir.org/ig/Minsal-CL/MFR/branches/v0.1.0/package.tgz",
-      "repo": "https://github.com/Minsal-CL/MFR",
-      "branch": "v0.1.0"
-    }
-  },
-  {
     "name": "my-ig",
     "current": {
-      "url": "https://build.fhir.org/ig/imec-int/hds_fhir/branches/master/package.tgz",
-      "repo": "https://github.com/imec-int/hds_fhir",
+      "url": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-pt/obs-neonat-ig",
       "branch": "master"
     }
   },
@@ -482,9 +466,9 @@
   {
     "name": "smart.who.int.ig-starter-kit",
     "current": {
-      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/update-ig-setup/package.tgz",
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
-      "branch": "update-ig-setup"
+      "branch": "main"
     }
   },
   {
@@ -533,6 +517,14 @@
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-hiv/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-hiv",
       "branch": "main"
+    }
+  },
+  {
+    "name": "who.fhir.smart-ig-starter-kit",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/br-changes-2024-04-14/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
+      "branch": "br-changes-2024-04-14"
     }
   },
   {
