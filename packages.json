@@ -7056,7 +7056,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-license-material/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-license-material",
-        "lastSeen": "2024-05-02T04:19:47.000Z"
+        "lastSeen": "2024-05-13T07:23:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -10608,7 +10608,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-05-08T14:01:27.000Z"
+        "lastSeen": "2024-05-13T07:39:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -22441,6 +22441,12 @@
         "repo": "https://github.com/hl7dk/kl-children",
         "branch": "2.0.0",
         "lastSeen": "2024-05-05T12:18:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/aims/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-children",
+        "branch": "aims",
+        "lastSeen": "2024-05-13T06:59:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-children/branches/main/package.tgz"
