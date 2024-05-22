@@ -10752,7 +10752,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/dossier-pharma/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/dossier-pharma",
         "branch": "master",
-        "lastSeen": "2024-05-15T14:24:32.000Z"
+        "lastSeen": "2024-05-22T07:26:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/dossier-pharma/branches/0.1.0/package.tgz",
@@ -24475,6 +24475,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
         "branch": "main",
         "lastSeen": "2024-05-09T10:29:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/testcases/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
+        "branch": "testcases",
+        "lastSeen": "2024-05-22T07:19:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
@@ -24775,6 +24781,12 @@
         "repo": "https://github.com/tewhatuora/fhir-screening",
         "branch": "v0.4",
         "lastSeen": "2024-05-17T05:38:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/v0.5.0/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-screening",
+        "branch": "v0.5.0",
+        "lastSeen": "2024-05-22T07:37:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/master/package.tgz"
