@@ -4441,6 +4441,12 @@
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "remove-group-spacing",
         "lastSeen": "2023-10-19T20:06:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/add-mermaid/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-base",
+        "branch": "add-mermaid",
+        "lastSeen": "2024-05-22T17:32:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz"
@@ -13843,6 +13849,12 @@
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "may2024-snapshot",
         "lastSeen": "2024-05-17T22:57:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/may2024snapshot/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mdi-ig",
+        "branch": "may2024snapshot",
+        "lastSeen": "2024-05-22T17:20:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz"
@@ -16848,7 +16860,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "main",
-        "lastSeen": "2024-05-18T11:06:39.000Z"
+        "lastSeen": "2024-05-22T17:37:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/narrative-updates/package.tgz",
