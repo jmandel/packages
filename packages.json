@@ -10758,7 +10758,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.ig.fr.template/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.ig.fr.template",
         "branch": "main",
-        "lastSeen": "2024-05-23T13:10:41.000Z"
+        "lastSeen": "2024-05-23T15:30:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.ig.fr.template/branches/main/package.tgz"
@@ -12924,7 +12924,7 @@
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/eLTSS",
         "branch": "master",
-        "lastSeen": "2024-05-15T18:10:58.000Z"
+        "lastSeen": "2024-05-23T15:32:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/eLTSS/branches/pre2023SepConnectathon/package.tgz",
@@ -14046,7 +14046,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-05-08T18:58:25.000Z"
+        "lastSeen": "2024-05-23T14:59:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz"
@@ -16867,6 +16867,12 @@
         "repo": "https://github.com/argonautproject/cgm",
         "branch": "main",
         "lastSeen": "2024-05-22T22:08:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cgm/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/cgm",
+        "branch": "main",
+        "lastSeen": "2024-05-23T15:33:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/cgm/branches/main/package.tgz"
@@ -17268,7 +17274,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2024-05-23T12:57:29.000Z"
+        "lastSeen": "2024-05-23T14:43:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -18546,7 +18552,7 @@
         "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/ig-guidance",
         "branch": "master",
-        "lastSeen": "2024-05-22T20:05:26.000Z"
+        "lastSeen": "2024-05-23T15:18:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/plantuml-styling/package.tgz",
@@ -18583,6 +18589,12 @@
         "repo": "https://github.com/HL7/terminology-fundamentals-ig",
         "branch": "master",
         "lastSeen": "2024-05-21T21:47:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/add-fencepost-example/package.tgz",
+        "repo": "https://github.com/FHIR/ig-guidance",
+        "branch": "add-fencepost-example",
+        "lastSeen": "2024-05-23T15:18:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/master/package.tgz"
