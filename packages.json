@@ -10751,6 +10751,18 @@
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz"
   },
+  "hl7.fhir.fr.template": {
+    "name": "hl7.fhir.fr.template",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.ig.fr.template/branches/main/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.ig.fr.template",
+        "branch": "main",
+        "lastSeen": "2024-05-23T12:45:42.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Interop-Sante/hl7.ig.fr.template/branches/main/package.tgz"
+  },
   "hl7.fhir.it.base": {
     "name": "hl7.fhir.it.base",
     "locations": [
@@ -12810,7 +12822,7 @@
         "url": "https://build.fhir.org/ig/HL7/dental-data-exchange/branches/master/package.tgz",
         "repo": "https://github.com/HL7/dental-data-exchange",
         "branch": "master",
-        "lastSeen": "2024-02-28T20:52:24.000Z"
+        "lastSeen": "2024-05-23T12:27:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dental-data-exchange/branches/master/package.tgz"
@@ -21192,7 +21204,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/79-include-birthtime-extension-to-support-neo-natal-patients-consider-highlighting-the-use-of-that-extension/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "79-include-birthtime-extension-to-support-neo-natal-patients-consider-highlighting-the-use-of-that-extension",
-        "lastSeen": "2024-05-23T08:03:13.000Z"
+        "lastSeen": "2024-05-23T11:58:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
