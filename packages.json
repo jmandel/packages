@@ -2640,7 +2640,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/loinc-filter/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "loinc-filter",
-        "lastSeen": "2024-05-27T08:52:54.000Z"
+        "lastSeen": "2024-05-27T13:07:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -6239,6 +6239,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
   },
+  "hl7.at.fhir.elga.ips": {
+    "name": "hl7.at.fhir.elga.ips",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "main",
+        "lastSeen": "2024-05-27T13:33:38.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
+  },
   "hl7.at.fhir.gkl.ig-tooling": {
     "name": "hl7.at.fhir.gkl.ig-tooling",
     "locations": [
@@ -6864,7 +6876,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health-ips",
         "branch": "master",
-        "lastSeen": "2024-05-27T12:39:03.000Z"
+        "lastSeen": "2024-05-27T13:41:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/jkiddo-patch-1/package.tgz",
