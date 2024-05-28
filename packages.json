@@ -2424,7 +2424,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-05-28T06:32:01.000Z"
+        "lastSeen": "2024-05-28T08:26:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -3877,6 +3877,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-14673_use_bing_search",
         "lastSeen": "2024-05-16T08:21:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-14463-SOR-Organization-Importer-treats-primary-and-secondary-specialties-equally/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-14463-SOR-Organization-Importer-treats-primary-and-secondary-specialties-equally",
+        "lastSeen": "2024-05-28T07:51:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -25074,7 +25080,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-screening",
         "branch": "master",
-        "lastSeen": "2024-05-28T02:26:29.000Z"
+        "lastSeen": "2024-05-28T08:00:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/fhir-expansion/package.tgz",
@@ -25110,7 +25116,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/v0.6.0/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-screening",
         "branch": "v0.6.0",
-        "lastSeen": "2024-05-28T07:07:51.000Z"
+        "lastSeen": "2024-05-28T07:59:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/master/package.tgz"
@@ -25134,7 +25140,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-05-28T07:14:02.000Z"
+        "lastSeen": "2024-05-28T07:39:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
