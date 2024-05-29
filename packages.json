@@ -377,6 +377,18 @@
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz"
   },
+  "au.digitalhealth.cda.schema": {
+    "name": "au.digitalhealth.cda.schema",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/cda-au-schema",
+        "branch": "master",
+        "lastSeen": "2024-05-29T23:02:42.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz"
+  },
   "au.digitalhealth.r4": {
     "name": "au.digitalhealth.r4",
     "locations": [
@@ -4873,6 +4885,12 @@
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "ig-update",
         "lastSeen": "2024-05-28T15:34:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/plantuml-experiment/package.tgz",
+        "repo": "https://github.com/cqframework/opioid-cds-r4",
+        "branch": "plantuml-experiment",
+        "lastSeen": "2024-05-29T23:16:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -20280,7 +20298,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/expect-columns-test/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "expect-columns-test",
-        "lastSeen": "2024-04-16T11:35:50.000Z"
+        "lastSeen": "2024-05-29T23:39:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/tabular_example/package.tgz",
@@ -25098,7 +25116,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-auditevents/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-auditevents",
         "branch": "master",
-        "lastSeen": "2024-05-29T08:05:56.000Z"
+        "lastSeen": "2024-05-29T23:42:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-auditevents/branches/master/package.tgz"
