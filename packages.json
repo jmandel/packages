@@ -3798,7 +3798,7 @@
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/master/package.tgz",
         "repo": "https://github.com/CEOsys/ig-template-ceosys",
         "branch": "master",
-        "lastSeen": "2024-05-29T10:44:03.000Z"
+        "lastSeen": "2024-05-29T13:11:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/v0.1.1/package.tgz",
@@ -3820,6 +3820,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/CODEX-CELIDA/ig-template-celida/branches/master/package.tgz"
+  },
+  "de.netzwerk-universitaetsmedizin.ebm-cpg": {
+    "name": "de.netzwerk-universitaetsmedizin.ebm-cpg",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/master/package.tgz",
+        "repo": "https://github.com/CEOsys/cpg-on-ebm-on-fhir",
+        "branch": "master",
+        "lastSeen": "2024-05-29T13:16:46.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/master/package.tgz"
   },
   "devdays.letsbuildafhirspec.igpublisher": {
     "name": "devdays.letsbuildafhirspec.igpublisher",
@@ -23892,7 +23904,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ihe-xds-metadata/branches/1.0.0-rc1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ihe-xds-metadata",
         "branch": "1.0.0-rc1",
-        "lastSeen": "2024-05-29T11:58:45.000Z"
+        "lastSeen": "2024-05-29T13:12:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ihe-xds-metadata/branches/master/package.tgz"
