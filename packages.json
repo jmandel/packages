@@ -1669,6 +1669,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "275_wrongLink",
         "lastSeen": "2024-05-30T11:30:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/278_figDocs/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "278_figDocs",
+        "lastSeen": "2024-05-30T12:20:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -23557,6 +23563,12 @@
         "repo": "https://github.com/hl7dk/kl-term",
         "branch": "1.1.0",
         "lastSeen": "2023-07-11T10:48:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-term/branches/2.0.0/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-term",
+        "branch": "2.0.0",
+        "lastSeen": "2024-05-30T12:15:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-term/branches/main/package.tgz"
@@ -24996,7 +25008,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/testcases/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
         "branch": "testcases",
-        "lastSeen": "2024-05-30T10:35:45.000Z"
+        "lastSeen": "2024-05-30T11:43:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
@@ -25578,7 +25590,7 @@
         "url": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/main/package.tgz",
         "repo": "https://github.com/department-of-veterans-affairs/mhv-fhir-phr-mapping",
         "branch": "main",
-        "lastSeen": "2024-05-30T11:30:09.000Z"
+        "lastSeen": "2024-05-30T11:57:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/remove-names/package.tgz",
