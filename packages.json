@@ -307,6 +307,12 @@
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "main",
         "lastSeen": "2024-05-16T11:57:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/for-comment-template/package.tgz",
+        "repo": "https://github.com/ansforge/IG-template",
+        "branch": "for-comment-template",
+        "lastSeen": "2024-05-30T08:26:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -703,6 +709,12 @@
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "108-update-naming-standards-for-new-profiles",
         "lastSeen": "2024-05-24T09:46:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/105-create-an-upload-job-for-the-publication-process/package.tgz",
+        "repo": "https://github.com/commonprofiles-care/fhir",
+        "branch": "105-create-an-upload-job-for-the-publication-process",
+        "lastSeen": "2024-05-30T08:08:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SvenskaIndustriProfiler/fhir/branches/master/package.tgz"
@@ -2184,13 +2196,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "master",
-        "lastSeen": "2024-05-23T17:23:11.000Z"
+        "lastSeen": "2024-05-30T08:34:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/v1.0.0-ballot/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "v1.0.0-ballot",
         "lastSeen": "2024-05-17T09:18:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/7_displayvalues/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ips",
+        "branch": "7_displayvalues",
+        "lastSeen": "2024-05-30T08:31:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz"
@@ -11274,7 +11292,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-05-29T19:23:40.000Z"
+        "lastSeen": "2024-05-30T08:32:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
