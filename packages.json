@@ -7320,7 +7320,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/xtehr-empty/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/xtehr-empty",
         "branch": "main",
-        "lastSeen": "2024-05-29T20:53:52.000Z"
+        "lastSeen": "2024-05-30T19:56:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/xt-ehr-metadata/branches/main/package.tgz",
@@ -7332,10 +7332,22 @@
         "url": "https://build.fhir.org/ig/costateixeira/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2024-05-30T19:36:05.000Z"
+        "lastSeen": "2024-05-30T19:58:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/xtehr-empty/branches/main/package.tgz"
+  },
+  "hl7.eu.fhir.xt-ehr.foundation": {
+    "name": "hl7.eu.fhir.xt-ehr.foundation",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/xt-ehr-metadata/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/xt-ehr-metadata",
+        "branch": "main",
+        "lastSeen": "2024-05-30T20:20:22.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/costateixeira/xt-ehr-metadata/branches/main/package.tgz"
   },
   "hl7.extensions.template": {
     "name": "hl7.extensions.template",
@@ -15678,7 +15690,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.2/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.2",
-        "lastSeen": "2024-05-29T13:39:39.000Z"
+        "lastSeen": "2024-05-30T19:53:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -21553,6 +21565,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "2024-05-gg-loinc",
         "lastSeen": "2024-05-21T06:17:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-544-Fixing-Technical-Issue-with-Previous-Fix-for-ICD-9-CM-Metadata-Records/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-544-Fixing-Technical-Issue-with-Previous-Fix-for-ICD-9-CM-Metadata-Records",
+        "lastSeen": "2024-05-30T19:50:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
