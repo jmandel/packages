@@ -14490,7 +14490,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-05-28T19:12:42.000Z"
+        "lastSeen": "2024-05-31T16:52:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz"
@@ -17641,6 +17641,12 @@
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "v1.0.0-snapshot",
         "lastSeen": "2024-04-06T14:39:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/crmi-ig",
+        "branch": "1.0.0",
+        "lastSeen": "2024-05-31T16:41:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz"
@@ -18828,7 +18834,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/subIG---Simple-FHIRcast-for-SMART-apps/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "subIG---Simple-FHIRcast-for-SMART-apps",
-        "lastSeen": "2024-05-31T16:37:37.000Z"
+        "lastSeen": "2024-05-31T17:01:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/bullets-to-inline-ordinals/package.tgz",
