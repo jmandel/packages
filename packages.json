@@ -9972,7 +9972,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/IG_snre/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/IG_snre",
         "branch": "master",
-        "lastSeen": "2024-01-03T14:18:57.000Z"
+        "lastSeen": "2024-05-31T20:11:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/snre/branches/master/package.tgz"
@@ -9984,7 +9984,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-05-30T19:36:51.000Z"
+        "lastSeen": "2024-05-31T20:33:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
@@ -16321,6 +16321,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "usualWorkFix",
         "lastSeen": "2024-05-30T17:10:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/addDomesticPartnership/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "addDomesticPartnership",
+        "lastSeen": "2024-05-31T19:43:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -22951,6 +22957,12 @@
         "repo": "https://github.com/IHE/PCC.mAPS.us",
         "branch": "master",
         "lastSeen": "2024-05-09T19:28:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/PCC.mAPS.us/branches/mlj_prepub_edits_mAPS-us_rev_1-0-0-comment/package.tgz",
+        "repo": "https://github.com/IHE/PCC.mAPS.us",
+        "branch": "mlj_prepub_edits_mAPS-us_rev_1-0-0-comment",
+        "lastSeen": "2024-05-31T20:41:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.mAPS.us/branches/master/package.tgz"
