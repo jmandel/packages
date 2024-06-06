@@ -23670,7 +23670,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-children",
         "branch": "main",
-        "lastSeen": "2023-09-30T13:50:10.000Z"
+        "lastSeen": "2024-06-06T11:17:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/1.0.0/package.tgz",
@@ -23682,13 +23682,19 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7dk/kl-children",
         "branch": "2.0.0",
-        "lastSeen": "2024-05-05T12:18:16.000Z"
+        "lastSeen": "2024-06-06T11:08:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/aims/package.tgz",
         "repo": "https://github.com/hl7dk/kl-children",
         "branch": "aims",
         "lastSeen": "2024-06-03T21:49:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/2.0.0-without-aims/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-children",
+        "branch": "2.0.0-without-aims",
+        "lastSeen": "2024-06-06T11:07:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-children/branches/main/package.tgz"
@@ -23803,6 +23809,12 @@
         "repo": "https://github.com/hl7dk/kl-gateway-prevention",
         "branch": "1.1.0",
         "lastSeen": "2024-04-29T07:20:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/2.0.0/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-gateway-prevention",
+        "branch": "2.0.0",
+        "lastSeen": "2024-06-06T11:00:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz"
