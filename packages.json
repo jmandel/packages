@@ -4039,6 +4039,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "3.3.3",
         "lastSeen": "2024-06-06T14:11:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-15103-hapi-fhir-6.10.5_validate_conceptmap/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-15103-hapi-fhir-6.10.5_validate_conceptmap",
+        "lastSeen": "2024-06-07T06:46:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -6450,7 +6456,7 @@
         "url": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz",
         "repo": "https://github.com/gabriel0316/ig-tooling",
         "branch": "main",
-        "lastSeen": "2024-06-07T06:10:13.000Z"
+        "lastSeen": "2024-06-07T06:53:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz"
@@ -25674,7 +25680,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-screening",
         "branch": "master",
-        "lastSeen": "2024-06-06T05:24:29.000Z"
+        "lastSeen": "2024-06-07T07:33:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/fhir-expansion/package.tgz",
@@ -25734,7 +25740,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/v0.9.0/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-screening",
         "branch": "v0.9.0",
-        "lastSeen": "2024-06-06T22:22:02.000Z"
+        "lastSeen": "2024-06-07T07:34:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/master/package.tgz"
