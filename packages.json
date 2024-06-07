@@ -11460,7 +11460,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2024-05-29T07:26:37.000Z"
+        "lastSeen": "2024-06-07T11:34:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -24174,7 +24174,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.4.0.0-rc1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.4.0.0-rc1",
-        "lastSeen": "2024-06-07T10:13:05.000Z"
+        "lastSeen": "2024-06-07T10:39:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.3.0.4-rc.1/package.tgz",
@@ -24247,6 +24247,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "2.3.0-rc1-master-",
         "lastSeen": "2023-10-30T07:43:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/v.2.4.0-rc1/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "v.2.4.0-rc1",
+        "lastSeen": "2024-06-07T11:38:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
