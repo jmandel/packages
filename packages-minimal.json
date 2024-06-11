@@ -3520,6 +3520,14 @@
     }
   },
   {
+    "name": "hl7.fhir.uv.smart-app-launch-ext",
+    "current": {
+      "url": "https://build.fhir.org/ig/bvdh/smart-app-launch-bvdh/branches/multi-auth-ext/package.tgz",
+      "repo": "https://github.com/bvdh/smart-app-launch-bvdh",
+      "branch": "multi-auth-ext"
+    }
+  },
+  {
     "name": "hl7.fhir.uv.smart-health-cards-and-links",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/initial-content/package.tgz",
