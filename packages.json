@@ -738,7 +738,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-06-10T20:51:24.000Z"
+        "lastSeen": "2024-06-11T16:07:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -11347,6 +11347,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
         "lastSeen": "2024-06-11T15:32:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-create-FrPractitionerRole",
+        "lastSeen": "2024-06-11T16:33:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -11550,7 +11556,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-06-11T07:38:26.000Z"
+        "lastSeen": "2024-06-11T15:40:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -16620,7 +16626,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2024-06-06T19:10:10.000Z"
+        "lastSeen": "2024-06-11T15:42:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -16836,7 +16842,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/statesp/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "statesp",
-        "lastSeen": "2024-06-11T14:31:34.000Z"
+        "lastSeen": "2024-06-11T15:36:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/TRXCODMismatch/package.tgz",
@@ -19171,6 +19177,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "bullets-to-inline-ordinals",
         "lastSeen": "2024-05-31T15:58:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-45627/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-45627",
+        "lastSeen": "2024-06-11T15:43:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -23587,6 +23599,12 @@
         "repo": "https://github.com/IHE/RAD.IMR",
         "branch": "CP-RAD-528-Extension-Context",
         "lastSeen": "2024-05-26T03:34:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/RAD.IMR/branches/release_clean_up/package.tgz",
+        "repo": "https://github.com/IHE/RAD.IMR",
+        "branch": "release_clean_up",
+        "lastSeen": "2024-06-11T16:29:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/RAD.IMR/branches/master/package.tgz"
