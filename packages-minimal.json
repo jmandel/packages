@@ -4880,6 +4880,14 @@
     }
   },
   {
+    "name": "smart.who.int.anc-test",
+    "current": {
+      "url": "https://build.fhir.org/ig/guptava/smart-anc-test/branches/main/package.tgz",
+      "repo": "https://github.com/guptava/smart-anc-test",
+      "branch": "main"
+    }
+  },
+  {
     "name": "smart.who.int.dak-ccc",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-ccc/branches/main/package.tgz",
