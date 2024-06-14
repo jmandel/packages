@@ -1248,7 +1248,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2024-06-13T21:53:03.000Z"
+        "lastSeen": "2024-06-14T10:39:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -4002,7 +4002,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2024-06-13T11:58:04.000Z"
+        "lastSeen": "2024-06-14T11:10:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -7403,6 +7403,24 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-ps/branches/master/package.tgz"
   },
+  "hl7.eu.fhir.xt-ehr.common": {
+    "name": "hl7.eu.fhir.xt-ehr.common",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/ehn-guidelines-models/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "ehn-guidelines-models",
+        "lastSeen": "2024-06-14T11:18:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "main",
+        "lastSeen": "2024-06-14T11:18:23.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
+  },
   "hl7.eu.fhir.xt-ehr.empty": {
     "name": "hl7.eu.fhir.xt-ehr.empty",
     "locations": [
@@ -9906,7 +9924,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "master",
-        "lastSeen": "2024-06-03T12:43:58.000Z"
+        "lastSeen": "2024-06-14T11:18:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/releasecandidate/package.tgz",
@@ -24126,7 +24144,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-prevention",
         "branch": "main",
-        "lastSeen": "2024-04-29T07:16:18.000Z"
+        "lastSeen": "2024-06-14T10:59:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/1.0.0/package.tgz",
@@ -24162,7 +24180,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-rehab",
         "branch": "main",
-        "lastSeen": "2023-10-02T07:47:19.000Z"
+        "lastSeen": "2024-06-14T10:59:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/1.0.0/package.tgz",
@@ -24552,7 +24570,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/GitHubPagesMaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "GitHubPagesMaster",
-        "lastSeen": "2024-06-14T10:37:09.000Z"
+        "lastSeen": "2024-06-14T11:27:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -25608,7 +25626,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "main",
-        "lastSeen": "2024-06-13T14:41:28.000Z"
+        "lastSeen": "2024-06-14T11:22:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/br-documentation-updates/package.tgz",
@@ -25626,7 +25644,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/jct-updates/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "jct-updates",
-        "lastSeen": "2024-06-14T09:52:13.000Z"
+        "lastSeen": "2024-06-14T11:13:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/authoring-changes/package.tgz",
@@ -27373,6 +27391,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
         "branch": "jct-add-callout-boxes",
         "lastSeen": "2024-05-14T20:35:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/fontawesome-icons/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template-who",
+        "branch": "fontawesome-icons",
+        "lastSeen": "2024-06-14T11:43:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
