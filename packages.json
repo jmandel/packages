@@ -738,7 +738,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-06-14T16:10:13.000Z"
+        "lastSeen": "2024-06-14T16:39:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -4422,7 +4422,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2024-06-14T14:30:39.000Z"
+        "lastSeen": "2024-06-14T17:18:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -4465,6 +4465,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "v0.4.2",
         "lastSeen": "2024-06-10T22:26:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/v0.4.3/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "v0.4.3",
+        "lastSeen": "2024-06-14T17:19:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -7416,7 +7422,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/ehn-guidelines-models/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "ehn-guidelines-models",
-        "lastSeen": "2024-06-14T11:18:05.000Z"
+        "lastSeen": "2024-06-14T17:09:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
@@ -20028,7 +20034,13 @@
         "url": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/se-phenotypic-feature-review/package.tgz",
         "repo": "https://github.com/HL7/phenomics-exchange-ig",
         "branch": "se-phenotypic-feature-review",
-        "lastSeen": "2024-06-13T15:04:45.000Z"
+        "lastSeen": "2024-06-14T17:19:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/se-fsh-refactoring/package.tgz",
+        "repo": "https://github.com/HL7/phenomics-exchange-ig",
+        "branch": "se-fsh-refactoring",
+        "lastSeen": "2024-06-14T17:20:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/master/package.tgz"
@@ -25674,7 +25686,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/jct-updates/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "jct-updates",
-        "lastSeen": "2024-06-14T12:57:53.000Z"
+        "lastSeen": "2024-06-14T16:57:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/authoring-changes/package.tgz",
