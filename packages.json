@@ -3571,6 +3571,12 @@
         "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
         "branch": "RFphase2-part2",
         "lastSeen": "2024-06-04T04:47:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/RFphase1/package.tgz",
+        "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
+        "branch": "RFphase1",
+        "lastSeen": "2024-06-17T23:25:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz"
@@ -7728,7 +7734,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-06-17T21:08:55.000Z"
+        "lastSeen": "2024-06-17T23:36:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -15672,7 +15678,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/Scott/package.tgz",
         "repo": "https://github.com/HL7/fhir-pdmp",
         "branch": "Scott",
-        "lastSeen": "2024-06-17T21:31:26.000Z"
+        "lastSeen": "2024-06-17T23:23:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pdmp/branches/Frank1/package.tgz",
@@ -26143,6 +26149,12 @@
         "repo": "https://github.com/tewhatuora/fhir-patient-questionnaires",
         "branch": "12-code-system-publication",
         "lastSeen": "2024-06-17T04:31:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-patient-questionnaires/branches/14-apply-category-and-code/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-patient-questionnaires",
+        "branch": "14-apply-category-and-code",
+        "lastSeen": "2024-06-17T23:24:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-patient-questionnaires/branches/master/package.tgz"
@@ -26268,13 +26280,13 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/v0.4.3/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "v0.4.3",
-        "lastSeen": "2024-06-17T07:00:55.000Z"
+        "lastSeen": "2024-06-17T23:16:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "master",
-        "lastSeen": "2024-06-17T07:01:05.000Z"
+        "lastSeen": "2024-06-17T23:17:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
