@@ -11449,6 +11449,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-create-FrPractitionerRole",
         "lastSeen": "2024-06-11T16:41:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-org-type/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-org-type",
+        "lastSeen": "2024-06-17T15:07:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -13609,6 +13615,12 @@
         "repo": "https://github.com/HL7/davinci-vbpr",
         "branch": "master",
         "lastSeen": "2024-06-12T03:00:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/davinci-vbpr",
+        "branch": "1.0.0",
+        "lastSeen": "2024-06-17T15:00:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz"
@@ -16734,7 +16746,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2024-06-14T20:20:30.000Z"
+        "lastSeen": "2024-06-17T14:40:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -26598,7 +26610,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/Version2.0.0-simplify/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "Version2.0.0-simplify",
-        "lastSeen": "2024-03-26T21:37:12.000Z"
+        "lastSeen": "2024-06-17T15:18:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
