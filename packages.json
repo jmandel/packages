@@ -2298,7 +2298,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "master",
-        "lastSeen": "2024-02-12T11:42:14.000Z"
+        "lastSeen": "2024-06-18T09:34:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/0-generic-order/package.tgz",
@@ -3582,7 +3582,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/CommunicationPerson/package.tgz",
         "repo": "https://github.com/tewhatuora/cinc-fhir-ig",
         "branch": "CommunicationPerson",
-        "lastSeen": "2024-06-18T08:31:35.000Z"
+        "lastSeen": "2024-06-18T09:09:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/040/package.tgz",
@@ -7464,7 +7464,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2024-06-16T21:58:02.000Z"
+        "lastSeen": "2024-06-18T09:20:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -8814,7 +8814,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-48/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "issue-48",
-        "lastSeen": "2024-06-18T06:41:19.000Z"
+        "lastSeen": "2024-06-18T09:03:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -9115,6 +9115,12 @@
         "repo": "https://github.com/hl7-be/medication",
         "branch": "may",
         "lastSeen": "2024-05-07T13:22:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/medication/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/hl7-be/medication",
+        "branch": "release-candidate",
+        "lastSeen": "2024-06-18T08:47:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -13278,7 +13284,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2024-05-07T07:46:47.000Z"
+        "lastSeen": "2024-06-18T08:51:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -13350,7 +13356,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-44572-DEQM-Practitioner-references/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-44572-DEQM-Practitioner-references",
-        "lastSeen": "2024-04-08T19:05:56.000Z"
+        "lastSeen": "2024-06-18T08:49:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-44570-Summary-measure-reporting-typo/package.tgz",
