@@ -24391,6 +24391,12 @@
         "repo": "https://github.com/hl7dk/kl-children",
         "branch": "2.0.0-without-aims",
         "lastSeen": "2024-06-06T11:07:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/2.0.1/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-children",
+        "branch": "2.0.1",
+        "lastSeen": "2024-06-21T11:10:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-children/branches/main/package.tgz"
@@ -24492,7 +24498,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.2.0/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway",
         "branch": "1.2.0",
-        "lastSeen": "2024-06-21T09:15:56.000Z"
+        "lastSeen": "2024-06-21T11:07:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.1.0/package.tgz"
@@ -24504,7 +24510,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-prevention",
         "branch": "main",
-        "lastSeen": "2024-06-14T10:59:59.000Z"
+        "lastSeen": "2024-06-21T11:12:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/1.0.0/package.tgz",
@@ -24535,6 +24541,12 @@
         "repo": "https://github.com/hl7dk/kl-gateway-prevention",
         "branch": "2.1.0",
         "lastSeen": "2024-06-19T10:22:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/2.1.1/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-gateway-prevention",
+        "branch": "2.1.1",
+        "lastSeen": "2024-06-21T11:17:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz"
@@ -24546,7 +24558,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-rehab",
         "branch": "main",
-        "lastSeen": "2024-06-14T10:59:04.000Z"
+        "lastSeen": "2024-06-21T11:38:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/1.0.0/package.tgz",
@@ -24571,6 +24583,12 @@
         "repo": "https://github.com/hl7dk/kl-gateway-rehab",
         "branch": "2.1.0",
         "lastSeen": "2024-06-19T10:20:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/2.1.1/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-gateway-rehab",
+        "branch": "2.1.1",
+        "lastSeen": "2024-06-21T11:08:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz"
