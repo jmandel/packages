@@ -4624,6 +4624,14 @@
     }
   },
   {
+    "name": "medcom.fhir.dk.shareddiagnoses",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-shareddiagnoses",
+      "branch": "main"
+    }
+  },
+  {
     "name": "medcom.fhir.dk.terminology",
     "current": {
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
