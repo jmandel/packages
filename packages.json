@@ -444,7 +444,7 @@
         "url": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz",
         "repo": "https://github.com/kyriosdata/farol",
         "branch": "main",
-        "lastSeen": "2024-06-21T23:16:35.000Z"
+        "lastSeen": "2024-06-27T20:30:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/kyriosdata/farol/branches/main/package.tgz"
@@ -10321,6 +10321,12 @@
         "repo": "https://github.com/HL7Chile/clcore_ig",
         "branch": "recuperacion",
         "lastSeen": "2024-02-20T12:02:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Chile/clcore_ig/branches/dev2.0.0/package.tgz",
+        "repo": "https://github.com/HL7Chile/clcore_ig",
+        "branch": "dev2.0.0",
+        "lastSeen": "2024-06-27T19:51:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/clcore/branches/master/package.tgz"
@@ -13237,6 +13243,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "FHIR45491SGRT",
         "lastSeen": "2024-06-10T17:17:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/updateSCTCodes/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "updateSCTCodes",
+        "lastSeen": "2024-06-27T19:51:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -17052,7 +17064,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/corrections-from-review/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "corrections-from-review",
-        "lastSeen": "2024-06-27T16:14:02.000Z"
+        "lastSeen": "2024-06-27T20:14:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/updateharmonization/package.tgz",
@@ -17064,7 +17076,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/changeLogUpdates/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "changeLogUpdates",
-        "lastSeen": "2024-06-27T16:17:05.000Z"
+        "lastSeen": "2024-06-27T20:27:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -23958,7 +23970,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCS",
         "branch": "master",
-        "lastSeen": "2024-06-21T12:03:43.000Z"
+        "lastSeen": "2024-06-27T20:29:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz"
