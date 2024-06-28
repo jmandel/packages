@@ -4146,7 +4146,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/3.1.0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "3.1.0",
-        "lastSeen": "2024-06-27T15:49:00.000Z"
+        "lastSeen": "2024-06-28T09:26:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -7332,7 +7332,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2024-06-10T09:28:32.000Z"
+        "lastSeen": "2024-06-28T09:26:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz"
@@ -8479,6 +8479,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_srr",
         "lastSeen": "2024-06-28T08:33:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_examples/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_examples",
+        "lastSeen": "2024-06-28T09:12:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -22806,7 +22812,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2024-06-27T13:11:26.000Z"
+        "lastSeen": "2024-06-28T08:48:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -25014,7 +25020,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master",
-        "lastSeen": "2024-06-28T06:26:00.000Z"
+        "lastSeen": "2024-06-28T09:09:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
@@ -25290,7 +25296,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "master",
-        "lastSeen": "2024-06-28T05:08:46.000Z"
+        "lastSeen": "2024-06-28T08:47:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.1.0-rc1-master/package.tgz",
@@ -26880,7 +26886,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-06-25T09:15:47.000Z"
+        "lastSeen": "2024-06-28T09:24:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
@@ -27282,7 +27288,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/vital-signs-demo/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/vital-signs-demo",
         "branch": "main",
-        "lastSeen": "2024-06-26T13:58:42.000Z"
+        "lastSeen": "2024-06-28T09:10:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/vital-signs-demo/branches/main/package.tgz"
