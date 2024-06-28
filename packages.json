@@ -8533,6 +8533,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_github-25",
         "lastSeen": "2024-06-25T03:31:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_template/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_template",
+        "lastSeen": "2024-06-28T00:11:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz"
@@ -16344,7 +16350,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2024-06-27T15:42:21.000Z"
+        "lastSeen": "2024-06-28T00:42:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -23976,7 +23982,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCS",
         "branch": "master",
-        "lastSeen": "2024-06-27T22:41:22.000Z"
+        "lastSeen": "2024-06-28T00:15:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz"
