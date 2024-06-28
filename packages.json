@@ -7668,7 +7668,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-06-20T12:01:14.000Z"
+        "lastSeen": "2024-06-28T03:09:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -8389,6 +8389,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_tcs",
         "lastSeen": "2024-06-27T04:28:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_vitalsigns-feedback/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_vitalsigns-feedback",
+        "lastSeen": "2024-06-28T03:32:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -8452,6 +8458,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/draft.hl7.org.au-ig/branches/master/package.tgz"
+  },
+  "hl7.fhir.au.ereq": {
+    "name": "hl7.fhir.au.ereq",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_wave2",
+        "lastSeen": "2024-06-28T03:41:04.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
   },
   "hl7.fhir.au.erequesting": {
     "name": "hl7.fhir.au.erequesting",
@@ -15150,7 +15168,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-06-25T22:06:04.000Z"
+        "lastSeen": "2024-06-28T03:35:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
