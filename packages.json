@@ -228,7 +228,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "main",
-        "lastSeen": "2024-03-19T03:53:07.000Z"
+        "lastSeen": "2024-07-01T22:32:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/dev/package.tgz",
@@ -288,7 +288,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-fhir/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-fhir",
         "branch": "main",
-        "lastSeen": "2024-03-19T03:23:13.000Z"
+        "lastSeen": "2024-07-01T22:35:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-fhir/branches/main/package.tgz"
@@ -7878,7 +7878,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-07-01T07:00:02.000Z"
+        "lastSeen": "2024-07-01T21:39:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -8430,7 +8430,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_term_page/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_term_page",
-        "lastSeen": "2024-07-01T04:14:25.000Z"
+        "lastSeen": "2024-07-01T21:51:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_aucdiR1-update/package.tgz",
@@ -8442,7 +8442,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_FHIR-46147/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_FHIR-46147",
-        "lastSeen": "2024-07-01T07:19:16.000Z"
+        "lastSeen": "2024-07-01T21:40:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_changes/package.tgz",
@@ -8544,13 +8544,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_pages/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_pages",
-        "lastSeen": "2024-07-01T07:28:15.000Z"
+        "lastSeen": "2024-07-01T21:54:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr-licensing/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr-licensing",
         "lastSeen": "2024-07-01T04:08:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_future/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_future",
+        "lastSeen": "2024-07-01T22:43:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -10590,7 +10596,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-07-01T15:48:40.000Z"
+        "lastSeen": "2024-07-01T22:22:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
@@ -22722,7 +22728,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-utg/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-utg",
         "branch": "master",
-        "lastSeen": "2024-04-29T20:06:23.000Z"
+        "lastSeen": "2024-07-01T22:23:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-utg/branches/master/package.tgz"
@@ -24888,7 +24894,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/2.1.1/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway-rehab",
         "branch": "2.1.1",
-        "lastSeen": "2024-07-01T12:23:53.000Z"
+        "lastSeen": "2024-07-01T21:48:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway-rehab/branches/main/package.tgz"
