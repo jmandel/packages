@@ -12876,7 +12876,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/apgarchange/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "apgarchange",
-        "lastSeen": "2024-07-02T19:23:17.000Z"
+        "lastSeen": "2024-07-02T22:31:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/valuesetReview/package.tgz",
@@ -12888,7 +12888,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/addPresentWork/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "addPresentWork",
-        "lastSeen": "2024-07-02T20:46:47.000Z"
+        "lastSeen": "2024-07-02T22:44:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -15972,7 +15972,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-fhir46150-fix/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-fhir46150-fix",
-        "lastSeen": "2024-06-20T00:10:33.000Z"
+        "lastSeen": "2024-07-02T22:49:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -16123,6 +16123,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "stu-2-ballot",
         "lastSeen": "2024-06-28T18:32:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/capability-statement-stu-2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-pfe",
+        "branch": "capability-statement-stu-2",
+        "lastSeen": "2024-07-02T23:28:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -16728,7 +16734,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/stu1u1_dev/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "stu1u1_dev",
-        "lastSeen": "2024-07-02T22:18:59.000Z"
+        "lastSeen": "2024-07-02T23:32:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz"
@@ -18444,7 +18450,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/ig-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "ig-updates",
-        "lastSeen": "2024-06-21T22:37:41.000Z"
+        "lastSeen": "2024-07-02T22:49:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz"
