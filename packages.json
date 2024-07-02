@@ -443,6 +443,18 @@
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/test/package.tgz"
   },
+  "birth-notice-ig": {
+    "name": "birth-notice-ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-pt/obs-neonat-ig",
+        "branch": "master",
+        "lastSeen": "2024-07-02T15:20:27.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz"
+  },
   "br.gov.saude.ccu": {
     "name": "br.gov.saude.ccu",
     "locations": [
@@ -1255,6 +1267,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "289_displayvalidation",
         "lastSeen": "2024-05-29T14:33:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/291-ch-core-consent-resource-according-r5/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "291-ch-core-consent-resource-according-r5",
+        "lastSeen": "2024-07-02T15:10:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -5664,7 +5682,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "main",
-        "lastSeen": "2023-09-20T00:39:55.000Z"
+        "lastSeen": "2024-07-02T15:29:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
@@ -13602,7 +13620,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-atr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-atr",
         "branch": "master",
-        "lastSeen": "2024-07-02T13:31:11.000Z"
+        "lastSeen": "2024-07-02T15:30:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-atr/branches/2.0.0/package.tgz",
@@ -22188,7 +22206,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2024-07-02T07:52:39.000Z"
+        "lastSeen": "2024-07-02T14:41:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -22530,7 +22548,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-494-Create-the--Credential-Status--Code-System-and--Credential-Status--Value-Set/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-494-Create-the--Credential-Status--Code-System-and--Credential-Status--Value-Set",
-        "lastSeen": "2024-02-06T20:13:11.000Z"
+        "lastSeen": "2024-07-02T14:50:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-516-Include-additional-concepts-in-Organization-Types/package.tgz",
@@ -25818,7 +25836,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/adr-ig",
         "branch": "master",
-        "lastSeen": "2024-06-27T12:20:50.000Z"
+        "lastSeen": "2024-07-02T15:25:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz",
