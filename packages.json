@@ -16740,7 +16740,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/stu1u1_dev/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "stu1u1_dev",
-        "lastSeen": "2024-07-03T00:05:15.000Z"
+        "lastSeen": "2024-07-03T02:39:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz"
@@ -28141,6 +28141,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt",
         "branch": "draft-logical-model",
         "lastSeen": "2024-06-25T08:39:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-example-immz/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-dak-example-immz",
+        "branch": "main",
+        "lastSeen": "2024-07-03T02:39:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/main/package.tgz"
