@@ -293,6 +293,18 @@
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-fhir/branches/main/package.tgz"
   },
+  "adr-ig": {
+    "name": "adr-ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-pt/adr-ig",
+        "branch": "master",
+        "lastSeen": "2024-07-04T10:37:02.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz"
+  },
   "ans.fr.template": {
     "name": "ans.fr.template",
     "locations": [
@@ -11868,7 +11880,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2024-07-03T09:24:59.000Z"
+        "lastSeen": "2024-07-04T09:59:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -11881,6 +11893,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-org-type",
         "lastSeen": "2024-06-17T15:07:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-ms-tag/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-add-ms-tag",
+        "lastSeen": "2024-07-04T09:46:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
