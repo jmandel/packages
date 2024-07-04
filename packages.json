@@ -1806,7 +1806,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2024-07-02T09:17:29.000Z"
+        "lastSeen": "2024-07-04T12:15:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -1849,6 +1849,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_seqdiag",
         "lastSeen": "2024-07-01T11:02:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_removexdsonfhiropt/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_removexdsonfhiropt",
+        "lastSeen": "2024-07-04T11:58:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -7686,7 +7692,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-extensions/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-extensions",
         "branch": "main",
-        "lastSeen": "2024-05-24T16:48:28.000Z"
+        "lastSeen": "2024-07-04T12:45:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-extensions/branches/main/package.tgz"
@@ -25428,7 +25434,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-shareddiagnoses",
         "branch": "main",
-        "lastSeen": "2024-07-04T06:58:58.000Z"
+        "lastSeen": "2024-07-04T12:13:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz"
@@ -25512,7 +25518,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "main",
-        "lastSeen": "2024-07-03T08:55:52.000Z"
+        "lastSeen": "2024-07-04T12:14:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/1.0.0-A1/package.tgz",
