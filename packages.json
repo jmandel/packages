@@ -4020,7 +4020,7 @@
         "url": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/master/package.tgz",
         "repo": "https://github.com/CEOsys/cpg-on-ebm-on-fhir",
         "branch": "master",
-        "lastSeen": "2024-05-30T06:55:52.000Z"
+        "lastSeen": "2024-07-08T12:40:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/v0.9.1/package.tgz",
@@ -10465,6 +10465,24 @@
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "issue-121",
         "lastSeen": "2024-07-05T15:41:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/fix-tx-qaold/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "fix-tx-qaold",
+        "lastSeen": "2024-07-08T12:09:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/fix-tx-qa/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "fix-tx-qa",
+        "lastSeen": "2024-07-08T12:04:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/144-tx-qa/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "144-tx-qa",
+        "lastSeen": "2024-07-08T12:10:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -12144,7 +12162,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-07-08T08:06:48.000Z"
+        "lastSeen": "2024-07-08T12:14:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -13920,7 +13938,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-07-03T13:33:03.000Z"
+        "lastSeen": "2024-07-08T12:09:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -20970,7 +20988,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/FHIR-35713-Steve/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "FHIR-35713-Steve",
-        "lastSeen": "2024-07-08T11:29:28.000Z"
+        "lastSeen": "2024-07-08T11:51:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/master/package.tgz"
@@ -24852,7 +24870,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testConsent/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testConsent",
         "branch": "main",
-        "lastSeen": "2023-06-24T12:10:02.000Z"
+        "lastSeen": "2024-07-08T12:24:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testConsent/branches/main/package.tgz"
@@ -25596,7 +25614,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/GitHubPagesMaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "GitHubPagesMaster",
-        "lastSeen": "2024-07-08T09:31:26.000Z"
+        "lastSeen": "2024-07-08T12:29:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
