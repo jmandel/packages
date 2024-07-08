@@ -4027,6 +4027,12 @@
         "repo": "https://github.com/CEOsys/cpg-on-ebm-on-fhir",
         "branch": "v0.9.1",
         "lastSeen": "2024-05-30T07:07:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/v0.9.2/package.tgz",
+        "repo": "https://github.com/CEOsys/cpg-on-ebm-on-fhir",
+        "branch": "v0.9.2",
+        "lastSeen": "2024-07-08T14:40:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CEOsys/cpg-on-ebm-on-fhir/branches/master/package.tgz"
@@ -9930,7 +9936,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/earlyadopters/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "earlyadopters",
-        "lastSeen": "2024-07-08T13:59:28.000Z"
+        "lastSeen": "2024-07-08T14:52:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-47/package.tgz",
+        "repo": "https://github.com/hl7-be/pss",
+        "branch": "issue-47",
+        "lastSeen": "2024-07-08T14:52:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -10612,6 +10624,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/clcore/branches/master/package.tgz"
+  },
+  "hl7.fhir.cl.clcore2": {
+    "name": "hl7.fhir.cl.clcore2",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Chile/clcore_2.0/branches/master/package.tgz",
+        "repo": "https://github.com/HL7Chile/clcore_2.0",
+        "branch": "master",
+        "lastSeen": "2024-07-08T15:18:30.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Chile/clcore_2.0/branches/master/package.tgz"
   },
   "hl7.fhir.cl.corecl": {
     "name": "hl7.fhir.cl.corecl",
@@ -20202,7 +20226,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2024-07-05T22:21:45.000Z"
+        "lastSeen": "2024-07-08T14:48:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
