@@ -539,6 +539,18 @@
     ],
     "current": "https://build.fhir.org/ig/caraowt/ig-caraowt/branches/master/package.tgz"
   },
+  "cardio.ig": {
+    "name": "cardio.ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/sguinezm/cardioCx-IG/branches/main/package.tgz",
+        "repo": "https://github.com/sguinezm/cardioCx-IG",
+        "branch": "main",
+        "lastSeen": "2024-07-10T18:22:08.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/sguinezm/cardioCx-IG/branches/main/package.tgz"
+  },
   "cards.smarthealth.terminology": {
     "name": "cards.smarthealth.terminology",
     "locations": [
