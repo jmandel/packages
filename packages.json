@@ -546,7 +546,7 @@
         "url": "https://build.fhir.org/ig/sguinezm/cardioCx-IG/branches/main/package.tgz",
         "repo": "https://github.com/sguinezm/cardioCx-IG",
         "branch": "main",
-        "lastSeen": "2024-07-11T03:55:04.000Z"
+        "lastSeen": "2024-07-11T18:51:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sguinezm/cardioCx-IG/branches/main/package.tgz"
@@ -12570,7 +12570,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2024-07-08T18:13:45.000Z"
+        "lastSeen": "2024-07-11T18:31:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -13194,7 +13194,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/QRPH/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "QRPH",
-        "lastSeen": "2024-07-11T16:41:44.000Z"
+        "lastSeen": "2024-07-11T18:49:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fetalCOD/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "fetalCOD",
+        "lastSeen": "2024-07-11T19:08:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -16734,7 +16740,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/batch-analysis-testing/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "batch-analysis-testing",
-        "lastSeen": "2024-07-11T18:21:25.000Z"
+        "lastSeen": "2024-07-11T19:33:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
@@ -16746,7 +16752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2024-07-08T18:45:01.000Z"
+        "lastSeen": "2024-07-11T19:23:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -17659,6 +17665,12 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "invariantNotDeadChild",
         "lastSeen": "2024-07-03T22:37:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/patientprofiles/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "patientprofiles",
+        "lastSeen": "2024-07-11T19:32:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -18738,7 +18750,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cdisc-mapping/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cdisc-mapping",
         "branch": "main",
-        "lastSeen": "2024-07-10T21:47:15.000Z"
+        "lastSeen": "2024-07-11T19:36:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cdisc-mapping/branches/main/package.tgz"
