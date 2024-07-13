@@ -15888,7 +15888,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-07-13T15:34:21.000Z"
+        "lastSeen": "2024-07-13T19:09:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -22087,6 +22087,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "fix-reference-key-tests",
         "lastSeen": "2024-06-26T03:35:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/add-glossary/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "add-glossary",
+        "lastSeen": "2024-07-13T19:14:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
