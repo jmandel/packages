@@ -408,7 +408,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/cda-au-schema",
         "branch": "master",
-        "lastSeen": "2024-07-08T01:49:15.000Z"
+        "lastSeen": "2024-07-14T23:06:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz"
@@ -3870,7 +3870,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2024-05-22T04:47:24.000Z"
+        "lastSeen": "2024-07-14T23:36:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -7830,7 +7830,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-07-12T06:21:13.000Z"
+        "lastSeen": "2024-07-14T23:03:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -7986,7 +7986,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft-name-context/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft-name-context",
-        "lastSeen": "2024-07-12T02:06:12.000Z"
+        "lastSeen": "2024-07-14T23:24:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-timezone-ext/package.tgz",
@@ -8628,7 +8628,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_FHIR-45410/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_FHIR-45410",
-        "lastSeen": "2024-07-14T22:34:46.000Z"
+        "lastSeen": "2024-07-14T22:50:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -20383,6 +20383,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-40566-event-version",
         "lastSeen": "2024-07-04T07:40:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-45719-Basic/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "FHIR-45719-Basic",
+        "lastSeen": "2024-07-14T22:56:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -22507,6 +22513,12 @@
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "Add_options_medications_conceptmaps",
         "lastSeen": "2024-07-03T20:37:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/add_medication_sponsor/package.tgz",
+        "repo": "https://github.com/HL7NZ/nzf",
+        "branch": "add_medication_sponsor",
+        "lastSeen": "2024-07-14T23:32:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz"
