@@ -15888,7 +15888,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-07-13T23:27:58.000Z"
+        "lastSeen": "2024-07-13T23:42:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -16315,6 +16315,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-fhir46153-revokestatus",
         "lastSeen": "2024-07-12T04:32:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-fhir46153-docRevokeStatus/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mlt-fhir46153-docRevokeStatus",
+        "lastSeen": "2024-07-14T00:41:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
