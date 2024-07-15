@@ -4255,6 +4255,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-15223-Opdatering-af-Infrastrukturens-ValueSet-for-SOR-specialer",
         "lastSeen": "2024-06-28T11:31:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-14046-fdd0147-ccr0204-improvements-to-the-import-and-export-of-telemedicine-package/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-14046-fdd0147-ccr0204-improvements-to-the-import-and-export-of-telemedicine-package",
+        "lastSeen": "2024-07-15T13:11:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13242,7 +13248,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/patientprofile/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "patientprofile",
-        "lastSeen": "2024-07-11T20:16:35.000Z"
+        "lastSeen": "2024-07-15T13:14:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -16513,6 +16519,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "capability-statement-stu-2",
         "lastSeen": "2024-07-03T04:40:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/fix-observation-category/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-pfe",
+        "branch": "fix-observation-category",
+        "lastSeen": "2024-07-15T13:35:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -17160,7 +17172,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-07-09T21:42:03.000Z"
+        "lastSeen": "2024-07-15T13:32:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -17724,7 +17736,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/patientprofiles/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "patientprofiles",
-        "lastSeen": "2024-07-11T20:02:38.000Z"
+        "lastSeen": "2024-07-15T13:09:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixPartialDateTime/package.tgz",
@@ -19284,7 +19296,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2024-07-09T19:22:32.000Z"
+        "lastSeen": "2024-07-15T13:12:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
