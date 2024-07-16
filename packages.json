@@ -5916,7 +5916,7 @@
         "url": "https://build.fhir.org/ig/drajer-health/uds-plus/branches/master/package.tgz",
         "repo": "https://github.com/drajer-health/uds-plus",
         "branch": "master",
-        "lastSeen": "2024-06-06T11:45:25.000Z"
+        "lastSeen": "2024-07-16T05:04:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/drajer-health/uds-plus/branches/master/package.tgz"
@@ -7836,7 +7836,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-07-15T02:25:01.000Z"
+        "lastSeen": "2024-07-16T04:51:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -8028,7 +8028,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-07-16T03:15:13.000Z"
+        "lastSeen": "2024-07-16T04:44:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -8653,6 +8653,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "0.4.1-preview",
         "lastSeen": "2024-07-16T04:18:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_license/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_license",
+        "lastSeen": "2024-07-16T05:19:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -8730,7 +8736,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2024-07-10T22:49:32.000Z"
+        "lastSeen": "2024-07-16T05:27:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -8790,13 +8796,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_howtoread/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_howtoread",
-        "lastSeen": "2024-07-16T04:27:06.000Z"
+        "lastSeen": "2024-07-16T04:55:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_guidance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_guidance",
         "lastSeen": "2024-07-15T09:14:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_license/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_license",
+        "lastSeen": "2024-07-16T05:20:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -21000,7 +21012,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-lab-rep-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/uv-lab-rep-ig",
         "branch": "main",
-        "lastSeen": "2024-06-11T20:49:19.000Z"
+        "lastSeen": "2024-07-16T05:13:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-lab-rep-ig/branches/main/package.tgz"
@@ -24006,7 +24018,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Finance/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.Finance",
         "branch": "master",
-        "lastSeen": "2024-07-16T03:17:34.000Z"
+        "lastSeen": "2024-07-16T04:49:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.Finance/branches/day1updates/package.tgz",
@@ -27018,7 +27030,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-ccc/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-ccc",
         "branch": "main",
-        "lastSeen": "2024-07-15T06:53:48.000Z"
+        "lastSeen": "2024-07-16T05:13:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/haskewc/smart-dak-ccc/branches/haskewc-patch-1/package.tgz",
@@ -27060,7 +27072,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-tb/branches/v1.0.1/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-tb",
         "branch": "v1.0.1",
-        "lastSeen": "2024-07-15T10:03:34.000Z"
+        "lastSeen": "2024-07-16T05:05:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/DigitalSQR/smart-dak-tb/branches/release-candidate/package.tgz"
