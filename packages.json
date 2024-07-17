@@ -6708,7 +6708,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2024-07-12T08:42:49.000Z"
+        "lastSeen": "2024-07-17T07:47:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -6721,6 +6721,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "STU2-Ballot-Preparation-Narratives",
         "lastSeen": "2024-07-09T13:31:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/ballot_2024_stu2/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "ballot_2024_stu2",
+        "lastSeen": "2024-07-17T08:05:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -6745,6 +6751,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "STU2-Ballot-Preparation-Narratives",
         "lastSeen": "2024-07-10T08:14:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/ballot_2024_stu2/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "ballot_2024_stu2",
+        "lastSeen": "2024-07-17T08:03:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -8670,7 +8682,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_license/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_license",
-        "lastSeen": "2024-07-16T05:19:44.000Z"
+        "lastSeen": "2024-07-17T07:55:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_smartdependency/package.tgz",
@@ -8820,19 +8832,25 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_guidance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_guidance",
-        "lastSeen": "2024-07-15T09:14:27.000Z"
+        "lastSeen": "2024-07-17T07:50:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_license/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_license",
-        "lastSeen": "2024-07-16T05:20:06.000Z"
+        "lastSeen": "2024-07-17T07:56:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_split-profiles/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_split-profiles",
         "lastSeen": "2024-07-17T06:41:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_general-guidance/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_general-guidance",
+        "lastSeen": "2024-07-17T08:01:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -21006,7 +21024,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-07-15T21:53:54.000Z"
+        "lastSeen": "2024-07-17T08:21:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -24870,7 +24888,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCS",
         "branch": "master",
-        "lastSeen": "2024-07-17T06:55:30.000Z"
+        "lastSeen": "2024-07-17T08:24:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz"
@@ -25878,7 +25896,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/testexamples-3.0.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "testexamples-3.0.1",
-        "lastSeen": "2024-02-29T10:28:52.000Z"
+        "lastSeen": "2024-07-17T08:13:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.3.0.1-examples/package.tgz",
@@ -26040,7 +26058,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/GitHubPagesMaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "GitHubPagesMaster",
-        "lastSeen": "2024-07-09T09:01:56.000Z"
+        "lastSeen": "2024-07-17T07:55:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
