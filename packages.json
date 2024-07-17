@@ -5778,7 +5778,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "master",
-        "lastSeen": "2024-05-07T17:40:27.000Z"
+        "lastSeen": "2024-07-17T18:47:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/mlt_test/package.tgz",
@@ -13350,7 +13350,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/cfdtable/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "cfdtable",
-        "lastSeen": "2024-07-15T21:31:04.000Z"
+        "lastSeen": "2024-07-17T19:01:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/updatePresentJob/package.tgz",
@@ -18187,6 +18187,12 @@
         "repo": "https://github.com/HL7/vrdr",
         "branch": "updateUsualWork",
         "lastSeen": "2024-07-16T21:13:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/someUpdates/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "someUpdates",
+        "lastSeen": "2024-07-17T19:09:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -19446,7 +19452,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2024-07-17T16:56:10.000Z"
+        "lastSeen": "2024-07-17T18:35:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -21072,7 +21078,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-07-17T14:14:04.000Z"
+        "lastSeen": "2024-07-17T19:07:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
