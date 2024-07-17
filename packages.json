@@ -8028,7 +8028,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-07-17T03:28:25.000Z"
+        "lastSeen": "2024-07-17T06:03:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -8652,7 +8652,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/0.4.1-preview/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "0.4.1-preview",
-        "lastSeen": "2024-07-17T04:42:33.000Z"
+        "lastSeen": "2024-07-17T05:43:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_license/package.tgz",
@@ -8815,6 +8815,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_license",
         "lastSeen": "2024-07-16T05:20:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_split-profiles/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_split-profiles",
+        "lastSeen": "2024-07-17T06:41:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -12408,7 +12414,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-07-12T11:59:33.000Z"
+        "lastSeen": "2024-07-17T06:04:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -25921,6 +25927,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-shareddiagnoses",
         "branch": "main",
         "lastSeen": "2024-07-11T06:56:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
+        "branch": "main",
+        "lastSeen": "2024-07-17T06:04:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz"
@@ -27102,7 +27114,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-tb/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-tb",
         "branch": "main",
-        "lastSeen": "2024-06-11T13:43:10.000Z"
+        "lastSeen": "2024-07-17T06:17:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-tb/branches/v1.0.1/package.tgz",
@@ -27792,13 +27804,13 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "master",
-        "lastSeen": "2024-07-17T05:37:29.000Z"
+        "lastSeen": "2024-07-17T06:16:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/v0.4.4/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "v0.4.4",
-        "lastSeen": "2024-07-17T05:35:57.000Z"
+        "lastSeen": "2024-07-17T06:16:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
