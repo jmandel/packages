@@ -6294,7 +6294,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "master",
-        "lastSeen": "2024-04-19T03:25:17.000Z"
+        "lastSeen": "2024-07-18T23:02:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/v3.0.0-release-source/package.tgz",
@@ -7890,7 +7890,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-07-18T06:31:20.000Z"
+        "lastSeen": "2024-07-18T22:30:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -8082,7 +8082,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-07-17T06:03:32.000Z"
+        "lastSeen": "2024-07-19T00:38:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -8730,7 +8730,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_termQAfix/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_termQAfix",
-        "lastSeen": "2024-07-18T21:28:13.000Z"
+        "lastSeen": "2024-07-19T01:47:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -8808,7 +8808,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2024-07-18T05:47:13.000Z"
+        "lastSeen": "2024-07-19T01:48:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -8898,7 +8898,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_termQAfix/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_termQAfix",
-        "lastSeen": "2024-07-18T21:27:19.000Z"
+        "lastSeen": "2024-07-19T01:26:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -13518,7 +13518,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-bb",
         "branch": "master",
-        "lastSeen": "2024-07-11T05:35:38.000Z"
+        "lastSeen": "2024-07-19T00:26:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/non-financial/package.tgz",
@@ -14220,7 +14220,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/rhofstede-fixes/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "rhofstede-fixes",
-        "lastSeen": "2024-07-17T15:50:54.000Z"
+        "lastSeen": "2024-07-18T22:36:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz"
@@ -16986,19 +16986,25 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "master",
-        "lastSeen": "2024-06-24T01:39:18.000Z"
+        "lastSeen": "2024-07-18T22:54:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "trial",
-        "lastSeen": "2024-07-18T13:13:04.000Z"
+        "lastSeen": "2024-07-18T23:16:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/batch-analysis-testing/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "batch-analysis-testing",
         "lastSeen": "2024-07-12T14:48:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/amount-ratio/package.tgz",
+        "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
+        "branch": "amount-ratio",
+        "lastSeen": "2024-07-18T22:43:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc/branches/master/package.tgz"
@@ -28014,13 +28020,13 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "master",
-        "lastSeen": "2024-07-18T07:33:29.000Z"
+        "lastSeen": "2024-07-19T00:13:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/v0.4.4/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "v0.4.4",
-        "lastSeen": "2024-07-18T07:41:17.000Z"
+        "lastSeen": "2024-07-19T00:11:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
