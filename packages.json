@@ -8059,6 +8059,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-timezone-ext",
         "lastSeen": "2024-07-11T10:25:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/rsg-src-doc-jurisdiction/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "rsg-src-doc-jurisdiction",
+        "lastSeen": "2024-07-19T06:04:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -8820,7 +8826,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2024-07-19T01:48:49.000Z"
+        "lastSeen": "2024-07-19T06:32:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
