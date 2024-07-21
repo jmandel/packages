@@ -1304,6 +1304,14 @@
     }
   },
   {
+    "name": "fhirtesting",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/fhirtesting/branches/main/package.tgz",
+      "repo": "https://github.com/costateixeira/fhirtesting",
+      "branch": "main"
+    }
+  },
+  {
     "name": "fish",
     "current": {
       "url": "https://build.fhir.org/ig/schanceee/test-example/branches/master/package.tgz",
