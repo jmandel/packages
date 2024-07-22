@@ -3224,6 +3224,14 @@
     }
   },
   {
+    "name": "hl7.fhir.uv.application-feature",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/capstmt",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.fhir.uv.bulkdata",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz",
