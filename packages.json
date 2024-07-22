@@ -5976,7 +5976,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/HIV-FHIR-IG/branches/kraig-hiv-pagecontent/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/HIV-FHIR-IG",
         "branch": "kraig-hiv-pagecontent",
-        "lastSeen": "2024-07-22T12:22:56.000Z"
+        "lastSeen": "2024-07-22T13:05:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/HIV-FHIR-IG/branches/codeSystem/package.tgz"
@@ -9348,7 +9348,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "master",
-        "lastSeen": "2024-07-22T12:21:00.000Z"
+        "lastSeen": "2024-07-22T13:19:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-57/package.tgz",
@@ -9546,13 +9546,19 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-120/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-120",
-        "lastSeen": "2024-07-22T12:06:44.000Z"
+        "lastSeen": "2024-07-22T12:49:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/revert-83-revert-44-issue-35/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "revert-83-revert-44-issue-35",
         "lastSeen": "2024-07-22T12:17:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-130/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "issue-130",
+        "lastSeen": "2024-07-22T13:18:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -9636,7 +9642,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-67/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "issue-67",
-        "lastSeen": "2024-07-22T12:11:54.000Z"
+        "lastSeen": "2024-07-22T12:51:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-65/package.tgz",
@@ -12708,7 +12714,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-07-22T09:55:09.000Z"
+        "lastSeen": "2024-07-22T13:36:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -15132,7 +15138,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2024-07-16T21:02:35.000Z"
+        "lastSeen": "2024-07-22T13:39:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -22645,6 +22651,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "add-glossary",
         "lastSeen": "2024-07-16T13:43:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/arjun-patch-1/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "arjun-patch-1",
+        "lastSeen": "2024-07-22T13:24:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
