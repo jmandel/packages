@@ -4680,13 +4680,13 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "master",
-        "lastSeen": "2024-07-22T10:21:10.000Z"
+        "lastSeen": "2024-07-24T21:09:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/intake-b-form/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "intake-b-form",
-        "lastSeen": "2024-07-24T11:27:18.000Z"
+        "lastSeen": "2024-07-24T21:12:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz"
@@ -8226,7 +8226,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-07-24T03:45:09.000Z"
+        "lastSeen": "2024-07-24T20:44:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -9216,7 +9216,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/scaffold/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "scaffold",
-        "lastSeen": "2024-05-22T12:23:27.000Z"
+        "lastSeen": "2024-07-24T21:28:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/relationship/package.tgz",
@@ -13813,6 +13813,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "misc-clean-up",
         "lastSeen": "2024-07-24T19:22:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/cleanup/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "cleanup",
+        "lastSeen": "2024-07-24T20:41:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -15336,7 +15342,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2024-07-24T20:20:23.000Z"
+        "lastSeen": "2024-07-24T21:35:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -16104,7 +16110,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-07-24T20:16:48.000Z"
+        "lastSeen": "2024-07-24T21:29:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -16356,7 +16362,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-07-24T20:13:20.000Z"
+        "lastSeen": "2024-07-24T20:51:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
@@ -17850,7 +17856,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-07-24T14:17:35.000Z"
+        "lastSeen": "2024-07-24T20:59:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -18444,7 +18450,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/mustSupport/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "mustSupport",
-        "lastSeen": "2024-07-24T19:07:26.000Z"
+        "lastSeen": "2024-07-24T21:11:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/cleanup2/package.tgz",
@@ -18468,7 +18474,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2024-07-24T12:54:29.000Z"
+        "lastSeen": "2024-07-24T21:00:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
