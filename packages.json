@@ -8143,6 +8143,30 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_relationshipsrefresh",
         "lastSeen": "2024-07-23T21:32:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/0.1.0/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "0.1.0",
+        "lastSeen": "2024-07-24T00:25:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/0.1.2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "0.1.2",
+        "lastSeen": "2024-07-24T00:49:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/0.1.3/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "0.1.3",
+        "lastSeen": "2024-07-24T00:52:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/0.1.1/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "0.1.1",
+        "lastSeen": "2024-07-24T00:34:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -13026,7 +13050,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2024-07-23T15:34:29.000Z"
+        "lastSeen": "2024-07-23T23:41:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -16464,7 +16488,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-07-17T18:18:47.000Z"
+        "lastSeen": "2024-07-24T00:23:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -16903,6 +16927,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-stu2-narrative-updates",
         "lastSeen": "2024-07-17T13:03:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/capstmt-patientmatch-tablefix/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "capstmt-patientmatch-tablefix",
+        "lastSeen": "2024-07-24T00:23:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -19512,7 +19542,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "main",
-        "lastSeen": "2024-07-21T12:50:47.000Z"
+        "lastSeen": "2024-07-24T00:29:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/narrative-updates/package.tgz",
@@ -21636,7 +21666,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-lab-rep-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/uv-lab-rep-ig",
         "branch": "main",
-        "lastSeen": "2024-07-22T15:04:03.000Z"
+        "lastSeen": "2024-07-24T00:48:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-lab-rep-ig/branches/main/package.tgz"
