@@ -13116,7 +13116,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2024-07-24T14:43:43.000Z"
+        "lastSeen": "2024-07-24T18:51:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -13806,7 +13806,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/mustSUpport/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "mustSUpport",
-        "lastSeen": "2024-07-24T18:00:07.000Z"
+        "lastSeen": "2024-07-24T18:50:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/misc-clean-up/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "misc-clean-up",
+        "lastSeen": "2024-07-24T19:22:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -16182,7 +16188,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-medication-rems-ig",
         "branch": "main",
-        "lastSeen": "2024-07-10T19:14:00.000Z"
+        "lastSeen": "2024-07-24T18:51:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/task-definition/package.tgz",
@@ -18433,6 +18439,18 @@
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "differentials",
         "lastSeen": "2024-07-24T13:23:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/mustSupport/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "mustSupport",
+        "lastSeen": "2024-07-24T19:07:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/cleanup2/package.tgz",
+        "repo": "https://github.com/HL7/vr-common-library",
+        "branch": "cleanup2",
+        "lastSeen": "2024-07-24T19:20:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -21720,7 +21738,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-07-24T15:20:00.000Z"
+        "lastSeen": "2024-07-24T19:10:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
