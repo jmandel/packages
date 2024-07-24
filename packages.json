@@ -10963,6 +10963,12 @@
         "repo": "https://github.com/hl7-be/referral",
         "branch": "issue-348",
         "lastSeen": "2024-07-24T12:15:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-352/package.tgz",
+        "repo": "https://github.com/hl7-be/referral",
+        "branch": "issue-352",
+        "lastSeen": "2024-07-24T14:41:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -12631,6 +12637,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-ipp-info",
         "lastSeen": "2024-07-22T08:44:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/2.1.0-ballot/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "2.1.0-ballot",
+        "lastSeen": "2024-07-24T14:32:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -13098,7 +13110,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2024-07-23T23:41:49.000Z"
+        "lastSeen": "2024-07-24T13:49:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -13722,7 +13734,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/QRPH/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "QRPH",
-        "lastSeen": "2024-07-23T21:45:36.000Z"
+        "lastSeen": "2024-07-24T13:45:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fetalCOD/package.tgz",
@@ -14868,7 +14880,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2024-07-24T12:31:29.000Z"
+        "lastSeen": "2024-07-24T13:52:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -14892,7 +14904,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post-publish_stu2/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "post-publish_stu2",
-        "lastSeen": "2024-07-24T12:31:51.000Z"
+        "lastSeen": "2024-07-24T13:50:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/dev/package.tgz",
@@ -17610,7 +17622,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2024-07-24T12:59:13.000Z"
+        "lastSeen": "2024-07-24T14:38:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -17700,7 +17712,7 @@
         "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/smp-ig",
         "branch": "master",
-        "lastSeen": "2024-07-23T20:56:21.000Z"
+        "lastSeen": "2024-07-24T14:26:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz"
@@ -17820,7 +17832,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-07-23T17:50:02.000Z"
+        "lastSeen": "2024-07-24T14:17:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -19980,7 +19992,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2024-07-24T13:24:21.000Z"
+        "lastSeen": "2024-07-24T13:54:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz"
@@ -21661,6 +21673,24 @@
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "pub-update-STU1",
         "lastSeen": "2024-07-18T16:41:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/update-obs-screenshot/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ipa",
+        "branch": "update-obs-screenshot",
+        "lastSeen": "2024-07-24T14:00:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/update-contributors/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ipa",
+        "branch": "update-contributors",
+        "lastSeen": "2024-07-24T13:52:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/preSTUUpdateReview/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ipa",
+        "branch": "preSTUUpdateReview",
+        "lastSeen": "2024-07-24T13:56:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz"
@@ -26028,7 +26058,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testDicom/branches/master/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testDicom",
         "branch": "master",
-        "lastSeen": "2024-07-24T13:29:40.000Z"
+        "lastSeen": "2024-07-24T14:12:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testDicom/branches/master/package.tgz"
