@@ -7680,7 +7680,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2024-07-18T20:58:25.000Z"
+        "lastSeen": "2024-07-26T19:43:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/puml-subdir/package.tgz",
@@ -11280,7 +11280,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/clcore_ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/clcore_ig",
         "branch": "master",
-        "lastSeen": "2024-07-26T13:27:37.000Z"
+        "lastSeen": "2024-07-26T20:02:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/clcore_ig/branches/main/package.tgz",
@@ -11460,7 +11460,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-07-25T20:19:51.000Z"
+        "lastSeen": "2024-07-26T20:02:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
@@ -13212,7 +13212,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "master",
-        "lastSeen": "2024-07-25T17:47:59.000Z"
+        "lastSeen": "2024-07-26T19:49:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/1.1.0/package.tgz",
@@ -13926,7 +13926,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/autopsy/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "autopsy",
-        "lastSeen": "2024-07-25T22:58:58.000Z"
+        "lastSeen": "2024-07-26T19:40:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -15258,7 +15258,7 @@
         "url": "https://build.fhir.org/ig/sguinezm/sic-ac-ecmo-ig/branches/main/package.tgz",
         "repo": "https://github.com/sguinezm/sic-ac-ecmo-ig",
         "branch": "main",
-        "lastSeen": "2024-07-26T19:27:55.000Z"
+        "lastSeen": "2024-07-26T20:31:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sguinezm/sic-ac-ecmo-ig/branches/main/package.tgz"
@@ -15540,7 +15540,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/IG-Broken-Image-Links/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "IG-Broken-Image-Links",
-        "lastSeen": "2024-07-26T17:19:23.000Z"
+        "lastSeen": "2024-07-26T20:40:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
@@ -20184,7 +20184,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2024-07-26T18:52:07.000Z"
+        "lastSeen": "2024-07-26T20:33:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz"
@@ -29227,6 +29227,18 @@
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "snapshot-readme",
         "lastSeen": "2024-07-26T17:59:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+        "branch": "v2.0.0",
+        "lastSeen": "2024-07-26T20:09:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0-preview1/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+        "branch": "v2.0.0-preview1",
+        "lastSeen": "2024-07-26T20:11:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
