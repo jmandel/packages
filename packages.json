@@ -7458,7 +7458,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "ig-template-update",
-        "lastSeen": "2024-07-26T04:28:03.000Z"
+        "lastSeen": "2024-07-29T14:33:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz"
@@ -16548,7 +16548,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-07-29T13:23:28.000Z"
+        "lastSeen": "2024-07-29T14:37:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
@@ -20238,7 +20238,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2024-07-26T20:59:39.000Z"
+        "lastSeen": "2024-07-29T14:29:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz"
@@ -20460,7 +20460,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2024-07-29T13:06:15.000Z"
+        "lastSeen": "2024-07-29T13:40:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -22003,6 +22003,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "alerts-section",
         "lastSeen": "2024-07-10T06:20:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/2024-narrative-updates/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "2024-narrative-updates",
+        "lastSeen": "2024-07-29T13:54:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
@@ -28122,7 +28128,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-example-immz/branches/br-l2-source/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-example-immz",
         "branch": "br-l2-source",
-        "lastSeen": "2024-07-29T03:37:26.000Z"
+        "lastSeen": "2024-07-29T14:07:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-example-immz/branches/br-l2-source/package.tgz"
