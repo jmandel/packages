@@ -15072,7 +15072,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2024-07-29T13:00:41.000Z"
+        "lastSeen": "2024-07-29T18:22:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -16560,7 +16560,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-07-29T17:10:48.000Z"
+        "lastSeen": "2024-07-29T18:00:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
@@ -19824,7 +19824,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cdisc-mapping/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cdisc-mapping",
         "branch": "main",
-        "lastSeen": "2024-07-29T17:40:32.000Z"
+        "lastSeen": "2024-07-29T18:32:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cdisc-mapping/branches/main/package.tgz"
@@ -20250,7 +20250,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2024-07-29T16:19:04.000Z"
+        "lastSeen": "2024-07-29T18:28:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/dicom-sr/branches/master/package.tgz"
@@ -21972,7 +21972,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-07-26T04:05:02.000Z"
+        "lastSeen": "2024-07-29T18:19:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -22020,7 +22020,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/2024-narrative-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "2024-narrative-updates",
-        "lastSeen": "2024-07-29T17:26:39.000Z"
+        "lastSeen": "2024-07-29T17:50:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
@@ -22800,7 +22800,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/main/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "main",
-        "lastSeen": "2024-07-29T02:54:47.000Z"
+        "lastSeen": "2024-07-29T18:24:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/transferred-content/package.tgz",
@@ -22812,7 +22812,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/frank/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "frank",
-        "lastSeen": "2024-07-29T02:53:38.000Z"
+        "lastSeen": "2024-07-29T18:24:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/manifest-file-tweak/package.tgz",
@@ -26305,6 +26305,18 @@
         "repo": "https://github.com/JohnMoehrke/testBinary",
         "branch": "main",
         "lastSeen": "2023-12-13T20:58:57.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
+  },
+  "johnmoehrke.testbinary.example": {
+    "name": "johnmoehrke.testbinary.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/testBinary",
+        "branch": "main",
+        "lastSeen": "2024-07-29T17:58:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
