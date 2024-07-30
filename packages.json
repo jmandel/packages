@@ -4194,7 +4194,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2024-07-29T12:45:18.000Z"
+        "lastSeen": "2024-07-30T07:44:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -4326,7 +4326,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-14979_CCR0211_documetation_update/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-14979_CCR0211_documetation_update",
-        "lastSeen": "2024-07-29T17:34:11.000Z"
+        "lastSeen": "2024-07-30T07:37:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -9343,6 +9343,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_capabilitystatement-server",
         "lastSeen": "2024-07-30T05:48:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_capabilitystatement-placer/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_capabilitystatement-placer",
+        "lastSeen": "2024-07-30T07:42:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -12823,6 +12829,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-commune",
         "lastSeen": "2024-07-25T15:14:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-rm-measures/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-rm-measures",
+        "lastSeen": "2024-07-30T08:22:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -29472,7 +29484,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/ddcc/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/ddcc",
         "branch": "main",
-        "lastSeen": "2024-04-24T00:13:28.000Z"
+        "lastSeen": "2024-07-30T07:56:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/ddcc/branches/main/package.tgz"
