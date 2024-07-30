@@ -14029,6 +14029,12 @@
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "autopsy",
         "lastSeen": "2024-07-26T19:40:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/ddcleanup/package.tgz",
+        "repo": "https://github.com/HL7/fhir-bfdr",
+        "branch": "ddcleanup",
+        "lastSeen": "2024-07-30T17:35:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -16620,7 +16626,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2024-07-29T19:30:34.000Z"
+        "lastSeen": "2024-07-30T18:31:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
@@ -19075,6 +19081,12 @@
         "repo": "https://github.com/HL7/vrdr",
         "branch": "v3.0.0-preview1",
         "lastSeen": "2024-07-29T19:50:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/ddupdates/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "ddupdates",
+        "lastSeen": "2024-07-30T17:34:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -19914,7 +19926,7 @@
         "url": "https://build.fhir.org/ig/HL7/cgm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cgm",
         "branch": "main",
-        "lastSeen": "2024-07-22T18:03:56.000Z"
+        "lastSeen": "2024-07-30T18:19:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cgm/branches/add-429-guidance/package.tgz",
@@ -20962,6 +20974,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-eyecare-ig/branches/master/package.tgz"
+  },
+  "hl7.fhir.uv.fhir-clinical-document": {
+    "name": "hl7.fhir.uv.fhir-clinical-document",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/fhir-clinical-document",
+        "branch": "main",
+        "lastSeen": "2024-07-30T18:11:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz"
   },
   "hl7.fhir.uv.fhir-for-fair": {
     "name": "hl7.fhir.uv.fhir-for-fair",
@@ -22050,7 +22074,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-07-30T14:59:07.000Z"
+        "lastSeen": "2024-07-30T18:18:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
