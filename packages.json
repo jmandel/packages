@@ -8322,7 +8322,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-07-30T20:58:58.000Z"
+        "lastSeen": "2024-07-31T10:15:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -8976,7 +8976,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-medinfo/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-medinfo",
-        "lastSeen": "2024-07-31T04:45:05.000Z"
+        "lastSeen": "2024-07-31T10:31:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/0.4/package.tgz",
@@ -9132,7 +9132,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_fhir-46309/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_fhir-46309",
-        "lastSeen": "2024-07-31T04:44:00.000Z"
+        "lastSeen": "2024-07-31T10:30:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/tc_fhir-46486/package.tgz",
@@ -28036,6 +28036,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/openhie/openhie-ig-template/branches/master/package.tgz"
+  },
+  "openhie.fhir.zambia-immunizations": {
+    "name": "openhie.fhir.zambia-immunizations",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/jembi/Zambia-Immunizations/branches/master/package.tgz",
+        "repo": "https://github.com/jembi/Zambia-Immunizations",
+        "branch": "master",
+        "lastSeen": "2024-07-31T10:11:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/Zambia-Immunizations/branches/WB-review/package.tgz",
+        "repo": "https://github.com/jembi/Zambia-Immunizations",
+        "branch": "WB-review",
+        "lastSeen": "2024-07-31T10:10:47.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/jembi/Zambia-Immunizations/branches/master/package.tgz"
   },
   "openmrs.fhir.core": {
     "name": "openmrs.fhir.core",
