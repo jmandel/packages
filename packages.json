@@ -6450,13 +6450,19 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "master",
-        "lastSeen": "2024-08-01T06:45:49.000Z"
+        "lastSeen": "2024-08-01T23:11:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/v3.0.0-release-source/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "v3.0.0-release-source",
         "lastSeen": "2024-06-24T02:34:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/nzhts-terminology/package.tgz",
+        "repo": "https://github.com/HL7NZ/nzbase",
+        "branch": "nzhts-terminology",
+        "lastSeen": "2024-08-01T23:19:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz"
@@ -8316,7 +8322,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_sexgenderguidance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_sexgenderguidance",
-        "lastSeen": "2024-08-01T22:25:40.000Z"
+        "lastSeen": "2024-08-01T23:22:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -15480,7 +15486,7 @@
         "url": "https://build.fhir.org/ig/sguinezm/sic-ac-ecmo-ig/branches/main/package.tgz",
         "repo": "https://github.com/sguinezm/sic-ac-ecmo-ig",
         "branch": "main",
-        "lastSeen": "2024-08-01T15:49:31.000Z"
+        "lastSeen": "2024-08-01T23:16:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sguinezm/sic-ac-ecmo-ig/branches/main/package.tgz"
