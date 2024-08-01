@@ -9000,7 +9000,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-medinfo/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-medinfo",
-        "lastSeen": "2024-07-31T12:33:20.000Z"
+        "lastSeen": "2024-08-01T02:04:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/0.4/package.tgz",
@@ -15450,7 +15450,7 @@
         "url": "https://build.fhir.org/ig/sguinezm/sic-ac-ecmo-ig/branches/main/package.tgz",
         "repo": "https://github.com/sguinezm/sic-ac-ecmo-ig",
         "branch": "main",
-        "lastSeen": "2024-07-26T21:58:25.000Z"
+        "lastSeen": "2024-08-01T02:40:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sguinezm/sic-ac-ecmo-ig/branches/main/package.tgz"
@@ -28878,7 +28878,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-nzps",
         "branch": "main",
-        "lastSeen": "2024-07-24T23:20:04.000Z"
+        "lastSeen": "2024-08-01T02:22:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/IPS-athon2023/package.tgz",
@@ -28897,6 +28897,12 @@
         "repo": "https://github.com/tewhatuora/fhir-nzps",
         "branch": "summaryOperation",
         "lastSeen": "2024-05-22T08:17:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/uat/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-nzps",
+        "branch": "uat",
+        "lastSeen": "2024-08-01T02:24:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz"
