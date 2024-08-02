@@ -8082,7 +8082,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-08-02T00:40:13.000Z"
+        "lastSeen": "2024-08-02T01:45:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -8322,19 +8322,31 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_sexgenderguidance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_sexgenderguidance",
-        "lastSeen": "2024-08-02T00:33:55.000Z"
+        "lastSeen": "2024-08-02T01:34:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-4.2.2/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "test-4.2.2",
-        "lastSeen": "2024-08-02T00:51:46.000Z"
+        "lastSeen": "2024-08-02T01:45:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-4.2.2-1/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "test-4.2.2-1",
         "lastSeen": "2024-08-02T00:44:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-4.2.2-3/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "test-4.2.2-3",
+        "lastSeen": "2024-08-02T01:47:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-4.2.2-2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "test-4.2.2-2",
+        "lastSeen": "2024-08-02T01:24:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -9421,6 +9433,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_exampledesc",
         "lastSeen": "2024-08-01T21:17:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft-usecase/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft-usecase",
+        "lastSeen": "2024-08-02T01:32:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -29161,6 +29179,12 @@
         "repo": "https://github.com/tewhatuora/fhir-screening",
         "branch": "v0.9.2",
         "lastSeen": "2024-06-19T22:55:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/v0.9.3/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-screening",
+        "branch": "v0.9.3",
+        "lastSeen": "2024-08-02T01:43:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-screening/branches/master/package.tgz"
