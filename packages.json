@@ -7530,7 +7530,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-IPS/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-IPS",
         "branch": "main",
-        "lastSeen": "2024-07-25T19:54:44.000Z"
+        "lastSeen": "2024-08-03T12:18:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-IPS/branches/main/package.tgz"
@@ -8118,7 +8118,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-08-03T11:30:45.000Z"
+        "lastSeen": "2024-08-03T11:48:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -8395,6 +8395,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "test-4.2.2-5",
         "lastSeen": "2024-08-02T03:54:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/4.2.2-ballot/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "4.2.2-ballot",
+        "lastSeen": "2024-08-03T12:03:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -15222,7 +15228,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-08-02T18:24:18.000Z"
+        "lastSeen": "2024-08-03T12:28:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
