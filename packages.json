@@ -8436,7 +8436,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-08-05T00:50:15.000Z"
+        "lastSeen": "2024-08-05T01:28:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -9282,13 +9282,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/1.0.0-ballot/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "1.0.0-ballot",
-        "lastSeen": "2024-08-05T00:52:19.000Z"
+        "lastSeen": "2024-08-05T01:47:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-qa/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-qa",
         "lastSeen": "2024-08-05T00:23:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/test-1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "test-1.0.0-ballot",
+        "lastSeen": "2024-08-05T01:37:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -9366,7 +9372,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2024-08-04T22:39:48.000Z"
+        "lastSeen": "2024-08-05T01:42:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -9522,13 +9528,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft-usecase/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-usecase",
-        "lastSeen": "2024-08-04T23:24:19.000Z"
+        "lastSeen": "2024-08-05T01:34:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft-mappings/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-mappings",
-        "lastSeen": "2024-08-04T23:25:02.000Z"
+        "lastSeen": "2024-08-05T01:35:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_profilespecificguidance/package.tgz",
@@ -9564,7 +9570,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_conformance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_conformance",
-        "lastSeen": "2024-08-05T00:18:31.000Z"
+        "lastSeen": "2024-08-05T01:29:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_capabilities/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_capabilities",
+        "lastSeen": "2024-08-05T02:00:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
