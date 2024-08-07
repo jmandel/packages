@@ -28679,6 +28679,18 @@
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
   },
+  "rheumaticfever.ig": {
+    "name": "rheumaticfever.ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/rheumatic-fever/branches/v0.4.6/package.tgz",
+        "repo": "https://github.com/tewhatuora/rheumatic-fever",
+        "branch": "v0.4.6",
+        "lastSeen": "2024-08-07T07:46:10.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/tewhatuora/rheumatic-fever/branches/v0.4.6/package.tgz"
+  },
   "rob.test.fhir.ig.01": {
     "name": "rob.test.fhir.ig.01",
     "locations": [
