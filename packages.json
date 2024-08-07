@@ -4434,7 +4434,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2024-08-07T17:24:24.000Z"
+        "lastSeen": "2024-08-07T18:37:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz"
@@ -4854,7 +4854,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/index-case-testing/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "index-case-testing",
-        "lastSeen": "2024-08-07T17:16:03.000Z"
+        "lastSeen": "2024-08-07T18:28:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz"
@@ -15043,6 +15043,12 @@
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "DICOM-UID",
         "lastSeen": "2024-07-01T13:31:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/fixSCTCode/package.tgz",
+        "repo": "https://github.com/HL7/codex-radiation-therapy",
+        "branch": "fixSCTCode",
+        "lastSeen": "2024-08-07T17:39:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -23904,7 +23910,7 @@
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/termchangeset-ig",
         "branch": "master",
-        "lastSeen": "2024-08-07T16:36:55.000Z"
+        "lastSeen": "2024-08-07T17:48:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/tinkar-ig/branches/master/package.tgz"
