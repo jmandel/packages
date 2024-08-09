@@ -6564,7 +6564,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "master",
-        "lastSeen": "2024-08-08T23:08:13.000Z"
+        "lastSeen": "2024-08-09T02:43:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/v3.0.0-release-source/package.tgz",
@@ -17304,7 +17304,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-08-09T01:42:04.000Z"
+        "lastSeen": "2024-08-09T02:27:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -17785,6 +17785,18 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fix-fhir-40561",
         "lastSeen": "2024-08-09T01:41:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fix-fhir-40380/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "fix-fhir-40380",
+        "lastSeen": "2024-08-09T02:26:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fix-fhir-40374/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "fix-fhir-40374",
+        "lastSeen": "2024-08-09T02:06:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -29736,7 +29748,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/v0.4.8/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "v0.4.8",
-        "lastSeen": "2024-08-09T01:04:25.000Z"
+        "lastSeen": "2024-08-09T02:23:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
