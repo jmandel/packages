@@ -4482,7 +4482,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2024-08-08T11:36:34.000Z"
+        "lastSeen": "2024-08-13T19:19:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz"
@@ -4866,7 +4866,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "master",
-        "lastSeen": "2024-08-08T14:36:18.000Z"
+        "lastSeen": "2024-08-13T18:45:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/intake-b-form/package.tgz",
@@ -4926,7 +4926,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2024-06-14T17:18:09.000Z"
+        "lastSeen": "2024-08-13T18:49:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -18847,6 +18847,12 @@
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "stu1u1_dev3",
         "lastSeen": "2024-07-21T02:16:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/stu2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "stu2",
+        "lastSeen": "2024-08-13T19:02:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz"
