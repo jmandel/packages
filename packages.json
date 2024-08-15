@@ -16122,7 +16122,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2024-08-15T22:18:01.000Z"
+        "lastSeen": "2024-08-15T22:51:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz"
@@ -17604,7 +17604,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-08-09T02:27:10.000Z"
+        "lastSeen": "2024-08-15T23:24:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -18097,6 +18097,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fix-fhir-40374",
         "lastSeen": "2024-08-09T02:06:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fix-FHIR-46609/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "fix-FHIR-46609",
+        "lastSeen": "2024-08-15T23:23:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
