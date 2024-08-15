@@ -1410,7 +1410,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2024-08-15T08:13:36.000Z"
+        "lastSeen": "2024-08-15T16:12:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -5971,6 +5971,12 @@
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "2024-Updates-Debugging",
         "lastSeen": "2024-03-07T21:40:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/patient-patterns/package.tgz",
+        "repo": "https://github.com/cqframework/cqf-us",
+        "branch": "patient-patterns",
+        "lastSeen": "2024-08-15T16:39:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -6048,7 +6054,13 @@
         "url": "https://build.fhir.org/ig/FirelyTeam/enhancing-oncology-model-ig/branches/migrate-to-simplifier/package.tgz",
         "repo": "https://github.com/FirelyTeam/enhancing-oncology-model-ig",
         "branch": "migrate-to-simplifier",
-        "lastSeen": "2024-08-15T15:04:55.000Z"
+        "lastSeen": "2024-08-15T16:06:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FirelyTeam/enhancing-oncology-model-ig/branches/updating-home/package.tgz",
+        "repo": "https://github.com/FirelyTeam/enhancing-oncology-model-ig",
+        "branch": "updating-home",
+        "lastSeen": "2024-08-15T15:55:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/mcode-eom/branches/master/package.tgz"
@@ -7818,7 +7830,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2024-08-15T15:26:53.000Z"
+        "lastSeen": "2024-08-15T16:14:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -12079,6 +12091,18 @@
         "repo": "https://github.com/Minsal-CL/IG_mpi",
         "branch": "v0.2.0",
         "lastSeen": "2024-02-09T11:30:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/IG_mpi/branches/master/package.tgz",
+        "repo": "https://github.com/Minsal-CL/IG_mpi",
+        "branch": "master",
+        "lastSeen": "2024-08-15T15:45:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/IG_mpi/branches/main/package.tgz",
+        "repo": "https://github.com/Minsal-CL/IG_mpi",
+        "branch": "main",
+        "lastSeen": "2024-08-15T15:48:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/mpi/branches/main/package.tgz"
@@ -14706,7 +14730,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-behavioral-health-profiles/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-behavioral-health-profiles",
         "branch": "main",
-        "lastSeen": "2024-08-15T14:22:24.000Z"
+        "lastSeen": "2024-08-15T15:49:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-behavioral-health-profiles/branches/main/package.tgz"
@@ -15540,7 +15564,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2024-08-14T21:48:15.000Z"
+        "lastSeen": "2024-08-15T15:37:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -21192,7 +21216,7 @@
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/Directory-finegrain/package.tgz",
         "repo": "https://github.com/HL7/data-access-policies",
         "branch": "Directory-finegrain",
-        "lastSeen": "2024-08-12T17:06:11.000Z"
+        "lastSeen": "2024-08-15T16:30:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/data-access-policies/branches/master/package.tgz"
