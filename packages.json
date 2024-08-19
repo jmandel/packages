@@ -5352,7 +5352,7 @@
         "url": "https://build.fhir.org/ig/Carequality/ig-template-carequality/branches/master/package.tgz",
         "repo": "https://github.com/Carequality/ig-template-carequality",
         "branch": "master",
-        "lastSeen": "2024-06-25T13:49:23.000Z"
+        "lastSeen": "2024-08-19T15:49:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Carequality/ig-template-carequality/branches/master/package.tgz"
@@ -15612,7 +15612,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2024-08-17T18:14:19.000Z"
+        "lastSeen": "2024-08-19T15:47:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -17280,7 +17280,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-medication-rems-ig",
         "branch": "main",
-        "lastSeen": "2024-08-07T14:40:12.000Z"
+        "lastSeen": "2024-08-19T16:13:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/task-definition/package.tgz",
@@ -17658,7 +17658,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-08-15T23:24:37.000Z"
+        "lastSeen": "2024-08-19T16:35:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -18156,7 +18156,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/fix-FHIR-46609/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "fix-FHIR-46609",
-        "lastSeen": "2024-08-15T23:23:22.000Z"
+        "lastSeen": "2024-08-19T16:35:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -23803,6 +23803,12 @@
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "fsh-3.0-resolutions-cmm-5",
         "lastSeen": "2024-03-20T20:51:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/3.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-shorthand",
+        "branch": "3.0.0",
+        "lastSeen": "2024-08-19T16:40:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
