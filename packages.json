@@ -13273,6 +13273,12 @@
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "apppointment-status-mapping",
         "lastSeen": "2024-08-18T11:11:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/service-event-extension/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-scheduling",
+        "branch": "service-event-extension",
+        "lastSeen": "2024-08-19T08:38:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/main/package.tgz"
@@ -13483,6 +13489,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nriss-add-frpr-link",
         "lastSeen": "2024-08-01T13:15:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-practitioner-qualification/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-practitioner-qualification",
+        "lastSeen": "2024-08-19T07:49:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
