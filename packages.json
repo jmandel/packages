@@ -1746,7 +1746,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2024-08-14T10:45:45.000Z"
+        "lastSeen": "2024-08-21T12:50:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -19117,6 +19117,12 @@
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "stu2",
         "lastSeen": "2024-08-13T22:39:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/1.1.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "1.1.0",
+        "lastSeen": "2024-08-21T13:29:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz"
@@ -28446,7 +28452,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/Review2024/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "Review2024",
-        "lastSeen": "2024-08-21T12:32:51.000Z"
+        "lastSeen": "2024-08-21T13:13:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/GitHubPagesReview2024/package.tgz",
