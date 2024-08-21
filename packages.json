@@ -1915,6 +1915,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue272_medicationRequestNorvasc",
         "lastSeen": "2024-08-20T14:18:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/issue285_slicing/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "issue285_slicing",
+        "lastSeen": "2024-08-21T06:17:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -2406,7 +2412,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "master",
-        "lastSeen": "2024-08-20T19:05:45.000Z"
+        "lastSeen": "2024-08-21T06:21:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/ch-emed-validatation/package.tgz",
@@ -2485,6 +2491,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "1.2.0",
         "lastSeen": "2024-08-20T21:56:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/1.2.1/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "1.2.1",
+        "lastSeen": "2024-08-21T06:27:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -6564,7 +6576,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2024-08-20T13:09:48.000Z"
+        "lastSeen": "2024-08-21T06:38:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/createBeneficiaryModels/package.tgz",
