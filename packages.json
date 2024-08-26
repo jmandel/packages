@@ -6636,7 +6636,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2024-08-21T06:38:19.000Z"
+        "lastSeen": "2024-08-26T07:14:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/createBeneficiaryModels/package.tgz",
@@ -6667,6 +6667,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
         "branch": "igBuildErrorFixes",
         "lastSeen": "2024-08-20T13:01:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/encounterProfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
+        "branch": "encounterProfile",
+        "lastSeen": "2024-08-26T07:10:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/addingProfiles/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/MamaToTo-FHIR-IG",
+        "branch": "addingProfiles",
+        "lastSeen": "2024-08-26T07:14:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/MamaToTo-FHIR-IG/branches/main/package.tgz"
@@ -21990,7 +22002,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/PatientAdmin-BP-batch1/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "PatientAdmin-BP-batch1",
-        "lastSeen": "2024-02-29T23:49:40.000Z"
+        "lastSeen": "2024-08-26T07:26:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/2024-03-gg-version-specific/package.tgz",
