@@ -88,14 +88,6 @@
     }
   },
   {
-    "name": "fhir.asu.consent-validation",
-    "current": {
-      "url": "https://build.fhir.org/ig/swantrace/ASU-research-consent-on-FHIR/branches/main/package.tgz",
-      "repo": "https://github.com/swantrace/ASU-research-consent-on-FHIR",
-      "branch": "main"
-    }
-  },
-  {
     "name": "fhir.chanjoKe",
     "current": {
       "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-FHIR-IG/branches/main/package.tgz",
