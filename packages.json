@@ -4722,7 +4722,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2024-05-28T18:06:50.000Z"
+        "lastSeen": "2024-09-04T15:03:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -12102,7 +12102,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "releasecandidate",
-        "lastSeen": "2024-09-04T14:17:32.000Z"
+        "lastSeen": "2024-09-04T15:23:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/cleanup-examples/package.tgz",
@@ -12241,6 +12241,12 @@
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "issue-141",
         "lastSeen": "2024-08-30T13:09:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/v1.1.0/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "v1.1.0",
+        "lastSeen": "2024-09-04T15:24:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -13939,6 +13945,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-publish-2.1.0",
         "lastSeen": "2024-09-03T15:34:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/2.1.0/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "2.1.0",
+        "lastSeen": "2024-09-04T15:32:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -15456,7 +15468,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-central-cancer-registry-reporting-ig",
         "branch": "master",
-        "lastSeen": "2024-05-31T12:14:53.000Z"
+        "lastSeen": "2024-09-04T14:55:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/1.0.0/package.tgz",
@@ -23671,6 +23683,12 @@
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "create-changelog",
         "lastSeen": "2024-08-29T19:26:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/incorporate-obs-into-MS-better/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ipa",
+        "branch": "incorporate-obs-into-MS-better",
+        "lastSeen": "2024-09-04T15:32:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz"
@@ -23970,7 +23988,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/ACOM-GHS-support/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "ACOM-GHS-support",
-        "lastSeen": "2024-08-28T13:44:50.000Z"
+        "lastSeen": "2024-09-04T15:19:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/es-prepub-qa/package.tgz",
@@ -30522,7 +30540,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "main",
-        "lastSeen": "2024-09-04T14:27:57.000Z"
+        "lastSeen": "2024-09-04T14:59:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/main/package.tgz",
