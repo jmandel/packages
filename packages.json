@@ -6222,7 +6222,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/patient-patterns/package.tgz",
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "patient-patterns",
-        "lastSeen": "2024-09-05T20:31:34.000Z"
+        "lastSeen": "2024-09-05T20:45:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -6396,7 +6396,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "main",
-        "lastSeen": "2024-07-03T17:00:08.000Z"
+        "lastSeen": "2024-09-05T21:06:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
@@ -16080,7 +16080,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/dd-46063-new-value-set/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "dd-46063-new-value-set",
-        "lastSeen": "2024-09-04T15:59:23.000Z"
+        "lastSeen": "2024-09-05T21:09:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz"
@@ -20304,7 +20304,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/fixFMGIssues/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "fixFMGIssues",
-        "lastSeen": "2024-09-04T22:38:54.000Z"
+        "lastSeen": "2024-09-05T20:47:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz"
@@ -20689,6 +20689,12 @@
         "repo": "https://github.com/HL7/vrdr",
         "branch": "fixNewNIOSHCodes",
         "lastSeen": "2024-08-28T20:31:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixfmgissues/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "fixfmgissues",
+        "lastSeen": "2024-09-05T21:05:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
