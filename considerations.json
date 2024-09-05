@@ -440,6 +440,14 @@
     }
   },
   {
+    "name": "kl.dk.fhir.children",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-children/branches/2.0.1/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-children",
+      "branch": "2.0.1"
+    }
+  },
+  {
     "name": "kl.dk.fhir.gateway",
     "current": {
       "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.2.0/package.tgz",
