@@ -6247,6 +6247,12 @@
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "dm-20240909-correct-patient-context",
         "lastSeen": "2024-09-09T16:09:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/29-test-cql-evaluation-and-questionnaireresponse-pre-population-for-the-questionnaires-and-libraries-in-cqf-us/package.tgz",
+        "repo": "https://github.com/cqframework/cqf-us",
+        "branch": "29-test-cql-evaluation-and-questionnaireresponse-pre-population-for-the-questionnaires-and-libraries-in-cqf-us",
+        "lastSeen": "2024-09-09T17:35:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -15384,7 +15390,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fixfmgissues/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "fixfmgissues",
-        "lastSeen": "2024-09-09T15:25:28.000Z"
+        "lastSeen": "2024-09-09T16:33:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -16465,6 +16471,12 @@
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "2.0.1",
         "lastSeen": "2024-01-11T19:50:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/STU-Update-2.1.0-snapshot/package.tgz",
+        "repo": "https://github.com/HL7/davinci-dtr",
+        "branch": "STU-Update-2.1.0-snapshot",
+        "lastSeen": "2024-09-09T17:04:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz"
@@ -31654,6 +31666,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/department-of-veterans-affairs/mhv-fhir-phr-mapping/branches/main/package.tgz"
+  },
+  "vcds-ig.euvabeco.net": {
+    "name": "vcds-ig.euvabeco.net",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz",
+        "repo": "https://github.com/EUVABECO/VCDS",
+        "branch": "main",
+        "lastSeen": "2024-09-09T17:33:42.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz"
   },
   "vital-records-fhir-messaging": {
     "name": "vital-records-fhir-messaging",
