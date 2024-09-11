@@ -16,14 +16,6 @@
     }
   },
   {
-    "name": "au.digitalhealth.r4",
-    "current": {
-      "url": "https://build.fhir.org/ig/davidmckillop/test-fhir-ig/branches/main/package.tgz",
-      "repo": "https://github.com/davidmckillop/test-fhir-ig",
-      "branch": "main"
-    }
-  },
-  {
     "name": "au.digitalhealth.r4.mhr-fhir-gw",
     "current": {
       "url": "https://build.fhir.org/ig/AuDigitalHealth/mcv/branches/main/package.tgz",
