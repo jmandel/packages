@@ -475,6 +475,12 @@
         "repo": "https://github.com/davidmckillop/test-fhir-ig",
         "branch": "main",
         "lastSeen": "2024-08-18T23:50:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/mcv/branches/mhrf/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/mcv",
+        "branch": "mhrf",
+        "lastSeen": "2024-09-11T06:57:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/master/package.tgz"
@@ -486,7 +492,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/mcv/branches/mcv-patient/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/mcv",
         "branch": "mcv-patient",
-        "lastSeen": "2024-08-02T06:04:28.000Z"
+        "lastSeen": "2024-09-11T07:05:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/mcv/branches/main/package.tgz",
@@ -2070,7 +2076,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2024-09-11T06:36:20.000Z"
+        "lastSeen": "2024-09-11T06:47:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -2130,7 +2136,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/158-mcsd-additional-transaction-for-feed/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "158-mcsd-additional-transaction-for-feed",
-        "lastSeen": "2024-08-30T14:46:34.000Z"
+        "lastSeen": "2024-09-11T06:45:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/200-mcsd-the-community-needs-to-be-an-organization/package.tgz",
@@ -2142,13 +2148,13 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_191_personalrelationship/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_191_personalrelationship",
-        "lastSeen": "2024-08-22T09:56:51.000Z"
+        "lastSeen": "2024-09-11T06:47:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_docref_masteridentifier/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_docref_masteridentifier",
-        "lastSeen": "2024-08-22T14:34:58.000Z"
+        "lastSeen": "2024-09-11T07:30:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -26784,7 +26790,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2024-09-11T05:57:12.000Z"
+        "lastSeen": "2024-09-11T07:30:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -31764,7 +31770,7 @@
         "url": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz",
         "repo": "https://github.com/EUVABECO/VCDS",
         "branch": "main",
-        "lastSeen": "2024-09-10T07:54:49.000Z"
+        "lastSeen": "2024-09-11T07:24:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz"
