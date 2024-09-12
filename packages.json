@@ -7242,7 +7242,7 @@
         "url": "https://build.fhir.org/ig/SanteonNL/shared-care-planning/branches/zorginzage-transactions/package.tgz",
         "repo": "https://github.com/SanteonNL/shared-care-planning",
         "branch": "zorginzage-transactions",
-        "lastSeen": "2024-09-12T09:46:36.000Z"
+        "lastSeen": "2024-09-12T16:02:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/santeonnl/shared-care-planning/branches/main/package.tgz"
@@ -15516,7 +15516,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/fixDataDict/package.tgz",
         "repo": "https://github.com/HL7/fhir-bfdr",
         "branch": "fixDataDict",
-        "lastSeen": "2024-09-11T21:40:51.000Z"
+        "lastSeen": "2024-09-12T16:14:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-bfdr/branches/master/package.tgz"
@@ -20970,7 +20970,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixState/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "fixState",
-        "lastSeen": "2024-09-11T21:30:02.000Z"
+        "lastSeen": "2024-09-12T16:23:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -23574,7 +23574,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2024-09-11T22:31:04.000Z"
+        "lastSeen": "2024-09-12T16:33:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -26743,6 +26743,30 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-599-Add-codes-to-CodeSystem-goal-category",
         "lastSeen": "2024-08-29T19:17:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject",
+        "lastSeen": "2024-09-12T15:39:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject",
+        "lastSeen": "2024-09-12T15:37:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-596-Remove-CMS-notes-from-POA-Indicator-Definitions/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-596-Remove-CMS-notes-from-POA-Indicator-Definitions",
+        "lastSeen": "2024-09-12T15:30:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-43-Patient-Empowerment-workgroup/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-43-Patient-Empowerment-workgroup",
+        "lastSeen": "2024-09-12T15:47:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
