@@ -10051,6 +10051,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_fhir-43839",
         "lastSeen": "2024-08-12T23:23:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/tc_ips-adtl-profiles/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "tc_ips-adtl-profiles",
+        "lastSeen": "2024-09-12T00:02:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -23730,7 +23736,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/stu3-ballot-resolutions/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "stu3-ballot-resolutions",
-        "lastSeen": "2024-09-11T22:51:56.000Z"
+        "lastSeen": "2024-09-11T23:46:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
