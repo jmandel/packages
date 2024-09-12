@@ -5176,6 +5176,14 @@
     }
   },
   {
+    "name": "openmrs-sep-2024-training",
+    "current": {
+      "url": "https://build.fhir.org/ig/rmrlangford/OpenMRS-FHIR-Training/branches/master/package.tgz",
+      "repo": "https://github.com/rmrlangford/OpenMRS-FHIR-Training",
+      "branch": "master"
+    }
+  },
+  {
     "name": "openmrs.fhir.core",
     "current": {
       "url": "https://build.fhir.org/ig/costateixeira/openmrs-contrib-fhir2-ig/branches/main/package.tgz",
