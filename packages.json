@@ -1488,7 +1488,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2024-09-11T12:17:52.000Z"
+        "lastSeen": "2024-09-13T15:54:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -23052,7 +23052,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2024-08-30T16:06:09.000Z"
+        "lastSeen": "2024-09-13T16:29:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -23502,7 +23502,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-45784/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-45784",
-        "lastSeen": "2024-07-01T16:29:04.000Z"
+        "lastSeen": "2024-09-13T16:21:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/FHIR-45717-remove-references-from-close/package.tgz",
@@ -23545,6 +23545,18 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "fix-examples",
         "lastSeen": "2024-09-03T21:45:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/fyi-deprecate-websocketSupport-field/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "fyi-deprecate-websocketSupport-field",
+        "lastSeen": "2024-09-13T16:27:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/small-sushi-config-updates/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "small-sushi-config-updates",
+        "lastSeen": "2024-09-13T16:11:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
