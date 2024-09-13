@@ -2430,19 +2430,25 @@
         "url": "https://build.fhir.org/ig/neues4/ch-epreg/branches/pjolo/package.tgz",
         "repo": "https://github.com/neues4/ch-epreg",
         "branch": "pjolo",
-        "lastSeen": "2024-09-12T14:34:48.000Z"
+        "lastSeen": "2024-09-13T14:36:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz",
         "repo": "https://github.com/neues4/ch-epreg",
         "branch": "master",
-        "lastSeen": "2024-09-12T14:34:17.000Z"
+        "lastSeen": "2024-09-13T14:37:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epreg/branches/sneu/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epreg",
         "branch": "sneu",
         "lastSeen": "2024-09-12T14:10:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epreg/branches/pjolo/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epreg",
+        "branch": "pjolo",
+        "lastSeen": "2024-09-13T14:36:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -6636,7 +6642,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/HIV-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/HIV-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2024-09-09T21:16:50.000Z"
+        "lastSeen": "2024-09-13T14:29:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/HIV-FHIR-IG/branches/kraig-hiv-pagecontent/package.tgz",
@@ -8430,7 +8436,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health-ips",
         "branch": "master",
-        "lastSeen": "2024-09-04T14:06:35.000Z"
+        "lastSeen": "2024-09-13T13:58:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/jkiddo-patch-1/package.tgz",
@@ -16248,7 +16254,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-09-12T23:43:02.000Z"
+        "lastSeen": "2024-09-13T13:59:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -24133,6 +24139,12 @@
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "fix-some-busted-links",
         "lastSeen": "2024-09-06T21:25:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/cigarette-pack-years/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ipa",
+        "branch": "cigarette-pack-years",
+        "lastSeen": "2024-09-13T13:47:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz"
@@ -26004,7 +26016,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/prefetch-enhancements/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "prefetch-enhancements",
-        "lastSeen": "2024-09-12T21:49:00.000Z"
+        "lastSeen": "2024-09-13T14:38:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cds-hooks/docs/branches/renam/package.tgz"
