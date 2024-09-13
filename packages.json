@@ -12780,7 +12780,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/NID/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/NID",
         "branch": "master",
-        "lastSeen": "2024-09-12T19:53:12.000Z"
+        "lastSeen": "2024-09-13T18:05:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/NID/branches/master/package.tgz"
@@ -16254,7 +16254,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-09-13T14:41:49.000Z"
+        "lastSeen": "2024-09-13T18:16:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -19974,7 +19974,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2024-09-12T15:15:04.000Z"
+        "lastSeen": "2024-09-13T18:36:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -23839,6 +23839,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "kp-FHIR-46805",
         "lastSeen": "2024-09-13T15:18:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/kp-FHIR-43748/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "kp-FHIR-43748",
+        "lastSeen": "2024-09-13T18:14:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -25494,7 +25500,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/functional-model/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "functional-model",
-        "lastSeen": "2024-09-09T07:42:40.000Z"
+        "lastSeen": "2024-09-13T18:00:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/runners-classes/package.tgz",
