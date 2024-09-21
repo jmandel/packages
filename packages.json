@@ -2070,7 +2070,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "master",
-        "lastSeen": "2024-09-21T16:34:08.000Z"
+        "lastSeen": "2024-09-21T17:46:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -7795,6 +7795,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "106-contributionguide",
         "lastSeen": "2024-09-19T14:40:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/80-include-testscripts/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "80-include-testscripts",
+        "lastSeen": "2024-09-21T18:04:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -24775,6 +24781,12 @@
         "repo": "https://github.com/HL7/phenomics-exchange-ig",
         "branch": "se-fsh-refactoring",
         "lastSeen": "2024-06-14T17:20:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/logical-model/package.tgz",
+        "repo": "https://github.com/HL7/phenomics-exchange-ig",
+        "branch": "logical-model",
+        "lastSeen": "2024-09-21T17:43:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/master/package.tgz"
@@ -31398,7 +31410,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-example-immz/branches/fixmaps/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-example-immz",
         "branch": "fixmaps",
-        "lastSeen": "2024-09-21T15:10:34.000Z"
+        "lastSeen": "2024-09-21T18:26:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations-measles/branches/main/package.tgz"
