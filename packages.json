@@ -4884,7 +4884,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/EER-0.8/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "EER-0.8",
-        "lastSeen": "2024-09-23T12:45:53.000Z"
+        "lastSeen": "2024-09-23T13:10:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz"
@@ -12276,7 +12276,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/earlyadopter/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "earlyadopter",
-        "lastSeen": "2024-09-15T17:21:02.000Z"
+        "lastSeen": "2024-09-23T13:15:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/revert-271-issue-270/package.tgz",
@@ -12499,6 +12499,12 @@
         "repo": "https://github.com/hl7-be/referral",
         "branch": "issue-370",
         "lastSeen": "2024-09-13T06:19:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-381/package.tgz",
+        "repo": "https://github.com/hl7-be/referral",
+        "branch": "issue-381",
+        "lastSeen": "2024-09-23T13:15:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -14892,7 +14898,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/adr-ig",
         "branch": "master",
-        "lastSeen": "2024-07-04T11:24:59.000Z"
+        "lastSeen": "2024-09-23T13:06:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-pt/adr-ig/branches/master/package.tgz"
@@ -14904,7 +14910,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/core/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/core",
         "branch": "master",
-        "lastSeen": "2024-03-08T14:30:29.000Z"
+        "lastSeen": "2024-09-23T13:10:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-pt/core/branches/master/package.tgz"
@@ -14916,7 +14922,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/obs-neonat-ig",
         "branch": "master",
-        "lastSeen": "2024-08-31T17:13:43.000Z"
+        "lastSeen": "2024-09-23T13:06:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-pt/obs-neonat-ig/branches/master/package.tgz"
@@ -22542,7 +22548,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2024-09-22T14:26:48.000Z"
+        "lastSeen": "2024-09-23T13:34:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/1.0.0-ballot/package.tgz",
@@ -30396,13 +30402,13 @@
         "url": "https://build.fhir.org/ig/hl7-pt/community-health-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/community-health-ig",
         "branch": "master",
-        "lastSeen": "2024-07-04T14:06:59.000Z"
+        "lastSeen": "2024-09-23T13:08:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-pt/resp-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/resp-ig",
         "branch": "master",
-        "lastSeen": "2024-05-29T17:42:20.000Z"
+        "lastSeen": "2024-09-23T13:08:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-pt/resp/branches/master/package.tgz",
