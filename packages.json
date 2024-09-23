@@ -6415,6 +6415,12 @@
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "29-test-cql-evaluation-and-questionnaireresponse-pre-population-for-the-questionnaires-and-libraries-in-cqf-us",
         "lastSeen": "2024-09-21T09:53:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/34-correct-fhirhelpers-version-and-continue-with-testing-cql-evaluation-and-questionnaireresponse-pre-population-for-the-questionnaires-and-libraries-in-cqf-us/package.tgz",
+        "repo": "https://github.com/cqframework/cqf-us",
+        "branch": "34-correct-fhirhelpers-version-and-continue-with-testing-cql-evaluation-and-questionnaireresponse-pre-population-for-the-questionnaires-and-libraries-in-cqf-us",
+        "lastSeen": "2024-09-23T15:47:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -20113,6 +20119,12 @@
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "2.2.0",
         "lastSeen": "2024-08-27T18:01:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU3/package.tgz",
+        "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
+        "branch": "STU3",
+        "lastSeen": "2024-09-23T16:06:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
