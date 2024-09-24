@@ -24240,7 +24240,7 @@
         "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/ig-guidance",
         "branch": "master",
-        "lastSeen": "2024-09-23T18:40:45.000Z"
+        "lastSeen": "2024-09-24T23:29:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/plantuml-styling/package.tgz",
@@ -32221,6 +32221,12 @@
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "v0.5.0",
         "lastSeen": "2024-09-24T05:39:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/v1-publish/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
+        "branch": "v1-publish",
+        "lastSeen": "2024-09-24T23:32:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
