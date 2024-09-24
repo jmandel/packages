@@ -4272,7 +4272,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2024-09-23T03:56:30.000Z"
+        "lastSeen": "2024-09-24T01:42:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -4410,7 +4410,13 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/release-20240923/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "release-20240923",
-        "lastSeen": "2024-09-23T04:26:34.000Z"
+        "lastSeen": "2024-09-24T01:27:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/0.2.0-draft/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "0.2.0-draft",
+        "lastSeen": "2024-09-24T01:23:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -17010,7 +17016,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/stu2.1.0-review/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "stu2.1.0-review",
-        "lastSeen": "2024-09-23T21:53:24.000Z"
+        "lastSeen": "2024-09-24T01:17:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2.1.0-preview-tag/package.tgz",
@@ -32136,7 +32142,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/v0.5.0/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-rheumatic-fever",
         "branch": "v0.5.0",
-        "lastSeen": "2024-09-23T23:59:12.000Z"
+        "lastSeen": "2024-09-24T01:02:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-rheumatic-fever/branches/master/package.tgz"
