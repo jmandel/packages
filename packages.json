@@ -12048,7 +12048,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/earlyadopters/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "earlyadopters",
-        "lastSeen": "2024-09-24T19:12:29.000Z"
+        "lastSeen": "2024-09-25T07:57:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-47/package.tgz",
@@ -12072,7 +12072,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-58/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "issue-58",
-        "lastSeen": "2024-09-25T06:35:20.000Z"
+        "lastSeen": "2024-09-25T07:56:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -29742,7 +29742,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "master",
-        "lastSeen": "2024-02-05T12:41:06.000Z"
+        "lastSeen": "2024-09-25T07:45:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/v.2.0.2/package.tgz",
@@ -30079,6 +30079,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
         "branch": "test",
         "lastSeen": "2024-04-11T13:33:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/MessageDefinition/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
+        "branch": "MessageDefinition",
+        "lastSeen": "2024-09-25T08:32:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/master/package.tgz"
