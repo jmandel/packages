@@ -4704,11 +4704,59 @@
     }
   },
   {
+    "name": "kenya-training-bk",
+    "current": {
+      "url": "https://build.fhir.org/ig/briankariuki/fhir-training/branches/master/package.tgz",
+      "repo": "https://github.com/briankariuki/fhir-training",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "kenya-training-brandon",
+    "current": {
+      "url": "https://build.fhir.org/ig/Ogoti193/FHIR-Starter/branches/dev/package.tgz",
+      "repo": "https://github.com/Ogoti193/FHIR-Starter",
+      "branch": "dev"
+    }
+  },
+  {
+    "name": "kenya-training-captain",
+    "current": {
+      "url": "https://build.fhir.org/ig/DavidSaruni/Starter-Kenya-FHIR-IG/branches/master/package.tgz",
+      "repo": "https://github.com/DavidSaruni/Starter-Kenya-FHIR-IG",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "kenya-training-eric",
+    "current": {
+      "url": "https://build.fhir.org/ig/ertush/FHIR-Test-Project/branches/master/package.tgz",
+      "repo": "https://github.com/ertush/FHIR-Test-Project",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "kenya-training-jepkoech",
+    "current": {
+      "url": "https://build.fhir.org/ig/faithchep/fhir-ig-template/branches/master/package.tgz",
+      "repo": "https://github.com/faithchep/fhir-ig-template",
+      "branch": "master"
+    }
+  },
+  {
     "name": "kenya-training-mdyeshana",
     "current": {
       "url": "https://build.fhir.org/ig/Xhanti2309/Kenye-Training/branches/first-profiles/package.tgz",
       "repo": "https://github.com/Xhanti2309/Kenye-Training",
       "branch": "first-profiles"
+    }
+  },
+  {
+    "name": "kenya-training-mumo",
+    "current": {
+      "url": "https://build.fhir.org/ig/Mwendwa-JM/fhir/branches/main/package.tgz",
+      "repo": "https://github.com/Mwendwa-JM/fhir",
+      "branch": "main"
     }
   },
   {
@@ -4837,6 +4885,14 @@
       "url": "https://build.fhir.org/ig/medigree/locationgraph/branches/master/package.tgz",
       "repo": "https://github.com/medigree/locationgraph",
       "branch": "master"
+    }
+  },
+  {
+    "name": "maanzoni-fhir-issac",
+    "current": {
+      "url": "https://build.fhir.org/ig/isagithomo/maanzoni-fhir/branches/afte2709/package.tgz",
+      "repo": "https://github.com/isagithomo/maanzoni-fhir",
+      "branch": "afte2709"
     }
   },
   {

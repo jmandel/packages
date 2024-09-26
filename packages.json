@@ -4932,7 +4932,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/EER-0.8/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "EER-0.8",
-        "lastSeen": "2024-09-25T20:27:24.000Z"
+        "lastSeen": "2024-09-26T12:12:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz"
@@ -5268,7 +5268,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "master",
-        "lastSeen": "2024-09-20T11:39:40.000Z"
+        "lastSeen": "2024-09-26T12:29:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/intake-b-form/package.tgz",
@@ -5370,7 +5370,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/add-bundles/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "add-bundles",
-        "lastSeen": "2024-09-20T11:38:51.000Z"
+        "lastSeen": "2024-09-26T12:29:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/valueset-diagnostic-requests-fix/package.tgz",
@@ -18516,7 +18516,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-09-25T21:06:51.000Z"
+        "lastSeen": "2024-09-26T12:37:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -29381,6 +29381,90 @@
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/using-fhir-core-profiles/package.tgz"
   },
+  "kenya-training-bk": {
+    "name": "kenya-training-bk",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/briankariuki/fhir-training/branches/master/package.tgz",
+        "repo": "https://github.com/briankariuki/fhir-training",
+        "branch": "master",
+        "lastSeen": "2024-09-26T11:49:19.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/briankariuki/fhir-training/branches/master/package.tgz"
+  },
+  "kenya-training-brandon": {
+    "name": "kenya-training-brandon",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Ogoti193/FHIR-Starter/branches/dev/package.tgz",
+        "repo": "https://github.com/Ogoti193/FHIR-Starter",
+        "branch": "dev",
+        "lastSeen": "2024-09-26T12:32:40.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Ogoti193/FHIR-Starter/branches/dev/package.tgz"
+  },
+  "kenya-training-captain": {
+    "name": "kenya-training-captain",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/DavidSaruni/Starter-Kenya-FHIR-IG/branches/master/package.tgz",
+        "repo": "https://github.com/DavidSaruni/Starter-Kenya-FHIR-IG",
+        "branch": "master",
+        "lastSeen": "2024-09-26T12:30:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/DavidSaruni/Starter-Kenya-FHIR-IG/branches/first-profile/package.tgz",
+        "repo": "https://github.com/DavidSaruni/Starter-Kenya-FHIR-IG",
+        "branch": "first-profile",
+        "lastSeen": "2024-09-26T12:44:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/DavidSaruni/Starter-Kenya-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/DavidSaruni/Starter-Kenya-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2024-09-26T12:29:37.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/DavidSaruni/Starter-Kenya-FHIR-IG/branches/master/package.tgz"
+  },
+  "kenya-training-eric": {
+    "name": "kenya-training-eric",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/ertush/FHIR-Test-Project/branches/master/package.tgz",
+        "repo": "https://github.com/ertush/FHIR-Test-Project",
+        "branch": "master",
+        "lastSeen": "2024-09-26T11:51:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ertush/FHIR-Test-Project/branches/dev/package.tgz",
+        "repo": "https://github.com/ertush/FHIR-Test-Project",
+        "branch": "dev",
+        "lastSeen": "2024-09-26T12:19:46.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/ertush/FHIR-Test-Project/branches/master/package.tgz"
+  },
+  "kenya-training-jepkoech": {
+    "name": "kenya-training-jepkoech",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/faithchep/fhir-ig-template/branches/kenya-training-ig/package.tgz",
+        "repo": "https://github.com/faithchep/fhir-ig-template",
+        "branch": "kenya-training-ig",
+        "lastSeen": "2024-09-26T12:35:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/faithchep/fhir-ig-template/branches/master/package.tgz",
+        "repo": "https://github.com/faithchep/fhir-ig-template",
+        "branch": "master",
+        "lastSeen": "2024-09-26T12:36:17.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/faithchep/fhir-ig-template/branches/master/package.tgz"
+  },
   "kenya-training-mdyeshana": {
     "name": "kenya-training-mdyeshana",
     "locations": [
@@ -29392,6 +29476,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/Xhanti2309/Kenye-Training/branches/first-profiles/package.tgz"
+  },
+  "kenya-training-mumo": {
+    "name": "kenya-training-mumo",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Mwendwa-JM/fhir/branches/main/package.tgz",
+        "repo": "https://github.com/Mwendwa-JM/fhir",
+        "branch": "main",
+        "lastSeen": "2024-09-26T12:25:36.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Mwendwa-JM/fhir/branches/main/package.tgz"
   },
   "kenya.fhir.smart-immunizations-measles": {
     "name": "kenya.fhir.smart-immunizations-measles",
@@ -29777,6 +29873,18 @@
     ],
     "current": "https://build.fhir.org/ig/medigree/locationgraph/branches/master/package.tgz"
   },
+  "maanzoni-fhir-issac": {
+    "name": "maanzoni-fhir-issac",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/isagithomo/maanzoni-fhir/branches/afte2709/package.tgz",
+        "repo": "https://github.com/isagithomo/maanzoni-fhir",
+        "branch": "afte2709",
+        "lastSeen": "2024-09-26T12:23:39.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/isagithomo/maanzoni-fhir/branches/afte2709/package.tgz"
+  },
   "medcom.ehmi.dk.balp": {
     "name": "medcom.ehmi.dk.balp",
     "locations": [
@@ -29994,7 +30102,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "master",
-        "lastSeen": "2024-06-27T11:46:22.000Z"
+        "lastSeen": "2024-09-26T12:02:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.2.0-rc1/package.tgz",
@@ -31608,7 +31716,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/l2sop/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "l2sop",
-        "lastSeen": "2024-09-26T10:25:44.000Z"
+        "lastSeen": "2024-09-26T12:05:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/release-prepv1.0.0/package.tgz"
