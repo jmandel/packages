@@ -600,14 +600,6 @@
     }
   },
   {
-    "name": "who.fhir.smart-ig-empty",
-    "current": {
-      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-empty/branches/main/package.tgz",
-      "repo": "https://github.com/WorldHealthOrganization/smart-dak-empty",
-      "branch": "main"
-    }
-  },
-  {
     "name": "who.fhir.smart-measles-catopia",
     "current": {
       "url": "https://build.fhir.org/ig/jamlung-ri/smart-catopia-measles/branches/main/package.tgz",
