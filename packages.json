@@ -1207,6 +1207,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "v3.3.0-ballot",
         "lastSeen": "2024-05-17T05:30:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/oe_38_uniqueid/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-atc",
+        "branch": "oe_38_uniqueid",
+        "lastSeen": "2024-09-30T09:45:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz"
@@ -8682,7 +8688,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2024-09-30T09:28:21.000Z"
+        "lastSeen": "2024-09-30T10:15:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -32712,7 +32718,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-09-30T08:39:13.000Z"
+        "lastSeen": "2024-09-30T09:28:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
