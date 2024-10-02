@@ -1878,7 +1878,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2024-10-02T07:56:55.000Z"
+        "lastSeen": "2024-10-02T14:28:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -2766,7 +2766,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/issue10_updateToNewIPS/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "issue10_updateToNewIPS",
-        "lastSeen": "2024-09-27T07:43:12.000Z"
+        "lastSeen": "2024-10-02T14:29:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/issue4_slicingIssue/package.tgz",
@@ -11112,7 +11112,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "master",
-        "lastSeen": "2024-09-09T07:32:49.000Z"
+        "lastSeen": "2024-10-02T14:07:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-57/package.tgz",
@@ -11341,6 +11341,18 @@
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-137",
         "lastSeen": "2024-09-25T15:45:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-134/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "issue-134",
+        "lastSeen": "2024-10-02T14:09:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-136/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "issue-136",
+        "lastSeen": "2024-10-02T14:04:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -16740,7 +16752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2024-08-23T17:46:31.000Z"
+        "lastSeen": "2024-10-02T14:37:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
