@@ -1165,6 +1165,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "v3.0.0-ballot",
         "lastSeen": "2024-05-17T05:23:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/Issue109-changelog/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "Issue109-changelog",
+        "lastSeen": "2024-10-04T13:39:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -20526,7 +20532,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU3",
-        "lastSeen": "2024-09-27T19:08:14.000Z"
+        "lastSeen": "2024-10-04T13:12:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -25218,7 +25224,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/gino-wip/package.tgz",
         "repo": "https://github.com/HL7/fhir-patient-correction",
         "branch": "gino-wip",
-        "lastSeen": "2024-09-26T18:31:05.000Z"
+        "lastSeen": "2024-10-04T13:37:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/main/package.tgz"
@@ -29539,6 +29545,12 @@
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "master",
         "lastSeen": "2024-10-01T20:09:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/create-cql-library-v1/package.tgz",
+        "repo": "https://github.com/jembi/Starter-FHIR-IG",
+        "branch": "create-cql-library-v1",
+        "lastSeen": "2024-10-04T13:20:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
