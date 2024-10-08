@@ -2262,7 +2262,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/add-ppq-use-cases/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "add-ppq-use-cases",
-        "lastSeen": "2024-09-19T15:08:01.000Z"
+        "lastSeen": "2024-10-08T14:58:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_xcarmu/package.tgz",
@@ -13734,7 +13734,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/Consultation-of-v.3.2.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "Consultation-of-v.3.2.0",
-        "lastSeen": "2024-10-08T13:01:07.000Z"
+        "lastSeen": "2024-10-08T15:28:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -13920,7 +13920,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "master",
-        "lastSeen": "2024-09-26T23:00:43.000Z"
+        "lastSeen": "2024-10-08T15:37:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz"
@@ -13938,7 +13938,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2024-09-04T06:43:54.000Z"
+        "lastSeen": "2024-10-08T15:03:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -15246,7 +15246,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-10-08T12:12:55.000Z"
+        "lastSeen": "2024-10-08T15:20:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -29682,7 +29682,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/add-tests-v2/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "add-tests-v2",
-        "lastSeen": "2024-10-07T21:28:27.000Z"
+        "lastSeen": "2024-10-08T15:14:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
@@ -31278,7 +31278,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/community-health-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/community-health-ig",
         "branch": "master",
-        "lastSeen": "2024-09-23T13:08:53.000Z"
+        "lastSeen": "2024-10-08T15:26:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-pt/resp-ig/branches/master/package.tgz",
@@ -31405,6 +31405,18 @@
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "update-homepage-v1",
         "lastSeen": "2024-10-01T12:50:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AnaCeciliaCoimbra/community-health-ig/branches/master/package.tgz",
+        "repo": "https://github.com/AnaCeciliaCoimbra/community-health-ig",
+        "branch": "master",
+        "lastSeen": "2024-10-08T15:09:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/pulmonar-rehab/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-pt/pulmonar-rehab",
+        "branch": "master",
+        "lastSeen": "2024-10-08T15:28:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/empty-ig/branches/master/package.tgz"
