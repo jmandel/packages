@@ -13229,6 +13229,18 @@
     ],
     "current": "https://build.fhir.org/ig/ahdis/cda-core-2.0/branches/master/package.tgz"
   },
+  "hl7.fhir.cl.agenda": {
+    "name": "hl7.fhir.cl.agenda",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/agenda/branches/master/package.tgz",
+        "repo": "https://github.com/Minsal-CL/agenda",
+        "branch": "master",
+        "lastSeen": "2024-10-09T19:37:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Minsal-CL/agenda/branches/master/package.tgz"
+  },
   "hl7.fhir.cl.clcore": {
     "name": "hl7.fhir.cl.clcore",
     "locations": [
