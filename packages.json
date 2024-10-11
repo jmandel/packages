@@ -8856,7 +8856,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2024-10-11T09:20:47.000Z"
+        "lastSeen": "2024-10-11T10:50:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -9072,7 +9072,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/unicom-ig",
         "branch": "master",
-        "lastSeen": "2024-07-10T21:24:19.000Z"
+        "lastSeen": "2024-10-11T11:07:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/costateixeira-patch-1/package.tgz",
@@ -9084,7 +9084,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/costateixeira-patch-2/package.tgz",
         "repo": "https://github.com/hl7-eu/unicom-ig",
         "branch": "costateixeira-patch-2",
-        "lastSeen": "2023-10-17T08:00:40.000Z"
+        "lastSeen": "2024-10-11T11:06:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/unicom-ig/branches/costateixeira-patch-3/package.tgz",
@@ -32742,7 +32742,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/onboarding_checklist_enhancement/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "onboarding_checklist_enhancement",
-        "lastSeen": "2024-10-11T09:21:19.000Z"
+        "lastSeen": "2024-10-11T11:06:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
@@ -33841,6 +33841,12 @@
         "repo": "https://github.com/WorldHealthOrganization/ddcc",
         "branch": "release-candidate",
         "lastSeen": "2024-10-11T09:11:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/ddcc/branches/release-candidate_prev/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/ddcc",
+        "branch": "release-candidate_prev",
+        "lastSeen": "2024-10-11T11:25:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/ddcc/branches/main/package.tgz"
