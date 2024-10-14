@@ -2298,13 +2298,25 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/223-mobile-patient-identifier-cross-reference-query-iti-83-reduce-targetsystem-cardinality-oliver-egger-ahdis/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "223-mobile-patient-identifier-cross-reference-query-iti-83-reduce-targetsystem-cardinality-oliver-egger-ahdis",
-        "lastSeen": "2024-10-11T08:18:48.000Z"
+        "lastSeen": "2024-10-14T09:16:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/221-iti-67-tokens-in-search-params/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "221-iti-67-tokens-in-search-params",
         "lastSeen": "2024-10-11T08:54:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_remove_extended_authorization/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_remove_extended_authorization",
+        "lastSeen": "2024-10-14T09:06:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/224-patient-demographics-query-for-mobile-pdqm-oiiver-egger-ahdis-ag/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "224-patient-demographics-query-for-mobile-pdqm-oiiver-egger-ahdis-ag",
+        "lastSeen": "2024-10-14T09:15:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
