@@ -3697,6 +3697,12 @@
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "Issue69-change-caveat-renal-insufficiency-to-GFR",
         "lastSeen": "2024-09-25T09:22:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/issue63_coverage/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-rad-order",
+        "branch": "issue63_coverage",
+        "lastSeen": "2024-10-16T14:45:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -19206,7 +19212,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-10-07T21:14:44.000Z"
+        "lastSeen": "2024-10-16T15:23:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -20976,7 +20982,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU3",
-        "lastSeen": "2024-10-04T13:12:54.000Z"
+        "lastSeen": "2024-10-16T14:47:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -25404,7 +25410,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/pub-update-STU1/package.tgz",
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "pub-update-STU1",
-        "lastSeen": "2024-10-09T13:55:55.000Z"
+        "lastSeen": "2024-10-16T15:03:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/update-obs-screenshot/package.tgz",
@@ -34051,6 +34057,12 @@
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "v2.0.0-Preview2",
         "lastSeen": "2024-10-07T21:13:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0-Preview3/package.tgz",
+        "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
+        "branch": "v2.0.0-Preview3",
+        "lastSeen": "2024-10-16T15:33:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
