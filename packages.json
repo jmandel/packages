@@ -8646,7 +8646,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/text-branch-rhofstede/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "text-branch-rhofstede",
-        "lastSeen": "2024-10-15T17:07:41.000Z"
+        "lastSeen": "2024-10-16T15:43:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/qa-review/package.tgz",
@@ -17238,7 +17238,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/updateSCTRequests/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "updateSCTRequests",
-        "lastSeen": "2024-10-15T21:02:25.000Z"
+        "lastSeen": "2024-10-16T16:19:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
@@ -19212,7 +19212,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-10-16T15:23:59.000Z"
+        "lastSeen": "2024-10-16T16:14:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -21804,7 +21804,7 @@
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vrdr",
         "branch": "master",
-        "lastSeen": "2024-10-15T16:43:00.000Z"
+        "lastSeen": "2024-10-16T16:01:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vrdr/branches/fixPronouncedDateTime/package.tgz",
@@ -25782,7 +25782,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2024-09-19T14:16:18.000Z"
+        "lastSeen": "2024-10-16T15:54:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -34153,6 +34153,12 @@
         "repo": "https://github.com/WorldHealthOrganization/ddcc",
         "branch": "release-candidate_prev",
         "lastSeen": "2024-10-11T11:25:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/ddcc/branches/main-before-ddcc/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/ddcc",
+        "branch": "main-before-ddcc",
+        "lastSeen": "2024-10-16T15:44:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/ddcc/branches/main/package.tgz"
