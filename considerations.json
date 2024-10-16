@@ -440,6 +440,14 @@
     }
   },
   {
+    "name": "hl7.other.uv.cds.hooks.library",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/vadi2-patch-1/package.tgz",
+      "repo": "https://github.com/HL7/cds-hooks-library",
+      "branch": "vadi2-patch-1"
+    }
+  },
+  {
     "name": "ihe.iti.mcsd",
     "current": {
       "url": "https://build.fhir.org/ig/IHE/ITI.mCSD/branches/main/package.tgz",

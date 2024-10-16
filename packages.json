@@ -17208,7 +17208,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2024-10-15T00:12:09.000Z"
+        "lastSeen": "2024-10-16T04:17:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -22984,6 +22984,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
+  },
+  "hl7.fhir.uv.cds.hooks.library": {
+    "name": "hl7.fhir.uv.cds.hooks.library",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks-library",
+        "branch": "main",
+        "lastSeen": "2024-10-16T04:40:40.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz"
   },
   "hl7.fhir.uv.cgm": {
     "name": "hl7.fhir.uv.cgm",
