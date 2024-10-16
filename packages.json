@@ -2689,6 +2689,12 @@
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "issue94_changelog",
         "lastSeen": "2024-10-16T12:49:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/issue88_coverage/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-etoc",
+        "branch": "issue88_coverage",
+        "lastSeen": "2024-10-16T14:18:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz"
@@ -3636,7 +3642,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "master",
-        "lastSeen": "2024-10-15T14:19:56.000Z"
+        "lastSeen": "2024-10-16T14:09:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/issue59_mz/package.tgz",
@@ -11310,7 +11316,7 @@
         "url": "https://build.fhir.org/ig/HealthIntersections/au-ips/branches/master/package.tgz",
         "repo": "https://github.com/HealthIntersections/au-ips",
         "branch": "master",
-        "lastSeen": "2024-06-27T22:07:00.000Z"
+        "lastSeen": "2024-10-16T14:34:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HealthIntersections/au-ips/branches/master/package.tgz"
@@ -25494,7 +25500,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-10-16T12:57:59.000Z"
+        "lastSeen": "2024-10-16T14:08:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
