@@ -2862,7 +2862,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/issue5_validationContent/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "issue5_validationContent",
-        "lastSeen": "2024-08-23T09:50:37.000Z"
+        "lastSeen": "2024-10-17T09:15:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/issue10_updateToNewIPS/package.tgz",
@@ -3834,7 +3834,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2024-10-03T13:04:37.000Z"
+        "lastSeen": "2024-10-17T09:12:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -4015,6 +4015,30 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "262-immunization-administration-document-typos-michaela-ziegler-ahdis-ag",
         "lastSeen": "2024-10-17T08:33:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/251-ch-vacd-immunization-gabriel-hess-bfh/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "251-ch-vacd-immunization-gabriel-hess-bfh",
+        "lastSeen": "2024-10-17T08:44:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/252-changelog-gabriel-hess-bfh/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "252-changelog-gabriel-hess-bfh",
+        "lastSeen": "2024-10-17T08:50:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/258-103-immunizationrecommendation-recommendation-requestresponse-marcel-hanselmann/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "258-103-immunizationrecommendation-recommendation-requestresponse-marcel-hanselmann",
+        "lastSeen": "2024-10-17T09:05:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/261-use-cases-deutsch-michaela-ziegler-ahdis-ag/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "261-use-cases-deutsch-michaela-ziegler-ahdis-ag",
+        "lastSeen": "2024-10-17T09:13:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -17268,7 +17292,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/updateSCTRequests/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "updateSCTRequests",
-        "lastSeen": "2024-10-16T16:19:46.000Z"
+        "lastSeen": "2024-10-17T09:11:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz"
