@@ -3834,7 +3834,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2024-10-17T09:12:12.000Z"
+        "lastSeen": "2024-10-17T12:25:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -4008,7 +4008,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/263-immunization-recommendation-request-message-michaela-ziegler-ahdis-ag/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "263-immunization-recommendation-request-message-michaela-ziegler-ahdis-ag",
-        "lastSeen": "2024-10-17T08:14:17.000Z"
+        "lastSeen": "2024-10-17T12:24:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/262-immunization-administration-document-typos-michaela-ziegler-ahdis-ag/package.tgz",
@@ -4038,7 +4038,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/261-use-cases-deutsch-michaela-ziegler-ahdis-ag/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "261-use-cases-deutsch-michaela-ziegler-ahdis-ag",
-        "lastSeen": "2024-10-17T09:13:31.000Z"
+        "lastSeen": "2024-10-17T12:25:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -14064,7 +14064,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.3.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.3.0",
-        "lastSeen": "2024-08-11T15:58:59.000Z"
+        "lastSeen": "2024-10-17T12:15:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/feature-ipa-support/package.tgz",
@@ -14076,7 +14076,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.3.0-servicerequest/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.3.0-servicerequest",
-        "lastSeen": "2024-10-17T11:35:37.000Z"
+        "lastSeen": "2024-10-17T11:58:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/Consultation-of-v.3.2.0/package.tgz",
@@ -25572,7 +25572,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-10-16T14:08:35.000Z"
+        "lastSeen": "2024-10-17T12:31:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -30175,6 +30175,12 @@
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "add-tests-v3",
         "lastSeen": "2024-10-10T19:41:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/iniriated-art-measure/package.tgz",
+        "repo": "https://github.com/jembi/Starter-FHIR-IG",
+        "branch": "iniriated-art-measure",
+        "lastSeen": "2024-10-17T12:12:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
