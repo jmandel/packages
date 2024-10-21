@@ -2292,7 +2292,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_xcarmu/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_xcarmu",
-        "lastSeen": "2024-10-14T16:04:19.000Z"
+        "lastSeen": "2024-10-21T09:37:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/213-consistency-of-the-versions-of-the-dependencies-michaela-ziegler-ahdis-ag/package.tgz",
@@ -3180,7 +3180,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-10-19T19:22:17.000Z"
+        "lastSeen": "2024-10-21T08:36:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -31402,6 +31402,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
+  },
+  "medcom.fhir.dk.homecareobservationstestscripts": {
+    "name": "medcom.fhir.dk.homecareobservationstestscripts",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-HomeCareObservation-test-scripts/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-HomeCareObservation-test-scripts",
+        "branch": "main",
+        "lastSeen": "2024-10-21T08:58:02.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-HomeCareObservation-test-scripts/branches/main/package.tgz"
   },
   "medcom.fhir.dk.hospitalnotification": {
     "name": "medcom.fhir.dk.hospitalnotification",
