@@ -17887,6 +17887,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "5.0.0-ballot",
         "lastSeen": "2024-08-27T21:24:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-48462-Quality-Program-Removal/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "dd-48462-Quality-Program-Removal",
+        "lastSeen": "2024-10-22T17:36:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -18948,7 +18954,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2024-10-22T15:47:25.000Z"
+        "lastSeen": "2024-10-22T18:21:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -19459,6 +19465,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "elimTempCS",
         "lastSeen": "2024-10-22T15:37:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/postmergefix/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "postmergefix",
+        "lastSeen": "2024-10-22T17:51:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -23874,7 +23886,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2024-10-22T15:40:22.000Z"
+        "lastSeen": "2024-10-22T18:12:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -29815,6 +29827,12 @@
         "repo": "https://github.com/IHE/ITI.Scheduling",
         "branch": "issue34",
         "lastSeen": "2024-10-22T17:18:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/pc-resolution/package.tgz",
+        "repo": "https://github.com/IHE/ITI.Scheduling",
+        "branch": "pc-resolution",
+        "lastSeen": "2024-10-22T18:33:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz"
@@ -30024,7 +30042,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.ODH",
         "branch": "master",
-        "lastSeen": "2024-03-08T22:08:29.000Z"
+        "lastSeen": "2024-10-22T18:36:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/mlj_ODH_prepub_edits_feb_2024/package.tgz",
@@ -32070,7 +32088,7 @@
         "url": "https://build.fhir.org/ig/mtnlotus/pco-ig/branches/main/package.tgz",
         "repo": "https://github.com/mtnlotus/pco-ig",
         "branch": "main",
-        "lastSeen": "2024-09-23T01:06:16.000Z"
+        "lastSeen": "2024-10-22T18:01:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mtnlotus/pco-ig/branches/main/package.tgz"
