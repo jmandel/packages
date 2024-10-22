@@ -1201,6 +1201,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "Issue105-clinical-use-case-scenarios-minor-typo-in-case-2",
         "lastSeen": "2024-10-04T14:48:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/Issue107-new-ips-version/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "Issue107-new-ips-version",
+        "lastSeen": "2024-10-22T11:59:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -1926,7 +1932,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2024-10-04T09:40:28.000Z"
+        "lastSeen": "2024-10-22T12:32:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -15528,7 +15534,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/dossier-pharma/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/dossier-pharma",
         "branch": "master",
-        "lastSeen": "2024-10-17T10:08:57.000Z"
+        "lastSeen": "2024-10-22T11:44:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/dossier-pharma/branches/0.1.0/package.tgz",
@@ -26071,6 +26077,12 @@
         "repo": "https://github.com/HL7/phd",
         "branch": "1.1.0",
         "lastSeen": "2024-10-18T14:44:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/phd/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/phd",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2024-10-22T12:22:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz"
@@ -31596,7 +31608,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
         "branch": "main",
-        "lastSeen": "2024-10-02T13:04:13.000Z"
+        "lastSeen": "2024-10-22T11:54:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz"
