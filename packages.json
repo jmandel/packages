@@ -3433,6 +3433,24 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "issue-78",
         "lastSeen": "2024-10-22T14:14:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/issue104/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "issue104",
+        "lastSeen": "2024-10-22T14:32:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/issue78/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "issue78",
+        "lastSeen": "2024-10-22T14:38:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/issue77/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "issue77",
+        "lastSeen": "2024-10-22T14:35:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -8262,7 +8280,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2024-10-22T13:21:30.000Z"
+        "lastSeen": "2024-10-22T15:26:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -8431,6 +8449,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "15-Organization-Scope",
         "lastSeen": "2024-10-12T11:57:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/21-krankenanstaltennummer-identifier-is-missing-from-r5-hl7-at-core-organization-profile/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "21-krankenanstaltennummer-identifier-is-missing-from-r5-hl7-at-core-organization-profile",
+        "lastSeen": "2024-10-22T14:42:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -17112,7 +17136,7 @@
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/master/package.tgz",
         "repo": "https://github.com/HL7/codex-radiation-therapy",
         "branch": "master",
-        "lastSeen": "2024-10-21T12:30:08.000Z"
+        "lastSeen": "2024-10-22T14:40:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/codex-radiation-therapy/branches/motion-management/package.tgz",
@@ -18174,7 +18198,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pr",
         "branch": "master",
-        "lastSeen": "2024-09-22T14:07:54.000Z"
+        "lastSeen": "2024-10-22T14:53:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pr/branches/master/package.tgz"
@@ -25081,6 +25105,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "FHIR-45719-Advanced-Reference",
         "lastSeen": "2024-10-22T14:41:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/select-event-using-list/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "select-event-using-list",
+        "lastSeen": "2024-10-22T15:26:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -29118,7 +29148,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Finance/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.Finance",
         "branch": "master",
-        "lastSeen": "2024-10-22T14:16:02.000Z"
+        "lastSeen": "2024-10-22T14:42:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.Finance/branches/day1updates/package.tgz",
