@@ -492,7 +492,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/cda-au-schema",
         "branch": "master",
-        "lastSeen": "2024-10-13T23:51:04.000Z"
+        "lastSeen": "2024-10-24T21:30:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz"
@@ -5820,7 +5820,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/fix-structure-maps/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "fix-structure-maps",
-        "lastSeen": "2024-10-24T16:25:49.000Z"
+        "lastSeen": "2024-10-24T20:41:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz"
@@ -13812,7 +13812,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/Tesis/package.tgz",
         "repo": "https://github.com/HL7Chile/IPS-CL",
         "branch": "Tesis",
-        "lastSeen": "2024-10-24T04:00:14.000Z"
+        "lastSeen": "2024-10-24T20:51:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/master/package.tgz"
@@ -17760,7 +17760,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ecdx",
         "branch": "master",
-        "lastSeen": "2024-10-24T02:50:03.000Z"
+        "lastSeen": "2024-10-24T21:04:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/2.1.0-snapshot/package.tgz",
@@ -21541,6 +21541,12 @@
         "repo": "https://github.com/HL7/cimi-vital-signs",
         "branch": "master",
         "lastSeen": "2024-10-09T23:56:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/2024-10-gg-sql-view-definition/package.tgz",
+        "repo": "https://github.com/HL7/cimi-vital-signs",
+        "branch": "2024-10-gg-sql-view-definition",
+        "lastSeen": "2024-10-24T21:06:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cimi-vital-signs/branches/master/package.tgz"
