@@ -8521,6 +8521,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "21-krankenanstaltennummer-identifier-is-missing-from-r5-hl7-at-core-organization-profile",
         "lastSeen": "2024-10-22T14:42:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/16-multiple-vpnr-small/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "16-multiple-vpnr-small",
+        "lastSeen": "2024-10-25T18:44:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -13860,7 +13866,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/Tesis/package.tgz",
         "repo": "https://github.com/HL7Chile/IPS-CL",
         "branch": "Tesis",
-        "lastSeen": "2024-10-25T17:34:24.000Z"
+        "lastSeen": "2024-10-25T19:35:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/master/package.tgz"
