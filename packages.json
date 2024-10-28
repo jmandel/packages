@@ -5965,6 +5965,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "wip-narrative-templates",
         "lastSeen": "2024-09-18T23:08:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/wip-library-narrative-template/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "wip-library-narrative-template",
+        "lastSeen": "2024-10-28T20:43:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -14106,7 +14112,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-10-22T00:27:48.000Z"
+        "lastSeen": "2024-10-28T21:34:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
@@ -19728,7 +19734,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-10-28T19:22:43.000Z"
+        "lastSeen": "2024-10-28T20:59:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -30756,7 +30762,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "master",
-        "lastSeen": "2024-10-28T17:46:59.000Z"
+        "lastSeen": "2024-10-28T20:44:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/create-cql-library-v1/package.tgz",
@@ -30804,7 +30810,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/structure-map---obs-to-proprietary/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "structure-map---obs-to-proprietary",
-        "lastSeen": "2024-10-28T19:37:06.000Z"
+        "lastSeen": "2024-10-28T20:43:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
