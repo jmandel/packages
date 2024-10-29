@@ -9204,7 +9204,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-davinci",
         "branch": "master",
-        "lastSeen": "2024-04-29T20:05:56.000Z"
+        "lastSeen": "2024-10-29T22:04:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz"
@@ -18522,7 +18522,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2024-10-29T17:11:31.000Z"
+        "lastSeen": "2024-10-29T21:48:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -21192,7 +21192,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-library",
         "branch": "master",
-        "lastSeen": "2024-08-13T22:15:41.000Z"
+        "lastSeen": "2024-10-29T21:50:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz"
@@ -28902,7 +28902,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-599-Add-codes-to-CodeSystem-goal-category/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-599-Add-codes-to-CodeSystem-goal-category",
-        "lastSeen": "2024-08-29T19:17:25.000Z"
+        "lastSeen": "2024-10-29T21:17:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject/package.tgz",
@@ -28951,6 +28951,24 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-608-Add-Alternate-Identifier-for-HCPCS",
         "lastSeen": "2024-10-22T16:11:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-339-add-codes-to-v2-0203-for-use-in-German-profiles/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-339-add-codes-to-v2-0203-for-use-in-German-profiles",
+        "lastSeen": "2024-10-29T21:09:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-340-table-0396--add-codes-for-German-AlphaID--ICD10-and-OPS-for-2010-to-2022/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-340-table-0396--add-codes-for-German-AlphaID--ICD10-and-OPS-for-2010-to-2022",
+        "lastSeen": "2024-10-29T21:12:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-561-add-identifier-type-for--Kassensitz-IK--to-identifier-type--table-0203-/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-561-add-identifier-type-for--Kassensitz-IK--to-identifier-type--table-0203-",
+        "lastSeen": "2024-10-29T21:06:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -30462,7 +30480,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.ODH",
         "branch": "master",
-        "lastSeen": "2024-10-29T20:16:33.000Z"
+        "lastSeen": "2024-10-29T22:00:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/mlj_ODH_prepub_edits_feb_2024/package.tgz",
