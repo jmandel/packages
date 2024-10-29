@@ -2220,7 +2220,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2024-10-24T13:03:00.000Z"
+        "lastSeen": "2024-10-29T18:05:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -5899,6 +5899,12 @@
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "fix-structure-maps",
         "lastSeen": "2024-10-25T22:03:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/concept-maps-updates/package.tgz",
+        "repo": "https://github.com/jembi/ethiopia-hiv",
+        "branch": "concept-maps-updates",
+        "lastSeen": "2024-10-29T17:42:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz"
@@ -18175,6 +18181,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-47535-Version-needed-in-URLs-for-MeasureReport.measure",
         "lastSeen": "2024-10-29T16:46:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-46861-Fix-link-to-Adapting-Guidelines-for-the-Digital-Age/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-46861-Fix-link-to-Adapting-Guidelines-for-the-Digital-Age",
+        "lastSeen": "2024-10-29T18:07:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -30360,7 +30372,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.mAPS",
         "branch": "master",
-        "lastSeen": "2024-10-29T16:30:12.000Z"
+        "lastSeen": "2024-10-29T18:34:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/mlj_prepub_edits_mAPS_rev_1-0-0-comment_may2024/package.tgz",
@@ -30420,7 +30432,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.ODH",
         "branch": "master",
-        "lastSeen": "2024-10-22T18:36:16.000Z"
+        "lastSeen": "2024-10-29T18:40:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/mlj_ODH_prepub_edits_feb_2024/package.tgz",
