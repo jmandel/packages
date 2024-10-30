@@ -2179,6 +2179,12 @@
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "master",
         "lastSeen": "2024-05-21T16:34:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2024/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ems",
+        "branch": "2024",
+        "lastSeen": "2024-10-30T10:35:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz"
@@ -5088,7 +5094,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-beta.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "v0.90.1-beta.1",
-        "lastSeen": "2024-09-25T20:08:02.000Z"
+        "lastSeen": "2024-10-30T10:35:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-safe-branch/package.tgz",
@@ -5364,7 +5370,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_FUT-I_2024_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_FUT-I_2024_4",
-        "lastSeen": "2024-10-29T08:32:29.000Z"
+        "lastSeen": "2024-10-30T10:32:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
