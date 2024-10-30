@@ -5100,7 +5100,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-beta.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "v0.90.1-beta.1",
-        "lastSeen": "2024-10-30T13:57:58.000Z"
+        "lastSeen": "2024-10-30T15:29:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-safe-branch/package.tgz",
@@ -5916,7 +5916,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/concept-maps-updates/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "concept-maps-updates",
-        "lastSeen": "2024-10-29T17:42:51.000Z"
+        "lastSeen": "2024-10-30T14:35:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz"
@@ -9192,7 +9192,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "master",
-        "lastSeen": "2024-10-21T23:26:21.000Z"
+        "lastSeen": "2024-10-30T15:13:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
@@ -9660,7 +9660,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/base/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "base",
-        "lastSeen": "2024-10-30T12:11:26.000Z"
+        "lastSeen": "2024-10-30T15:42:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -14190,7 +14190,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "master",
-        "lastSeen": "2024-10-28T21:34:52.000Z"
+        "lastSeen": "2024-10-30T15:28:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/0.1.5/package.tgz",
@@ -17796,7 +17796,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
-        "lastSeen": "2024-10-21T16:35:20.000Z"
+        "lastSeen": "2024-10-30T15:08:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/br-40520-artifact-comment-date/package.tgz",
@@ -19284,7 +19284,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "master",
-        "lastSeen": "2024-10-24T16:15:26.000Z"
+        "lastSeen": "2024-10-30T15:25:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/FHIR40317/package.tgz",
@@ -19819,6 +19819,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "updateDDv2",
         "lastSeen": "2024-10-25T22:00:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/mlt-check/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "mlt-check",
+        "lastSeen": "2024-10-30T15:01:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -26214,7 +26220,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-10-30T14:33:14.000Z"
+        "lastSeen": "2024-10-30T15:02:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -33846,13 +33852,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "main",
-        "lastSeen": "2024-10-14T08:40:31.000Z"
+        "lastSeen": "2024-10-30T15:05:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-trust",
         "branch": "main",
-        "lastSeen": "2024-10-30T14:27:59.000Z"
+        "lastSeen": "2024-10-30T14:43:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.1.1/package.tgz",
