@@ -636,7 +636,13 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2024-09-16T08:11:32.000Z"
+        "lastSeen": "2024-10-31T07:58:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "fixes-nov",
+        "lastSeen": "2024-10-31T07:57:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -5106,7 +5112,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-beta.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "v0.90.1-beta.1",
-        "lastSeen": "2024-10-30T22:51:13.000Z"
+        "lastSeen": "2024-10-31T08:00:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-safe-branch/package.tgz",
@@ -31615,6 +31621,12 @@
         "repo": "https://github.com/hl7dk/kl-term",
         "branch": "2.1.0",
         "lastSeen": "2024-06-13T14:52:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-term/branches/2.2.0/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-term",
+        "branch": "2.2.0",
+        "lastSeen": "2024-10-31T08:17:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-term/branches/main/package.tgz"
