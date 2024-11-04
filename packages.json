@@ -17442,7 +17442,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/2024/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "2024",
-        "lastSeen": "2024-11-01T17:52:13.000Z"
+        "lastSeen": "2024-11-04T15:48:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/1.2.0/package.tgz",
@@ -23826,13 +23826,19 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/argo24/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "argo24",
-        "lastSeen": "2024-09-30T13:40:10.000Z"
+        "lastSeen": "2024-11-04T16:07:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/fix-ndjson-url/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "fix-ndjson-url",
         "lastSeen": "2024-08-05T14:09:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/argo-24/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "argo-24",
+        "lastSeen": "2024-11-04T15:57:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -29130,7 +29136,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject",
-        "lastSeen": "2024-09-12T15:39:30.000Z"
+        "lastSeen": "2024-11-04T15:41:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject/package.tgz",
@@ -29191,6 +29197,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-561-add-identifier-type-for--Kassensitz-IK--to-identifier-type--table-0203-",
         "lastSeen": "2024-10-29T21:06:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-617-Add-NUBC-Condition-Codes--and-Value-Codes-and-Amounts-per-TSMG/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-617-Add-NUBC-Condition-Codes--and-Value-Codes-and-Amounts-per-TSMG",
+        "lastSeen": "2024-11-04T15:48:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -30732,7 +30744,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.ODH",
         "branch": "master",
-        "lastSeen": "2024-11-04T12:23:16.000Z"
+        "lastSeen": "2024-11-04T15:56:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/mlj_ODH_prepub_edits_feb_2024/package.tgz",
@@ -35244,7 +35256,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0-Preview4/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "v2.0.0-Preview4",
-        "lastSeen": "2024-11-04T15:19:28.000Z"
+        "lastSeen": "2024-11-04T15:53:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
