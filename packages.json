@@ -1242,7 +1242,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "master",
-        "lastSeen": "2024-10-03T11:59:43.000Z"
+        "lastSeen": "2024-11-04T17:04:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/oe_partial/package.tgz",
@@ -14784,7 +14784,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "master",
-        "lastSeen": "2024-10-23T06:51:42.000Z"
+        "lastSeen": "2024-11-04T16:36:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz"
@@ -21540,7 +21540,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2024-11-04T07:36:12.000Z"
+        "lastSeen": "2024-11-04T16:51:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -21804,7 +21804,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.3",
-        "lastSeen": "2024-10-28T16:11:05.000Z"
+        "lastSeen": "2024-11-04T16:32:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -29142,7 +29142,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject",
-        "lastSeen": "2024-09-12T15:37:39.000Z"
+        "lastSeen": "2024-11-04T16:32:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-596-Remove-CMS-notes-from-POA-Indicator-Definitions/package.tgz",
@@ -29203,6 +29203,30 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-617-Add-NUBC-Condition-Codes--and-Value-Codes-and-Amounts-per-TSMG",
         "lastSeen": "2024-11-04T15:48:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-618-Add-FIPS-6-4-and-FIPS-5-2-per-TSMG/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-618-Add-FIPS-6-4-and-FIPS-5-2-per-TSMG",
+        "lastSeen": "2024-11-04T15:48:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-616-Add-X12-Ambulance-Transport-Reason-Code-per-TSMG/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-616-Add-X12-Ambulance-Transport-Reason-Code-per-TSMG",
+        "lastSeen": "2024-11-04T15:50:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-614-Add-Identifier-System-records-for-FDA-Establishment-Identifier--FEI--and-Data-Universal-Numbering-System--DUNS--Number-per-TSMG/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-614-Add-Identifier-System-records-for-FDA-Establishment-Identifier--FEI--and-Data-Universal-Numbering-System--DUNS--Number-per-TSMG",
+        "lastSeen": "2024-11-04T15:47:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-619-Update-Contact-Links-for-CVX--MVX--and-CDCREC/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-619-Update-Contact-Links-for-CVX--MVX--and-CDCREC",
+        "lastSeen": "2024-11-04T15:50:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -31152,7 +31176,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "master",
-        "lastSeen": "2024-11-04T09:57:52.000Z"
+        "lastSeen": "2024-11-04T16:36:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/create-cql-library-v1/package.tgz",
@@ -31230,7 +31254,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/ohie24-consent/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "ohie24-consent",
-        "lastSeen": "2024-11-04T11:14:52.000Z"
+        "lastSeen": "2024-11-04T16:35:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
@@ -35256,7 +35280,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0-Preview4/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "v2.0.0-Preview4",
-        "lastSeen": "2024-11-04T15:53:40.000Z"
+        "lastSeen": "2024-11-04T17:35:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
