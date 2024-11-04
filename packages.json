@@ -3252,7 +3252,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-11-04T10:55:16.000Z"
+        "lastSeen": "2024-11-04T12:37:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -20239,6 +20239,12 @@
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "Fixes-For2024",
         "lastSeen": "2024-08-27T21:27:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "ming2",
+        "lastSeen": "2024-11-04T12:04:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
@@ -29389,6 +29395,12 @@
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "update-medicincal-product-definition",
         "lastSeen": "2024-10-31T08:52:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/testing-branch/package.tgz",
+        "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
+        "branch": "testing-branch",
+        "lastSeen": "2024-11-04T12:46:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz"
@@ -30714,7 +30726,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.ODH",
         "branch": "master",
-        "lastSeen": "2024-10-31T14:30:22.000Z"
+        "lastSeen": "2024-11-04T12:23:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.ODH/branches/mlj_ODH_prepub_edits_feb_2024/package.tgz",
@@ -32160,7 +32172,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
         "branch": "main",
-        "lastSeen": "2024-10-18T11:09:02.000Z"
+        "lastSeen": "2024-11-04T12:41:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/Review2024/package.tgz",
@@ -32664,7 +32676,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "master",
-        "lastSeen": "2024-10-18T10:53:22.000Z"
+        "lastSeen": "2024-11-04T11:52:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/1.1.0/package.tgz",
