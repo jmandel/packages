@@ -2220,7 +2220,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "master",
-        "lastSeen": "2024-09-22T20:55:21.000Z"
+        "lastSeen": "2024-11-06T08:37:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -32322,7 +32322,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/1.0.0-rc2/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
         "branch": "1.0.0-rc2",
-        "lastSeen": "2024-11-05T10:27:10.000Z"
+        "lastSeen": "2024-11-06T07:58:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz"
@@ -33474,13 +33474,13 @@
         "url": "https://build.fhir.org/ig/jembi/OHIE24-Continuity-of-Care/branches/master/package.tgz",
         "repo": "https://github.com/jembi/OHIE24-Continuity-of-Care",
         "branch": "master",
-        "lastSeen": "2024-11-06T06:06:10.000Z"
+        "lastSeen": "2024-11-06T08:35:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/OHIE24-Continuity-of-Care/branches/add-security-meta/package.tgz",
         "repo": "https://github.com/jembi/OHIE24-Continuity-of-Care",
         "branch": "add-security-meta",
-        "lastSeen": "2024-11-06T07:11:27.000Z"
+        "lastSeen": "2024-11-06T08:34:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/OHIE24-Continuity-of-Care/branches/initial-cleanup/package.tgz"
@@ -35208,7 +35208,13 @@
         "url": "https://build.fhir.org/ig/KevinMayfield/VirtuallyHealthcare/branches/main/package.tgz",
         "repo": "https://github.com/KevinMayfield/VirtuallyHealthcare",
         "branch": "main",
-        "lastSeen": "2024-11-06T05:29:36.000Z"
+        "lastSeen": "2024-11-06T08:06:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Virtually-Healthcare/Virtually-Healthcare-FHIR-Implementation-Guide/branches/main/package.tgz",
+        "repo": "https://github.com/Virtually-Healthcare/Virtually-Healthcare-FHIR-Implementation-Guide",
+        "branch": "main",
+        "lastSeen": "2024-11-06T08:30:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KevinMayfield/VirtuallyHealthcare/branches/main/package.tgz"
