@@ -5202,7 +5202,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-beta.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "v0.90.1-beta.1",
-        "lastSeen": "2024-11-05T22:43:32.000Z"
+        "lastSeen": "2024-11-06T07:17:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-safe-branch/package.tgz",
@@ -18186,7 +18186,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2024-10-30T21:16:53.000Z"
+        "lastSeen": "2024-11-06T07:13:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -33475,6 +33475,12 @@
         "repo": "https://github.com/jembi/OHIE24-Continuity-of-Care",
         "branch": "master",
         "lastSeen": "2024-11-06T06:06:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/OHIE24-Continuity-of-Care/branches/add-security-meta/package.tgz",
+        "repo": "https://github.com/jembi/OHIE24-Continuity-of-Care",
+        "branch": "add-security-meta",
+        "lastSeen": "2024-11-06T07:11:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/OHIE24-Continuity-of-Care/branches/initial-cleanup/package.tgz"
