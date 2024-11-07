@@ -21685,6 +21685,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "v7.0.0-ballot",
         "lastSeen": "2024-10-17T16:03:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/br-46666-rejected-proposals/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "br-46666-rejected-proposals",
+        "lastSeen": "2024-11-07T23:14:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
@@ -24037,6 +24043,12 @@
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "main",
         "lastSeen": "2024-11-04T01:50:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/cannonical-url-change/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks-library",
+        "branch": "cannonical-url-change",
+        "lastSeen": "2024-11-07T22:44:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz"
