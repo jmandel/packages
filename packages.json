@@ -3270,7 +3270,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-11-11T14:23:39.000Z"
+        "lastSeen": "2024-11-11T16:34:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -3637,6 +3637,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "issue116",
         "lastSeen": "2024-11-06T09:19:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/title-lab-report/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "title-lab-report",
+        "lastSeen": "2024-11-11T16:30:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -7368,7 +7374,7 @@
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/main/package.tgz",
         "repo": "https://github.com/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange",
         "branch": "main",
-        "lastSeen": "2024-09-13T14:48:35.000Z"
+        "lastSeen": "2024-11-11T16:10:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CodeX-HL7-FHIR-Accelerator/GenomeX-DataExchange/branches/master/package.tgz",
@@ -31434,7 +31440,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "master",
-        "lastSeen": "2024-11-10T10:26:47.000Z"
+        "lastSeen": "2024-11-11T15:57:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/create-cql-library-v1/package.tgz",
@@ -31530,7 +31536,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/update-cht-patient-logical-model/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "update-cht-patient-logical-model",
-        "lastSeen": "2024-11-11T12:28:30.000Z"
+        "lastSeen": "2024-11-11T15:56:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
@@ -35430,7 +35436,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/HL7-FHIR-Implementation-Guide/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/HL7-FHIR-Implementation-Guide",
         "branch": "main",
-        "lastSeen": "2024-11-11T13:07:16.000Z"
+        "lastSeen": "2024-11-11T16:22:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KevinMayfield/VirtuallyHealthcare/branches/main/package.tgz"
