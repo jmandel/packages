@@ -12690,7 +12690,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "releasecandidate",
-        "lastSeen": "2024-10-25T14:52:18.000Z"
+        "lastSeen": "2024-11-12T08:58:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/v1.0.0/package.tgz",
@@ -12739,6 +12739,12 @@
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "issue-15",
         "lastSeen": "2024-10-25T14:43:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/v1.2.0/package.tgz",
+        "repo": "https://github.com/hl7-be/infsec",
+        "branch": "v1.2.0",
+        "lastSeen": "2024-11-12T08:59:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/infsec/branches/issue-1/package.tgz"
@@ -33036,13 +33042,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "master",
-        "lastSeen": "2024-11-12T06:30:22.000Z"
+        "lastSeen": "2024-11-12T09:25:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/1.1.0/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "1.1.0",
-        "lastSeen": "2024-11-10T22:48:45.000Z"
+        "lastSeen": "2024-11-12T09:19:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
