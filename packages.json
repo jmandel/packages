@@ -4835,6 +4835,18 @@
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-ig-template/branches/master/package.tgz"
   },
+  "cqframework.cpg-example-anc": {
+    "name": "cqframework.cpg-example-anc",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cpg-example-anc/branches/main/package.tgz",
+        "repo": "https://github.com/cqframework/cpg-example-anc",
+        "branch": "main",
+        "lastSeen": "2024-11-14T21:29:35.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/cqframework/cpg-example-anc/branches/main/package.tgz"
+  },
   "createtest-project-gloria": {
     "name": "createtest-project-gloria",
     "locations": [
@@ -9174,7 +9186,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/qa-review/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "qa-review",
-        "lastSeen": "2024-11-14T18:28:13.000Z"
+        "lastSeen": "2024-11-14T20:02:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/4.0.0-ballot/package.tgz",
@@ -11394,7 +11406,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_chained-ident/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_chained-ident",
-        "lastSeen": "2024-11-11T04:28:23.000Z"
+        "lastSeen": "2024-11-14T21:01:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr_gen-guide-batch/package.tgz",
@@ -11940,7 +11952,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_update-cap-stmt/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_update-cap-stmt",
-        "lastSeen": "2024-11-13T01:27:05.000Z"
+        "lastSeen": "2024-11-14T20:45:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_actor-capstat/package.tgz",
@@ -17544,7 +17556,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2024-10-29T20:02:48.000Z"
+        "lastSeen": "2024-11-14T20:52:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bser/branches/Before-Sept-2023-Ballot/package.tgz",
@@ -17724,7 +17736,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/2024/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "2024",
-        "lastSeen": "2024-11-07T22:15:01.000Z"
+        "lastSeen": "2024-11-14T21:09:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/1.2.0/package.tgz",
@@ -20304,7 +20316,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-11-14T20:20:52.000Z"
+        "lastSeen": "2024-11-14T21:26:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -32454,7 +32466,13 @@
         "url": "https://build.fhir.org/ig/lk-gov-health-hiu/lk-nehr-fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/lk-gov-health-hiu/lk-nehr-fhir-ips",
         "branch": "master",
-        "lastSeen": "2024-09-22T18:21:09.000Z"
+        "lastSeen": "2024-11-14T21:31:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/lk-gov-health-hiu/lk-nehr-fhir-ips/branches/update-mediaction-codes-nov-2024/package.tgz",
+        "repo": "https://github.com/lk-gov-health-hiu/lk-nehr-fhir-ips",
+        "branch": "update-mediaction-codes-nov-2024",
+        "lastSeen": "2024-11-14T21:30:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lk-gov-health-hiu/lk-nehr-fhir-ips/branches/update-medication-codes-2-Sep-2024/package.tgz"
