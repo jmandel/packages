@@ -1243,6 +1243,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "ips",
         "lastSeen": "2024-10-29T11:58:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/issue104_manifestation/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "issue104_manifestation",
+        "lastSeen": "2024-11-14T13:02:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -30829,6 +30835,12 @@
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "CP-ITI-1314",
         "lastSeen": "2024-08-13T16:58:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/moehrke-prep-PDQm-3.1.0-TI/package.tgz",
+        "repo": "https://github.com/IHE/ITI.PDQm",
+        "branch": "moehrke-prep-PDQm-3.1.0-TI",
+        "lastSeen": "2024-11-14T13:14:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/main/package.tgz"
@@ -33169,6 +33181,18 @@
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "1.1.0",
         "lastSeen": "2024-11-12T09:19:01.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
+  },
+  "medcom.fhir.dk.xdsmetadata": {
+    "name": "medcom.fhir.dk.xdsmetadata",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
+        "branch": "master",
+        "lastSeen": "2024-11-14T12:57:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
