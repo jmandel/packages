@@ -95,6 +95,18 @@
     ],
     "current": "https://build.fhir.org/ig/rukundoaloyz/smart-immunizations-measles/branches/main/package.tgz"
   },
+  "IPSFalp": {
+    "name": "IPSFalp",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/SIMSADIs/GI_IPS_FALP/branches/main/package.tgz",
+        "repo": "https://github.com/SIMSADIs/GI_IPS_FALP",
+        "branch": "main",
+        "lastSeen": "2024-11-17T23:09:28.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/SIMSADIs/GI_IPS_FALP/branches/main/package.tgz"
+  },
   "Kenya.fhir.smart-immunizations-measles": {
     "name": "Kenya.fhir.smart-immunizations-measles",
     "locations": [
@@ -14567,6 +14579,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/deis/branches/master/package.tgz"
   },
+  "hl7.fhir.cl.falpcore": {
+    "name": "hl7.fhir.cl.falpcore",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/FALP-CORE/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Chile-BiomedicaUv/FALP-CORE",
+        "branch": "main",
+        "lastSeen": "2024-11-17T23:24:55.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/FALP-CORE/branches/main/package.tgz"
+  },
   "hl7.fhir.cl.gravitycl": {
     "name": "hl7.fhir.cl.gravitycl",
     "locations": [
@@ -28704,7 +28728,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz",
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "main",
-        "lastSeen": "2024-11-17T21:54:02.000Z"
+        "lastSeen": "2024-11-17T22:59:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/Add_nzf-packs/package.tgz",
@@ -28753,6 +28777,12 @@
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "Update_missing_funding_rules",
         "lastSeen": "2024-11-13T19:36:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/update_todos/package.tgz",
+        "repo": "https://github.com/HL7NZ/nzf",
+        "branch": "update_todos",
+        "lastSeen": "2024-11-17T22:56:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz"
