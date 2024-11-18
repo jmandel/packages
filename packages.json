@@ -4890,7 +4890,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cpg-example-anc/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cpg-example-anc",
         "branch": "main",
-        "lastSeen": "2024-11-18T16:42:12.000Z"
+        "lastSeen": "2024-11-18T17:56:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cpg-example-anc/branches/main/package.tgz"
@@ -4906,6 +4906,42 @@
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cpg-example-anthrax/branches/main/package.tgz"
+  },
+  "cqframework.cpg-example-ckd": {
+    "name": "cqframework.cpg-example-ckd",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cpg-example-ckd/branches/main/package.tgz",
+        "repo": "https://github.com/cqframework/cpg-example-ckd",
+        "branch": "main",
+        "lastSeen": "2024-11-18T18:20:09.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/cqframework/cpg-example-ckd/branches/main/package.tgz"
+  },
+  "cqframework.cpg-example-hepb": {
+    "name": "cqframework.cpg-example-hepb",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cpg-example-hepb/branches/main/package.tgz",
+        "repo": "https://github.com/cqframework/cpg-example-hepb",
+        "branch": "main",
+        "lastSeen": "2024-11-18T18:29:30.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/cqframework/cpg-example-hepb/branches/main/package.tgz"
+  },
+  "cqframework.cpg-example-opioids": {
+    "name": "cqframework.cpg-example-opioids",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cpg-example-opioids/branches/main/package.tgz",
+        "repo": "https://github.com/cqframework/cpg-example-opioids",
+        "branch": "main",
+        "lastSeen": "2024-11-18T18:13:39.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/cqframework/cpg-example-opioids/branches/main/package.tgz"
   },
   "createtest-project-gloria": {
     "name": "createtest-project-gloria",
@@ -16374,7 +16410,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/MappingPosologie/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "MappingPosologie",
-        "lastSeen": "2024-11-17T16:50:22.000Z"
+        "lastSeen": "2024-11-18T17:53:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -18354,7 +18390,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2024-11-18T17:10:59.000Z"
+        "lastSeen": "2024-11-18T18:23:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -18570,7 +18606,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ecdx",
         "branch": "master",
-        "lastSeen": "2024-11-18T17:22:41.000Z"
+        "lastSeen": "2024-11-18T17:43:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/2.1.0-snapshot/package.tgz",
@@ -18942,7 +18978,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2024-11-18T15:44:10.000Z"
+        "lastSeen": "2024-11-18T18:01:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -20467,6 +20503,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "mlt-check",
         "lastSeen": "2024-10-30T15:01:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/pubConfig/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "pubConfig",
+        "lastSeen": "2024-11-18T17:45:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
@@ -20478,7 +20520,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-11-18T16:12:26.000Z"
+        "lastSeen": "2024-11-18T18:16:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -21480,7 +21522,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-jira-fixes/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-jira-fixes",
-        "lastSeen": "2024-10-28T16:47:54.000Z"
+        "lastSeen": "2024-11-18T18:34:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/LRN-Changes/package.tgz",
@@ -27102,7 +27144,7 @@
         "url": "https://build.fhir.org/ig/HL7/livd/branches/ballot-work/package.tgz",
         "repo": "https://github.com/HL7/livd",
         "branch": "ballot-work",
-        "lastSeen": "2024-11-18T16:53:30.000Z"
+        "lastSeen": "2024-11-18T18:34:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz"
