@@ -18948,7 +18948,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-11-19T14:58:59.000Z"
+        "lastSeen": "2024-11-19T17:11:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -19236,7 +19236,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pr",
         "branch": "master",
-        "lastSeen": "2024-11-19T04:37:24.000Z"
+        "lastSeen": "2024-11-19T16:59:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pr/branches/master/package.tgz"
@@ -24875,6 +24875,18 @@
     ],
     "current": "https://build.fhir.org/ig/cqframework/cpg-example-opioids/branches/main/package.tgz"
   },
+  "hl7.fhir.uv.cqfm": {
+    "name": "hl7.fhir.uv.cqfm",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
+        "repo": "https://github.com/HL7/cqf-measures",
+        "branch": "master",
+        "lastSeen": "2024-11-19T16:49:15.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz"
+  },
   "hl7.fhir.uv.cql": {
     "name": "hl7.fhir.uv.cql",
     "locations": [
@@ -25128,7 +25140,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2024-11-18T15:17:01.000Z"
+        "lastSeen": "2024-11-19T17:05:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
