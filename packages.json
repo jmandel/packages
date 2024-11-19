@@ -4026,7 +4026,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/usecases/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "usecases",
-        "lastSeen": "2024-11-18T23:00:06.000Z"
+        "lastSeen": "2024-11-19T12:49:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -4141,6 +4141,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "67-ch-vacd-conceptmap-canonical-uri-error",
         "lastSeen": "2024-11-11T12:26:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oe_70/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "oe_70",
+        "lastSeen": "2024-11-19T13:27:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -5364,7 +5370,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-beta.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "v0.90.1-beta.1",
-        "lastSeen": "2024-11-19T11:21:10.000Z"
+        "lastSeen": "2024-11-19T13:24:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-safe-branch/package.tgz",
@@ -18936,7 +18942,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-11-18T22:39:11.000Z"
+        "lastSeen": "2024-11-19T13:00:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -31690,6 +31696,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
+  },
+  "ihe.qrph.madx": {
+    "name": "ihe.qrph.madx",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz",
+        "repo": "https://github.com/IHE/QRPH.mADX",
+        "branch": "master",
+        "lastSeen": "2024-11-19T13:37:27.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz"
   },
   "ihe.qrph.qmod": {
     "name": "ihe.qrph.qmod",
