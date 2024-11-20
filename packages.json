@@ -14268,7 +14268,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "releasecandidate",
-        "lastSeen": "2024-09-24T14:43:54.000Z"
+        "lastSeen": "2024-11-20T15:49:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-396/package.tgz",
@@ -14281,6 +14281,12 @@
         "repo": "https://github.com/hl7-be/referral",
         "branch": "question",
         "lastSeen": "2024-10-16T12:23:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-397/package.tgz",
+        "repo": "https://github.com/hl7-be/referral",
+        "branch": "issue-397",
+        "lastSeen": "2024-11-20T15:47:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -16494,7 +16500,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/MappingPosologie/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "MappingPosologie",
-        "lastSeen": "2024-11-18T17:53:27.000Z"
+        "lastSeen": "2024-11-20T16:16:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -18996,7 +19002,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-11-20T14:56:28.000Z"
+        "lastSeen": "2024-11-20T16:07:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -20593,6 +20599,12 @@
         "repo": "https://github.com/HL7/fhir-mCODE-ig",
         "branch": "pubConfig",
         "lastSeen": "2024-11-18T17:45:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/ig-publisher-1.7.2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-mCODE-ig",
+        "branch": "ig-publisher-1.7.2",
+        "lastSeen": "2024-11-20T16:15:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mCODE-ig/branches/master/package.tgz"
