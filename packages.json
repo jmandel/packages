@@ -2880,7 +2880,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/usecases/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "usecases",
-        "lastSeen": "2024-11-25T11:16:58.000Z"
+        "lastSeen": "2024-11-25T20:30:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/linkdebug4/package.tgz",
@@ -14832,7 +14832,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/SDOH-CL/branches/main/package.tgz",
         "repo": "https://github.com/HL7Chile-BiomedicaUv/SDOH-CL",
         "branch": "main",
-        "lastSeen": "2024-11-25T18:26:54.000Z"
+        "lastSeen": "2024-11-25T20:19:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-BiomedicaUv/SDOH-CL/branches/main/package.tgz"
@@ -27379,6 +27379,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "changesNarrative",
         "lastSeen": "2024-11-20T13:42:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/id-idref/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "id-idref",
+        "lastSeen": "2024-11-25T19:43:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
