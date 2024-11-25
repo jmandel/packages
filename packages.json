@@ -2881,6 +2881,18 @@
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "usecases",
         "lastSeen": "2024-11-25T11:16:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/linkdebug4/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-etoc",
+        "branch": "linkdebug4",
+        "lastSeen": "2024-11-25T18:15:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/linkdebug2/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-etoc",
+        "branch": "linkdebug2",
+        "lastSeen": "2024-11-25T17:55:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz"
@@ -14820,7 +14832,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/SDOH-CL/branches/main/package.tgz",
         "repo": "https://github.com/HL7Chile-BiomedicaUv/SDOH-CL",
         "branch": "main",
-        "lastSeen": "2024-11-25T14:57:20.000Z"
+        "lastSeen": "2024-11-25T18:26:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-BiomedicaUv/SDOH-CL/branches/main/package.tgz"
@@ -19164,7 +19176,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2024-11-19T20:11:15.000Z"
+        "lastSeen": "2024-11-25T17:54:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
