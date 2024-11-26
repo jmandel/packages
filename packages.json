@@ -1339,6 +1339,18 @@
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "oe_keyelements",
         "lastSeen": "2024-11-19T13:46:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/39iti_81_invalidexampleofbearertoken/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-atc",
+        "branch": "39iti_81_invalidexampleofbearertoken",
+        "lastSeen": "2024-11-26T15:20:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/40_iti_81_theusersearchparameterdoesnotexist/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-atc",
+        "branch": "40_iti_81_theusersearchparameterdoesnotexist",
+        "lastSeen": "2024-11-26T15:14:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz"
@@ -4189,6 +4201,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "oe_70",
         "lastSeen": "2024-11-19T13:27:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/issue70_dependencies/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "issue70_dependencies",
+        "lastSeen": "2024-11-26T15:07:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -19116,7 +19134,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-11-26T14:24:54.000Z"
+        "lastSeen": "2024-11-26T15:20:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -20736,7 +20754,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2024-11-26T14:37:15.000Z"
+        "lastSeen": "2024-11-26T15:32:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
