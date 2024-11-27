@@ -24,6 +24,14 @@
     }
   },
   {
+    "name": "botswana.fhir.lab",
+    "current": {
+      "url": "https://build.fhir.org/ig/jembi/bw-laboratory-workflows-ig/branches/IG-enhancements-v1/package.tgz",
+      "repo": "https://github.com/jembi/bw-laboratory-workflows-ig",
+      "branch": "IG-enhancements-v1"
+    }
+  },
+  {
     "name": "cards.smarthealth.terminology",
     "current": {
       "url": "https://build.fhir.org/ig/dvci/shc-terminology/branches/master/package.tgz",
