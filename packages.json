@@ -7421,6 +7421,18 @@
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/ChanjoKe-Fhir-IG/branches/main/package.tgz"
   },
+  "fhir.clicsante": {
+    "name": "fhir.clicsante",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+        "branch": "master",
+        "lastSeen": "2024-11-29T15:10:57.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
+  },
   "fhir.colonoscopyPolyp": {
     "name": "fhir.colonoscopyPolyp",
     "locations": [
@@ -35310,13 +35322,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/l2sop/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "l2sop",
-        "lastSeen": "2024-11-28T15:53:41.000Z"
+        "lastSeen": "2024-11-29T15:06:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/publication-updates/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "publication-updates",
-        "lastSeen": "2024-11-29T14:23:25.000Z"
+        "lastSeen": "2024-11-29T15:23:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/release-prepv1.0.0/package.tgz"
