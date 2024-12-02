@@ -528,7 +528,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/cda-au-schema",
         "branch": "master",
-        "lastSeen": "2024-11-24T21:51:27.000Z"
+        "lastSeen": "2024-12-02T03:54:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/cda-au-schema/branches/v1.0.0/package.tgz",
@@ -10488,7 +10488,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2024-12-01T09:20:59.000Z"
+        "lastSeen": "2024-12-02T04:09:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -10836,7 +10836,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2024-12-02T02:45:13.000Z"
+        "lastSeen": "2024-12-02T04:19:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -11977,6 +11977,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_obs_inv",
         "lastSeen": "2024-12-02T02:23:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/1.0.0-preview/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "1.0.0-preview",
+        "lastSeen": "2024-12-02T04:20:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
