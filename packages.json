@@ -22518,7 +22518,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/terminology/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "terminology",
-        "lastSeen": "2024-12-02T17:03:49.000Z"
+        "lastSeen": "2024-12-02T19:12:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/supplement-testing/package.tgz",
@@ -32574,7 +32574,7 @@
         "url": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/local-testing/package.tgz",
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "local-testing",
-        "lastSeen": "2024-12-02T13:40:09.000Z"
+        "lastSeen": "2024-12-02T19:07:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
@@ -35383,6 +35383,12 @@
         "repo": "https://github.com/brynrhodes/smart-workshop",
         "branch": "br-01-configuration",
         "lastSeen": "2024-12-02T18:21:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-03-elements/package.tgz",
+        "repo": "https://github.com/brynrhodes/smart-workshop",
+        "branch": "br-03-elements",
+        "lastSeen": "2024-12-02T18:58:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-02-concepts/package.tgz"
