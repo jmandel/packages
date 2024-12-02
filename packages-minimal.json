@@ -5904,6 +5904,14 @@
     }
   },
   {
+    "name": "smart.who.int.ig-empty",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-ig-empty",
+      "branch": "br-fix-includes"
+    }
+  },
+  {
     "name": "smart.who.int.ig-starter-kit",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/release-prepv1.0.0/package.tgz",
