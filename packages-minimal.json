@@ -5896,6 +5896,14 @@
     }
   },
   {
+    "name": "smart.who.int.example-workshop",
+    "current": {
+      "url": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-02-concepts/package.tgz",
+      "repo": "https://github.com/brynrhodes/smart-workshop",
+      "branch": "br-02-concepts"
+    }
+  },
+  {
     "name": "smart.who.int.icvp",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz",

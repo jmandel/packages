@@ -18126,7 +18126,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2024-12-02T16:20:57.000Z"
+        "lastSeen": "2024-12-02T18:27:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bser/branches/Before-Sept-2023-Ballot/package.tgz",
@@ -19651,6 +19651,12 @@
         "repo": "https://github.com/HL7/davinci-vbpr",
         "branch": "STU1-publication",
         "lastSeen": "2024-12-02T06:54:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/1.1.0-snapshot/package.tgz",
+        "repo": "https://github.com/HL7/davinci-vbpr",
+        "branch": "1.1.0-snapshot",
+        "lastSeen": "2024-12-02T17:53:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-vbpr/branches/master/package.tgz"
@@ -21961,6 +21967,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-fix-fhir48858",
         "lastSeen": "2024-12-02T16:18:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-fix-fhir48900/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mlt-fix-fhir48900",
+        "lastSeen": "2024-12-02T18:30:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -35356,6 +35368,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/DigitalSQR/smart-dak-tb/branches/main/package.tgz"
+  },
+  "smart.who.int.example-workshop": {
+    "name": "smart.who.int.example-workshop",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-02-concepts/package.tgz",
+        "repo": "https://github.com/brynrhodes/smart-workshop",
+        "branch": "br-02-concepts",
+        "lastSeen": "2024-12-02T18:39:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-01-configuration/package.tgz",
+        "repo": "https://github.com/brynrhodes/smart-workshop",
+        "branch": "br-01-configuration",
+        "lastSeen": "2024-12-02T18:21:45.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-02-concepts/package.tgz"
   },
   "smart.who.int.icvp": {
     "name": "smart.who.int.icvp",
