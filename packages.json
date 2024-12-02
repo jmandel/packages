@@ -414,7 +414,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "main",
-        "lastSeen": "2024-12-02T14:02:09.000Z"
+        "lastSeen": "2024-12-02T15:49:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/for-comment-template/package.tgz",
@@ -8592,7 +8592,7 @@
         "url": "https://build.fhir.org/ig/SanteonNL/shared-care-planning/branches/update-examples-and-capabilitystatement/package.tgz",
         "repo": "https://github.com/SanteonNL/shared-care-planning",
         "branch": "update-examples-and-capabilitystatement",
-        "lastSeen": "2024-12-02T13:25:58.000Z"
+        "lastSeen": "2024-12-02T16:09:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/santeonnl/shared-care-planning/branches/main/package.tgz"
@@ -18126,7 +18126,7 @@
         "url": "https://build.fhir.org/ig/HL7/bser/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bser",
         "branch": "master",
-        "lastSeen": "2024-11-26T20:08:53.000Z"
+        "lastSeen": "2024-12-02T16:20:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bser/branches/Before-Sept-2023-Ballot/package.tgz",
@@ -19380,7 +19380,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2024-12-01T06:56:56.000Z"
+        "lastSeen": "2024-12-02T16:06:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -21955,6 +21955,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "LRN-Changes",
         "lastSeen": "2024-11-01T17:47:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-fix-fhir48858/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mlt-fix-fhir48858",
+        "lastSeen": "2024-12-02T16:18:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -35820,7 +35826,7 @@
         "url": "https://build.fhir.org/ig/adamzkover/testIgImagesGh/branches/main/package.tgz",
         "repo": "https://github.com/adamzkover/testIgImagesGh",
         "branch": "main",
-        "lastSeen": "2024-12-02T11:32:06.000Z"
+        "lastSeen": "2024-12-02T16:40:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/adamzkover/testIgImagesGh/branches/main/package.tgz"
