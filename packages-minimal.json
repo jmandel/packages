@@ -3904,6 +3904,14 @@
     }
   },
   {
+    "name": "hl7.fhir.uv.falpcore",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/FALP-CORE/branches/main/package.tgz",
+      "repo": "https://github.com/HL7Chile-BiomedicaUv/FALP-CORE",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.fhir.uv.fhir-clinical-document",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz",
