@@ -18978,7 +18978,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-alerts/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-alerts",
         "branch": "master",
-        "lastSeen": "2024-10-31T00:50:22.000Z"
+        "lastSeen": "2024-12-04T04:05:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-alerts/branches/master/package.tgz"
@@ -26215,6 +26215,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "2024-12-BP-PA-updates",
         "lastSeen": "2024-12-02T10:52:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/BP-FHIR-43302-birthTime/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "BP-FHIR-43302-birthTime",
+        "lastSeen": "2024-12-04T04:22:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
