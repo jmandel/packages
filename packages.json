@@ -15066,7 +15066,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/SDOH-CL/branches/main/package.tgz",
         "repo": "https://github.com/HL7Chile-BiomedicaUv/SDOH-CL",
         "branch": "main",
-        "lastSeen": "2024-12-04T19:29:44.000Z"
+        "lastSeen": "2024-12-04T19:49:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-BiomedicaUv/SDOH-CL/branches/main/package.tgz"
@@ -18186,7 +18186,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2024-11-29T18:02:07.000Z"
+        "lastSeen": "2024-12-04T20:19:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
@@ -22506,13 +22506,13 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/ballot/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "ballot",
-        "lastSeen": "2024-12-04T03:04:57.000Z"
+        "lastSeen": "2024-12-04T20:34:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "master",
-        "lastSeen": "2024-12-04T03:25:29.000Z"
+        "lastSeen": "2024-12-04T20:36:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/trial/package.tgz",
@@ -25361,6 +25361,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz"
   },
+  "hl7.fhir.uv.cqfmeasures": {
+    "name": "hl7.fhir.uv.cqfmeasures",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
+        "repo": "https://github.com/HL7/cqf-measures",
+        "branch": "master",
+        "lastSeen": "2024-12-04T20:36:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz"
+  },
   "hl7.fhir.uv.cql": {
     "name": "hl7.fhir.uv.cql",
     "locations": [
@@ -27498,7 +27510,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "master",
-        "lastSeen": "2024-10-03T12:53:49.000Z"
+        "lastSeen": "2024-12-04T20:32:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/update-readme/package.tgz",
@@ -27510,7 +27522,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/pub-update-STU1/package.tgz",
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "pub-update-STU1",
-        "lastSeen": "2024-12-03T22:53:02.000Z"
+        "lastSeen": "2024-12-04T20:31:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/update-obs-screenshot/package.tgz",
@@ -28152,7 +28164,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2024-12-03T15:07:34.000Z"
+        "lastSeen": "2024-12-04T20:08:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
