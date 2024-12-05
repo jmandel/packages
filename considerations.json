@@ -312,14 +312,6 @@
     }
   },
   {
-    "name": "hl7.fhir.fi.smart",
-    "current": {
-      "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/update-workflows/package.tgz",
-      "repo": "https://github.com/fhir-fi/finnish-smart",
-      "branch": "update-workflows"
-    }
-  },
-  {
     "name": "hl7.fhir.r4.sv",
     "current": {
       "url": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.r4.sv/branches/main/package.tgz",
@@ -661,6 +653,14 @@
       "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0-Preview4/package.tgz",
       "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
       "branch": "v2.0.0-Preview4"
+    }
+  },
+  {
+    "name": "who.fhir.smart-ig-empty",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/main/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-pcmt",
+      "branch": "main"
     }
   },
   {
