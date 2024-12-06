@@ -9312,7 +9312,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.base.template",
         "branch": "master",
-        "lastSeen": "2024-11-12T02:54:48.000Z"
+        "lastSeen": "2024-12-06T03:41:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz"
@@ -9324,7 +9324,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.fhir.template",
         "branch": "master",
-        "lastSeen": "2024-11-12T02:55:23.000Z"
+        "lastSeen": "2024-12-06T03:43:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz"
@@ -9336,13 +9336,19 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.sparked.template",
         "branch": "master",
-        "lastSeen": "2024-11-12T02:56:06.000Z"
+        "lastSeen": "2024-12-06T03:45:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/ft-v0.5.0/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.sparked.template",
         "branch": "ft-v0.5.0",
         "lastSeen": "2024-11-01T10:17:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/ft_0.6.0/package.tgz",
+        "repo": "https://github.com/hl7au/hl7.au.sparked.template",
+        "branch": "ft_0.6.0",
+        "lastSeen": "2024-12-06T03:13:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/master/package.tgz"
