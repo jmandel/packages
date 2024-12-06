@@ -22710,7 +22710,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2024-11-21T05:53:49.000Z"
+        "lastSeen": "2024-12-06T21:24:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -26395,6 +26395,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "SDCFixes",
         "lastSeen": "2024-12-05T04:00:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/ResearchStudy-December-06,-2024/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "ResearchStudy-December-06,-2024",
+        "lastSeen": "2024-12-06T21:30:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -32052,7 +32058,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/pre-pub-fixes/package.tgz",
         "repo": "https://github.com/IHE/ITI.Scheduling",
         "branch": "pre-pub-fixes",
-        "lastSeen": "2024-12-05T23:50:54.000Z"
+        "lastSeen": "2024-12-06T21:16:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.Scheduling/branches/master/package.tgz"
