@@ -264,6 +264,30 @@
     }
   },
   {
+    "name": "bloodpressure",
+    "current": {
+      "url": "https://build.fhir.org/ig/frankoemig/bloodpressure/branches/main/package.tgz",
+      "repo": "https://github.com/frankoemig/bloodpressure",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "bodyheight",
+    "current": {
+      "url": "https://build.fhir.org/ig/frankoemig/bodyheight/branches/main/package.tgz",
+      "repo": "https://github.com/frankoemig/bodyheight",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "bodyweight",
+    "current": {
+      "url": "https://build.fhir.org/ig/frankoemig/bodyweight/branches/main/package.tgz",
+      "repo": "https://github.com/frankoemig/bodyweight",
+      "branch": "main"
+    }
+  },
+  {
     "name": "botswana.fhir.lab",
     "current": {
       "url": "https://build.fhir.org/ig/jembi/bw-laboratory-workflows-ig/branches/master/package.tgz",
