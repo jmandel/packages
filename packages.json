@@ -22722,7 +22722,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/trial/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "trial",
-        "lastSeen": "2024-11-27T19:35:45.000Z"
+        "lastSeen": "2024-12-09T20:31:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/batch-analysis-testing/package.tgz",
@@ -28837,6 +28837,12 @@
         "repo": "https://github.com/bvdh/smart-multi-auth",
         "branch": "main",
         "lastSeen": "2024-12-09T15:05:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jmandel/smart-multi-auth/branches/patch-1/package.tgz",
+        "repo": "https://github.com/jmandel/smart-multi-auth",
+        "branch": "patch-1",
+        "lastSeen": "2024-12-09T20:38:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/smart-multi-auth/branches/main/package.tgz"
@@ -29412,7 +29418,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/v2-to-fhir",
         "branch": "master",
-        "lastSeen": "2024-12-09T18:44:15.000Z"
+        "lastSeen": "2024-12-09T20:19:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/hans-updates/package.tgz",
@@ -32551,6 +32557,12 @@
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "jct",
         "lastSeen": "2024-04-07T18:25:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/jct-wip/package.tgz",
+        "repo": "https://github.com/IHE/pharm-mpd",
+        "branch": "jct-wip",
+        "lastSeen": "2024-12-09T19:46:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz"
