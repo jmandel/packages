@@ -1332,7 +1332,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "master",
-        "lastSeen": "2024-11-28T10:35:20.000Z"
+        "lastSeen": "2024-12-10T08:49:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/oe_partial/package.tgz",
@@ -1393,6 +1393,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "40_iti_81_theusersearchparameterdoesnotexist",
         "lastSeen": "2024-11-26T15:14:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/update-changelog-EHSEPDBEP-244/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-atc",
+        "branch": "update-changelog-EHSEPDBEP-244",
+        "lastSeen": "2024-12-10T08:51:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz"
@@ -17232,7 +17238,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2024-12-10T08:36:13.000Z"
+        "lastSeen": "2024-12-10T08:47:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -33924,13 +33930,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "master",
-        "lastSeen": "2024-07-18T11:00:43.000Z"
+        "lastSeen": "2024-12-10T09:24:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/v.4.0.1-rc1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "v.4.0.1-rc1",
-        "lastSeen": "2024-12-06T08:48:19.000Z"
+        "lastSeen": "2024-12-10T09:19:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz"
@@ -35832,7 +35838,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "main",
-        "lastSeen": "2024-12-09T07:28:32.000Z"
+        "lastSeen": "2024-12-10T09:23:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/jct-testdependencies/package.tgz",
@@ -36798,7 +36804,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-12-10T07:43:45.000Z"
+        "lastSeen": "2024-12-10T08:39:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
