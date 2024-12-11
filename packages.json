@@ -5934,7 +5934,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2024-12-10T15:56:06.000Z"
+        "lastSeen": "2024-12-11T10:10:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -5964,7 +5964,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2024-12-10T22:08:01.000Z"
+        "lastSeen": "2024-12-11T10:40:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -15534,7 +15534,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "master",
-        "lastSeen": "2024-12-11T08:39:53.000Z"
+        "lastSeen": "2024-12-11T09:52:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/2.2.0/package.tgz",
@@ -34158,7 +34158,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/SKS/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ConditionList-test-scripts",
         "branch": "SKS",
-        "lastSeen": "2024-12-10T12:58:37.000Z"
+        "lastSeen": "2024-12-11T10:30:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/main/package.tgz"
@@ -34446,7 +34446,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
         "branch": "main",
-        "lastSeen": "2024-10-22T11:54:06.000Z"
+        "lastSeen": "2024-12-11T10:42:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz"
@@ -36355,6 +36355,12 @@
         "repo": "https://github.com/costateixeira/smart-trust",
         "branch": "fix-names",
         "lastSeen": "2024-10-28T13:05:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/did-updates/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "did-updates",
+        "lastSeen": "2024-12-11T10:27:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
