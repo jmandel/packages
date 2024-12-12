@@ -2551,6 +2551,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "ql_dependency_upgrade",
         "lastSeen": "2024-12-12T09:17:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_release_401_prep/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_release_401_prep",
+        "lastSeen": "2024-12-12T10:32:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -10416,7 +10422,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh-ps",
         "branch": "master",
-        "lastSeen": "2024-06-14T13:01:46.000Z"
+        "lastSeen": "2024-12-12T10:23:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-ps/branches/master/package.tgz"
@@ -37026,7 +37032,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-12-10T08:39:01.000Z"
+        "lastSeen": "2024-12-12T09:46:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
