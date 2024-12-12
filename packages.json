@@ -12133,6 +12133,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_afmm",
         "lastSeen": "2024-12-09T23:53:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_QA-terminology/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_QA-terminology",
+        "lastSeen": "2024-12-12T02:33:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -19620,7 +19626,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-formulary",
         "branch": "master",
-        "lastSeen": "2024-12-12T00:11:36.000Z"
+        "lastSeen": "2024-12-12T02:14:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/2.0.1/package.tgz",
@@ -22536,7 +22542,7 @@
         "url": "https://build.fhir.org/ig/mtnlotus/pco-ig/branches/main/package.tgz",
         "repo": "https://github.com/mtnlotus/pco-ig",
         "branch": "main",
-        "lastSeen": "2024-12-11T00:48:37.000Z"
+        "lastSeen": "2024-12-12T02:32:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mtnlotus/pco-ig/branches/main/package.tgz"
