@@ -10374,7 +10374,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh",
         "branch": "master",
-        "lastSeen": "2024-12-03T15:51:48.000Z"
+        "lastSeen": "2024-12-12T11:30:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh/branches/master/package.tgz"
@@ -10398,7 +10398,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh-lab/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh-lab",
         "branch": "master",
-        "lastSeen": "2024-09-02T15:28:32.000Z"
+        "lastSeen": "2024-12-12T11:27:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-lab/branches/master/package.tgz"
@@ -10410,7 +10410,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xpandh-mpd/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xpandh-mpd",
         "branch": "master",
-        "lastSeen": "2024-09-02T15:31:14.000Z"
+        "lastSeen": "2024-12-12T11:25:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xpandh-mpd/branches/master/package.tgz"
@@ -34380,7 +34380,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2023-10-25T06:58:36.000Z"
+        "lastSeen": "2024-12-12T11:31:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
@@ -34410,7 +34410,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/MessageDefinition-QA/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "MessageDefinition-QA",
-        "lastSeen": "2024-12-11T08:25:33.000Z"
+        "lastSeen": "2024-12-12T11:37:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/revert-5-MessageDefinition-QA/package.tgz",
+        "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
+        "branch": "revert-5-MessageDefinition-QA",
+        "lastSeen": "2024-12-12T11:23:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
@@ -34525,6 +34531,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
         "branch": "main",
         "lastSeen": "2024-12-11T10:42:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/1.0.0-homecareobservation_messagedefinition/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
+        "branch": "1.0.0-homecareobservation_messagedefinition",
+        "lastSeen": "2024-12-12T11:27:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz"
