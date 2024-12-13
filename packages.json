@@ -1398,7 +1398,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/update-changelog-EHSEPDBEP-244/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "update-changelog-EHSEPDBEP-244",
-        "lastSeen": "2024-12-12T16:27:35.000Z"
+        "lastSeen": "2024-12-13T09:24:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz"
@@ -34255,6 +34255,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
         "branch": "RelaseRCH",
         "lastSeen": "2024-11-15T11:47:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/Main_TestExampledNew/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
+        "branch": "Main_TestExampledNew",
+        "lastSeen": "2024-12-13T09:05:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz"
@@ -36396,7 +36402,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "main",
-        "lastSeen": "2024-11-27T10:53:33.000Z"
+        "lastSeen": "2024-12-13T09:06:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/main/package.tgz",
