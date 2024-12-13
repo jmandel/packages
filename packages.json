@@ -12673,6 +12673,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_resolve-sushi-warnings",
         "lastSeen": "2024-12-06T02:23:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_update-ms-table/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_update-ms-table",
+        "lastSeen": "2024-12-13T00:57:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -15336,7 +15342,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile-BiomedicaUv/SDOH-CL/branches/main/package.tgz",
         "repo": "https://github.com/HL7Chile-BiomedicaUv/SDOH-CL",
         "branch": "main",
-        "lastSeen": "2024-12-12T18:56:05.000Z"
+        "lastSeen": "2024-12-12T23:45:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SIMSADIs/GI-SDOH/branches/main/package.tgz",
