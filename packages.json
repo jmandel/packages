@@ -26773,6 +26773,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "br-48617-isEmptyTuple",
         "lastSeen": "2024-12-10T20:20:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/SDCFixes2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "SDCFixes2",
+        "lastSeen": "2024-12-16T04:33:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -27516,7 +27522,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-normative-2.1/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "BP-normative-2.1",
-        "lastSeen": "2024-12-16T03:22:00.000Z"
+        "lastSeen": "2024-12-16T04:37:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/markdown-conversion/package.tgz"
@@ -28716,7 +28722,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2024-12-16T03:36:03.000Z"
+        "lastSeen": "2024-12-16T03:59:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
