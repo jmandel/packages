@@ -4303,6 +4303,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "oe_76",
         "lastSeen": "2024-12-17T12:46:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/3.1.0/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "3.1.0",
+        "lastSeen": "2024-12-17T13:43:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -18732,7 +18738,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "master",
-        "lastSeen": "2024-12-12T19:41:54.000Z"
+        "lastSeen": "2024-12-17T14:13:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/submodule/package.tgz",
@@ -19812,7 +19818,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2024-12-17T12:56:17.000Z"
+        "lastSeen": "2024-12-17T13:43:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -30000,7 +30006,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "master",
-        "lastSeen": "2024-12-16T05:58:38.000Z"
+        "lastSeen": "2024-12-17T14:18:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
@@ -36301,6 +36307,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "jct-testdependencies",
         "lastSeen": "2024-09-18T09:00:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/2024-backup/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
+        "branch": "2024-backup",
+        "lastSeen": "2024-12-17T14:30:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
