@@ -4218,7 +4218,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2024-11-27T12:54:12.000Z"
+        "lastSeen": "2024-12-17T10:38:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -8730,7 +8730,7 @@
         "url": "https://build.fhir.org/ig/SanteonNL/shared-care-planning/branches/update-examples-and-capabilitystatement/package.tgz",
         "repo": "https://github.com/SanteonNL/shared-care-planning",
         "branch": "update-examples-and-capabilitystatement",
-        "lastSeen": "2024-12-13T13:34:34.000Z"
+        "lastSeen": "2024-12-17T10:54:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/santeonnl/shared-care-planning/branches/main/package.tgz"
@@ -12204,7 +12204,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr_sex-gend-guide/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "cr_sex-gend-guide",
-        "lastSeen": "2024-12-08T10:03:40.000Z"
+        "lastSeen": "2024-12-17T11:34:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_afmm/package.tgz",
@@ -13012,6 +13012,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/capabilities/branches/master/package.tgz"
+  },
+  "hl7.fhir.be.care-coordination": {
+    "name": "hl7.fhir.be.care-coordination",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/care-coordination/branches/jct-careplan/package.tgz",
+        "repo": "https://github.com/hl7-be/care-coordination",
+        "branch": "jct-careplan",
+        "lastSeen": "2024-12-17T10:58:13.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-be/care-coordination/branches/jct-careplan/package.tgz"
   },
   "hl7.fhir.be.consent": {
     "name": "hl7.fhir.be.consent",
