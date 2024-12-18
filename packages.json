@@ -1224,7 +1224,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "master",
-        "lastSeen": "2024-12-18T09:11:22.000Z"
+        "lastSeen": "2024-12-18T10:28:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/updateLicense/package.tgz",
@@ -2124,7 +2124,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2024-12-17T21:17:54.000Z"
+        "lastSeen": "2024-12-18T10:15:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -2910,7 +2910,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "main",
-        "lastSeen": "2024-11-27T16:01:20.000Z"
+        "lastSeen": "2024-12-18T10:38:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/workaround_sdc_problem/package.tgz",
@@ -3138,7 +3138,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "master",
-        "lastSeen": "2024-12-18T06:14:33.000Z"
+        "lastSeen": "2024-12-18T10:24:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/v1.0.0-ballot/package.tgz",
@@ -3486,7 +3486,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "master",
-        "lastSeen": "2024-12-18T08:31:43.000Z"
+        "lastSeen": "2024-12-18T10:27:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/1-tvt/package.tgz",
@@ -3936,7 +3936,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-orf",
         "branch": "master",
-        "lastSeen": "2024-12-18T08:21:07.000Z"
+        "lastSeen": "2024-12-18T10:31:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/oe_update_core/package.tgz",
@@ -4128,7 +4128,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "master",
-        "lastSeen": "2024-12-18T09:36:21.000Z"
+        "lastSeen": "2024-12-18T10:32:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/issue59_mz/package.tgz",
@@ -4195,6 +4195,12 @@
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "usecases",
         "lastSeen": "2024-11-27T12:18:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/2.0.0/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-rad-order",
+        "branch": "2.0.0",
+        "lastSeen": "2024-12-18T10:09:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/secondwind_map/package.tgz"
@@ -4368,7 +4374,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2024-12-18T07:21:59.000Z"
+        "lastSeen": "2024-12-18T10:28:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -5604,7 +5610,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.90.1-beta.1-SMJ/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "v0.90.1-beta.1-SMJ",
-        "lastSeen": "2024-12-17T09:03:53.000Z"
+        "lastSeen": "2024-12-18T09:47:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
