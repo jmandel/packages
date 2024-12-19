@@ -7789,6 +7789,12 @@
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "34-correct-fhirhelpers-version-and-continue-with-testing-cql-evaluation-and-questionnaireresponse-pre-population-for-the-questionnaires-and-libraries-in-cqf-us",
         "lastSeen": "2024-10-04T16:04:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/update-patterns/package.tgz",
+        "repo": "https://github.com/cqframework/cqf-us",
+        "branch": "update-patterns",
+        "lastSeen": "2024-12-19T18:49:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz"
@@ -15414,7 +15420,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/IPS-CL",
         "branch": "master",
-        "lastSeen": "2024-12-18T00:11:22.000Z"
+        "lastSeen": "2024-12-19T19:40:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/Tesis/package.tgz",
@@ -21822,7 +21828,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/STU2_0/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "STU2_0",
-        "lastSeen": "2024-12-03T18:44:07.000Z"
+        "lastSeen": "2024-12-19T18:45:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
@@ -26178,7 +26184,7 @@
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/master/package.tgz",
         "repo": "https://github.com/HL7/data-access-policies",
         "branch": "master",
-        "lastSeen": "2024-08-21T19:15:13.000Z"
+        "lastSeen": "2024-12-19T19:07:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/moehrke-kanonymity/package.tgz",
@@ -26208,7 +26214,7 @@
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/moehrke-consent-provisionReference/package.tgz",
         "repo": "https://github.com/HL7/data-access-policies",
         "branch": "moehrke-consent-provisionReference",
-        "lastSeen": "2024-12-18T13:31:16.000Z"
+        "lastSeen": "2024-12-19T19:00:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/JohnMoehrke-non-patient-notes/package.tgz",
@@ -28038,7 +28044,7 @@
         "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/ig-guidance",
         "branch": "master",
-        "lastSeen": "2024-12-18T00:03:56.000Z"
+        "lastSeen": "2024-12-19T19:26:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/plantuml-styling/package.tgz",
