@@ -10680,7 +10680,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-metadata/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-metadata",
         "branch": "main",
-        "lastSeen": "2024-12-06T13:40:05.000Z"
+        "lastSeen": "2024-12-26T15:29:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-metadata/branches/logical-data-types/package.tgz",
@@ -17431,6 +17431,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "nr-update-is-links",
         "lastSeen": "2024-12-23T15:56:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/FinalisationMappingPosologie/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
+        "branch": "FinalisationMappingPosologie",
+        "lastSeen": "2024-12-26T15:32:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -26436,7 +26442,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2024-12-19T14:29:51.000Z"
+        "lastSeen": "2024-12-26T15:05:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
