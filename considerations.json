@@ -678,5 +678,13 @@
       "repo": "https://github.com/costateixeira/commonprofiles",
       "branch": "master"
     }
+  },
+  {
+    "name": "zambia.hie.fhir",
+    "current": {
+      "url": "https://build.fhir.org/ig/jembi/Zambia-Immunizations/branches/local-template/package.tgz",
+      "repo": "https://github.com/jembi/Zambia-Immunizations",
+      "branch": "local-template"
+    }
   }
 ]
