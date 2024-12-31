@@ -10428,7 +10428,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2024-12-31T07:15:34.000Z"
+        "lastSeen": "2024-12-31T17:08:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/puml-subdir/package.tgz",
@@ -27312,7 +27312,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2024-12-31T16:39:00.000Z"
+        "lastSeen": "2024-12-31T17:13:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -28537,6 +28537,12 @@
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "actor-version-to-1",
         "lastSeen": "2024-10-02T19:35:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/various-qa-improvements/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ipa",
+        "branch": "various-qa-improvements",
+        "lastSeen": "2024-12-31T16:59:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz"
