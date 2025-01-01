@@ -208,14 +208,6 @@
     }
   },
   {
-    "name": "hl7.fhir.be.etariff",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7-be/etariff/branches/master/package.tgz",
-      "repo": "https://github.com/hl7-be/etariff",
-      "branch": "master"
-    }
-  },
-  {
     "name": "hl7.fhir.be.infsec",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/master/package.tgz",
@@ -557,14 +549,6 @@
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-HomeCareObservation-testscripts/branches/main/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-HomeCareObservation-testscripts",
       "branch": "main"
-    }
-  },
-  {
-    "name": "medcom.fhir.dk.hospitalnotification",
-    "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/MessageDefinition/package.tgz",
-      "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
-      "branch": "MessageDefinition"
     }
   },
   {
