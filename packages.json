@@ -9228,7 +9228,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2024/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2024",
         "branch": "main",
-        "lastSeen": "2025-01-02T20:09:53.000Z"
+        "lastSeen": "2025-01-03T18:08:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2024/branches/update-to-remove-duplicates/package.tgz",
@@ -17497,6 +17497,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "FinalisationMappingPosologie",
         "lastSeen": "2025-01-03T16:56:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-pn13-example/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
+        "branch": "nr-pn13-example",
+        "lastSeen": "2025-01-03T17:44:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -22224,7 +22230,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2024-12-30T17:23:16.000Z"
+        "lastSeen": "2025-01-03T18:15:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -22764,7 +22770,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-fix-fhir48900/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-fix-fhir48900",
-        "lastSeen": "2024-12-30T15:13:39.000Z"
+        "lastSeen": "2025-01-03T18:15:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
