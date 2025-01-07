@@ -6421,6 +6421,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-IV-Diabetes-R4",
         "branch": "dev",
         "lastSeen": "2025-01-07T08:13:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-IV-Diabetes-R4/branches/dev_ips/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-IV-Diabetes-R4",
+        "branch": "dev_ips",
+        "lastSeen": "2025-01-07T13:54:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ELGA-GmbH/iv-diab/branches/main/package.tgz"
@@ -16332,7 +16338,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions-r5",
         "branch": "master",
-        "lastSeen": "2024-12-24T12:07:28.000Z"
+        "lastSeen": "2025-01-07T13:53:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
