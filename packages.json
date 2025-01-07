@@ -7698,7 +7698,7 @@
         "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
         "branch": "master",
-        "lastSeen": "2024-12-02T15:34:47.000Z"
+        "lastSeen": "2025-01-07T15:51:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/W281-ig-qa-error/package.tgz",
@@ -27973,6 +27973,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "reqs-in-profile",
         "lastSeen": "2024-12-31T16:25:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/remove-duplicate-reqs/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "remove-duplicate-reqs",
+        "lastSeen": "2025-01-07T15:14:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
