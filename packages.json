@@ -33576,7 +33576,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-01-09T16:43:21.000Z"
+        "lastSeen": "2025-01-09T17:24:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
@@ -36388,6 +36388,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/wof-portal-fhir-ig/branches/master/package.tgz"
+  },
+  "pt-patient-visit": {
+    "name": "pt-patient-visit",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/workflow-ep-ig/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-pt/workflow-ep-ig",
+        "branch": "master",
+        "lastSeen": "2025-01-09T17:31:02.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-pt/workflow-ep-ig/branches/master/package.tgz"
   },
   "r4.fhir.nilo.services": {
     "name": "r4.fhir.nilo.services",
