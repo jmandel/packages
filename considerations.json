@@ -568,6 +568,14 @@
     }
   },
   {
+    "name": "sil_fhir_profile_ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
+      "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "smart.who.int.example-workshop",
     "current": {
       "url": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-07-indicators/package.tgz",
