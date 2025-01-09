@@ -7735,6 +7735,12 @@
         "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
         "branch": "E1226-W386-add-limited-related-person-profile",
         "lastSeen": "2025-01-07T18:19:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W384-add-patient-order-1-metadata/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+        "branch": "E1226-W384-add-patient-order-1-metadata",
+        "lastSeen": "2025-01-09T21:28:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
@@ -18966,7 +18972,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2025-01-09T00:12:11.000Z"
+        "lastSeen": "2025-01-09T21:30:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
