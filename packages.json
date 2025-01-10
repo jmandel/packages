@@ -27492,7 +27492,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2024-12-31T17:13:15.000Z"
+        "lastSeen": "2025-01-10T15:20:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -28846,6 +28846,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
+  },
+  "hl7.fhir.uv.javascript": {
+    "name": "hl7.fhir.uv.javascript",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/bvdh/hl7-javascript-expression/branches/master/package.tgz",
+        "repo": "https://github.com/bvdh/hl7-javascript-expression",
+        "branch": "master",
+        "lastSeen": "2025-01-10T14:54:55.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/bvdh/hl7-javascript-expression/branches/master/package.tgz"
   },
   "hl7.fhir.uv.lab-report": {
     "name": "hl7.fhir.uv.lab-report",
