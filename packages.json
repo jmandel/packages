@@ -10974,7 +10974,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-01-14T09:36:39.000Z"
+        "lastSeen": "2025-01-15T22:44:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -11304,7 +11304,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/5.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "5.0.0",
-        "lastSeen": "2025-01-15T07:09:07.000Z"
+        "lastSeen": "2025-01-15T22:35:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-5.0.0/package.tgz",
@@ -11352,7 +11352,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-5.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "release-5.0.0",
-        "lastSeen": "2025-01-15T09:07:43.000Z"
+        "lastSeen": "2025-01-15T22:37:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -11382,7 +11382,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-01-15T21:10:28.000Z"
+        "lastSeen": "2025-01-15T23:05:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -14425,6 +14425,12 @@
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "restart",
         "lastSeen": "2025-01-15T17:49:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "master",
+        "lastSeen": "2025-01-15T22:47:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-care/branches/restart/package.tgz"
