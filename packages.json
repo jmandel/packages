@@ -5628,7 +5628,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2025-01-14T11:53:27.000Z"
+        "lastSeen": "2025-01-15T09:00:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.9.0-beta.1/package.tgz",
@@ -5958,7 +5958,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FDD0159_CCR0213_FUT1-16217_feature_branch/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FDD0159_CCR0213_FUT1-16217_feature_branch",
-        "lastSeen": "2025-01-15T06:45:20.000Z"
+        "lastSeen": "2025-01-15T09:18:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-16721_CCRR0226_S2_derived/package.tgz",
@@ -6661,6 +6661,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
         "lastSeen": "2025-01-11T07:12:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "presentedForm",
+        "lastSeen": "2025-01-15T09:33:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -11334,7 +11340,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-5.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "release-5.0.0",
-        "lastSeen": "2025-01-15T07:40:58.000Z"
+        "lastSeen": "2025-01-15T09:07:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -32106,7 +32112,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-01-15T07:46:18.000Z"
+        "lastSeen": "2025-01-15T09:04:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
