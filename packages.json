@@ -1764,7 +1764,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-01-09T16:01:30.000Z"
+        "lastSeen": "2025-01-16T16:27:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -5045,6 +5045,18 @@
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz"
   },
+  "clicsante.template.base": {
+    "name": "clicsante.template.base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/Hl7-Fhir-template/branches/master/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/Hl7-Fhir-template",
+        "branch": "master",
+        "lastSeen": "2025-01-16T15:46:06.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/trimoz-technologies/Hl7-Fhir-template/branches/master/package.tgz"
+  },
   "cms.fhir.mct": {
     "name": "cms.fhir.mct",
     "locations": [
@@ -6090,7 +6102,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-16T15:10:39.000Z"
+        "lastSeen": "2025-01-16T16:16:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -6150,7 +6162,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-01-16T15:31:18.000Z"
+        "lastSeen": "2025-01-16T16:31:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -6180,7 +6192,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2025-01-16T15:39:27.000Z"
+        "lastSeen": "2025-01-16T16:42:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -35190,7 +35202,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/4.0.0_TestExamplesForConversionService/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "4.0.0_TestExamplesForConversionService",
-        "lastSeen": "2025-01-16T15:29:08.000Z"
+        "lastSeen": "2025-01-16T16:17:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
