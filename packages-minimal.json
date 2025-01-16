@@ -688,6 +688,14 @@
     }
   },
   {
+    "name": "clicsante.ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz",
+      "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+      "branch": "master"
+    }
+  },
+  {
     "name": "clicsante.template.base",
     "current": {
       "url": "https://build.fhir.org/ig/trimoz-technologies/Hl7-Fhir-template/branches/master/package.tgz",

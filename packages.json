@@ -5045,6 +5045,18 @@
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/master/package.tgz"
   },
+  "clicsante.ig": {
+    "name": "clicsante.ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+        "branch": "master",
+        "lastSeen": "2025-01-16T16:54:53.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
+  },
   "clicsante.template.base": {
     "name": "clicsante.template.base",
     "locations": [
@@ -5052,7 +5064,7 @@
         "url": "https://build.fhir.org/ig/trimoz-technologies/Hl7-Fhir-template/branches/master/package.tgz",
         "repo": "https://github.com/trimoz-technologies/Hl7-Fhir-template",
         "branch": "master",
-        "lastSeen": "2025-01-16T15:46:06.000Z"
+        "lastSeen": "2025-01-16T16:51:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/trimoz-technologies/Hl7-Fhir-template/branches/master/package.tgz"
@@ -6162,7 +6174,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-01-16T16:31:37.000Z"
+        "lastSeen": "2025-01-16T16:46:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
