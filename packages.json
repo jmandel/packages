@@ -11388,7 +11388,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-01-15T23:05:46.000Z"
+        "lastSeen": "2025-01-16T03:14:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -12601,6 +12601,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_qa-github-sd",
         "lastSeen": "2025-01-16T02:38:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_qa-github-info-1/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_qa-github-info-1",
+        "lastSeen": "2025-01-16T02:50:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
