@@ -3276,7 +3276,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2024-11-15T16:09:51.000Z"
+        "lastSeen": "2025-01-17T20:09:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -24030,7 +24030,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.3",
-        "lastSeen": "2025-01-17T19:02:49.000Z"
+        "lastSeen": "2025-01-17T20:21:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -26364,7 +26364,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2024-11-01T18:09:19.000Z"
+        "lastSeen": "2025-01-17T20:41:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -38953,6 +38953,12 @@
         "repo": "https://github.com/I-TECH-UW/smart-hiv",
         "branch": "CQF",
         "lastSeen": "2024-03-05T18:32:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/dhes/smart-anc/branches/master/package.tgz",
+        "repo": "https://github.com/dhes/smart-anc",
+        "branch": "master",
+        "lastSeen": "2025-01-17T20:00:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/master/package.tgz"
