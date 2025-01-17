@@ -11430,7 +11430,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-01-17T00:57:33.000Z"
+        "lastSeen": "2025-01-17T05:21:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -12654,7 +12654,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ed-fixes/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_ed-fixes",
-        "lastSeen": "2025-01-16T23:47:54.000Z"
+        "lastSeen": "2025-01-17T04:48:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/tc_annebenelong/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "tc_annebenelong",
+        "lastSeen": "2025-01-17T05:23:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_qa-capstat/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_qa-capstat",
+        "lastSeen": "2025-01-17T04:43:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
