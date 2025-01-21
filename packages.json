@@ -2358,13 +2358,19 @@
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz",
         "repo": "https://github.com/CARA-ch/ch-emed-epr",
         "branch": "master",
-        "lastSeen": "2025-01-20T14:15:06.000Z"
+        "lastSeen": "2025-01-21T09:36:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/v1.0.0/package.tgz",
         "repo": "https://github.com/CARA-ch/ch-emed-epr",
         "branch": "v1.0.0",
         "lastSeen": "2024-01-26T11:07:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/v2.0.0/package.tgz",
+        "repo": "https://github.com/CARA-ch/ch-emed-epr",
+        "branch": "v2.0.0",
+        "lastSeen": "2025-01-21T09:29:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz"
@@ -17826,7 +17832,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nriss-patch-2/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nriss-patch-2",
-        "lastSeen": "2025-01-20T15:02:04.000Z"
+        "lastSeen": "2025-01-21T09:20:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -35772,7 +35778,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
         "branch": "main",
-        "lastSeen": "2024-12-11T10:42:10.000Z"
+        "lastSeen": "2025-01-21T09:07:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/1.0.0-homecareobservation_messagedefinition/package.tgz",
@@ -38424,7 +38430,7 @@
         "url": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz",
         "repo": "https://github.com/cctwFHIRterm/MOHW_TWCoreIG_Build",
         "branch": "main",
-        "lastSeen": "2024-12-23T09:27:43.000Z"
+        "lastSeen": "2025-01-21T09:02:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cctwFHIRterm/MOHW_TWCoreIG_Build/branches/main/package.tgz"
