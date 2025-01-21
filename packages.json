@@ -1764,7 +1764,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-01-16T16:27:13.000Z"
+        "lastSeen": "2025-01-21T11:37:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -6042,7 +6042,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-17457_CCR0232_feature/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-17457_CCR0232_feature",
-        "lastSeen": "2025-01-09T13:12:26.000Z"
+        "lastSeen": "2025-01-21T11:36:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-16722_terminology/package.tgz",
@@ -9786,7 +9786,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/AG-IV-APS/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "AG-IV-APS",
-        "lastSeen": "2025-01-17T11:40:58.000Z"
+        "lastSeen": "2025-01-21T12:24:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/extension-test/package.tgz",
@@ -13297,6 +13297,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_qa-batch",
         "lastSeen": "2025-01-21T05:32:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_sex-gender/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_sex-gender",
+        "lastSeen": "2025-01-21T12:28:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -16116,7 +16122,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/NID/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/NID",
         "branch": "master",
-        "lastSeen": "2024-12-13T17:04:40.000Z"
+        "lastSeen": "2025-01-21T12:04:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/NID/branches/master/package.tgz"
@@ -35784,7 +35790,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
         "branch": "main",
-        "lastSeen": "2025-01-21T10:10:58.000Z"
+        "lastSeen": "2025-01-21T11:52:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/1.0.0-homecareobservation_messagedefinition/package.tgz",
@@ -37087,6 +37093,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
         "lastSeen": "2025-01-13T06:35:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "refactor-episod-of-care-IG",
+        "lastSeen": "2025-01-21T12:38:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -37686,7 +37698,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/2.0.0/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
         "branch": "2.0.0",
-        "lastSeen": "2025-01-21T10:52:11.000Z"
+        "lastSeen": "2025-01-21T11:52:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage/branches/main/package.tgz",
