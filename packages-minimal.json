@@ -5552,6 +5552,14 @@
     }
   },
   {
+    "name": "medcom.fhir.dk.coredocument",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core-document/branches/main/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-core-document",
+      "branch": "main"
+    }
+  },
+  {
     "name": "medcom.fhir.dk.diagnosiscard",
     "current": {
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-diagnosiscard/branches/main/package.tgz",
