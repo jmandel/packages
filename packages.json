@@ -7368,7 +7368,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/v2016/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "v2016",
-        "lastSeen": "2024-08-29T04:46:56.000Z"
+        "lastSeen": "2025-01-22T17:47:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/267-profiles-path-to-ig-tables/package.tgz",
@@ -20587,6 +20587,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-47451-The-expression-for-the-SubjectList-Measure-Report-deqm-2-seems-to-be-incorrectly-written",
         "lastSeen": "2025-01-21T20:50:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-47452-The-expression-for-the-SubjectList-Measure-Report-deqm-3-seems-to-be-incorrectly-written/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-47452-The-expression-for-the-SubjectList-Measure-Report-deqm-3-seems-to-be-incorrectly-written",
+        "lastSeen": "2025-01-22T18:24:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -26316,7 +26322,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "main",
-        "lastSeen": "2025-01-22T14:06:44.000Z"
+        "lastSeen": "2025-01-22T17:47:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/dependency-updates/package.tgz",
@@ -26401,6 +26407,12 @@
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "br-update-links",
         "lastSeen": "2024-11-08T17:11:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/isaacvetter-patch-1/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks-library",
+        "branch": "isaacvetter-patch-1",
+        "lastSeen": "2025-01-22T17:50:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz"
@@ -34146,7 +34158,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-01-22T17:18:48.000Z"
+        "lastSeen": "2025-01-22T17:41:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
