@@ -2070,7 +2070,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/susceptibility/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "susceptibility",
-        "lastSeen": "2025-01-16T09:29:41.000Z"
+        "lastSeen": "2025-01-22T09:26:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/170_updates/package.tgz",
@@ -6138,7 +6138,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-21T16:53:16.000Z"
+        "lastSeen": "2025-01-22T09:37:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -6162,7 +6162,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-22T08:34:32.000Z"
+        "lastSeen": "2025-01-22T09:34:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -10871,6 +10871,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz"
   },
+  "hl7.eu.fhir.xshare-ipsr": {
+    "name": "hl7.eu.fhir.xshare-ipsr",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/xshare-ipsr/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-eu/xshare-ipsr",
+        "branch": "master",
+        "lastSeen": "2025-01-22T09:36:06.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-eu/xshare-ipsr/branches/master/package.tgz"
+  },
   "hl7.eu.fhir.xt-ehr.common": {
     "name": "hl7.eu.fhir.xt-ehr.common",
     "locations": [
@@ -12744,7 +12756,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/1.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "1.0.0",
-        "lastSeen": "2025-01-22T08:14:47.000Z"
+        "lastSeen": "2025-01-22T09:04:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr-aucdi-relationship/package.tgz",
@@ -35598,7 +35610,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core-document/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core-document",
         "branch": "main",
-        "lastSeen": "2025-01-22T08:25:35.000Z"
+        "lastSeen": "2025-01-22T08:53:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core-document/branches/main/package.tgz"
