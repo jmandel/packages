@@ -35832,7 +35832,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/MessageDefinition-QA/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "MessageDefinition-QA",
-        "lastSeen": "2025-01-10T13:13:09.000Z"
+        "lastSeen": "2025-01-23T12:47:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/revert-5-MessageDefinition-QA/package.tgz",
@@ -36090,7 +36090,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "master",
-        "lastSeen": "2024-11-12T07:16:32.000Z"
+        "lastSeen": "2025-01-23T13:32:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/v-1.4.0-1rc/package.tgz",
@@ -38041,6 +38041,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "did-updates",
         "lastSeen": "2024-12-11T11:28:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/VHLPayload/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "VHLPayload",
+        "lastSeen": "2025-01-23T13:33:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
