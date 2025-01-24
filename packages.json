@@ -5604,7 +5604,7 @@
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/master/package.tgz",
         "repo": "https://github.com/CEOsys/ig-template-ceosys",
         "branch": "master",
-        "lastSeen": "2024-08-23T08:43:32.000Z"
+        "lastSeen": "2025-01-24T12:48:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/v0.1.1/package.tgz",
@@ -5617,6 +5617,12 @@
         "repo": "https://github.com/CEOsys/ig-template-ceosys",
         "branch": "v0.1.2",
         "lastSeen": "2024-08-23T08:43:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/glichtner-patch-1/package.tgz",
+        "repo": "https://github.com/CEOsys/ig-template-ceosys",
+        "branch": "glichtner-patch-1",
+        "lastSeen": "2025-01-24T12:48:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/master/package.tgz"
@@ -6474,7 +6480,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-01-20T14:17:24.000Z"
+        "lastSeen": "2025-01-24T12:47:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -6792,7 +6798,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-01-24T10:00:48.000Z"
+        "lastSeen": "2025-01-24T12:34:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -9823,6 +9829,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "test-publication",
         "lastSeen": "2025-01-21T10:25:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/STU2-release-preparation/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "STU2-release-preparation",
+        "lastSeen": "2025-01-24T12:47:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -38088,7 +38100,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/VHLPayload/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "VHLPayload",
-        "lastSeen": "2025-01-23T14:02:57.000Z"
+        "lastSeen": "2025-01-24T12:40:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
