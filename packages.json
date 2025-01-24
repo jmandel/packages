@@ -12756,7 +12756,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-related-person/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-related-person",
-        "lastSeen": "2025-01-22T23:57:52.000Z"
+        "lastSeen": "2025-01-24T00:30:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_qa-github/package.tgz",
@@ -34218,7 +34218,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-01-23T20:28:55.000Z"
+        "lastSeen": "2025-01-24T00:58:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
@@ -34417,6 +34417,12 @@
         "repo": "https://github.com/jgsuess/ph-ig-review",
         "branch": "master",
         "lastSeen": "2025-01-23T02:13:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jgsuess/ph-ig-review/branches/3-add-front-page-text/package.tgz",
+        "repo": "https://github.com/jgsuess/ph-ig-review",
+        "branch": "3-add-front-page-text",
+        "lastSeen": "2025-01-24T00:43:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jgsuess/ph-ig-review/branches/master/package.tgz"
