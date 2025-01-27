@@ -6210,7 +6210,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-22T14:46:23.000Z"
+        "lastSeen": "2025-01-27T15:17:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -6234,7 +6234,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-27T14:30:29.000Z"
+        "lastSeen": "2025-01-27T15:00:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -6270,7 +6270,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-01-22T14:45:04.000Z"
+        "lastSeen": "2025-01-27T15:26:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -6300,7 +6300,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2025-01-27T14:22:26.000Z"
+        "lastSeen": "2025-01-27T15:19:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -6588,7 +6588,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-IV-Diabetes-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-IV-Diabetes-R4",
         "branch": "main",
-        "lastSeen": "2024-05-29T09:18:53.000Z"
+        "lastSeen": "2025-01-27T15:06:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-IV-Diabetes-R4/branches/update-dataset/package.tgz",
@@ -6619,6 +6619,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-IV-Diabetes-R4",
         "branch": "dev2",
         "lastSeen": "2025-01-13T14:22:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-IV-Diabetes-R4/branches/update/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-IV-Diabetes-R4",
+        "branch": "update",
+        "lastSeen": "2025-01-27T15:01:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ELGA-GmbH/iv-diab/branches/main/package.tgz"
@@ -38148,7 +38154,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/draft-logical-model/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt",
         "branch": "draft-logical-model",
-        "lastSeen": "2025-01-27T13:45:41.000Z"
+        "lastSeen": "2025-01-27T14:59:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/draft-logical-model/package.tgz"
@@ -40393,6 +40399,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "jct-patch-form",
         "lastSeen": "2024-07-12T14:33:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/update-artifacts-page/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
+        "branch": "update-artifacts-page",
+        "lastSeen": "2025-01-27T15:21:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
