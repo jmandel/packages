@@ -6228,7 +6228,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-27T10:32:48.000Z"
+        "lastSeen": "2025-01-27T11:39:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -9739,6 +9739,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "fix-publication-setup",
         "lastSeen": "2025-01-27T08:54:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/prepare-next-release/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "prepare-next-release",
+        "lastSeen": "2025-01-27T10:54:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -9907,6 +9913,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "prepare-next-release",
         "lastSeen": "2025-01-24T14:52:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/tidy-up/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "tidy-up",
+        "lastSeen": "2025-01-27T10:58:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -32688,7 +32700,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-01-27T10:00:31.000Z"
+        "lastSeen": "2025-01-27T11:20:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -36156,7 +36168,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/v.3.0.0-rc1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "v.3.0.0-rc1",
-        "lastSeen": "2025-01-27T10:26:01.000Z"
+        "lastSeen": "2025-01-27T10:47:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
