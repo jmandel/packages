@@ -6498,7 +6498,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-01-24T12:47:08.000Z"
+        "lastSeen": "2025-01-27T07:56:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -8905,6 +8905,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "main",
         "lastSeen": "2025-01-22T15:17:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/test-scripts/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "test-scripts",
+        "lastSeen": "2025-01-27T08:35:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -9582,7 +9588,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2025-01-24T15:25:17.000Z"
+        "lastSeen": "2025-01-27T07:42:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -9727,6 +9733,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "STU2",
         "lastSeen": "2025-01-27T05:57:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/fix-publication-setup/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "fix-publication-setup",
+        "lastSeen": "2025-01-27T08:27:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -37465,6 +37477,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "fhir-profilesV2",
         "lastSeen": "2025-01-23T09:30:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/sghi-profile/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "sghi-profile",
+        "lastSeen": "2025-01-27T08:28:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -39096,7 +39114,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/HL7-FHIR-Implementation-Guide/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/HL7-FHIR-Implementation-Guide",
         "branch": "main",
-        "lastSeen": "2025-01-27T07:31:58.000Z"
+        "lastSeen": "2025-01-27T08:14:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KevinMayfield/VirtuallyHealthcare/branches/main/package.tgz"
