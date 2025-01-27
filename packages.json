@@ -6006,7 +6006,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-16212-clinicalimpression-support-invalidation-of-measurements/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-16212-clinicalimpression-support-invalidation-of-measurements",
-        "lastSeen": "2025-01-27T09:29:37.000Z"
+        "lastSeen": "2025-01-27T09:39:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-11905/package.tgz",
@@ -6228,7 +6228,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-22T14:04:04.000Z"
+        "lastSeen": "2025-01-27T10:32:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -9588,7 +9588,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2025-01-27T07:42:48.000Z"
+        "lastSeen": "2025-01-27T10:22:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -16494,7 +16494,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-01-11T14:05:09.000Z"
+        "lastSeen": "2025-01-27T10:06:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -29778,7 +29778,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/ACOM-GHS-support/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "ACOM-GHS-support",
-        "lastSeen": "2025-01-21T14:01:44.000Z"
+        "lastSeen": "2025-01-27T10:07:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/es-prepub-qa/package.tgz",
@@ -32688,7 +32688,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-01-27T09:15:39.000Z"
+        "lastSeen": "2025-01-27T10:00:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -36156,7 +36156,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/v.3.0.0-rc1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "v.3.0.0-rc1",
-        "lastSeen": "2025-01-22T12:27:11.000Z"
+        "lastSeen": "2025-01-27T10:26:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
@@ -38098,6 +38098,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
+  },
+  "smart.who.int.pcmt": {
+    "name": "smart.who.int.pcmt",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/draft-logical-model/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-pcmt",
+        "branch": "draft-logical-model",
+        "lastSeen": "2025-01-27T10:07:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/draft-logical-model/package.tgz"
   },
   "smart.who.int.ph4h": {
     "name": "smart.who.int.ph4h",
