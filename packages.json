@@ -5826,7 +5826,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2025-01-08T11:02:49.000Z"
+        "lastSeen": "2025-01-28T14:33:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -6018,7 +6018,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-16212-clinicalimpression-support-invalidation-of-measurements/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-16212-clinicalimpression-support-invalidation-of-measurements",
-        "lastSeen": "2025-01-27T19:26:05.000Z"
+        "lastSeen": "2025-01-28T14:25:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-11905/package.tgz",
@@ -6216,13 +6216,19 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-28T13:18:52.000Z"
+        "lastSeen": "2025-01-28T14:35:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "security-translation",
         "lastSeen": "2024-12-12T07:19:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/operations-included/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eas",
+        "branch": "operations-included",
+        "lastSeen": "2025-01-28T13:58:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz"
@@ -6276,7 +6282,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-01-27T15:44:11.000Z"
+        "lastSeen": "2025-01-28T13:51:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -6306,7 +6312,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2025-01-27T15:19:43.000Z"
+        "lastSeen": "2025-01-28T14:00:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -36042,7 +36048,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/MessageDefinition-QA/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "MessageDefinition-QA",
-        "lastSeen": "2025-01-23T12:47:55.000Z"
+        "lastSeen": "2025-01-28T13:42:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/revert-5-MessageDefinition-QA/package.tgz",
