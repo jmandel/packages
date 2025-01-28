@@ -27401,6 +27401,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/ehrs-rle-ig/branches/master/package.tgz"
   },
+  "hl7.fhir.uv.ehrsfmr2": {
+    "name": "hl7.fhir.uv.ehrsfmr2",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/mvdzel/ehrsfm-fhir-r5/branches/master/package.tgz",
+        "repo": "https://github.com/mvdzel/ehrsfm-fhir-r5",
+        "branch": "master",
+        "lastSeen": "2025-01-28T12:05:07.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/mvdzel/ehrsfm-fhir-r5/branches/master/package.tgz"
+  },
   "hl7.fhir.uv.emedicinal-product-info": {
     "name": "hl7.fhir.uv.emedicinal-product-info",
     "locations": [
