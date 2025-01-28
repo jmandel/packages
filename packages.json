@@ -805,6 +805,18 @@
         "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
         "branch": "E1226-W425-add-appointment-order-1-metadata",
         "lastSeen": "2025-01-28T15:20:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W384-add-patient-order-1-metadata/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+        "branch": "E1226-W384-add-patient-order-1-metadata",
+        "lastSeen": "2025-01-28T16:02:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W390-add-resident-extension/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+        "branch": "E1226-W390-add-resident-extension",
+        "lastSeen": "2025-01-28T16:00:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
@@ -2406,7 +2418,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "master",
-        "lastSeen": "2025-01-28T09:01:35.000Z"
+        "lastSeen": "2025-01-28T16:30:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2024/package.tgz",
@@ -6222,7 +6234,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-28T14:49:22.000Z"
+        "lastSeen": "2025-01-28T16:37:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -6234,7 +6246,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/operations-included/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "operations-included",
-        "lastSeen": "2025-01-28T15:03:19.000Z"
+        "lastSeen": "2025-01-28T16:36:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz"
@@ -15157,6 +15169,12 @@
         "repo": "https://github.com/hl7-be/pss",
         "branch": "cpg-antimicrobiology",
         "lastSeen": "2025-01-05T07:31:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pss/branches/examples/package.tgz",
+        "repo": "https://github.com/hl7-be/pss",
+        "branch": "examples",
+        "lastSeen": "2025-01-28T16:43:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -24162,7 +24180,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2024-12-08T21:20:07.000Z"
+        "lastSeen": "2025-01-28T16:29:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -26809,6 +26827,12 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "cleanup2",
         "lastSeen": "2025-01-24T22:32:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/apply_scope/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "apply_scope",
+        "lastSeen": "2025-01-28T16:02:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
