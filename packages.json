@@ -828,7 +828,7 @@
         "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W384-add-patient-order-1-metadata-fix-qa/package.tgz",
         "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
         "branch": "E1226-W384-add-patient-order-1-metadata-fix-qa",
-        "lastSeen": "2025-01-28T22:13:43.000Z"
+        "lastSeen": "2025-01-29T17:57:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
@@ -6288,7 +6288,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-29T17:06:00.000Z"
+        "lastSeen": "2025-01-29T18:37:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -35065,6 +35065,12 @@
         "repo": "https://github.com/JohnMoehrke/testVital",
         "branch": "raw-profiles",
         "lastSeen": "2023-12-04T20:47:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/bundles/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/testVital",
+        "branch": "bundles",
+        "lastSeen": "2025-01-29T18:02:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/using-fhir-core-profiles/package.tgz"
