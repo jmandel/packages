@@ -451,6 +451,12 @@
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "doctrine-template",
         "lastSeen": "2024-11-14T08:42:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/add-mermaid/package.tgz",
+        "repo": "https://github.com/ansforge/IG-template",
+        "branch": "add-mermaid",
+        "lastSeen": "2025-01-29T15:22:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -2112,7 +2118,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/susceptibility/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "susceptibility",
-        "lastSeen": "2025-01-29T07:53:12.000Z"
+        "lastSeen": "2025-01-29T15:27:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/170_updates/package.tgz",
@@ -6282,7 +6288,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-27T22:25:41.000Z"
+        "lastSeen": "2025-01-29T15:29:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -21204,7 +21210,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2025-01-27T19:44:22.000Z"
+        "lastSeen": "2025-01-29T14:48:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz"
@@ -24222,7 +24228,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2025-01-29T14:12:48.000Z"
+        "lastSeen": "2025-01-29T14:39:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -37066,6 +37072,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/gauravvaishnav17/ig/branches/main/package.tgz"
+  },
+  "nhs.mft.fhir": {
+    "name": "nhs.mft.fhir",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz",
+        "repo": "https://github.com/FHIR-MFT/FHIRGenomics",
+        "branch": "main",
+        "lastSeen": "2025-01-29T15:38:29.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
   },
   "nl.santeon.sim.r4": {
     "name": "nl.santeon.sim.r4",
