@@ -2106,7 +2106,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/susceptibility/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "susceptibility",
-        "lastSeen": "2025-01-22T21:49:45.000Z"
+        "lastSeen": "2025-01-29T07:20:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/170_updates/package.tgz",
@@ -6144,7 +6144,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-17457_CCR0232_feature/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-17457_CCR0232_feature",
-        "lastSeen": "2025-01-21T11:36:01.000Z"
+        "lastSeen": "2025-01-29T07:26:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-16722_terminology/package.tgz",
@@ -6252,7 +6252,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/operations-included/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "operations-included",
-        "lastSeen": "2025-01-28T16:36:37.000Z"
+        "lastSeen": "2025-01-29T07:37:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz"
@@ -11730,7 +11730,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-01-22T22:40:29.000Z"
+        "lastSeen": "2025-01-29T06:55:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -12978,7 +12978,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/1.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "1.0.0",
-        "lastSeen": "2025-01-22T22:42:36.000Z"
+        "lastSeen": "2025-01-29T06:58:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr-aucdi-relationship/package.tgz",
@@ -12997,6 +12997,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-medicationstatement",
         "lastSeen": "2025-01-24T05:31:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/release-1.0.0/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "release-1.0.0",
+        "lastSeen": "2025-01-29T07:02:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
