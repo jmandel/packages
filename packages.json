@@ -10158,7 +10158,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "master",
-        "lastSeen": "2024-11-12T07:46:59.000Z"
+        "lastSeen": "2025-01-31T13:12:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-1/package.tgz",
@@ -14905,6 +14905,12 @@
         "repo": "https://github.com/hl7-be/nihdi-terminology",
         "branch": "issue-7",
         "lastSeen": "2024-09-18T06:52:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/releasecandidate/package.tgz",
+        "repo": "https://github.com/hl7-be/nihdi-terminology",
+        "branch": "releasecandidate",
+        "lastSeen": "2025-01-31T13:09:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/master/package.tgz"
@@ -37993,6 +37999,12 @@
         "repo": "https://github.com/costateixeira/smart-dak-immz",
         "branch": "release-candidate",
         "lastSeen": "2025-01-31T11:15:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-dak-immz/branches/patch-1/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-dak-immz",
+        "branch": "patch-1",
+        "lastSeen": "2025-01-31T13:39:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-immz/branches/main/package.tgz"
@@ -40681,6 +40693,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "update-artifacts-page",
         "lastSeen": "2025-01-27T17:41:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/fix-form-renderer/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
+        "branch": "fix-form-renderer",
+        "lastSeen": "2025-01-31T13:00:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
