@@ -5670,7 +5670,7 @@
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/master/package.tgz",
         "repo": "https://github.com/CEOsys/ig-template-ceosys",
         "branch": "master",
-        "lastSeen": "2025-01-24T13:32:54.000Z"
+        "lastSeen": "2025-01-31T14:30:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/v0.1.1/package.tgz",
@@ -5682,7 +5682,7 @@
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/v0.1.2/package.tgz",
         "repo": "https://github.com/CEOsys/ig-template-ceosys",
         "branch": "v0.1.2",
-        "lastSeen": "2025-01-24T13:33:15.000Z"
+        "lastSeen": "2025-01-31T14:31:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CEOsys/ig-template-ceosys/branches/glichtner-patch-1/package.tgz",
@@ -14742,7 +14742,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "releasecandidate",
-        "lastSeen": "2023-04-27T14:06:21.000Z"
+        "lastSeen": "2025-01-31T13:45:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-31/package.tgz",
@@ -14910,7 +14910,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/nihdi-terminology",
         "branch": "releasecandidate",
-        "lastSeen": "2025-01-31T13:09:56.000Z"
+        "lastSeen": "2025-01-31T13:56:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/master/package.tgz"
@@ -18510,7 +18510,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-01-31T07:25:21.000Z"
+        "lastSeen": "2025-01-31T13:43:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -37986,7 +37986,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-immz/branches/v1.0.0_releaseCandidate/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-immz",
         "branch": "v1.0.0_releaseCandidate",
-        "lastSeen": "2025-01-29T13:45:22.000Z"
+        "lastSeen": "2025-01-31T14:11:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-dak-immz/branches/main/package.tgz",
@@ -38005,6 +38005,12 @@
         "repo": "https://github.com/costateixeira/smart-dak-immz",
         "branch": "patch-1",
         "lastSeen": "2025-01-31T13:39:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-dak-immz/branches/patch-2/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-dak-immz",
+        "branch": "patch-2",
+        "lastSeen": "2025-01-31T13:54:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-immz/branches/main/package.tgz"
