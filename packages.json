@@ -1453,6 +1453,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-atc",
         "branch": "3.3.0",
         "lastSeen": "2024-12-18T12:58:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/oe_minor/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-atc",
+        "branch": "oe_minor",
+        "lastSeen": "2025-01-31T09:29:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-atc/branches/master/package.tgz"
@@ -2184,7 +2190,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2024-12-18T10:15:14.000Z"
+        "lastSeen": "2025-01-31T09:23:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -6258,7 +6264,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-31T00:28:23.000Z"
+        "lastSeen": "2025-01-31T09:40:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -36174,7 +36180,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/MessageDefinition-QA/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "MessageDefinition-QA",
-        "lastSeen": "2025-01-28T13:42:14.000Z"
+        "lastSeen": "2025-01-31T09:03:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/revert-5-MessageDefinition-QA/package.tgz",
