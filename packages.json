@@ -1824,7 +1824,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-01-23T10:52:16.000Z"
+        "lastSeen": "2025-01-31T15:46:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -5820,7 +5820,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2025-01-31T12:22:56.000Z"
+        "lastSeen": "2025-01-31T16:12:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.9.0-beta.1/package.tgz",
@@ -6270,7 +6270,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-01-31T09:40:57.000Z"
+        "lastSeen": "2025-01-31T16:21:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -6300,7 +6300,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-01-31T15:10:35.000Z"
+        "lastSeen": "2025-01-31T16:23:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -6336,7 +6336,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-01-30T22:43:17.000Z"
+        "lastSeen": "2025-01-31T16:35:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -10158,7 +10158,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "master",
-        "lastSeen": "2025-01-31T13:12:14.000Z"
+        "lastSeen": "2025-01-31T16:21:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-1/package.tgz",
@@ -10195,6 +10195,12 @@
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "issue-23-bis",
         "lastSeen": "2024-06-04T07:35:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/fix-questionnaire-rendering/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+        "branch": "fix-questionnaire-rendering",
+        "lastSeen": "2025-01-31T16:18:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -15240,7 +15246,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/examples/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "examples",
-        "lastSeen": "2025-01-30T13:05:06.000Z"
+        "lastSeen": "2025-01-31T16:25:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -36600,7 +36606,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/1.0.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "1.0.1",
-        "lastSeen": "2025-01-26T15:04:31.000Z"
+        "lastSeen": "2025-01-31T16:43:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/1.1.0/package.tgz",
@@ -40704,7 +40710,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/fix-form-renderer/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "fix-form-renderer",
-        "lastSeen": "2025-01-31T13:00:00.000Z"
+        "lastSeen": "2025-01-31T16:07:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
