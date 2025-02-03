@@ -3271,6 +3271,12 @@
         "repo": "https://github.com/neues4/ch-epreg",
         "branch": "neues",
         "lastSeen": "2024-09-11T12:11:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_issuecontainedidwithslicing/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "oe_issuecontainedidwithslicing",
+        "lastSeen": "2025-02-03T16:36:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -37176,7 +37182,7 @@
         "url": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz",
         "repo": "https://github.com/FHIR-MFT/FHIRGenomics",
         "branch": "main",
-        "lastSeen": "2025-02-03T10:04:28.000Z"
+        "lastSeen": "2025-02-03T15:48:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
