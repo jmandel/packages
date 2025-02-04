@@ -1824,7 +1824,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-02-03T17:20:04.000Z"
+        "lastSeen": "2025-02-04T08:40:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -2143,6 +2143,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "1.7.0",
         "lastSeen": "2024-11-28T14:30:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/1.8.0/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "1.8.0",
+        "lastSeen": "2025-02-04T09:29:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -18241,6 +18247,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-sql-requests",
         "lastSeen": "2025-01-28T08:59:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-idnatps-descr/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-idnatps-descr",
+        "lastSeen": "2025-02-04T09:12:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -31254,7 +31266,7 @@
         "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/fhir-tools-ig",
         "branch": "master",
-        "lastSeen": "2025-02-03T11:22:17.000Z"
+        "lastSeen": "2025-02-04T09:41:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/main/package.tgz",
