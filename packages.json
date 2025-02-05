@@ -13651,6 +13651,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_taskgroup",
         "lastSeen": "2025-01-30T02:02:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_fhir-49715-49716/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_fhir-49715-49716",
+        "lastSeen": "2025-02-05T00:23:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -13830,7 +13836,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-02-04T22:57:10.000Z"
+        "lastSeen": "2025-02-05T00:09:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -38484,7 +38490,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
         "branch": "main",
-        "lastSeen": "2025-02-04T22:37:42.000Z"
+        "lastSeen": "2025-02-05T00:27:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/testcases/package.tgz",
