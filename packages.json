@@ -13908,7 +13908,7 @@
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/draft-au-patient-summary",
         "branch": "master",
-        "lastSeen": "2025-02-06T10:05:54.000Z"
+        "lastSeen": "2025-02-06T22:09:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -18012,7 +18012,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/descriptions/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "descriptions",
-        "lastSeen": "2024-09-09T12:48:43.000Z"
+        "lastSeen": "2025-02-06T21:48:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/end-office-hours/package.tgz",
@@ -21073,6 +21073,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-47453-The-expression-for-the-SubjectList-Measure-Report-deqm-6-seems-to-be-incorrectly-written",
         "lastSeen": "2025-01-24T21:06:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-48910-measureScoring-extension-value-required/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "dd-48910-measureScoring-extension-value-required",
+        "lastSeen": "2025-02-06T22:32:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -38706,7 +38712,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-ips-pilgrimage",
         "branch": "main",
-        "lastSeen": "2025-02-06T20:56:27.000Z"
+        "lastSeen": "2025-02-06T21:36:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage/branches/_list-search-capability/package.tgz",
