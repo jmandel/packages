@@ -13680,7 +13680,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_mhr/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_mhr",
-        "lastSeen": "2025-01-29T23:47:19.000Z"
+        "lastSeen": "2025-02-06T05:11:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_taskgroup/package.tgz",
@@ -18072,7 +18072,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "master",
-        "lastSeen": "2024-08-16T13:09:06.000Z"
+        "lastSeen": "2025-02-06T05:38:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/fix-build-links/package.tgz",
@@ -21198,7 +21198,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2025-01-31T06:35:11.000Z"
+        "lastSeen": "2025-02-06T04:50:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -37291,6 +37291,12 @@
         "repo": "https://github.com/FHIR-MFT/FHIRGenomics",
         "branch": "main",
         "lastSeen": "2025-02-05T18:38:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
+        "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
+        "branch": "main",
+        "lastSeen": "2025-02-06T05:30:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
@@ -38646,7 +38652,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage/branches/2.0.2/package.tgz",
         "repo": "https://github.com/costateixeira/smart-ips-pilgrimage",
         "branch": "2.0.2",
-        "lastSeen": "2025-02-06T04:27:24.000Z"
+        "lastSeen": "2025-02-06T05:31:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/main/package.tgz"
