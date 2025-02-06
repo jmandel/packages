@@ -13902,7 +13902,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-02-06T09:58:09.000Z"
+        "lastSeen": "2025-02-06T20:46:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -17934,7 +17934,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/publish/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "publish",
-        "lastSeen": "2024-10-22T07:45:17.000Z"
+        "lastSeen": "2025-02-06T20:46:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/update-publish-script/package.tgz",
@@ -17952,7 +17952,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "master",
-        "lastSeen": "2024-10-09T16:38:37.000Z"
+        "lastSeen": "2025-02-06T21:40:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/apppointment-status-mapping/package.tgz",
@@ -18024,7 +18024,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/extensions/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "extensions",
-        "lastSeen": "2024-10-21T21:28:23.000Z"
+        "lastSeen": "2025-02-06T21:16:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/v0.3.1/package.tgz",
@@ -18037,6 +18037,12 @@
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "29-typo-in-the-official-url-of-the-practitioner-gender-extension",
         "lastSeen": "2024-10-22T11:21:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/kanta-feedback/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-scheduling",
+        "branch": "kanta-feedback",
+        "lastSeen": "2025-02-06T21:35:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/main/package.tgz"
@@ -18096,7 +18102,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "master",
-        "lastSeen": "2025-02-06T05:38:32.000Z"
+        "lastSeen": "2025-02-06T20:42:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/fix-build-links/package.tgz",
@@ -18175,6 +18181,12 @@
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "ipa-profiles",
         "lastSeen": "2025-02-06T06:43:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/v2.0.0-rc1/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-smart",
+        "branch": "v2.0.0-rc1",
+        "lastSeen": "2025-02-06T20:44:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz"
@@ -38694,7 +38706,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-ips-pilgrimage",
         "branch": "main",
-        "lastSeen": "2025-02-06T20:03:39.000Z"
+        "lastSeen": "2025-02-06T20:56:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage/branches/_list-search-capability/package.tgz",
