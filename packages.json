@@ -17,6 +17,18 @@
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-health-checks-fhir-ig/branches/master/package.tgz"
   },
+  "Ack_ig": {
+    "name": "Ack_ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/frankoemig/ack-ig/branches/main/package.tgz",
+        "repo": "https://github.com/frankoemig/ack-ig",
+        "branch": "main",
+        "lastSeen": "2025-02-06T08:59:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/frankoemig/ack-ig/branches/main/package.tgz"
+  },
   "ChgIG": {
     "name": "ChgIG",
     "locations": [
@@ -13668,7 +13680,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_copyto/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_copyto",
-        "lastSeen": "2025-02-06T01:20:23.000Z"
+        "lastSeen": "2025-02-06T09:28:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_displaysequence/package.tgz",
@@ -13680,7 +13692,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_mhr/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_mhr",
-        "lastSeen": "2025-02-06T05:11:29.000Z"
+        "lastSeen": "2025-02-06T09:27:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_taskgroup/package.tgz",
@@ -13890,7 +13902,7 @@
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/draft-au-patient-summary",
         "branch": "master",
-        "lastSeen": "2025-02-04T06:23:56.000Z"
+        "lastSeen": "2025-02-06T09:20:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -18432,7 +18444,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-update-profiles/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "nr-update-profiles",
-        "lastSeen": "2025-02-05T14:58:16.000Z"
+        "lastSeen": "2025-02-06T08:56:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -18528,7 +18540,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/terminology/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/terminology",
         "branch": "master",
-        "lastSeen": "2024-10-30T15:29:16.000Z"
+        "lastSeen": "2025-02-06T08:50:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/terminology/branches/11122023/package.tgz",
@@ -26994,7 +27006,7 @@
         "url": "https://build.fhir.org/ig/HL7/cmhaff-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cmhaff-ig",
         "branch": "main",
-        "lastSeen": "2025-01-30T10:38:20.000Z"
+        "lastSeen": "2025-02-06T08:47:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cmhaff-ig/branches/main/package.tgz"
@@ -37456,6 +37468,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/master/package.tgz"
+  },
+  "obligation": {
+    "name": "obligation",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/frankoemig/obligation/branches/main/package.tgz",
+        "repo": "https://github.com/frankoemig/obligation",
+        "branch": "main",
+        "lastSeen": "2025-02-06T09:20:18.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/frankoemig/obligation/branches/main/package.tgz"
   },
   "obs.cdss.ig": {
     "name": "obs.cdss.ig",
