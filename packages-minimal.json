@@ -4832,6 +4832,14 @@
     }
   },
   {
+    "name": "ihe-europe.xshare.ybd",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE-Europe-Projects/xShare.YBD/branches/main/package.tgz",
+      "repo": "https://github.com/IHE-Europe-Projects/xShare.YBD",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ihe-fhir-pharm-medicationrecord",
     "current": {
       "url": "https://build.fhir.org/ig/IHE/pharm-medo/branches/main/package.tgz",
