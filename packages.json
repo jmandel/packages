@@ -3438,7 +3438,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-02-07T08:30:22.000Z"
+        "lastSeen": "2025-02-07T09:22:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -15343,6 +15343,12 @@
         "repo": "https://github.com/hl7-be/pss",
         "branch": "examples",
         "lastSeen": "2025-02-03T12:16:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pss/branches/radiology/package.tgz",
+        "repo": "https://github.com/hl7-be/pss",
+        "branch": "radiology",
+        "lastSeen": "2025-02-07T08:52:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -17568,7 +17574,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-base-profiles",
         "branch": "master",
-        "lastSeen": "2024-09-08T15:19:20.000Z"
+        "lastSeen": "2025-02-07T08:40:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/fix-toimintayksikko/package.tgz",
@@ -37356,7 +37362,7 @@
         "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
         "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
         "branch": "main",
-        "lastSeen": "2025-02-07T07:27:21.000Z"
+        "lastSeen": "2025-02-07T08:59:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
@@ -37938,7 +37944,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-02-06T13:58:41.000Z"
+        "lastSeen": "2025-02-07T09:32:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -38046,7 +38052,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/sghi-terminologies/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "sghi-terminologies",
-        "lastSeen": "2025-02-07T08:40:33.000Z"
+        "lastSeen": "2025-02-07T09:15:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
