@@ -6400,6 +6400,14 @@
     }
   },
   {
+    "name": "smart.who.int.pcmt-vaxprequal",
+    "current": {
+      "url": "https://build.fhir.org/ig/litlfred/smart-pcmt-vaxprequal/branches/main/package.tgz",
+      "repo": "https://github.com/litlfred/smart-pcmt-vaxprequal",
+      "branch": "main"
+    }
+  },
+  {
     "name": "smart.who.int.ph4h",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/main/package.tgz",
