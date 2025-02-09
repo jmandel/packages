@@ -13122,7 +13122,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-medicationstatement/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft-medicationstatement",
-        "lastSeen": "2025-02-09T22:25:58.000Z"
+        "lastSeen": "2025-02-09T23:14:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/release-1.0.0/package.tgz",
@@ -17970,7 +17970,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/publish/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "publish",
-        "lastSeen": "2025-02-09T09:48:50.000Z"
+        "lastSeen": "2025-02-09T23:03:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/update-publish-script/package.tgz",
@@ -17988,7 +17988,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/master/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "master",
-        "lastSeen": "2025-02-09T17:20:10.000Z"
+        "lastSeen": "2025-02-09T23:08:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/apppointment-status-mapping/package.tgz",
@@ -18048,7 +18048,7 @@
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/descriptions/package.tgz",
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "descriptions",
-        "lastSeen": "2025-02-06T21:48:09.000Z"
+        "lastSeen": "2025-02-09T23:10:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/end-office-hours/package.tgz",
@@ -18079,6 +18079,12 @@
         "repo": "https://github.com/fhir-fi/finnish-scheduling",
         "branch": "kanta-feedback",
         "lastSeen": "2025-02-06T21:35:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/ci-build/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-scheduling",
+        "branch": "ci-build",
+        "lastSeen": "2025-02-09T23:10:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-scheduling/branches/main/package.tgz"
