@@ -35388,7 +35388,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testVital",
         "branch": "main",
-        "lastSeen": "2025-01-29T19:00:40.000Z"
+        "lastSeen": "2025-02-10T18:00:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/using-no-profiles/package.tgz",
@@ -37446,7 +37446,7 @@
         "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
         "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
         "branch": "main",
-        "lastSeen": "2025-02-10T15:51:31.000Z"
+        "lastSeen": "2025-02-10T18:39:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
@@ -38971,6 +38971,12 @@
         "repo": "https://github.com/litlfred/smart-pcmt-vaxprequal",
         "branch": "main",
         "lastSeen": "2025-02-09T08:19:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
+        "branch": "main",
+        "lastSeen": "2025-02-10T18:06:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-pcmt-vaxprequal/branches/main/package.tgz"
