@@ -376,14 +376,6 @@
     }
   },
   {
-    "name": "hl7.fhir.us.pco",
-    "current": {
-      "url": "https://build.fhir.org/ig/HL7/pco-ig/branches/main/package.tgz",
-      "repo": "https://github.com/HL7/pco-ig",
-      "branch": "main"
-    }
-  },
-  {
     "name": "hl7.fhir.us.pq-cmc-fda",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
