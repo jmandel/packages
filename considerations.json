@@ -702,13 +702,5 @@
       "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
       "branch": "master"
     }
-  },
-  {
-    "name": "xxxexample.fhir.uv.myig",
-    "current": {
-      "url": "https://build.fhir.org/ig/costateixeira/commonprofiles/branches/master/package.tgz",
-      "repo": "https://github.com/costateixeira/commonprofiles",
-      "branch": "master"
-    }
   }
 ]
