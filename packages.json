@@ -5976,7 +5976,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2025-02-12T12:19:27.000Z"
+        "lastSeen": "2025-02-12T14:11:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -17394,7 +17394,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/mpd",
         "branch": "master",
-        "lastSeen": "2025-02-12T12:25:41.000Z"
+        "lastSeen": "2025-02-12T13:53:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r4-giorgio/package.tgz",
@@ -27031,6 +27031,18 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "menu-improvements",
         "lastSeen": "2025-02-05T14:53:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/addl-improvements-pre-pub/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "addl-improvements-pre-pub",
+        "lastSeen": "2025-02-12T14:35:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/final-cleanup/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "final-cleanup",
+        "lastSeen": "2025-02-12T14:27:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -27048,7 +27060,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "main",
-        "lastSeen": "2024-11-08T22:00:07.000Z"
+        "lastSeen": "2025-02-12T14:29:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/cannonical-url-change/package.tgz",
@@ -27066,7 +27078,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/isaacvetter-patch-1/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "isaacvetter-patch-1",
-        "lastSeen": "2025-01-22T19:59:12.000Z"
+        "lastSeen": "2025-02-12T14:21:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/add-library-overview/package.tgz",
@@ -27816,7 +27828,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-02-12T12:46:50.000Z"
+        "lastSeen": "2025-02-12T14:18:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -37536,7 +37548,7 @@
         "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
         "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
         "branch": "main",
-        "lastSeen": "2025-02-12T13:10:47.000Z"
+        "lastSeen": "2025-02-12T14:09:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
@@ -38118,7 +38130,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-02-11T14:00:17.000Z"
+        "lastSeen": "2025-02-12T14:20:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -38317,6 +38329,18 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "practitioner",
         "lastSeen": "2025-02-12T13:26:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/setup-practitioner-role-ig/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "setup-practitioner-role-ig",
+        "lastSeen": "2025-02-12T14:34:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/procedure-profile/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "procedure-profile",
+        "lastSeen": "2025-02-12T14:19:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
