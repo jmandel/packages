@@ -20868,7 +20868,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-atr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-atr",
         "branch": "master",
-        "lastSeen": "2025-02-10T19:11:40.000Z"
+        "lastSeen": "2025-02-12T22:24:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-atr/branches/2.0.0/package.tgz",
@@ -21246,7 +21246,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-formulary",
         "branch": "master",
-        "lastSeen": "2025-02-12T19:35:48.000Z"
+        "lastSeen": "2025-02-12T22:03:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/2.0.1/package.tgz",
@@ -21558,7 +21558,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2025-02-12T19:47:19.000Z"
+        "lastSeen": "2025-02-12T22:03:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz"
@@ -27439,6 +27439,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "2.0.0",
         "lastSeen": "2024-11-26T16:31:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/FHIR-49790-RI-Activity-Example/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "FHIR-49790-RI-Activity-Example",
+        "lastSeen": "2025-02-12T22:00:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
