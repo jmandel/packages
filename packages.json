@@ -21462,7 +21462,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2025-02-14T14:31:14.000Z"
+        "lastSeen": "2025-02-14T16:14:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -29437,6 +29437,12 @@
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "callout-to-getcurrentcontext",
         "lastSeen": "2025-02-06T15:22:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/improve-dxreport-select-example/package.tgz",
+        "repo": "https://github.com/HL7/fhircast-docs",
+        "branch": "improve-dxreport-select-example",
+        "lastSeen": "2025-02-14T15:45:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -35052,7 +35058,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "master",
-        "lastSeen": "2025-02-14T13:32:10.000Z"
+        "lastSeen": "2025-02-14T16:42:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz"
