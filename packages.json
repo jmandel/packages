@@ -37727,6 +37727,18 @@
     ],
     "current": "https://build.fhir.org/ig/adamzkover/wada-list-fhir/branches/main/package.tgz"
   },
+  "nocontent": {
+    "name": "nocontent",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/FHIRGherkin/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/FHIRGherkin",
+        "branch": "main",
+        "lastSeen": "2025-02-16T21:14:48.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/costateixeira/FHIRGherkin/branches/main/package.tgz"
+  },
   "nordic-epi-ig": {
     "name": "nordic-epi-ig",
     "locations": [
