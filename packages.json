@@ -155,6 +155,18 @@
     ],
     "current": "https://build.fhir.org/ig/samkanga/smart-immunizations-measles-KenyaSM/branches/main/package.tgz"
   },
+  "PHCDI": {
+    "name": "PHCDI",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-branch/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
+        "branch": "nhdr-branch",
+        "lastSeen": "2025-02-17T00:52:04.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-branch/package.tgz"
+  },
   "PatLand-who.fhir.smart-immunizations-measles": {
     "name": "PatLand-who.fhir.smart-immunizations-measles",
     "locations": [
