@@ -6488,6 +6488,14 @@
     }
   },
   {
+    "name": "smart.who.int.ips-pilgrimage-test",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-test/branches/main/package.tgz",
+      "repo": "https://github.com/costateixeira/smart-ips-pilgrimage-test",
+      "branch": "main"
+    }
+  },
+  {
     "name": "smart.who.int.pcmt",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/draft-logical-model/package.tgz",
