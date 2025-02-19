@@ -14418,7 +14418,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-78/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-78",
-        "lastSeen": "2024-06-14T15:56:41.000Z"
+        "lastSeen": "2025-02-19T08:13:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-121/package.tgz",
@@ -15216,7 +15216,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "master",
-        "lastSeen": "2025-02-02T06:05:00.000Z"
+        "lastSeen": "2025-02-19T07:59:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/stvb/patient-care/branches/master/package.tgz",
@@ -33492,7 +33492,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-02-18T15:21:55.000Z"
+        "lastSeen": "2025-02-19T08:08:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
@@ -38262,7 +38262,13 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/13-add-silab-email-readme/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "13-add-silab-email-readme",
-        "lastSeen": "2025-02-19T07:30:41.000Z"
+        "lastSeen": "2025-02-19T07:42:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/main/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
+        "branch": "main",
+        "lastSeen": "2025-02-19T08:00:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jgsuess/ph-ig-review/branches/3-add-front-page-text/package.tgz"
@@ -38448,7 +38454,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-02-18T13:05:50.000Z"
+        "lastSeen": "2025-02-19T08:36:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -38700,7 +38706,13 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/automate-profile-uploads/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "automate-profile-uploads",
-        "lastSeen": "2025-02-18T14:02:44.000Z"
+        "lastSeen": "2025-02-19T08:37:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/reference-tariffs/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "reference-tariffs",
+        "lastSeen": "2025-02-19T08:31:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
