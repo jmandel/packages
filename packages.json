@@ -9833,6 +9833,18 @@
     ],
     "current": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2024-subset/branches/main/package.tgz"
   },
+  "hcdsns.sns.implementationGuide": {
+    "name": "hcdsns.sns.implementationGuide",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/pablumar/github-guia-hcdsns/branches/main/package.tgz",
+        "repo": "https://github.com/pablumar/github-guia-hcdsns",
+        "branch": "main",
+        "lastSeen": "2025-02-19T12:39:45.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/pablumar/github-guia-hcdsns/branches/main/package.tgz"
+  },
   "hds-hackathon.electronichealth.se": {
     "name": "hds-hackathon.electronichealth.se",
     "locations": [
@@ -17412,7 +17424,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions-r5",
         "branch": "master",
-        "lastSeen": "2025-01-07T13:53:58.000Z"
+        "lastSeen": "2025-02-19T11:43:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
@@ -38718,7 +38730,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/automate-profile-uploads/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "automate-profile-uploads",
-        "lastSeen": "2025-02-19T08:37:44.000Z"
+        "lastSeen": "2025-02-19T12:38:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/reference-tariffs/package.tgz",
@@ -40336,6 +40348,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/cinc-fhir-ig/branches/fhir-oasgen/package.tgz"
+  },
+  "tsi.sns.implementationGuide": {
+    "name": "tsi.sns.implementationGuide",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/pablumar/github-guia-tsi/branches/output-guia/package.tgz",
+        "repo": "https://github.com/pablumar/github-guia-tsi",
+        "branch": "output-guia",
+        "lastSeen": "2025-02-19T11:53:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/pablumar/github-guia-tsi/branches/main/package.tgz",
+        "repo": "https://github.com/pablumar/github-guia-tsi",
+        "branch": "main",
+        "lastSeen": "2025-02-19T11:59:01.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/pablumar/github-guia-tsi/branches/main/package.tgz"
   },
   "tw.gov.mohw.twcore": {
     "name": "tw.gov.mohw.twcore",
