@@ -3492,7 +3492,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-02-09T15:39:52.000Z"
+        "lastSeen": "2025-02-19T09:49:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -5806,6 +5806,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz"
+  },
+  "de.medizininformatikinitiative.kerndatensatz.pro": {
+    "name": "de.medizininformatikinitiative.kerndatensatz.pro",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
+        "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
+        "branch": "dev",
+        "lastSeen": "2025-02-19T10:21:03.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz"
   },
   "de.netzwerk-universitaetsmedizin.ceosys.template": {
     "name": "de.netzwerk-universitaetsmedizin.ceosys.template",
@@ -15540,7 +15552,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/examples/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "examples",
-        "lastSeen": "2025-02-17T11:16:17.000Z"
+        "lastSeen": "2025-02-19T10:41:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/radiology/package.tgz",
