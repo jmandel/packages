@@ -3504,7 +3504,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-02-20T16:35:23.000Z"
+        "lastSeen": "2025-02-21T10:18:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -6456,13 +6456,25 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Adding-new-DNK-codes/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-12671-Adding-new-DNK-codes",
-        "lastSeen": "2025-02-21T07:09:38.000Z"
+        "lastSeen": "2025-02-21T09:51:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/add-unreleased-segment/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "add-unreleased-segment",
         "lastSeen": "2025-02-21T07:15:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Update-activityDef_to_obs-mappings/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-12671-Update-activityDef_to_obs-mappings",
+        "lastSeen": "2025-02-21T09:57:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Cleaning-up-old-codes/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-12671-Cleaning-up-old-codes",
+        "lastSeen": "2025-02-21T10:05:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -10260,13 +10272,13 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "main",
-        "lastSeen": "2025-01-29T12:26:09.000Z"
+        "lastSeen": "2025-02-21T10:24:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/AG-IV-APS/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "AG-IV-APS",
-        "lastSeen": "2025-02-18T09:37:19.000Z"
+        "lastSeen": "2025-02-21T10:10:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/extension-test/package.tgz",
@@ -35358,7 +35370,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-02-20T15:21:17.000Z"
+        "lastSeen": "2025-02-21T10:35:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
@@ -39367,6 +39379,12 @@
         "repo": "https://github.com/costateixeira/smart-ips-pilgrimage-test",
         "branch": "br-fix-includes",
         "lastSeen": "2025-02-18T21:13:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-fulltest/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-ips-pilgrimage-fulltest",
+        "branch": "main",
+        "lastSeen": "2025-02-21T10:10:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
@@ -39888,7 +39906,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/VHLPayload/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "VHLPayload",
-        "lastSeen": "2025-02-20T17:19:03.000Z"
+        "lastSeen": "2025-02-21T10:12:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/fix-script-security/package.tgz",
