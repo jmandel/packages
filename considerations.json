@@ -578,8 +578,8 @@
   {
     "name": "smart.who.int.ig-empty",
     "current": {
-      "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-fulltest/branches/main/package.tgz",
-      "repo": "https://github.com/costateixeira/smart-ips-pilgrimage-fulltest",
+      "url": "https://build.fhir.org/ig/costateixeira/shareable-measure/branches/main/package.tgz",
+      "repo": "https://github.com/costateixeira/shareable-measure",
       "branch": "main"
     }
   },
@@ -588,6 +588,14 @@
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "smart.who.int.ips-pilgrimage-test",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-fulltest/branches/main/package.tgz",
+      "repo": "https://github.com/costateixeira/smart-ips-pilgrimage-fulltest",
       "branch": "main"
     }
   },
