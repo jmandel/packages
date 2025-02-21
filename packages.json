@@ -3510,7 +3510,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-02-21T10:18:22.000Z"
+        "lastSeen": "2025-02-21T15:59:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -16506,7 +16506,7 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/GeneralQA/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "GeneralQA",
-        "lastSeen": "2024-12-27T17:05:29.000Z"
+        "lastSeen": "2025-02-21T16:40:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz"
@@ -21168,7 +21168,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2025-02-19T05:08:50.000Z"
+        "lastSeen": "2025-02-21T16:37:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -24486,7 +24486,7 @@
         "url": "https://build.fhir.org/ig/HL7/pco-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/pco-ig",
         "branch": "main",
-        "lastSeen": "2025-02-20T14:01:16.000Z"
+        "lastSeen": "2025-02-21T16:02:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mtnlotus/pco-ig/branches/main/package.tgz"
@@ -25128,7 +25128,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.3",
-        "lastSeen": "2025-02-21T14:26:14.000Z"
+        "lastSeen": "2025-02-21T16:11:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -25224,7 +25224,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "main",
-        "lastSeen": "2025-02-20T17:23:42.000Z"
+        "lastSeen": "2025-02-21T16:08:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/nush_dev/package.tgz",
@@ -25273,6 +25273,12 @@
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "FHIR-49143",
         "lastSeen": "2025-02-20T17:22:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/FHIR-49633/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "FHIR-49633",
+        "lastSeen": "2025-02-21T16:07:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz"
@@ -33636,7 +33642,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-02-19T08:08:28.000Z"
+        "lastSeen": "2025-02-21T15:52:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
