@@ -6160,6 +6160,14 @@
     }
   },
   {
+    "name": "north-west.england.nhs.uk",
+    "current": {
+      "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
+      "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
+      "branch": "main"
+    }
+  },
+  {
     "name": "nz.central.ihub.ig",
     "current": {
       "url": "https://build.fhir.org/ig/tewhatuora/centralRegion-integrationHub-ig/branches/master/package.tgz",
