@@ -21882,7 +21882,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2025-02-25T16:32:32.000Z"
+        "lastSeen": "2025-02-25T17:00:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz"
@@ -24942,7 +24942,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2025-01-29T14:39:21.000Z"
+        "lastSeen": "2025-02-25T17:35:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -30654,13 +30654,19 @@
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "main",
-        "lastSeen": "2025-02-20T17:00:10.000Z"
+        "lastSeen": "2025-02-25T16:49:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/focus-cs-ak/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "focus-cs-ak",
-        "lastSeen": "2025-02-25T16:17:48.000Z"
+        "lastSeen": "2025-02-25T16:47:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/sequence-profile-ak/package.tgz",
+        "repo": "https://github.com/HL7/molecular-definition-data-types",
+        "branch": "sequence-profile-ak",
+        "lastSeen": "2025-02-25T17:00:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz"
@@ -34084,6 +34090,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/main/package.tgz"
+  },
+  "ihe.iti.deid": {
+    "name": "ihe.iti.deid",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DeIdHandbook",
+        "branch": "main",
+        "lastSeen": "2025-02-25T17:16:56.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
   },
   "ihe.iti.dsubm": {
     "name": "ihe.iti.dsubm",
@@ -38250,7 +38268,7 @@
         "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
         "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
         "branch": "main",
-        "lastSeen": "2025-02-25T09:02:28.000Z"
+        "lastSeen": "2025-02-25T17:14:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz"
