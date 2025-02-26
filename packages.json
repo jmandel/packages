@@ -3180,7 +3180,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-02-26T06:45:10.000Z"
+        "lastSeen": "2025-02-26T12:08:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -6540,7 +6540,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-18457-information-about-general-practitioner/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-18457-information-about-general-practitioner",
-        "lastSeen": "2025-02-26T11:13:29.000Z"
+        "lastSeen": "2025-02-26T11:42:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -10500,7 +10500,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "master",
-        "lastSeen": "2025-01-31T16:21:18.000Z"
+        "lastSeen": "2025-02-26T12:23:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-1/package.tgz",
@@ -10543,6 +10543,12 @@
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "fix-questionnaire-rendering",
         "lastSeen": "2025-01-31T16:18:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/issue-27/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+        "branch": "issue-27",
+        "lastSeen": "2025-02-26T12:13:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -15403,6 +15409,12 @@
         "repo": "https://github.com/stvb/patient-care",
         "branch": "issue_19",
         "lastSeen": "2025-02-18T19:31:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/releasecandidate/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "releasecandidate",
+        "lastSeen": "2025-02-26T12:35:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-care/branches/restart/package.tgz"
@@ -35586,7 +35598,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-02-21T10:35:05.000Z"
+        "lastSeen": "2025-02-26T12:26:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
