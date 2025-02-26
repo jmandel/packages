@@ -1596,7 +1596,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-01-29T13:29:51.000Z"
+        "lastSeen": "2025-02-26T13:19:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -3180,7 +3180,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-02-26T12:08:16.000Z"
+        "lastSeen": "2025-02-26T12:57:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -10552,6 +10552,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
+  },
+  "hl7.be.fhir.template.ehealth": {
+    "name": "hl7.be.fhir.template.ehealth",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template.ehealth/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template.ehealth",
+        "branch": "master",
+        "lastSeen": "2025-02-26T13:10:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template.ehealth/branches/master/package.tgz"
   },
   "hl7.be.fhir.wow": {
     "name": "hl7.be.fhir.wow",
@@ -19146,7 +19158,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-02-26T07:53:56.000Z"
+        "lastSeen": "2025-02-26T13:11:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
