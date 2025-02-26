@@ -1080,7 +1080,7 @@
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/master/package.tgz",
         "repo": "https://github.com/commonprofiles-care/fhir",
         "branch": "master",
-        "lastSeen": "2024-11-22T10:12:08.000Z"
+        "lastSeen": "2025-02-26T14:13:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/72-review-consent-profile/package.tgz",
@@ -19158,7 +19158,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-02-26T13:11:40.000Z"
+        "lastSeen": "2025-02-26T14:40:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -22290,7 +22290,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2023-09-26T20:14:53.000Z"
+        "lastSeen": "2025-02-26T14:00:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/1.0.0/package.tgz",
@@ -27535,6 +27535,12 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "IG-extensions",
         "lastSeen": "2025-02-13T20:30:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/related-ig-ignore-warning/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "related-ig-ignore-warning",
+        "lastSeen": "2025-02-26T14:12:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -27601,6 +27607,12 @@
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "IG-extensions",
         "lastSeen": "2025-02-13T21:07:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/vadi2-patch-2/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks-library",
+        "branch": "vadi2-patch-2",
+        "lastSeen": "2025-02-26T14:16:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz"
