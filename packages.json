@@ -3180,7 +3180,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-02-27T13:38:33.000Z"
+        "lastSeen": "2025-02-27T15:53:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -21637,6 +21637,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-46864-link-goes-to-deprecated-extension-2-25",
         "lastSeen": "2025-02-26T20:55:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-49850-incorrect-element-used-in-explanation/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-49850-incorrect-element-used-in-explanation",
+        "lastSeen": "2025-02-27T15:51:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -34014,7 +34020,7 @@
         "url": "https://build.fhir.org/ig/IHE/supplement-template/branches/master/package.tgz",
         "repo": "https://github.com/IHE/supplement-template",
         "branch": "master",
-        "lastSeen": "2025-02-19T16:05:11.000Z"
+        "lastSeen": "2025-02-27T16:41:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.NPFS/branches/html-editing/package.tgz",
