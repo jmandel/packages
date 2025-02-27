@@ -5216,6 +5216,14 @@
     }
   },
   {
+    "name": "ihe.pcc.fiio",
+    "current": {
+      "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz",
+      "repo": "https://github.com/IHE/PCC.FIIO",
+      "branch": "master"
+    }
+  },
+  {
     "name": "ihe.pcc.maps",
     "current": {
       "url": "https://build.fhir.org/ig/IHE/PCC.mAPS/branches/master/package.tgz",
