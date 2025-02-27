@@ -10560,7 +10560,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template.ehealth/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template.ehealth",
         "branch": "master",
-        "lastSeen": "2025-02-26T13:10:43.000Z"
+        "lastSeen": "2025-02-27T07:11:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template.ehealth/branches/master/package.tgz"
@@ -38394,7 +38394,7 @@
         "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
         "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
         "branch": "main",
-        "lastSeen": "2025-02-26T07:44:50.000Z"
+        "lastSeen": "2025-02-27T07:21:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz"
@@ -40888,6 +40888,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz"
+  },
+  "tw.gov.mohw.nhi.ngs": {
+    "name": "tw.gov.mohw.nhi.ngs",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/ngs/branches/main/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/ngs",
+        "branch": "main",
+        "lastSeen": "2025-02-27T06:37:24.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/TWNHIFHIR/ngs/branches/main/package.tgz"
   },
   "tw.gov.mohw.nhi.pas": {
     "name": "tw.gov.mohw.nhi.pas",
