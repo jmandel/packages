@@ -1483,6 +1483,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "3.0.0",
         "lastSeen": "2024-12-18T09:29:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/issue119/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "issue119",
+        "lastSeen": "2025-03-04T14:34:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -1944,7 +1950,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-02-18T10:45:35.000Z"
+        "lastSeen": "2025-03-04T14:02:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -2910,7 +2916,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/ms-258-SAML-AuthN/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "ms-258-SAML-AuthN",
-        "lastSeen": "2025-03-03T15:41:02.000Z"
+        "lastSeen": "2025-03-04T13:56:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -6966,7 +6972,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-03-04T13:39:54.000Z"
+        "lastSeen": "2025-03-04T13:50:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-3327/package.tgz",
@@ -8502,7 +8508,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "master",
-        "lastSeen": "2025-02-27T12:53:36.000Z"
+        "lastSeen": "2025-03-04T14:03:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/CQL-profile-patterns/package.tgz",
@@ -17808,7 +17814,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-02-27T10:20:40.000Z"
+        "lastSeen": "2025-03-04T13:52:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/202501wgm/package.tgz",
@@ -17821,6 +17827,12 @@
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "wgm-updates",
         "lastSeen": "2025-02-21T09:07:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/move-design-considerations/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "move-design-considerations",
+        "lastSeen": "2025-03-04T13:44:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
