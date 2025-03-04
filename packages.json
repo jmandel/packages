@@ -450,7 +450,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "main",
-        "lastSeen": "2025-03-03T14:48:23.000Z"
+        "lastSeen": "2025-03-04T08:30:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/for-comment-template/package.tgz",
@@ -505,6 +505,12 @@
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "nr-update-scripts",
         "lastSeen": "2025-02-28T12:58:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-prepare-publication-0.2.0/package.tgz",
+        "repo": "https://github.com/ansforge/IG-template",
+        "branch": "nr-prepare-publication-0.2.0",
+        "lastSeen": "2025-03-04T08:30:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -35845,6 +35851,12 @@
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "master",
         "lastSeen": "2025-02-27T17:25:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/mADX_010/package.tgz",
+        "repo": "https://github.com/IHE/QRPH.mADX",
+        "branch": "mADX_010",
+        "lastSeen": "2025-03-04T08:25:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz"
@@ -40626,7 +40638,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uat",
-        "lastSeen": "2025-02-25T23:49:56.000Z"
+        "lastSeen": "2025-03-04T08:26:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/main/package.tgz",
@@ -41076,7 +41088,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2025-02-27T03:42:38.000Z"
+        "lastSeen": "2025-03-04T08:05:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz"
@@ -41388,7 +41400,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/HL7-FHIR-Implementation-Guide/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/HL7-FHIR-Implementation-Guide",
         "branch": "main",
-        "lastSeen": "2025-03-04T07:30:02.000Z"
+        "lastSeen": "2025-03-04T08:33:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KevinMayfield/VirtuallyHealthcare/branches/main/package.tgz"
