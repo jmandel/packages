@@ -13626,7 +13626,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_dosage/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_dosage",
-        "lastSeen": "2025-01-31T01:11:17.000Z"
+        "lastSeen": "2025-03-05T07:35:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-core/branches/master/package.tgz",
@@ -14833,6 +14833,12 @@
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-136",
         "lastSeen": "2024-10-02T14:04:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-150/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "issue-150",
+        "lastSeen": "2025-03-05T07:28:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -19404,7 +19410,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-03-04T10:33:02.000Z"
+        "lastSeen": "2025-03-05T06:51:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -40422,7 +40428,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-fulltest/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-ips-pilgrimage-fulltest",
         "branch": "main",
-        "lastSeen": "2025-02-21T18:01:47.000Z"
+        "lastSeen": "2025-03-05T07:35:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-test/branches/main/package.tgz"
