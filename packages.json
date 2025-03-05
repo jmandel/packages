@@ -1488,7 +1488,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/issue119/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "issue119",
-        "lastSeen": "2025-03-04T14:34:22.000Z"
+        "lastSeen": "2025-03-05T12:59:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -3246,7 +3246,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-03-05T11:09:51.000Z"
+        "lastSeen": "2025-03-05T13:26:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -6192,7 +6192,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/1.0.0-RUN/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "1.0.0-RUN",
-        "lastSeen": "2025-03-05T11:54:13.000Z"
+        "lastSeen": "2025-03-05T13:35:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -7326,7 +7326,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-03-04T06:59:42.000Z"
+        "lastSeen": "2025-03-05T12:57:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -19434,7 +19434,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-03-05T06:51:32.000Z"
+        "lastSeen": "2025-03-05T13:21:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -28716,7 +28716,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-03-05T11:39:30.000Z"
+        "lastSeen": "2025-03-05T13:03:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -31242,7 +31242,7 @@
         "url": "https://build.fhir.org/ig/HL7/PDDI-CDS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/PDDI-CDS",
         "branch": "master",
-        "lastSeen": "2025-03-04T14:49:48.000Z"
+        "lastSeen": "2025-03-05T13:13:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/PDDI-CDS/branches/master/package.tgz"
@@ -39882,7 +39882,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-immz/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-immz",
         "branch": "main",
-        "lastSeen": "2025-03-05T11:49:58.000Z"
+        "lastSeen": "2025-03-05T13:11:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-immz/branches/v1.0.0_releaseCandidate/package.tgz",
@@ -39894,7 +39894,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-dak-immz/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-dak-immz",
         "branch": "main",
-        "lastSeen": "2025-02-01T04:44:52.000Z"
+        "lastSeen": "2025-03-05T13:04:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-dak-immz/branches/release-candidate/package.tgz",
@@ -39931,6 +39931,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-immz",
         "branch": "v1.1.0_releaseCandidate",
         "lastSeen": "2025-03-05T12:09:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-dak-immz/branches/patch-4/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-dak-immz",
+        "branch": "patch-4",
+        "lastSeen": "2025-03-05T13:01:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-immz/branches/main/package.tgz"
