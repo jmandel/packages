@@ -8520,7 +8520,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/cqf-us",
         "branch": "master",
-        "lastSeen": "2025-03-04T15:43:47.000Z"
+        "lastSeen": "2025-03-05T03:53:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cqf-us/branches/CQL-profile-patterns/package.tgz",
@@ -10578,7 +10578,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.fhir.template",
         "branch": "master",
-        "lastSeen": "2025-02-18T05:25:13.000Z"
+        "lastSeen": "2025-03-05T04:01:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz"
@@ -12313,6 +12313,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-pbs-oid-removal",
         "lastSeen": "2025-03-04T04:42:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/5.1.0-preview/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "5.1.0-preview",
+        "lastSeen": "2025-03-05T03:59:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -21442,6 +21448,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz"
+  },
+  "hl7.fhir.us.cql": {
+    "name": "hl7.fhir.us.cql",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/us-cql-ig",
+        "branch": "main",
+        "lastSeen": "2025-03-05T03:47:54.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz"
   },
   "hl7.fhir.us.ctcae": {
     "name": "hl7.fhir.us.ctcae",
