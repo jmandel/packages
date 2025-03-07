@@ -3642,7 +3642,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-03-07T13:15:33.000Z"
+        "lastSeen": "2025-03-07T16:35:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -8820,7 +8820,7 @@
         "url": "https://build.fhir.org/ig/vadi2/nordic-hackathon-2025-ig/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/nordic-hackathon-2025-ig",
         "branch": "main",
-        "lastSeen": "2025-02-24T12:53:59.000Z"
+        "lastSeen": "2025-03-07T15:35:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jkiddo/sample-ig/branches/main/package.tgz",
@@ -11340,7 +11340,7 @@
         "url": "https://build.fhir.org/ig/mvdzel/ehrsfm-fhir-r5/branches/master/package.tgz",
         "repo": "https://github.com/mvdzel/ehrsfm-fhir-r5",
         "branch": "master",
-        "lastSeen": "2025-02-18T07:36:05.000Z"
+        "lastSeen": "2025-03-07T15:06:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ehrsfm-ig/branches/master/package.tgz",
@@ -11358,7 +11358,7 @@
         "url": "https://build.fhir.org/ig/HL7/phrsfm-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/phrsfm-ig",
         "branch": "main",
-        "lastSeen": "2025-02-18T07:37:33.000Z"
+        "lastSeen": "2025-03-07T15:26:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/phrsfm-ig/branches/main/package.tgz"
@@ -20760,7 +20760,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2025-03-06T22:27:41.000Z"
+        "lastSeen": "2025-03-07T16:34:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
@@ -28302,7 +28302,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/updates_030325/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "updates_030325",
-        "lastSeen": "2025-03-06T21:55:19.000Z"
+        "lastSeen": "2025-03-07T16:31:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -28872,7 +28872,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-03-07T13:52:20.000Z"
+        "lastSeen": "2025-03-07T16:23:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -34753,6 +34753,12 @@
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "1-feature-harmonize-concepts-and-terms",
         "lastSeen": "2025-02-26T07:39:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/john-simple/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DeIdHandbook",
+        "branch": "john-simple",
+        "lastSeen": "2025-03-07T15:22:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
