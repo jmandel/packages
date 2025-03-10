@@ -22237,6 +22237,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-48752-Care-Gaps-Supported-Measure-Scoring",
         "lastSeen": "2025-03-10T19:23:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-49844-detectedIssue.evidence.detail-description-correction/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-49844-detectedIssue.evidence.detail-description-correction",
+        "lastSeen": "2025-03-10T21:21:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -24018,7 +24024,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2025-03-10T20:27:59.000Z"
+        "lastSeen": "2025-03-10T20:53:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -25956,7 +25962,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.3",
-        "lastSeen": "2025-03-10T05:22:49.000Z"
+        "lastSeen": "2025-03-10T21:20:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -41430,13 +41436,13 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uat",
-        "lastSeen": "2025-03-10T03:59:01.000Z"
+        "lastSeen": "2025-03-10T21:08:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "main",
-        "lastSeen": "2025-03-04T20:13:40.000Z"
+        "lastSeen": "2025-03-10T21:29:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-primary-care-acquisition/branches/uat/package.tgz"
