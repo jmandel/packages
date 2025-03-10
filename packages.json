@@ -804,7 +804,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2024-10-31T07:58:53.000Z"
+        "lastSeen": "2025-03-10T17:53:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -817,6 +817,12 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "feedback-changes",
         "lastSeen": "2025-03-10T10:08:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fix-publisher-errors/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "fix-publisher-errors",
+        "lastSeen": "2025-03-10T17:49:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -17574,7 +17580,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-02-08T11:10:33.000Z"
+        "lastSeen": "2025-03-10T17:42:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -17584,6 +17590,30 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
+  },
+  "hl7.fhir.cz.img": {
+    "name": "hl7.fhir.cz.img",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz",
+        "repo": "https://github.com/HL7-cz/img",
+        "branch": "master",
+        "lastSeen": "2025-03-10T17:53:24.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
+  },
+  "hl7.fhir.cz.lab": {
+    "name": "hl7.fhir.cz.lab",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/master/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-lab",
+        "branch": "master",
+        "lastSeen": "2025-03-10T17:53:12.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/master/package.tgz"
   },
   "hl7.fhir.cz.terminology": {
     "name": "hl7.fhir.cz.terminology",
@@ -21708,7 +21738,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2025-03-10T17:09:38.000Z"
+        "lastSeen": "2025-03-10T17:53:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -21721,6 +21751,12 @@
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "fix-test-case-naming-issue",
         "lastSeen": "2025-03-06T22:20:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/update-test-collections/package.tgz",
+        "repo": "https://github.com/HL7/us-cql-ig",
+        "branch": "update-test-collections",
+        "lastSeen": "2025-03-10T18:05:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz"
@@ -23934,7 +23970,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2025-03-10T17:21:29.000Z"
+        "lastSeen": "2025-03-10T18:38:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -28992,7 +29028,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-03-07T19:04:45.000Z"
+        "lastSeen": "2025-03-10T17:54:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -33162,7 +33198,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz",
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "main",
-        "lastSeen": "2025-01-29T22:47:58.000Z"
+        "lastSeen": "2025-03-10T17:48:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/Add_nzf-packs/package.tgz",

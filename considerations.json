@@ -24,14 +24,6 @@
     }
   },
   {
-    "name": "botswana.hie.fhir",
-    "current": {
-      "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/feedback-changes/package.tgz",
-      "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
-      "branch": "feedback-changes"
-    }
-  },
-  {
     "name": "care.commonprofiles.fhir",
     "current": {
       "url": "https://build.fhir.org/ig/commonprofiles-care/fhir/branches/master/package.tgz",
