@@ -11952,7 +11952,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-metadata/branches/updates/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-metadata",
         "branch": "updates",
-        "lastSeen": "2025-03-09T12:24:11.000Z"
+        "lastSeen": "2025-03-11T21:48:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/xt-ehr-metadata/branches/main/package.tgz"
@@ -13824,7 +13824,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-core/branches/ft-healthcareservice/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/au-fhir-core",
         "branch": "ft-healthcareservice",
-        "lastSeen": "2025-03-11T05:43:06.000Z"
+        "lastSeen": "2025-03-11T22:19:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -15498,7 +15498,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "master",
-        "lastSeen": "2024-11-18T05:04:04.000Z"
+        "lastSeen": "2025-03-11T21:56:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v2/package.tgz",
@@ -26094,7 +26094,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "main",
-        "lastSeen": "2025-03-11T16:27:14.000Z"
+        "lastSeen": "2025-03-11T22:01:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/nush_dev/package.tgz",
@@ -26149,6 +26149,12 @@
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "FHIR-49633",
         "lastSeen": "2025-02-21T16:07:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/FHIR-49142/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "FHIR-49142",
+        "lastSeen": "2025-03-11T22:00:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/master/package.tgz"
