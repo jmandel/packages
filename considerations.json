@@ -600,14 +600,6 @@
     }
   },
   {
-    "name": "openmrs.fhir.core",
-    "current": {
-      "url": "https://build.fhir.org/ig/abertnamanya/openmrs-contrib-fhir2-ig/branches/main/package.tgz",
-      "repo": "https://github.com/abertnamanya/openmrs-contrib-fhir2-ig",
-      "branch": "main"
-    }
-  },
-  {
     "name": "philhealth.gov.ph.nhdr",
     "current": {
       "url": "https://build.fhir.org/ig/jgsuess/ph-ig-review/branches/master/package.tgz",
