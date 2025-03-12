@@ -450,7 +450,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "main",
-        "lastSeen": "2025-03-06T14:57:24.000Z"
+        "lastSeen": "2025-03-12T15:25:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -966,7 +966,7 @@
         "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W712-metadata-coverage-pqdcs/package.tgz",
         "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
         "branch": "E1226-W712-metadata-coverage-pqdcs",
-        "lastSeen": "2025-02-10T21:41:28.000Z"
+        "lastSeen": "2025-03-12T14:56:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W468-add-missing-patient-extensions/package.tgz",
@@ -979,6 +979,12 @@
         "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
         "branch": "E1226-W468-add-identifiers-section",
         "lastSeen": "2025-02-24T22:16:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W917-remove-late-option/package.tgz",
+        "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
+        "branch": "E1226-W917-remove-late-option",
+        "lastSeen": "2025-03-12T14:46:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
@@ -6192,7 +6198,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-03-12T11:21:09.000Z"
+        "lastSeen": "2025-03-12T15:05:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-practitioner/package.tgz",
@@ -6216,7 +6222,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-practitionerrole-profile/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-practitionerrole-profile",
-        "lastSeen": "2025-03-12T12:41:10.000Z"
+        "lastSeen": "2025-03-12T14:56:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz"
@@ -11868,7 +11874,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xShare",
         "branch": "master",
-        "lastSeen": "2025-02-27T13:22:19.000Z"
+        "lastSeen": "2025-03-12T14:55:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz"
@@ -20994,7 +21000,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2025-03-12T13:34:37.000Z"
+        "lastSeen": "2025-03-12T15:14:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
@@ -29082,7 +29088,7 @@
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/PaulOrtega-fine-grained-patient-access/package.tgz",
         "repo": "https://github.com/HL7/data-access-policies",
         "branch": "PaulOrtega-fine-grained-patient-access",
-        "lastSeen": "2025-01-16T10:06:27.000Z"
+        "lastSeen": "2025-03-12T15:04:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/data-access-policies/branches/JohnMoehrke-AND-OR-Rule/package.tgz",
@@ -31326,7 +31332,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ipa",
         "branch": "master",
-        "lastSeen": "2025-02-17T17:31:16.000Z"
+        "lastSeen": "2025-03-12T15:24:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ipa/branches/update-readme/package.tgz",
@@ -32484,7 +32490,7 @@
         "url": "https://build.fhir.org/ig/bvdh/smart-multi-auth/branches/main/package.tgz",
         "repo": "https://github.com/bvdh/smart-multi-auth",
         "branch": "main",
-        "lastSeen": "2024-12-09T15:05:47.000Z"
+        "lastSeen": "2025-03-12T14:55:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jmandel/smart-multi-auth/branches/patch-1/package.tgz",
@@ -35400,7 +35406,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.mCSD/branches/main/package.tgz",
         "repo": "https://github.com/IHE/ITI.mCSD",
         "branch": "main",
-        "lastSeen": "2025-03-10T15:13:01.000Z"
+        "lastSeen": "2025-03-12T15:19:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/MedCom.mCSD/branches/medcom.sor-0.0.1/package.tgz",
