@@ -7182,7 +7182,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-03-12T20:51:06.000Z"
+        "lastSeen": "2025-03-13T18:14:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-3327/package.tgz",
@@ -7206,7 +7206,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/search/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "search",
-        "lastSeen": "2025-03-13T09:30:21.000Z"
+        "lastSeen": "2025-03-13T18:10:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -22356,7 +22356,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-47453-The-expression-for-the-SubjectList-Measure-Report-deqm-6-seems-to-be-incorrectly-written/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-47453-The-expression-for-the-SubjectList-Measure-Report-deqm-6-seems-to-be-incorrectly-written",
-        "lastSeen": "2025-03-13T13:33:14.000Z"
+        "lastSeen": "2025-03-13T18:17:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-48910-measureScoring-extension-value-required/package.tgz",
@@ -22411,6 +22411,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-49844-detectedIssue.evidence.detail-description-correction",
         "lastSeen": "2025-03-11T19:05:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-49971-deqm-7-constraint-is-written-too-broadly/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-49971-deqm-7-constraint-is-written-too-broadly",
+        "lastSeen": "2025-03-13T18:11:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -28554,7 +28560,7 @@
         "url": "https://build.fhir.org/ig/HL7/cgm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cgm",
         "branch": "main",
-        "lastSeen": "2025-03-11T19:02:35.000Z"
+        "lastSeen": "2025-03-13T17:46:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cgm/branches/add-429-guidance/package.tgz",
@@ -28585,6 +28591,12 @@
         "repo": "https://github.com/HL7/cgm",
         "branch": "clarify-smart-optional",
         "lastSeen": "2025-03-13T17:26:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cgm/branches/remove-us-core-mentions/package.tgz",
+        "repo": "https://github.com/HL7/cgm",
+        "branch": "remove-us-core-mentions",
+        "lastSeen": "2025-03-13T18:03:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/cgm/branches/main/package.tgz"
@@ -31410,7 +31422,7 @@
         "url": "https://build.fhir.org/ig/HL7/imaging-service-request-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/imaging-service-request-ig",
         "branch": "master",
-        "lastSeen": "2025-03-13T15:40:17.000Z"
+        "lastSeen": "2025-03-13T18:34:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/imaging-service-request-ig/branches/main/package.tgz",
