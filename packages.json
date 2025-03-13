@@ -10848,7 +10848,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-hl7",
         "branch": "master",
-        "lastSeen": "2025-02-13T16:49:56.000Z"
+        "lastSeen": "2025-03-13T19:55:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/costateixeira-patch-1/package.tgz",
@@ -25482,7 +25482,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/dwh-ballot/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "dwh-ballot",
-        "lastSeen": "2025-03-12T20:08:34.000Z"
+        "lastSeen": "2025-03-13T20:25:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/dwh-ballot2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
+        "branch": "dwh-ballot2",
+        "lastSeen": "2025-03-13T20:31:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz"
@@ -28746,7 +28752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/grouping/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "grouping",
-        "lastSeen": "2025-03-11T20:45:47.000Z"
+        "lastSeen": "2025-03-13T20:00:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/order-initiation/package.tgz",
@@ -34710,7 +34716,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2024-11-08T13:58:48.000Z"
+        "lastSeen": "2025-03-13T20:15:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
