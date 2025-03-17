@@ -810,7 +810,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-03-10T17:53:48.000Z"
+        "lastSeen": "2025-03-17T12:14:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -834,7 +834,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/introduction-background/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "introduction-background",
-        "lastSeen": "2025-03-14T09:53:53.000Z"
+        "lastSeen": "2025-03-17T11:50:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -6282,7 +6282,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-03-17T09:54:29.000Z"
+        "lastSeen": "2025-03-17T11:37:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-practitioner/package.tgz",
@@ -7242,7 +7242,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-03-14T15:45:36.000Z"
+        "lastSeen": "2025-03-17T11:56:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-3327/package.tgz",
@@ -15690,7 +15690,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "master",
-        "lastSeen": "2025-03-11T21:56:03.000Z"
+        "lastSeen": "2025-03-17T12:12:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v2/package.tgz",
@@ -18409,6 +18409,12 @@
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "34-reference-improvements",
         "lastSeen": "2025-03-13T13:26:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/12-not-to-use-ms/package.tgz",
+        "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
+        "branch": "12-not-to-use-ms",
+        "lastSeen": "2025-03-17T12:39:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -35052,7 +35058,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/PoC/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "PoC",
-        "lastSeen": "2025-03-17T11:41:47.000Z"
+        "lastSeen": "2025-03-17T12:32:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz"
@@ -40770,7 +40776,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-03-15T13:11:19.000Z"
+        "lastSeen": "2025-03-17T11:54:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
