@@ -810,7 +810,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-03-17T18:07:05.000Z"
+        "lastSeen": "2025-03-18T10:18:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -841,6 +841,18 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "index-page",
         "lastSeen": "2025-03-17T18:00:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/add-capability-statement/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "add-capability-statement",
+        "lastSeen": "2025-03-18T10:10:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/update-theme/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "update-theme",
+        "lastSeen": "2025-03-18T10:01:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -3738,7 +3750,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-03-17T17:19:28.000Z"
+        "lastSeen": "2025-03-18T10:33:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -10849,6 +10861,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "extension-test",
         "lastSeen": "2024-12-06T06:03:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/test-vidi/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "test-vidi",
+        "lastSeen": "2025-03-18T10:39:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -16416,7 +16434,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/sandbox/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "sandbox",
-        "lastSeen": "2025-03-17T15:07:22.000Z"
+        "lastSeen": "2025-03-18T10:03:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -19980,7 +19998,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2025-01-28T20:13:42.000Z"
+        "lastSeen": "2025-03-18T10:33:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -19992,7 +20010,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-03-18T08:12:04.000Z"
+        "lastSeen": "2025-03-18T10:33:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -20185,6 +20203,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "1.11.0-sprint49",
         "lastSeen": "2025-01-28T20:10:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/1.12.0-sprint54/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "1.12.0-sprint54",
+        "lastSeen": "2025-03-18T10:25:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
