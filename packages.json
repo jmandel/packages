@@ -9984,7 +9984,7 @@
         "url": "https://build.fhir.org/ig/SanteonNL/shared-care-planning/branches/update-examples-and-capabilitystatement/package.tgz",
         "repo": "https://github.com/SanteonNL/shared-care-planning",
         "branch": "update-examples-and-capabilitystatement",
-        "lastSeen": "2025-03-17T16:52:39.000Z"
+        "lastSeen": "2025-03-18T07:40:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SanteonNL/shared-care-planning/branches/nuts-network-discovery/package.tgz",
@@ -17838,13 +17838,13 @@
         "url": "https://build.fhir.org/ig/hiecr/ig-core/branches/develop/package.tgz",
         "repo": "https://github.com/hiecr/ig-core",
         "branch": "develop",
-        "lastSeen": "2025-03-13T23:14:37.000Z"
+        "lastSeen": "2025-03-18T06:52:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hiecr/ig-core/branches/main/package.tgz",
         "repo": "https://github.com/hiecr/ig-core",
         "branch": "main",
-        "lastSeen": "2025-03-13T23:18:30.000Z"
+        "lastSeen": "2025-03-18T07:00:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hiecr/ig-core/branches/main/package.tgz"
@@ -25614,7 +25614,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/dwh-ballot2/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "dwh-ballot2",
-        "lastSeen": "2025-03-13T20:31:24.000Z"
+        "lastSeen": "2025-03-18T06:56:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz"
@@ -26112,7 +26112,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2025-03-17T02:40:59.000Z"
+        "lastSeen": "2025-03-18T07:30:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz"
@@ -28884,7 +28884,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/order-initiation/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "order-initiation",
-        "lastSeen": "2025-03-11T20:31:06.000Z"
+        "lastSeen": "2025-03-18T06:57:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -38377,6 +38377,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "4.0.2-testexamples-soren",
         "lastSeen": "2025-03-17T14:15:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/4.0.2-testeksamples_SKS/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "4.0.2-testeksamples_SKS",
+        "lastSeen": "2025-03-18T06:55:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
