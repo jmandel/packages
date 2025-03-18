@@ -456,7 +456,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "main",
-        "lastSeen": "2025-03-12T15:25:22.000Z"
+        "lastSeen": "2025-03-18T14:03:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-smart-card/package.tgz",
@@ -816,7 +816,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-03-18T10:18:08.000Z"
+        "lastSeen": "2025-03-18T13:48:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -2046,7 +2046,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-03-17T22:14:10.000Z"
+        "lastSeen": "2025-03-18T14:03:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -3756,7 +3756,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-03-18T11:24:04.000Z"
+        "lastSeen": "2025-03-18T13:56:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -9768,7 +9768,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "jk-updates",
-        "lastSeen": "2025-03-18T13:16:27.000Z"
+        "lastSeen": "2025-03-18T13:48:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/main/package.tgz",
@@ -18444,7 +18444,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-03-04T13:52:12.000Z"
+        "lastSeen": "2025-03-18T14:32:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/202501wgm/package.tgz",
@@ -18475,6 +18475,12 @@
         "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
         "branch": "12-not-to-use-ms",
         "lastSeen": "2025-03-17T12:39:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/VariousMappingImprovements/package.tgz",
+        "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
+        "branch": "VariousMappingImprovements",
+        "lastSeen": "2025-03-18T14:32:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -20022,7 +20028,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-03-18T13:23:26.000Z"
+        "lastSeen": "2025-03-18T14:15:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -25644,7 +25650,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "main",
-        "lastSeen": "2025-03-14T14:11:31.000Z"
+        "lastSeen": "2025-03-18T13:43:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/jp_working/package.tgz",
@@ -30450,7 +30456,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "master",
-        "lastSeen": "2025-03-18T13:41:17.000Z"
+        "lastSeen": "2025-03-18T14:03:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/logout-syncerror/package.tgz",
@@ -31063,6 +31069,12 @@
         "repo": "https://github.com/bvdh/fhircast-docs",
         "branch": "draft-vs-trialuse-and-fmm",
         "lastSeen": "2025-03-07T09:31:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bvdh/fhircast-docs/branches/last-warning-info/package.tgz",
+        "repo": "https://github.com/bvdh/fhircast-docs",
+        "branch": "last-warning-info",
+        "lastSeen": "2025-03-18T13:56:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -41437,6 +41449,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "l4-compliance",
         "lastSeen": "2025-03-05T15:28:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/L4-compliance/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
+        "branch": "L4-compliance",
+        "lastSeen": "2025-03-18T14:09:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/release-prepv1.0.0/package.tgz"
