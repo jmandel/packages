@@ -865,6 +865,12 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "update-theme",
         "lastSeen": "2025-03-18T10:01:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/add-patient-profile-for-CR/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "add-patient-profile-for-CR",
+        "lastSeen": "2025-03-19T17:06:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -22422,7 +22428,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/bulk-import-draft/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "bulk-import-draft",
-        "lastSeen": "2024-06-19T13:46:18.000Z"
+        "lastSeen": "2025-03-19T17:01:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/Observation-examples-fixes/package.tgz",
@@ -29580,7 +29586,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-03-18T21:40:49.000Z"
+        "lastSeen": "2025-03-19T17:10:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -31471,6 +31477,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "3.0.0-published",
         "lastSeen": "2024-12-12T22:04:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/genomic-annotation-profile/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "genomic-annotation-profile",
+        "lastSeen": "2025-03-19T17:18:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
