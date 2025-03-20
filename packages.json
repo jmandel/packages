@@ -2868,7 +2868,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-03-18T20:40:54.000Z"
+        "lastSeen": "2025-03-20T13:23:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -3072,7 +3072,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/269-iti-83-expectations-about-the-targetid/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "269-iti-83-expectations-about-the-targetid",
-        "lastSeen": "2025-03-17T13:54:06.000Z"
+        "lastSeen": "2025-03-20T13:21:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/274-documentreference-invalid-mapping-of-documententrycreationtime/package.tgz",
@@ -3114,7 +3114,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/276-documentreference-document-the-use-of-the-attachment-url/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "276-documentreference-document-the-use-of-the-attachment-url",
-        "lastSeen": "2025-03-19T13:55:19.000Z"
+        "lastSeen": "2025-03-20T13:23:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_atc2/package.tgz",
@@ -40512,7 +40512,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-03-20T12:42:02.000Z"
+        "lastSeen": "2025-03-20T13:32:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -40950,13 +40950,25 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/patch-appointment/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "patch-appointment",
-        "lastSeen": "2025-03-20T11:45:12.000Z"
+        "lastSeen": "2025-03-20T13:38:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/loinc-valueset/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "loinc-valueset",
         "lastSeen": "2025-03-20T12:39:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/loinc-fix/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "loinc-fix",
+        "lastSeen": "2025-03-20T12:59:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/assorted-loinc-chores/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "assorted-loinc-chores",
+        "lastSeen": "2025-03-20T13:30:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
