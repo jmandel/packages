@@ -5257,6 +5257,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "297-ch-vacd-swissmedic-code-for-vaccine-code-patrick-tobler-cistec",
         "lastSeen": "2025-03-14T14:23:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/294-adaption-to-ips-200/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "294-adaption-to-ips-200",
+        "lastSeen": "2025-03-20T09:07:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -7021,6 +7027,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-17979-new-participant-role",
         "lastSeen": "2025-03-18T09:13:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-18457-info-about-general-practitioner/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-18457-info-about-general-practitioner",
+        "lastSeen": "2025-03-20T09:35:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -37044,7 +37056,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "master",
-        "lastSeen": "2025-03-17T18:29:39.000Z"
+        "lastSeen": "2025-03-20T09:06:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/models/package.tgz",
@@ -37080,7 +37092,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/offLabelUse/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "offLabelUse",
-        "lastSeen": "2025-03-17T17:13:41.000Z"
+        "lastSeen": "2025-03-20T09:05:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz"
@@ -40500,7 +40512,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-03-19T12:32:43.000Z"
+        "lastSeen": "2025-03-20T09:25:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -40927,6 +40939,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "fix-med-req-resource",
         "lastSeen": "2025-03-19T12:29:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/allergy-binding-strength/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "allergy-binding-strength",
+        "lastSeen": "2025-03-20T09:21:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
