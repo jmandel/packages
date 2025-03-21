@@ -475,6 +475,12 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-update-dp-dr",
         "lastSeen": "2025-03-18T15:10:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-card-dp/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nr-update-card-dp",
+        "lastSeen": "2025-03-21T09:30:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -4992,7 +4998,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/90-ch-vacd-adaption-to-ips-200/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "90-ch-vacd-adaption-to-ips-200",
-        "lastSeen": "2025-03-20T14:10:08.000Z"
+        "lastSeen": "2025-03-21T09:06:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -38604,7 +38610,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/4.0.2-testexamples-soren/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "4.0.2-testexamples-soren",
-        "lastSeen": "2025-03-18T17:14:03.000Z"
+        "lastSeen": "2025-03-21T09:39:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/4.0.2-testeksamples_SKS/package.tgz",
@@ -40560,7 +40566,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-03-21T06:56:44.000Z"
+        "lastSeen": "2025-03-21T09:38:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -41023,6 +41029,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "icd11-fix",
         "lastSeen": "2025-03-21T06:49:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/content-fix/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "content-fix",
+        "lastSeen": "2025-03-21T09:36:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
