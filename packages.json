@@ -7337,6 +7337,18 @@
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
   },
+  "dk.sundhedsdatastyrelsen.gm": {
+    "name": "dk.sundhedsdatastyrelsen.gm",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz",
+        "repo": "https://github.com/trifork/gm-fhir-ig",
+        "branch": "main",
+        "lastSeen": "2025-03-24T15:07:25.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz"
+  },
   "donlandia.fhir.smart-immunizations-measles": {
     "name": "donlandia.fhir.smart-immunizations-measles",
     "locations": [
@@ -17310,7 +17322,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "releasecandidate",
-        "lastSeen": "2025-03-24T13:41:20.000Z"
+        "lastSeen": "2025-03-24T15:14:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/cleanup-examples/package.tgz",
@@ -17467,6 +17479,12 @@
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "issue-179",
         "lastSeen": "2025-03-10T08:56:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/v1.1.1/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "v1.1.1",
+        "lastSeen": "2025-03-24T15:14:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -22308,7 +22326,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2025-03-24T13:56:52.000Z"
+        "lastSeen": "2025-03-24T15:20:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -26772,7 +26790,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-vdor/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-vdor",
         "branch": "main",
-        "lastSeen": "2025-03-21T17:46:54.000Z"
+        "lastSeen": "2025-03-24T15:35:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-vdor/branches/main/package.tgz"
@@ -37332,7 +37350,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-03-23T17:35:44.000Z"
+        "lastSeen": "2025-03-24T15:36:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
