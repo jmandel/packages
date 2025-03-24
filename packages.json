@@ -6534,7 +6534,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/1.0.0-RUN/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "1.0.0-RUN",
-        "lastSeen": "2025-03-24T10:42:14.000Z"
+        "lastSeen": "2025-03-24T11:26:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -7093,6 +7093,18 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-18457-info-about-general-practitioner",
         "lastSeen": "2025-03-20T10:10:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19140_CleanupTerminology/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-19140_CleanupTerminology",
+        "lastSeen": "2025-03-24T11:05:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0275_Terminology/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "CCR0275_Terminology",
+        "lastSeen": "2025-03-24T11:04:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -16602,13 +16614,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/updated-examples/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "updated-examples",
-        "lastSeen": "2025-03-11T13:10:23.000Z"
+        "lastSeen": "2025-03-24T11:03:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/sandbox/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "sandbox",
-        "lastSeen": "2025-03-20T15:01:09.000Z"
+        "lastSeen": "2025-03-24T11:03:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -20214,7 +20226,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-03-24T10:30:32.000Z"
+        "lastSeen": "2025-03-24T11:40:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -40680,7 +40692,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-03-24T09:14:55.000Z"
+        "lastSeen": "2025-03-24T11:35:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
