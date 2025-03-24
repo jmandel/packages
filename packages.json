@@ -18090,13 +18090,13 @@
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/develop/package.tgz",
         "repo": "https://github.com/HIE-cr/core-ig",
         "branch": "develop",
-        "lastSeen": "2025-03-23T23:20:59.000Z"
+        "lastSeen": "2025-03-24T15:47:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/main/package.tgz",
         "repo": "https://github.com/HIE-cr/core-ig",
         "branch": "main",
-        "lastSeen": "2025-03-23T23:27:25.000Z"
+        "lastSeen": "2025-03-24T15:51:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hiecr/ig-core/branches/main/package.tgz"
@@ -22393,6 +22393,12 @@
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "br-modelx-exploration",
         "lastSeen": "2025-03-24T06:09:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/adds-us-core-common-tests-expected-results/package.tgz",
+        "repo": "https://github.com/HL7/us-cql-ig",
+        "branch": "adds-us-core-common-tests-expected-results",
+        "lastSeen": "2025-03-24T16:25:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz"
@@ -37350,7 +37356,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz",
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "master",
-        "lastSeen": "2025-03-24T15:36:29.000Z"
+        "lastSeen": "2025-03-24T16:28:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
