@@ -912,7 +912,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/workflows-to-coordinate-PII-between-CR-and-FHIR/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "workflows-to-coordinate-PII-between-CR-and-FHIR",
-        "lastSeen": "2025-03-25T12:45:48.000Z"
+        "lastSeen": "2025-03-25T17:40:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/use-cases/package.tgz",
@@ -3516,7 +3516,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-03-25T11:08:58.000Z"
+        "lastSeen": "2025-03-25T16:45:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -4158,7 +4158,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2024-11-29T09:37:10.000Z"
+        "lastSeen": "2025-03-25T16:49:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -4561,6 +4561,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "expansion-swiss-sct",
         "lastSeen": "2025-03-13T15:42:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/issue156/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "issue156",
+        "lastSeen": "2025-03-25T17:05:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -18516,7 +18522,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-sdc/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/dk-sdc",
         "branch": "main",
-        "lastSeen": "2025-03-25T16:14:52.000Z"
+        "lastSeen": "2025-03-25T17:30:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-sdc/branches/main/package.tgz"
@@ -22410,7 +22416,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2025-03-25T15:23:56.000Z"
+        "lastSeen": "2025-03-25T17:26:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
