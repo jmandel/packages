@@ -2113,6 +2113,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue329",
         "lastSeen": "2025-03-25T06:53:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_removedocref/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "oe_removedocref",
+        "lastSeen": "2025-03-25T22:07:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -26028,7 +26034,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/quality-fixes/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "quality-fixes",
-        "lastSeen": "2025-03-25T21:36:35.000Z"
+        "lastSeen": "2025-03-25T21:57:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz"
