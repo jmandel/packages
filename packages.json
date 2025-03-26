@@ -930,7 +930,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/add-scenario-for-fetching-patient-data/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "add-scenario-for-fetching-patient-data",
-        "lastSeen": "2025-03-26T14:40:40.000Z"
+        "lastSeen": "2025-03-26T15:25:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -3534,7 +3534,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-03-26T11:36:55.000Z"
+        "lastSeen": "2025-03-26T15:28:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -7531,6 +7531,12 @@
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "search",
         "lastSeen": "2025-03-13T18:10:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-2951/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
+        "branch": "UPTIS-2951",
+        "lastSeen": "2025-03-26T15:27:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -11268,7 +11274,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-hl7",
         "branch": "master",
-        "lastSeen": "2025-03-13T19:55:46.000Z"
+        "lastSeen": "2025-03-26T15:30:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/costateixeira-patch-1/package.tgz",
@@ -18829,6 +18835,12 @@
         "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
         "branch": "VariousMappingImprovements",
         "lastSeen": "2025-03-18T14:32:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/xtehr-mapping/package.tgz",
+        "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
+        "branch": "xtehr-mapping",
+        "lastSeen": "2025-03-26T15:16:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -21600,7 +21612,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2025-03-25T21:22:51.000Z"
+        "lastSeen": "2025-03-26T15:05:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
@@ -22254,7 +22266,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2024-11-22T19:31:21.000Z"
+        "lastSeen": "2025-03-26T15:42:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
@@ -29352,7 +29364,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/updates-2025-03-21-spring/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "updates-2025-03-21-spring",
-        "lastSeen": "2025-03-26T14:18:52.000Z"
+        "lastSeen": "2025-03-26T15:38:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -35580,7 +35592,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-03-25T11:54:12.000Z"
+        "lastSeen": "2025-03-26T15:26:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
@@ -35634,7 +35646,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2025-02-20T19:14:01.000Z"
+        "lastSeen": "2025-03-26T15:24:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
