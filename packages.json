@@ -948,7 +948,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/add-scenario-for-fetching-patient-data/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "add-scenario-for-fetching-patient-data",
-        "lastSeen": "2025-03-27T19:22:20.000Z"
+        "lastSeen": "2025-03-27T22:33:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/system-specification/package.tgz",
@@ -27072,7 +27072,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2025-03-20T14:54:18.000Z"
+        "lastSeen": "2025-03-27T21:47:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -29400,7 +29400,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2025-03-27T21:24:00.000Z"
+        "lastSeen": "2025-03-27T22:10:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -29466,7 +29466,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/updates-2025-03-21-spring/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "updates-2025-03-21-spring",
-        "lastSeen": "2025-03-27T20:19:37.000Z"
+        "lastSeen": "2025-03-27T22:04:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/Update-Cancel-and-Modify-with-Diagram-and-Fulfiller-Cancellation/package.tgz",
@@ -29479,6 +29479,18 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "qa-and-editorial-cleanup",
         "lastSeen": "2025-03-27T21:21:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/Discharge-Placement-example/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "Discharge-Placement-example",
+        "lastSeen": "2025-03-27T22:39:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/examples-03-27/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "examples-03-27",
+        "lastSeen": "2025-03-27T22:14:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -35496,7 +35508,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-03-27T21:39:31.000Z"
+        "lastSeen": "2025-03-27T22:09:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
