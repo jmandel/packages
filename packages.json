@@ -29491,6 +29491,12 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "examples-03-27",
         "lastSeen": "2025-03-28T01:16:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/qaclean/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "qaclean",
+        "lastSeen": "2025-03-28T05:32:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
