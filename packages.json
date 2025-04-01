@@ -864,7 +864,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-04-01T06:10:06.000Z"
+        "lastSeen": "2025-04-01T12:20:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -972,7 +972,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/requirements-actor-definition/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "requirements-actor-definition",
-        "lastSeen": "2025-04-01T09:54:15.000Z"
+        "lastSeen": "2025-04-01T12:17:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -12510,7 +12510,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xShare",
         "branch": "master",
-        "lastSeen": "2025-04-01T09:16:08.000Z"
+        "lastSeen": "2025-04-01T12:21:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz"
@@ -42744,13 +42744,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "main",
-        "lastSeen": "2025-04-01T11:31:30.000Z"
+        "lastSeen": "2025-04-01T12:35:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-trust",
         "branch": "main",
-        "lastSeen": "2024-10-30T14:43:22.000Z"
+        "lastSeen": "2025-04-01T12:34:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.1.1/package.tgz",
@@ -42871,6 +42871,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "json-ld-trustlist",
         "lastSeen": "2025-03-31T23:00:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/qa-updates/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "qa-updates",
+        "lastSeen": "2025-04-01T12:36:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
