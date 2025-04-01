@@ -7433,6 +7433,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7dk/KL-dk-tools/branches/main/package.tgz"
   },
+  "dk.kip.rkkp.fhir.ig.core": {
+    "name": "dk.kip.rkkp.fhir.ig.core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "main",
+        "lastSeen": "2025-04-01T08:54:14.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
+  },
   "dk.medcom.ehmi.eds": {
     "name": "dk.medcom.ehmi.eds",
     "locations": [
@@ -12498,7 +12510,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xShare",
         "branch": "master",
-        "lastSeen": "2025-03-31T09:27:03.000Z"
+        "lastSeen": "2025-04-01T09:16:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz"
@@ -19014,7 +19026,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2025-03-22T07:56:32.000Z"
+        "lastSeen": "2025-04-01T09:31:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -19093,6 +19105,12 @@
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "0.1.0-fixes",
         "lastSeen": "2025-03-25T14:32:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/v0.1.1/package.tgz",
+        "repo": "https://github.com/hl7-eu/laboratory",
+        "branch": "v0.1.1",
+        "lastSeen": "2025-04-01T09:38:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -29665,6 +29683,12 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "jct_index",
         "lastSeen": "2025-03-31T19:26:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/remove-unneeded-constraint/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "remove-unneeded-constraint",
+        "lastSeen": "2025-04-01T09:12:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -35922,7 +35946,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-03-26T15:26:34.000Z"
+        "lastSeen": "2025-04-01T09:23:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
@@ -39114,7 +39138,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/ACK_testeskempler_04_12_2024/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "ACK_testeskempler_04_12_2024",
-        "lastSeen": "2024-12-09T08:30:45.000Z"
+        "lastSeen": "2025-04-01T09:13:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/ACK-testexamples-convertionService/package.tgz",
