@@ -168,7 +168,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "main",
-        "lastSeen": "2025-04-02T00:31:19.000Z"
+        "lastSeen": "2025-04-02T20:15:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/34-refine-and-update-ig-content-labels-and-formatting/package.tgz",
@@ -11424,7 +11424,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-hl7",
         "branch": "master",
-        "lastSeen": "2025-04-02T17:04:22.000Z"
+        "lastSeen": "2025-04-02T20:19:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/costateixeira-patch-1/package.tgz",
@@ -23287,6 +23287,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-50052-remove-MS-from-DEQM-profiles",
         "lastSeen": "2025-04-02T18:58:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-49861-update-CQFM-dependency-to-5.0.0/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-49861-update-CQFM-dependency-to-5.0.0",
+        "lastSeen": "2025-04-02T19:49:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -23328,7 +23334,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-03-29T11:51:59.000Z"
+        "lastSeen": "2025-04-02T20:16:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -23970,7 +23976,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2025-04-01T20:13:46.000Z"
+        "lastSeen": "2025-04-02T19:59:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/1.0.0/package.tgz",
@@ -26988,7 +26994,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2024-09-06T13:58:27.000Z"
+        "lastSeen": "2025-04-02T20:12:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -32754,7 +32760,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/obligations/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "obligations",
-        "lastSeen": "2025-04-02T19:29:36.000Z"
+        "lastSeen": "2025-04-02T19:47:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
