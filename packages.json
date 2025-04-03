@@ -23335,6 +23335,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-49861-update-CQFM-dependency-to-5.0.0",
         "lastSeen": "2025-04-02T19:49:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-50053-rework-the-ad-hoc-Organization-for--gaps-and--data/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-50053-rework-the-ad-hoc-Organization-for--gaps-and--data",
+        "lastSeen": "2025-04-03T15:54:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -25332,7 +25338,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2025-03-31T00:34:01.000Z"
+        "lastSeen": "2025-04-03T15:46:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -32340,7 +32346,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/genomic-annotation-profile/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "genomic-annotation-profile",
-        "lastSeen": "2025-03-30T23:25:20.000Z"
+        "lastSeen": "2025-04-03T16:33:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
