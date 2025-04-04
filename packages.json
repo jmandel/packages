@@ -31261,6 +31261,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "AddPRtemplate",
         "lastSeen": "2025-04-04T01:00:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/SDCLinkFix/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "SDCLinkFix",
+        "lastSeen": "2025-04-04T17:37:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
