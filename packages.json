@@ -966,7 +966,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/update-requirements/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "update-requirements",
-        "lastSeen": "2025-04-07T10:54:57.000Z"
+        "lastSeen": "2025-04-07T14:16:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/requirements-actor-definition/package.tgz",
@@ -3277,6 +3277,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_249",
         "lastSeen": "2025-04-01T17:07:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_iua_authenticate_user/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_iua_authenticate_user",
+        "lastSeen": "2025-04-07T14:07:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -3594,7 +3600,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-04-07T13:31:36.000Z"
+        "lastSeen": "2025-04-07T14:09:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -19032,7 +19038,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/r4r5-submodule/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "r4r5-submodule",
-        "lastSeen": "2025-04-07T11:41:37.000Z"
+        "lastSeen": "2025-04-07T14:31:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
@@ -20724,7 +20730,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-04-07T10:47:07.000Z"
+        "lastSeen": "2025-04-07T14:20:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -23448,7 +23454,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-04-07T12:38:58.000Z"
+        "lastSeen": "2025-04-07T14:16:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -25212,7 +25218,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2025-04-07T13:25:43.000Z"
+        "lastSeen": "2025-04-07T13:49:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -29784,7 +29790,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2025-04-07T12:34:46.000Z"
+        "lastSeen": "2025-04-07T14:26:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
