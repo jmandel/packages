@@ -120,14 +120,6 @@
     }
   },
   {
-    "name": "fhir.clicsante",
-    "current": {
-      "url": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/E1226-W384-patient-order-1-profile/package.tgz",
-      "repo": "https://github.com/trimoz-technologies/hl7-fhir-ig",
-      "branch": "E1226-W384-patient-order-1-profile"
-    }
-  },
-  {
     "name": "fhir.example",
     "current": {
       "url": "https://build.fhir.org/ig/vadi2/nordic-hackathon-2025-ig/branches/main/package.tgz",
