@@ -30319,6 +30319,12 @@
         "repo": "https://github.com/HL7/cqf-measures",
         "branch": "master",
         "lastSeen": "2024-12-10T20:48:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/v1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "v1.0.0-ballot",
+        "lastSeen": "2025-04-08T21:58:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -38142,7 +38148,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/wip/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "wip",
-        "lastSeen": "2025-04-08T20:55:04.000Z"
+        "lastSeen": "2025-04-08T22:05:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz"
@@ -42894,7 +42900,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "sop",
-        "lastSeen": "2025-03-19T22:05:53.000Z"
+        "lastSeen": "2025-04-08T21:50:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
