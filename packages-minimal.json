@@ -3056,6 +3056,14 @@
     }
   },
   {
+    "name": "hl7.fhir.eu.r5.extensions",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/extensions-r5/branches/r4r5-submodule/package.tgz",
+      "repo": "https://github.com/hl7-eu/extensions-r5",
+      "branch": "r4r5-submodule"
+    }
+  },
+  {
     "name": "hl7.fhir.eu.r5.mpd",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/fhir-r5/package.tgz",
