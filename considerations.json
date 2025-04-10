@@ -576,14 +576,6 @@
     }
   },
   {
-    "name": "sil_fhir_profile_ig",
-    "current": {
-      "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/canonical-url/package.tgz",
-      "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
-      "branch": "canonical-url"
-    }
-  },
-  {
     "name": "smart.who.int.ig-empty",
     "current": {
       "url": "https://build.fhir.org/ig/jamlung-ri/smart-ig-empty-ocl/branches/main/package.tgz",
