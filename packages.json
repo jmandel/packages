@@ -492,7 +492,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "main",
-        "lastSeen": "2025-03-21T16:10:20.000Z"
+        "lastSeen": "2025-04-14T11:47:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-smart-card/package.tgz",
@@ -1021,6 +1021,12 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "add-actors-to-sequence-diagrams",
         "lastSeen": "2025-04-13T20:12:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/requirements-additional-actors/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "requirements-additional-actors",
+        "lastSeen": "2025-04-14T12:44:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -20736,7 +20742,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/FinalisationMappingPosologie/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "FinalisationMappingPosologie",
-        "lastSeen": "2025-04-12T14:30:21.000Z"
+        "lastSeen": "2025-04-14T11:53:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-pn13-example/package.tgz",
@@ -25746,7 +25752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/STU2_0_0/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "STU2_0_0",
-        "lastSeen": "2025-04-14T01:10:38.000Z"
+        "lastSeen": "2025-04-14T12:14:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
