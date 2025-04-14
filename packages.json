@@ -3366,7 +3366,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_ppqm/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_ppqm",
-        "lastSeen": "2025-04-09T15:43:28.000Z"
+        "lastSeen": "2025-04-14T15:11:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_atna_grouping/package.tgz",
@@ -3379,6 +3379,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_dicom_studyinstance",
         "lastSeen": "2025-04-14T13:02:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_ppqm_search/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_ppqm_search",
+        "lastSeen": "2025-04-14T15:13:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -3696,7 +3702,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-04-10T14:26:46.000Z"
+        "lastSeen": "2025-04-14T15:25:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -20754,7 +20760,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/FinalisationMappingPosologie/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "FinalisationMappingPosologie",
-        "lastSeen": "2025-04-14T13:54:35.000Z"
+        "lastSeen": "2025-04-14T15:19:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-pn13-example/package.tgz",
@@ -20970,7 +20976,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-04-09T23:07:29.000Z"
+        "lastSeen": "2025-04-14T14:47:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -25494,7 +25500,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2025-04-13T19:19:11.000Z"
+        "lastSeen": "2025-04-14T15:34:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -26754,13 +26760,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/ballot-reconciliation-stu-2/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "ballot-reconciliation-stu-2",
-        "lastSeen": "2025-04-14T14:14:58.000Z"
+        "lastSeen": "2025-04-14T14:44:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/stu2-fixes/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "stu2-fixes",
-        "lastSeen": "2025-04-11T18:44:43.000Z"
+        "lastSeen": "2025-04-14T14:52:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -27420,7 +27426,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2025-04-02T20:12:20.000Z"
+        "lastSeen": "2025-04-14T15:07:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -27504,7 +27510,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.3",
-        "lastSeen": "2025-04-01T20:52:49.000Z"
+        "lastSeen": "2025-04-14T15:01:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3_FHIR-50223/package.tgz",
@@ -36624,7 +36630,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2025-04-14T11:12:08.000Z"
+        "lastSeen": "2025-04-14T15:25:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
