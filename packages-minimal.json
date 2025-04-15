@@ -4928,6 +4928,14 @@
     }
   },
   {
+    "name": "hl7.fhir.uv.udp-ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/vulcan-udp-ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.fhir.uv.v2mappings",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
