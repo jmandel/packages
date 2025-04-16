@@ -882,7 +882,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-04-16T06:58:13.000Z"
+        "lastSeen": "2025-04-16T09:09:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -1884,7 +1884,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-03-26T14:12:05.000Z"
+        "lastSeen": "2025-04-16T09:07:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -2238,7 +2238,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue338_pin-canonicals/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue338_pin-canonicals",
-        "lastSeen": "2025-04-16T08:26:06.000Z"
+        "lastSeen": "2025-04-16T09:08:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/ignoreWarningsUpdate/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "ignoreWarningsUpdate",
+        "lastSeen": "2025-04-16T08:51:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue339_urlDoNotResolve/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue339_urlDoNotResolve",
+        "lastSeen": "2025-04-16T09:29:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -3714,7 +3726,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-04-15T12:59:07.000Z"
+        "lastSeen": "2025-04-16T09:27:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -6714,7 +6726,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-04-16T07:14:23.000Z"
+        "lastSeen": "2025-04-16T08:49:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-practitioner/package.tgz",
@@ -6757,6 +6769,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-auditevent",
         "lastSeen": "2025-04-16T06:24:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-provenance/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-provenance",
+        "lastSeen": "2025-04-16T08:50:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz"
@@ -8202,7 +8220,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/header-derivation-rutt/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "header-derivation-rutt",
-        "lastSeen": "2025-04-03T07:41:35.000Z"
+        "lastSeen": "2025-04-16T09:20:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/requirements/package.tgz",
@@ -11502,7 +11520,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "minion_dev",
-        "lastSeen": "2025-04-16T08:41:54.000Z"
+        "lastSeen": "2025-04-16T08:56:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/narrative-additions/package.tgz",
@@ -19452,7 +19470,7 @@
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/xtehr-mapping/package.tgz",
         "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
         "branch": "xtehr-mapping",
-        "lastSeen": "2025-04-15T17:58:44.000Z"
+        "lastSeen": "2025-04-16T09:07:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/xtehr-mapping/package.tgz"
@@ -36762,7 +36780,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-04-16T08:24:18.000Z"
+        "lastSeen": "2025-04-16T08:54:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
