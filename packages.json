@@ -1026,7 +1026,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/add-actors-to-sequence-diagrams/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "add-actors-to-sequence-diagrams",
-        "lastSeen": "2025-04-16T04:22:42.000Z"
+        "lastSeen": "2025-04-16T07:48:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/requirements-additional-actors/package.tgz",
@@ -2233,6 +2233,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "oe_removedocref",
         "lastSeen": "2025-03-25T22:07:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue338_pin-canonicals/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue338_pin-canonicals",
+        "lastSeen": "2025-04-16T08:26:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -11496,7 +11502,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "minion_dev",
-        "lastSeen": "2025-04-15T15:05:39.000Z"
+        "lastSeen": "2025-04-16T08:41:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/narrative-additions/package.tgz",
@@ -18763,6 +18769,24 @@
         "repo": "https://github.com/ncez-cz/cz-core",
         "branch": "master",
         "lastSeen": "2024-06-18T10:40:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Organization-KP/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "Organization-KP",
+        "lastSeen": "2025-04-16T08:05:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Specimen/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "Specimen",
+        "lastSeen": "2025-04-16T08:31:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Test_pristupu/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "Test_pristupu",
+        "lastSeen": "2025-04-16T07:46:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -21048,7 +21072,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-04-15T14:15:54.000Z"
+        "lastSeen": "2025-04-16T08:08:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -36738,7 +36762,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-04-16T07:16:55.000Z"
+        "lastSeen": "2025-04-16T08:24:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
