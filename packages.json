@@ -1045,6 +1045,12 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "update-menu",
         "lastSeen": "2025-04-17T12:44:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/primary-or-secondary-actors-in-requirements/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "primary-or-secondary-actors-in-requirements",
+        "lastSeen": "2025-04-17T15:58:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -8989,6 +8995,12 @@
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "enhance-recommendation10-diagrams",
         "lastSeen": "2025-04-09T05:43:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/adjust-recommendation-page-template/package.tgz",
+        "repo": "https://github.com/cqframework/opioid-cds-r4",
+        "branch": "adjust-recommendation-page-template",
+        "lastSeen": "2025-04-17T15:47:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -23886,7 +23898,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-04-09T14:11:34.000Z"
+        "lastSeen": "2025-04-17T16:17:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -27306,7 +27318,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "master",
-        "lastSeen": "2025-04-09T20:04:54.000Z"
+        "lastSeen": "2025-04-17T15:38:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/trial/package.tgz",
