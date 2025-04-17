@@ -14772,7 +14772,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-04-01T00:26:39.000Z"
+        "lastSeen": "2025-04-17T03:09:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-healthcareservice/package.tgz",
@@ -14826,13 +14826,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_searchparam/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_searchparam",
-        "lastSeen": "2025-04-16T23:02:25.000Z"
+        "lastSeen": "2025-04-17T03:02:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-core/branches/AUCoreHealthcareService-ADHAupdates-2/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/au-fhir-core",
         "branch": "AUCoreHealthcareService-ADHAupdates-2",
-        "lastSeen": "2025-04-14T21:25:19.000Z"
+        "lastSeen": "2025-04-17T03:19:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ipa/package.tgz",
@@ -34894,6 +34894,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/master/package.tgz"
+  },
+  "hl7.fhir.uv.symptoms": {
+    "name": "hl7.fhir.uv.symptoms",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/fhir-symptoms-ig",
+        "branch": "main",
+        "lastSeen": "2025-04-17T03:20:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
   },
   "hl7.fhir.uv.termchangeset": {
     "name": "hl7.fhir.uv.termchangeset",
