@@ -24553,6 +24553,12 @@
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "1.0.0",
         "lastSeen": "2023-08-22T19:54:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/alignment-sg/package.tgz",
+        "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
+        "branch": "alignment-sg",
+        "lastSeen": "2025-04-18T02:51:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz"
@@ -42918,7 +42924,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-ccc/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-ccc",
         "branch": "main",
-        "lastSeen": "2025-04-15T10:09:20.000Z"
+        "lastSeen": "2025-04-18T02:25:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/haskewc/smart-dak-ccc/branches/haskewc-patch-1/package.tgz",
@@ -42943,6 +42949,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-empty",
         "branch": "br-updates-2024-08",
         "lastSeen": "2024-08-24T22:22:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-dak-bds",
+        "branch": "main",
+        "lastSeen": "2025-04-18T02:24:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-empty/branches/br-updates-2024-08/package.tgz"
