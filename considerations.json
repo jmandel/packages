@@ -320,14 +320,6 @@
     }
   },
   {
-    "name": "hl7.fhir.eu.r5.extensions",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7-eu/extensions-r5/branches/single-ig/package.tgz",
-      "repo": "https://github.com/hl7-eu/extensions-r5",
-      "branch": "single-ig"
-    }
-  },
-  {
     "name": "hl7.fhir.eu.r5.mpd",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r5/package.tgz",

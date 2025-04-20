@@ -19417,6 +19417,12 @@
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "r4r5-submodule",
         "lastSeen": "2025-04-10T06:49:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions-r5/branches/single-ig/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions-r5",
+        "branch": "single-ig",
+        "lastSeen": "2025-04-20T21:05:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
