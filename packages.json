@@ -1062,7 +1062,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/sequence-diagram---lab-orders/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "sequence-diagram---lab-orders",
-        "lastSeen": "2025-04-22T13:40:12.000Z"
+        "lastSeen": "2025-04-22T19:21:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -36679,6 +36679,42 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-665-Valuesets-for-FHIR-Clinical-Documents",
         "lastSeen": "2025-04-15T13:48:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-655-Add--protocol--to-PlanDefinitionType/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-655-Add--protocol--to-PlanDefinitionType",
+        "lastSeen": "2025-04-22T18:13:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-656-Move-three-DeviceAlert-related-CodeSystems-and-their-attendant-ValueSets-from-FHIR-core-to-THO/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-656-Move-three-DeviceAlert-related-CodeSystems-and-their-attendant-ValueSets-from-FHIR-core-to-THO",
+        "lastSeen": "2025-04-22T18:10:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-664-Add-UniProt-Identifier-System-per-TSMG/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-664-Add-UniProt-Identifier-System-per-TSMG",
+        "lastSeen": "2025-04-22T18:20:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-590-Create-a-convenience-copy-of-the-CMS-POS-code-system/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-590-Create-a-convenience-copy-of-the-CMS-POS-code-system",
+        "lastSeen": "2025-04-22T18:18:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-465-Make-explicit-that-IRI-identifiers-are-not-intended-to-be-used-in-Identifier-system-or-Coding-system/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-465-Make-explicit-that-IRI-identifiers-are-not-intended-to-be-used-in-Identifier-system-or-Coding-system",
+        "lastSeen": "2025-04-22T18:14:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-663-Add-ICH-Context-of-Use-per-TSMG/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-663-Add-ICH-Context-of-Use-per-TSMG",
+        "lastSeen": "2025-04-22T18:21:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
