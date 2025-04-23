@@ -8317,6 +8317,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "draft-release",
         "lastSeen": "2025-04-23T13:35:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/headers-and-PS/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "headers-and-PS",
+        "lastSeen": "2025-04-23T20:16:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -8449,6 +8455,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "measure-liquid-narrative-update",
         "lastSeen": "2025-04-17T14:47:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/v0.4.7/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "v0.4.7",
+        "lastSeen": "2025-04-23T20:08:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -23622,7 +23634,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2025-04-19T04:06:09.000Z"
+        "lastSeen": "2025-04-23T19:52:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -27786,7 +27798,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2025-04-14T15:07:29.000Z"
+        "lastSeen": "2025-04-23T19:38:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -27870,7 +27882,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU2.3",
-        "lastSeen": "2025-04-14T15:01:06.000Z"
+        "lastSeen": "2025-04-23T19:37:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3_FHIR-50223/package.tgz",
@@ -34116,7 +34128,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "main",
-        "lastSeen": "2025-04-23T19:05:36.000Z"
+        "lastSeen": "2025-04-23T19:49:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/FHIR-35713/package.tgz",
