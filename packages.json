@@ -1080,7 +1080,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/qa-cleanup/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "qa-cleanup",
-        "lastSeen": "2025-04-24T09:38:25.000Z"
+        "lastSeen": "2025-04-24T09:55:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -5646,7 +5646,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/300-ch-vacd-Immun-Lab-verificationStatus/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "300-ch-vacd-Immun-Lab-verificationStatus",
-        "lastSeen": "2025-04-24T07:45:19.000Z"
+        "lastSeen": "2025-04-24T10:13:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -10752,7 +10752,7 @@
         "url": "https://build.fhir.org/ig/SanteonNL/shared-care-planning/branches/koppeltaal-scp-workflow/package.tgz",
         "repo": "https://github.com/SanteonNL/shared-care-planning",
         "branch": "koppeltaal-scp-workflow",
-        "lastSeen": "2025-04-15T12:57:37.000Z"
+        "lastSeen": "2025-04-24T10:42:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/santeonnl/shared-care-planning/branches/main/package.tgz"
@@ -11652,7 +11652,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "minion_dev",
-        "lastSeen": "2025-04-24T09:35:15.000Z"
+        "lastSeen": "2025-04-24T09:51:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/narrative-additions/package.tgz",
@@ -18984,7 +18984,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Signature-and-example/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Signature-and-example",
-        "lastSeen": "2025-04-24T09:36:29.000Z"
+        "lastSeen": "2025-04-24T10:32:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -19501,6 +19501,12 @@
         "repo": "https://github.com/hl7-be/problem",
         "branch": "master",
         "lastSeen": "2025-04-24T07:41:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/terminology",
+        "branch": "master",
+        "lastSeen": "2025-04-24T10:00:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/empty-ig-custom/branches/master/package.tgz"
@@ -37104,7 +37110,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-04-24T09:36:26.000Z"
+        "lastSeen": "2025-04-24T10:10:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
@@ -41940,7 +41946,7 @@
         "url": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz",
         "repo": "https://github.com/Interop-NWEngland/LTW-Genomics",
         "branch": "main",
-        "lastSeen": "2025-04-24T07:50:47.000Z"
+        "lastSeen": "2025-04-24T10:27:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-NWEngland/LTW-Genomics/branches/main/package.tgz"
