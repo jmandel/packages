@@ -9091,6 +9091,12 @@
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "adjust-recommendation-page-template",
         "lastSeen": "2025-04-17T15:47:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/setup-ci/package.tgz",
+        "repo": "https://github.com/cqframework/opioid-cds-r4",
+        "branch": "setup-ci",
+        "lastSeen": "2025-04-24T00:42:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -23503,6 +23509,12 @@
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "update-expected-parameters",
         "lastSeen": "2025-04-09T13:19:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/testing-updates/package.tgz",
+        "repo": "https://github.com/HL7/us-cql-ig",
+        "branch": "testing-updates",
+        "lastSeen": "2025-04-24T00:53:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz"
@@ -34632,7 +34644,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/frank/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "frank",
-        "lastSeen": "2024-08-02T22:43:50.000Z"
+        "lastSeen": "2025-04-24T00:37:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/manifest-file-tweak/package.tgz",
