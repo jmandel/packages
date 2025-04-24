@@ -882,7 +882,7 @@
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-04-24T11:56:07.000Z"
+        "lastSeen": "2025-04-24T18:32:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/fixes-nov/package.tgz",
@@ -1087,6 +1087,12 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "sequence-diagrams-page-cleanup",
         "lastSeen": "2025-04-24T14:30:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/update-downloads-page/package.tgz",
+        "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
+        "branch": "update-downloads-page",
+        "lastSeen": "2025-04-24T18:37:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -8922,7 +8928,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "master",
-        "lastSeen": "2025-04-15T17:46:52.000Z"
+        "lastSeen": "2025-04-24T18:28:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/321-links-to-category-and-evidence-type/package.tgz",
@@ -9096,7 +9102,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/2024-ig-eoy-update/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "2024-ig-eoy-update",
-        "lastSeen": "2025-04-24T16:57:02.000Z"
+        "lastSeen": "2025-04-24T18:12:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/enhance-recommendation10-diagrams/package.tgz",
@@ -12096,7 +12102,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/qa-review/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "qa-review",
-        "lastSeen": "2025-04-23T16:09:24.000Z"
+        "lastSeen": "2025-04-24T17:24:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/4.0.0-ballot/package.tgz",
@@ -34182,7 +34188,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "main",
-        "lastSeen": "2025-04-23T19:49:10.000Z"
+        "lastSeen": "2025-04-24T18:34:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/FHIR-35713/package.tgz",
