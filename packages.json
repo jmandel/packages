@@ -8003,6 +8003,18 @@
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
   },
+  "ee.fhir.spd": {
+    "name": "ee.fhir.spd",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
+        "branch": "master",
+        "lastSeen": "2025-04-28T06:45:52.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
+  },
   "ee.fhir.ts": {
     "name": "ee.fhir.ts",
     "locations": [
@@ -11724,7 +11736,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "minion_dev",
-        "lastSeen": "2025-04-25T13:00:51.000Z"
+        "lastSeen": "2025-04-28T06:31:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/narrative-additions/package.tgz",
@@ -13681,6 +13693,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-healthcareservice-communication-binding",
         "lastSeen": "2025-04-23T01:40:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-int-timezone-profile/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "cr-int-timezone-profile",
+        "lastSeen": "2025-04-28T06:37:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -19038,7 +19056,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-04-17T06:27:20.000Z"
+        "lastSeen": "2025-04-28T05:58:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -42108,7 +42126,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-04-28T05:39:50.000Z"
+        "lastSeen": "2025-04-28T06:26:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
