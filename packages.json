@@ -7603,6 +7603,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19349-errors-in-fhir-validation-clinicalImpression",
         "lastSeen": "2025-04-25T13:28:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_FUT-i_2025_2/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "release_FUT-i_2025_2",
+        "lastSeen": "2025-04-28T04:10:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -40402,6 +40408,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/medigree/locationgraph/branches/master/package.tgz"
+  },
+  "ltw.ihe.nw-gmsa.nhs.uk": {
+    "name": "ltw.ihe.nw-gmsa.nhs.uk",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nw-gmsa/LTW/branches/main/package.tgz",
+        "repo": "https://github.com/nw-gmsa/LTW",
+        "branch": "main",
+        "lastSeen": "2025-04-28T04:37:40.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nw-gmsa/LTW/branches/main/package.tgz"
   },
   "maanzoni-fhir-issac": {
     "name": "maanzoni-fhir-issac",
