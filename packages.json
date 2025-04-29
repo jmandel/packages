@@ -13740,7 +13740,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-int-timezone-profile/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-int-timezone-profile",
-        "lastSeen": "2025-04-29T00:52:05.000Z"
+        "lastSeen": "2025-04-29T01:35:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -23424,7 +23424,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-04-28T17:14:07.000Z"
+        "lastSeen": "2025-04-29T01:05:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -23850,7 +23850,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2025-04-25T21:20:43.000Z"
+        "lastSeen": "2025-04-29T02:06:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -26388,7 +26388,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2025-04-24T19:52:49.000Z"
+        "lastSeen": "2025-04-29T02:05:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
@@ -44718,7 +44718,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uat",
-        "lastSeen": "2025-04-24T02:35:29.000Z"
+        "lastSeen": "2025-04-29T01:24:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/main/package.tgz",
@@ -45181,6 +45181,12 @@
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
         "lastSeen": "2025-04-11T01:58:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/ci",
+        "branch": "1.0.0",
+        "lastSeen": "2025-04-29T01:35:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz"
