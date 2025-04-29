@@ -322,17 +322,17 @@
   {
     "name": "hl7.fhir.eu.imaging",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
-      "repo": "https://github.com/hl7-eu/imaging",
-      "branch": "master"
+      "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/VariousMappingImprovements/package.tgz",
+      "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
+      "branch": "VariousMappingImprovements"
     }
   },
   {
     "name": "hl7.fhir.eu.imaging.r5",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/xtehrMapping/package.tgz",
+      "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
       "repo": "https://github.com/hl7-eu/imaging",
-      "branch": "xtehrMapping"
+      "branch": "master"
     }
   },
   {
@@ -549,6 +549,14 @@
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master_SKS_TouchStone/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
       "branch": "master_SKS_TouchStone"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.conditionlist",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/TestExamples_protocol.v.1.0.2/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
+      "branch": "TestExamples_protocol.v.1.0.2"
     }
   },
   {
