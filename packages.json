@@ -3810,7 +3810,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-04-30T07:17:20.000Z"
+        "lastSeen": "2025-04-30T07:45:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -3828,7 +3828,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/SabineK82-patch-1/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "SabineK82-patch-1",
-        "lastSeen": "2025-04-30T06:56:15.000Z"
+        "lastSeen": "2025-04-30T08:06:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -7669,6 +7669,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "125-missing-changelog-for-351",
         "lastSeen": "2025-04-30T06:53:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19691-convert-examples-to-FSH-format/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-19691-convert-examples-to-FSH-format",
+        "lastSeen": "2025-04-30T08:12:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -23472,7 +23478,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-04-30T03:39:38.000Z"
+        "lastSeen": "2025-04-30T07:15:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -40920,7 +40926,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/TestExamples_protocol.v.1.0.2/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
         "branch": "TestExamples_protocol.v.1.0.2",
-        "lastSeen": "2025-04-29T13:11:19.000Z"
+        "lastSeen": "2025-04-30T08:00:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz"
