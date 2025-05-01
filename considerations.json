@@ -336,6 +336,14 @@
     }
   },
   {
+    "name": "hl7.fhir.eu.mpd",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/eu-mpd/branches/master/package.tgz",
+      "repo": "https://github.com/costateixeira/eu-mpd",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.eu.r5.mpd",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r5/package.tgz",
