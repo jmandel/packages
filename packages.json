@@ -7681,6 +7681,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "MartinBernstorff-patch-1",
         "lastSeen": "2025-05-01T06:27:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/grep-for-versions-before-release/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "grep-for-versions-before-release",
+        "lastSeen": "2025-05-01T07:34:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -23550,7 +23556,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-05-01T06:03:01.000Z"
+        "lastSeen": "2025-05-01T06:49:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -24750,7 +24756,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2025-02-24T20:39:42.000Z"
+        "lastSeen": "2025-05-01T07:22:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -24774,7 +24780,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/2.1.0-snapshot/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "2.1.0-snapshot",
-        "lastSeen": "2025-04-17T17:57:47.000Z"
+        "lastSeen": "2025-05-01T06:49:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/2.0.0/package.tgz",
@@ -42372,7 +42378,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-01T05:42:40.000Z"
+        "lastSeen": "2025-05-01T07:03:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
