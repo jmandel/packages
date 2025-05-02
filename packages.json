@@ -19992,7 +19992,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "qa-fixes-ballot1",
-        "lastSeen": "2025-05-02T12:37:45.000Z"
+        "lastSeen": "2025-05-02T13:25:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -20022,7 +20022,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-04-29T13:11:08.000Z"
+        "lastSeen": "2025-05-02T13:22:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz",
@@ -24439,6 +24439,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "QA-cleanup-3",
         "lastSeen": "2025-05-01T14:28:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/QA-cleanup-4/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "QA-cleanup-4",
+        "lastSeen": "2025-05-02T13:01:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -24618,7 +24624,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2025-05-01T15:55:07.000Z"
+        "lastSeen": "2025-05-02T13:13:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -26286,7 +26292,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-mdi-ig",
         "branch": "master",
-        "lastSeen": "2025-05-02T11:58:29.000Z"
+        "lastSeen": "2025-05-02T13:32:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/experimental/package.tgz",
@@ -37578,7 +37584,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-05-02T11:02:49.000Z"
+        "lastSeen": "2025-05-02T12:58:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
