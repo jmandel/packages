@@ -5719,6 +5719,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "308-refactor-fsh-definitions-of-valueset-instanceof",
         "lastSeen": "2025-04-30T09:27:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/312-fix-broken-links-fix-identifiert-oids/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "312-fix-broken-links-fix-identifiert-oids",
+        "lastSeen": "2025-05-02T06:43:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -7650,7 +7656,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19349-errors-in-fhir-validation-clinicalImpression/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19349-errors-in-fhir-validation-clinicalImpression",
-        "lastSeen": "2025-04-28T09:52:47.000Z"
+        "lastSeen": "2025-05-02T06:41:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_FUT-i_2025_2/package.tgz",
@@ -13872,7 +13878,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-05-01T23:06:06.000Z"
+        "lastSeen": "2025-05-02T06:48:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -23598,7 +23604,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-05-02T06:02:37.000Z"
+        "lastSeen": "2025-05-02T07:10:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -42438,7 +42444,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-02T06:28:19.000Z"
+        "lastSeen": "2025-05-02T06:46:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
