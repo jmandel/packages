@@ -2353,6 +2353,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "versionUpdate_mz",
         "lastSeen": "2025-05-05T08:33:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue346_bindings/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue346_bindings",
+        "lastSeen": "2025-05-05T09:20:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -7002,7 +7008,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/reliable_messaging/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "reliable_messaging",
-        "lastSeen": "2025-05-05T08:18:28.000Z"
+        "lastSeen": "2025-05-05T09:42:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -17376,7 +17382,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "releasecandidate",
-        "lastSeen": "2025-04-18T10:00:35.000Z"
+        "lastSeen": "2025-05-05T09:38:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/qa-check/package.tgz",
@@ -42564,7 +42570,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-05T08:34:54.000Z"
+        "lastSeen": "2025-05-05T08:50:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
