@@ -5443,6 +5443,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "issue92-refdatalink",
         "lastSeen": "2025-03-25T08:02:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/issue98_NamingSystems/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "issue98_NamingSystems",
+        "lastSeen": "2025-05-05T10:59:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -7686,7 +7692,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19348/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19348",
-        "lastSeen": "2025-04-30T14:57:41.000Z"
+        "lastSeen": "2025-05-05T11:29:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19352/package.tgz",
@@ -7698,7 +7704,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19353/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19353",
-        "lastSeen": "2025-05-02T12:19:14.000Z"
+        "lastSeen": "2025-05-05T11:11:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/3.5.1/package.tgz",
@@ -7746,7 +7752,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-04-23T15:38:42.000Z"
+        "lastSeen": "2025-05-05T11:23:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -7914,13 +7920,13 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2025-04-24T05:40:13.000Z"
+        "lastSeen": "2025-05-05T11:34:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "2.9.4",
-        "lastSeen": "2025-04-23T12:17:40.000Z"
+        "lastSeen": "2025-05-05T11:28:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -24564,7 +24570,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-05-04T12:28:56.000Z"
+        "lastSeen": "2025-05-05T11:24:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
