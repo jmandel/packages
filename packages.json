@@ -1974,7 +1974,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-04-16T12:33:41.000Z"
+        "lastSeen": "2025-05-05T08:41:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -2340,13 +2340,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue339_urlDoNotResolve/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue339_urlDoNotResolve",
-        "lastSeen": "2025-05-04T17:50:43.000Z"
+        "lastSeen": "2025-05-05T07:59:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue334_RelatedPerson/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue334_RelatedPerson",
         "lastSeen": "2025-05-04T17:09:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/versionUpdate_mz/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "versionUpdate_mz",
+        "lastSeen": "2025-05-05T08:33:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -6996,7 +7002,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/reliable_messaging/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "reliable_messaging",
-        "lastSeen": "2025-04-30T07:21:52.000Z"
+        "lastSeen": "2025-05-05T08:18:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -21414,7 +21420,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "main",
-        "lastSeen": "2025-04-30T16:51:05.000Z"
+        "lastSeen": "2025-05-05T08:13:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/CorrectionErreur/package.tgz",
@@ -21505,6 +21511,18 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "RelationEtMedicamentsVirtuels",
         "lastSeen": "2025-05-02T14:24:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-update-readme/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
+        "branch": "nr-update-readme",
+        "lastSeen": "2025-05-05T08:30:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-update-url/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
+        "branch": "nr-update-url",
+        "lastSeen": "2025-05-05T07:46:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -41826,7 +41844,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
         "branch": "master",
-        "lastSeen": "2025-01-31T17:54:45.000Z"
+        "lastSeen": "2025-05-05T07:47:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/master/package.tgz"
@@ -42546,7 +42564,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-05T03:55:59.000Z"
+        "lastSeen": "2025-05-05T08:34:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
