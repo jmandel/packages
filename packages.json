@@ -5449,6 +5449,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "issue98_NamingSystems",
         "lastSeen": "2025-05-05T10:59:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oe_bfs_country_codes/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "oe_bfs_country_codes",
+        "lastSeen": "2025-05-05T21:15:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -45456,7 +45462,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/nzhts-ig/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/nzhts-ig",
         "branch": "uat",
-        "lastSeen": "2025-04-16T23:39:04.000Z"
+        "lastSeen": "2025-05-05T21:03:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/daniel-thomson/nzhts/branches/main/package.tgz"
