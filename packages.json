@@ -3834,7 +3834,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-05-06T08:09:09.000Z"
+        "lastSeen": "2025-05-06T09:09:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -4110,7 +4110,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "master",
-        "lastSeen": "2025-03-25T12:58:14.000Z"
+        "lastSeen": "2025-05-06T09:40:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/v1.0.0-ballot/package.tgz",
@@ -7044,7 +7044,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2025-05-01T11:41:10.000Z"
+        "lastSeen": "2025-05-06T08:54:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -7464,7 +7464,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Update-activityDef_to_obs-mappings/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-12671-Update-activityDef_to_obs-mappings",
-        "lastSeen": "2025-02-21T09:57:58.000Z"
+        "lastSeen": "2025-05-06T09:27:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Cleaning-up-old-codes/package.tgz",
@@ -7747,6 +7747,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-ig-validation-fixes",
         "lastSeen": "2025-05-05T13:04:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "release_3_6_0",
+        "lastSeen": "2025-05-06T09:23:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -42624,7 +42630,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-06T07:35:53.000Z"
+        "lastSeen": "2025-05-06T09:04:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
@@ -44779,6 +44785,18 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ra",
         "branch": "main",
         "lastSeen": "2025-04-30T10:05:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umernisar024/smart-ra/branches/patch-2/package.tgz",
+        "repo": "https://github.com/umernisar024/smart-ra",
+        "branch": "patch-2",
+        "lastSeen": "2025-05-06T09:04:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umernisar024/smart-ra/branches/main/package.tgz",
+        "repo": "https://github.com/umernisar024/smart-ra",
+        "branch": "main",
+        "lastSeen": "2025-05-06T08:59:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-ra/branches/main/package.tgz"
