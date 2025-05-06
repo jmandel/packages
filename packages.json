@@ -9174,7 +9174,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "master",
-        "lastSeen": "2025-05-02T17:08:20.000Z"
+        "lastSeen": "2025-05-06T19:44:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/321-links-to-category-and-evidence-type/package.tgz",
@@ -9366,7 +9366,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/setup-ci/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "setup-ci",
-        "lastSeen": "2025-05-04T02:18:45.000Z"
+        "lastSeen": "2025-05-06T19:33:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/rec10-plantuml-diagrams/package.tgz",
@@ -11538,7 +11538,13 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
         "branch": "main",
-        "lastSeen": "2025-05-06T19:21:21.000Z"
+        "lastSeen": "2025-05-06T19:44:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/manifests/package.tgz",
+        "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
+        "branch": "manifests",
+        "lastSeen": "2025-05-06T19:37:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2022/branches/master/package.tgz"
@@ -35292,7 +35298,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/frank/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "frank",
-        "lastSeen": "2025-05-06T16:04:59.000Z"
+        "lastSeen": "2025-05-06T20:00:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/manifest-file-tweak/package.tgz",
