@@ -4230,7 +4230,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-04-25T15:18:21.000Z"
+        "lastSeen": "2025-05-07T15:33:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -4506,7 +4506,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/update-dependencies/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "update-dependencies",
-        "lastSeen": "2025-05-07T12:12:03.000Z"
+        "lastSeen": "2025-05-07T15:46:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -11544,7 +11544,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
         "branch": "main",
-        "lastSeen": "2025-05-06T22:05:20.000Z"
+        "lastSeen": "2025-05-07T16:34:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/manifests/package.tgz",
@@ -21529,6 +21529,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-multiplebirth-extension",
         "lastSeen": "2025-04-30T16:06:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-examples/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-add-examples",
+        "lastSeen": "2025-05-07T16:07:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -24222,7 +24228,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2025-05-07T12:50:26.000Z"
+        "lastSeen": "2025-05-07T15:47:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -24684,7 +24690,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-05-07T12:39:28.000Z"
+        "lastSeen": "2025-05-07T16:19:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -28242,7 +28248,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2025-05-06T13:41:20.000Z"
+        "lastSeen": "2025-05-07T15:43:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -30408,7 +30414,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2025-05-07T12:51:18.000Z"
+        "lastSeen": "2025-05-07T16:26:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HughGlover/vulcan-udp-ig/branches/main/package.tgz",
+        "repo": "https://github.com/HughGlover/vulcan-udp-ig",
+        "branch": "main",
+        "lastSeen": "2025-05-07T16:20:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
