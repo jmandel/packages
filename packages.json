@@ -15361,6 +15361,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagnostics-guidance",
         "lastSeen": "2025-04-16T01:09:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_adb-key/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_adb-key",
+        "lastSeen": "2025-05-07T22:07:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -19332,13 +19338,13 @@
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/develop/package.tgz",
         "repo": "https://github.com/HIE-cr/core-ig",
         "branch": "develop",
-        "lastSeen": "2025-04-26T22:54:21.000Z"
+        "lastSeen": "2025-05-07T21:54:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/main/package.tgz",
         "repo": "https://github.com/HIE-cr/core-ig",
         "branch": "main",
-        "lastSeen": "2025-04-27T03:48:08.000Z"
+        "lastSeen": "2025-05-07T21:55:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/issues-30/package.tgz",
@@ -19362,7 +19368,7 @@
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/issues-33/package.tgz",
         "repo": "https://github.com/HIE-cr/core-ig",
         "branch": "issues-33",
-        "lastSeen": "2025-04-27T03:42:50.000Z"
+        "lastSeen": "2025-05-07T21:53:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hiecr/ig-core/branches/main/package.tgz"
@@ -24228,7 +24234,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2025-05-07T19:45:22.000Z"
+        "lastSeen": "2025-05-07T22:14:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -44616,7 +44622,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "sop",
-        "lastSeen": "2025-04-25T20:25:39.000Z"
+        "lastSeen": "2025-05-07T22:12:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
