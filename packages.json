@@ -23790,7 +23790,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/use-case-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "use-case-updates",
-        "lastSeen": "2025-05-07T17:55:46.000Z"
+        "lastSeen": "2025-05-07T21:18:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz"
@@ -30679,6 +30679,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "argo-file",
         "lastSeen": "2025-05-05T20:08:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/fix-attachment/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "fix-attachment",
+        "lastSeen": "2025-05-07T20:49:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
