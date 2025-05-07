@@ -66,9 +66,9 @@
   {
     "name": "ch.fhir.ig.ch-lab-order",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/refine-2-sepsis-sr/package.tgz",
+      "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/update-dependencies/package.tgz",
       "repo": "https://github.com/hl7ch/ch-lab-order",
-      "branch": "refine-2-sepsis-sr"
+      "branch": "update-dependencies"
     }
   },
   {
@@ -173,14 +173,6 @@
       "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/main/package.tgz",
       "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
       "branch": "main"
-    }
-  },
-  {
-    "name": "hl7.at.fhir.core.r5",
-    "current": {
-      "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/add-manual-trigger/package.tgz",
-      "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
-      "branch": "add-manual-trigger"
     }
   },
   {
@@ -464,14 +456,6 @@
     }
   },
   {
-    "name": "hl7.fhir.uv.ips",
-    "current": {
-      "url": "https://build.fhir.org/ig/costateixeira/fhir-ips/branches/master/package.tgz",
-      "repo": "https://github.com/costateixeira/fhir-ips",
-      "branch": "master"
-    }
-  },
-  {
     "name": "hl7.fhir.uv.rtls",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/rtls-ig/branches/main/package.tgz",
@@ -578,9 +562,9 @@
   {
     "name": "medcom.fhir.dk.conditionlist",
     "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/Main_TestExampledNew/package.tgz",
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/TestExamples_protocol.v.1.0.2/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
-      "branch": "Main_TestExampledNew"
+      "branch": "TestExamples_protocol.v.1.0.2"
     }
   },
   {
