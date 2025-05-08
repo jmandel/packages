@@ -7974,7 +7974,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2025-05-06T05:39:08.000Z"
+        "lastSeen": "2025-05-08T08:12:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -15324,7 +15324,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comparison-capstat/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_comparison-capstat",
-        "lastSeen": "2025-05-07T04:48:26.000Z"
+        "lastSeen": "2025-05-08T07:52:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_FHIR-46878/package.tgz",
@@ -17472,7 +17472,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "releasecandidate",
-        "lastSeen": "2025-05-08T07:33:41.000Z"
+        "lastSeen": "2025-05-08T08:21:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/qa-check/package.tgz",
@@ -17485,6 +17485,12 @@
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "revert-master-to-draft",
         "lastSeen": "2025-03-19T09:01:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/v1.0.0/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "v1.0.0",
+        "lastSeen": "2025-05-08T08:21:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-care/branches/restart/package.tgz"
