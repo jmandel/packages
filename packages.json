@@ -2340,7 +2340,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue339_urlDoNotResolve/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue339_urlDoNotResolve",
-        "lastSeen": "2025-05-06T05:55:17.000Z"
+        "lastSeen": "2025-05-08T10:00:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue334_RelatedPerson/package.tgz",
@@ -3073,6 +3073,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue320-terminology",
         "lastSeen": "2025-03-25T07:38:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/issue323_relatedpersonreferences/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "issue323_relatedpersonreferences",
+        "lastSeen": "2025-05-08T10:21:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -3540,7 +3546,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_chmhd1/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_chmhd1",
-        "lastSeen": "2025-05-07T15:10:16.000Z"
+        "lastSeen": "2025-05-08T09:57:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -5460,7 +5466,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/90-ch-vacd-adaption-to-ips-200/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "90-ch-vacd-adaption-to-ips-200",
-        "lastSeen": "2025-05-08T04:58:45.000Z"
+        "lastSeen": "2025-05-08T09:23:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/issue87-terminology/package.tgz",
@@ -41544,7 +41550,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "main",
-        "lastSeen": "2025-05-08T09:42:19.000Z"
+        "lastSeen": "2025-05-08T10:25:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/1.0.0-A1/package.tgz",
@@ -41604,7 +41610,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/1.0.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "1.0.1",
-        "lastSeen": "2025-05-07T12:47:38.000Z"
+        "lastSeen": "2025-05-08T10:17:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/1.2.3/package.tgz",
@@ -42780,7 +42786,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-08T09:04:49.000Z"
+        "lastSeen": "2025-05-08T10:00:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
