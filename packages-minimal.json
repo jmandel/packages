@@ -1216,6 +1216,14 @@
     }
   },
   {
+    "name": "fhi.immunization",
+    "current": {
+      "url": "https://build.fhir.org/ig/FHISYSVAK/FHIR_beta/branches/main/package.tgz",
+      "repo": "https://github.com/FHISYSVAK/FHIR_beta",
+      "branch": "main"
+    }
+  },
+  {
     "name": "fhir.SLexampleIG",
     "current": {
       "url": "https://build.fhir.org/ig/lk-gov-health-hiu/slcore/branches/master/package.tgz",
