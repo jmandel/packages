@@ -4524,7 +4524,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/update-dependencies/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "update-dependencies",
-        "lastSeen": "2025-05-07T15:46:07.000Z"
+        "lastSeen": "2025-05-10T12:35:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -20142,7 +20142,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "master",
-        "lastSeen": "2025-03-27T20:12:57.000Z"
+        "lastSeen": "2025-05-10T12:28:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz"
@@ -21403,6 +21403,12 @@
         "repo": "https://github.com/fhir-fi/finnish-smart",
         "branch": "ci",
         "lastSeen": "2025-03-27T11:36:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/v2_0_0-rc2/package.tgz",
+        "repo": "https://github.com/fhir-fi/finnish-smart",
+        "branch": "v2_0_0-rc2",
+        "lastSeen": "2025-05-10T11:39:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/package.tgz"
@@ -32088,7 +32094,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-05-02T12:17:01.000Z"
+        "lastSeen": "2025-05-10T12:24:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
