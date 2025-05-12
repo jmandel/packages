@@ -3565,6 +3565,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_chmhd1",
         "lastSeen": "2025-05-08T09:57:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/dk_atc_and_iti-81/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "dk_atc_and_iti-81",
+        "lastSeen": "2025-05-12T12:17:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -8958,7 +8964,7 @@
         "url": "https://build.fhir.org/ig/ralych/affiliate-report-ig/branches/main/package.tgz",
         "repo": "https://github.com/ralych/affiliate-report-ig",
         "branch": "main",
-        "lastSeen": "2025-01-28T21:41:36.000Z"
+        "lastSeen": "2025-05-12T11:42:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ralych/affiliate-report-ig/branches/main/package.tgz"
@@ -19572,7 +19578,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "connection-to-czech-profile",
-        "lastSeen": "2025-04-29T16:43:15.000Z"
+        "lastSeen": "2025-05-12T11:44:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -21714,7 +21720,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-examples/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-examples",
-        "lastSeen": "2025-05-12T10:15:06.000Z"
+        "lastSeen": "2025-05-12T12:42:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -22020,7 +22026,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2025-04-27T07:33:32.000Z"
+        "lastSeen": "2025-05-12T12:38:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -22032,7 +22038,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-05-09T06:35:58.000Z"
+        "lastSeen": "2025-05-12T12:38:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -22243,6 +22249,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "1.14.0-sprint56",
         "lastSeen": "2025-04-15T13:43:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/1.15.0-sprint58/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "1.15.0-sprint58",
+        "lastSeen": "2025-05-12T12:35:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
@@ -32172,7 +32184,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-05-12T07:32:20.000Z"
+        "lastSeen": "2025-05-12T12:42:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -38052,7 +38064,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-05-12T11:25:40.000Z"
+        "lastSeen": "2025-05-12T12:05:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -41718,7 +41730,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "main",
-        "lastSeen": "2025-05-12T11:34:44.000Z"
+        "lastSeen": "2025-05-12T12:00:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/1.0.0-A1/package.tgz",
@@ -42102,7 +42114,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "master",
-        "lastSeen": "2025-05-12T07:45:44.000Z"
+        "lastSeen": "2025-05-12T11:59:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/v-1.4.0-1rc/package.tgz",
@@ -42270,7 +42282,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "master",
-        "lastSeen": "2025-05-08T12:22:32.000Z"
+        "lastSeen": "2025-05-12T12:00:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/v.1.0.0/package.tgz",
