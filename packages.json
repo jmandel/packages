@@ -14077,6 +14077,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-int-timezone-profile",
         "lastSeen": "2025-04-29T01:35:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-au-coverage-draft/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "cr-au-coverage-draft",
+        "lastSeen": "2025-05-12T23:10:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -36534,7 +36540,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz",
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "main",
-        "lastSeen": "2025-04-15T22:53:55.000Z"
+        "lastSeen": "2025-05-12T23:30:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/Add_nzf-packs/package.tgz",
@@ -36607,6 +36613,12 @@
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "NF-1120_Add_pack_quantity_to_funding",
         "lastSeen": "2025-03-17T20:33:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/Add_unused_safety_rule/package.tgz",
+        "repo": "https://github.com/HL7NZ/nzf",
+        "branch": "Add_unused_safety_rule",
+        "lastSeen": "2025-05-12T23:04:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz"
@@ -46632,7 +46644,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/v2.0.0-Preview5/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "v2.0.0-Preview5",
-        "lastSeen": "2025-05-07T14:00:24.000Z"
+        "lastSeen": "2025-05-12T22:45:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz"
