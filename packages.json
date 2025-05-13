@@ -7866,7 +7866,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-ig-validation-fixes/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-ig-validation-fixes",
-        "lastSeen": "2025-05-05T13:04:06.000Z"
+        "lastSeen": "2025-05-13T12:37:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
@@ -7890,13 +7890,19 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19361-errors-in-fhir-validation-codesystems/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19361-errors-in-fhir-validation-codesystems",
-        "lastSeen": "2025-05-13T11:20:32.000Z"
+        "lastSeen": "2025-05-13T11:48:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-18966_questionnaire_into_fix_dot/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-18966_questionnaire_into_fix_dot",
         "lastSeen": "2025-05-12T08:09:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19355/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-19355",
+        "lastSeen": "2025-05-13T12:45:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -8256,7 +8262,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-04-23T07:34:47.000Z"
+        "lastSeen": "2025-05-13T12:55:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-3327/package.tgz",
@@ -8298,7 +8304,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/johannes-test/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "johannes-test",
-        "lastSeen": "2025-04-23T07:22:24.000Z"
+        "lastSeen": "2025-05-13T12:52:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -8316,7 +8322,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-05-13T11:02:28.000Z"
+        "lastSeen": "2025-05-13T12:36:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -17814,7 +17820,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "master",
-        "lastSeen": "2025-05-13T10:16:18.000Z"
+        "lastSeen": "2025-05-13T11:55:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-26/package.tgz",
@@ -17982,7 +17988,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "releasecandidate",
-        "lastSeen": "2025-05-06T11:07:25.000Z"
+        "lastSeen": "2025-05-13T12:01:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-80/package.tgz",
@@ -21786,7 +21792,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-change-notes/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-change-notes",
-        "lastSeen": "2025-05-13T10:17:47.000Z"
+        "lastSeen": "2025-05-13T12:10:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -30852,7 +30858,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2025-05-13T10:35:54.000Z"
+        "lastSeen": "2025-05-13T12:29:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/1.0.0-ballot/package.tgz",
@@ -43122,7 +43128,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-13T11:10:36.000Z"
+        "lastSeen": "2025-05-13T12:44:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
