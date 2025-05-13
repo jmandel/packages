@@ -3918,7 +3918,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/ch_epreg_review/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "ch_epreg_review",
-        "lastSeen": "2025-05-12T12:48:23.000Z"
+        "lastSeen": "2025-05-13T08:03:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -8142,7 +8142,7 @@
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz",
         "repo": "https://github.com/trifork/gm-fhir-ig",
         "branch": "main",
-        "lastSeen": "2025-05-07T07:17:26.000Z"
+        "lastSeen": "2025-05-13T07:58:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/cherrypick-codes/package.tgz",
@@ -21757,6 +21757,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-examples",
         "lastSeen": "2025-05-12T15:05:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-bonne-pratique/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-bonne-pratique",
+        "lastSeen": "2025-05-13T08:23:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -30822,7 +30828,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2025-05-13T07:41:07.000Z"
+        "lastSeen": "2025-05-13T08:26:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/1.0.0-ballot/package.tgz",
@@ -32226,7 +32232,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-05-12T12:42:44.000Z"
+        "lastSeen": "2025-05-13T07:53:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -38028,7 +38034,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/wg-medication/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "wg-medication",
-        "lastSeen": "2025-05-12T11:27:22.000Z"
+        "lastSeen": "2025-05-13T08:24:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/qa-fixes-for-v1.1.0/package.tgz",
@@ -41395,6 +41401,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "ACK_Testfiler_Konverteringsløsning_17_01_2025",
         "lastSeen": "2025-01-17T10:32:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/develop/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
+        "branch": "develop",
+        "lastSeen": "2025-05-13T08:33:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz"
@@ -42054,7 +42066,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "master",
-        "lastSeen": "2025-02-12T12:08:20.000Z"
+        "lastSeen": "2025-05-13T07:58:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.1.0-rc1-master/package.tgz",
@@ -42091,6 +42103,24 @@
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "v.3.0.0-rc1",
         "lastSeen": "2025-01-27T10:47:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/develop/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "develop",
+        "lastSeen": "2025-05-13T07:53:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/v.2.2.1-IG/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "v.2.2.1-IG",
+        "lastSeen": "2025-05-13T07:52:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.2.2/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "2.2.2",
+        "lastSeen": "2025-05-13T07:58:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
