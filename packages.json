@@ -235,6 +235,12 @@
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases",
         "lastSeen": "2025-04-30T00:51:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/phcoreig/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
+        "branch": "phcoreig",
+        "lastSeen": "2025-05-13T06:38:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-branch/package.tgz"
@@ -30642,13 +30648,19 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2025-05-10T09:28:01.000Z"
+        "lastSeen": "2025-05-13T06:37:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HughGlover/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HughGlover/vulcan-udp-ig",
         "branch": "main",
         "lastSeen": "2025-05-07T16:20:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
+        "repo": "https://github.com/HL7/vulcan-udp-ig",
+        "branch": "hugh",
+        "lastSeen": "2025-05-13T06:40:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -34836,7 +34848,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/gino-wip/package.tgz",
         "repo": "https://github.com/HL7/fhir-patient-correction",
         "branch": "gino-wip",
-        "lastSeen": "2025-05-12T13:03:02.000Z"
+        "lastSeen": "2025-05-13T06:41:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/main/package.tgz"
@@ -38100,7 +38112,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-05-12T13:13:57.000Z"
+        "lastSeen": "2025-05-13T05:50:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -41778,7 +41790,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "main",
-        "lastSeen": "2025-05-12T12:00:30.000Z"
+        "lastSeen": "2025-05-13T06:30:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/1.0.0-A1/package.tgz",
@@ -45606,7 +45618,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uat",
-        "lastSeen": "2025-05-12T21:21:07.000Z"
+        "lastSeen": "2025-05-13T06:18:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/main/package.tgz",
