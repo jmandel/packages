@@ -7914,7 +7914,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19355/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19355",
-        "lastSeen": "2025-05-13T12:45:28.000Z"
+        "lastSeen": "2025-05-14T08:31:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -8334,7 +8334,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-05-13T13:41:19.000Z"
+        "lastSeen": "2025-05-14T08:29:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -17844,7 +17844,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "master",
-        "lastSeen": "2025-05-14T07:31:19.000Z"
+        "lastSeen": "2025-05-14T07:53:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-26/package.tgz",
@@ -18012,7 +18012,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "releasecandidate",
-        "lastSeen": "2025-05-14T07:39:30.000Z"
+        "lastSeen": "2025-05-14T08:07:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-80/package.tgz",
@@ -31393,6 +31393,12 @@
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "order-verify",
         "lastSeen": "2025-05-07T17:58:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/fix-build-issues/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks-library",
+        "branch": "fix-build-issues",
+        "lastSeen": "2025-05-14T08:32:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz"
@@ -34602,7 +34608,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2025-05-12T07:22:04.000Z"
+        "lastSeen": "2025-05-14T07:44:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -38101,6 +38107,12 @@
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "qa-fixes-for-v1.1.0",
         "lastSeen": "2025-03-07T08:55:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/update-publisher-scripts/package.tgz",
+        "repo": "https://github.com/HL7Sweden/basprofiler-r4",
+        "branch": "update-publisher-scripts",
+        "lastSeen": "2025-05-14T08:24:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
@@ -38550,7 +38562,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/25-clarify-authorized-re-identification-as-distinct-from-unauthorized-re-identification/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "25-clarify-authorized-re-identification-as-distinct-from-unauthorized-re-identification",
-        "lastSeen": "2025-05-14T02:08:50.000Z"
+        "lastSeen": "2025-05-14T08:23:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
