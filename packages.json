@@ -1998,7 +1998,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-05-14T15:59:16.000Z"
+        "lastSeen": "2025-05-15T13:36:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -5599,6 +5599,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "issue103_pin-canonicals",
         "lastSeen": "2025-05-06T11:49:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/106-update-swiss-medic-vaccines-april-2025/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "106-update-swiss-medic-vaccines-april-2025",
+        "lastSeen": "2025-05-15T13:04:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -12222,7 +12228,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/aps-profiles/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "aps-profiles",
-        "lastSeen": "2025-05-15T12:45:01.000Z"
+        "lastSeen": "2025-05-15T13:00:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -20442,7 +20448,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/gc-0.1.0-ballot/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "gc-0.1.0-ballot",
-        "lastSeen": "2025-05-15T07:37:03.000Z"
+        "lastSeen": "2025-05-15T12:56:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/0.1.0-ballot/package.tgz",
@@ -24156,7 +24162,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-05-15T08:09:52.000Z"
+        "lastSeen": "2025-05-15T12:41:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
