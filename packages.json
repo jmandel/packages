@@ -17887,6 +17887,12 @@
         "repo": "https://github.com/hl7-be/problem",
         "branch": "data-model",
         "lastSeen": "2025-05-05T20:26:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/problem/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/problem",
+        "branch": "master",
+        "lastSeen": "2025-05-17T20:09:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/problem/branches/data-model/package.tgz"
@@ -20683,6 +20689,12 @@
         "repo": "https://github.com/costateixeira/eu-mpd",
         "branch": "master",
         "lastSeen": "2025-05-01T20:33:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r4-temp/package.tgz",
+        "repo": "https://github.com/hl7-eu/mpd",
+        "branch": "r4-temp",
+        "lastSeen": "2025-05-17T20:29:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz"
@@ -28590,7 +28602,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/stage-3/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "stage-3",
-        "lastSeen": "2025-05-15T03:02:09.000Z"
+        "lastSeen": "2025-05-17T20:21:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/2024-11-12-styler-update/package.tgz",
