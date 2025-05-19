@@ -180,7 +180,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "main",
-        "lastSeen": "2025-05-14T01:41:57.000Z"
+        "lastSeen": "2025-05-19T00:50:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/34-refine-and-update-ig-content-labels-and-formatting/package.tgz",
@@ -234,13 +234,25 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases",
-        "lastSeen": "2025-05-14T02:10:56.000Z"
+        "lastSeen": "2025-05-19T00:42:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/phcoreig/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "phcoreig",
         "lastSeen": "2025-05-13T06:38:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-2/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
+        "branch": "nhdr-use-cases-2",
+        "lastSeen": "2025-05-19T00:51:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/Clone-branch/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
+        "branch": "Clone-branch",
+        "lastSeen": "2025-05-19T00:26:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-branch/package.tgz"
@@ -4320,7 +4332,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "develop",
-        "lastSeen": "2025-05-18T22:21:36.000Z"
+        "lastSeen": "2025-05-19T00:20:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/SR-example/package.tgz",
@@ -4626,7 +4638,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/develop/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "develop",
-        "lastSeen": "2025-05-18T19:17:08.000Z"
+        "lastSeen": "2025-05-19T00:08:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
@@ -35358,7 +35370,7 @@
         "url": "https://build.fhir.org/ig/cander2/recon-ig/branches/main/package.tgz",
         "repo": "https://github.com/cander2/recon-ig",
         "branch": "main",
-        "lastSeen": "2025-05-18T17:49:04.000Z"
+        "lastSeen": "2025-05-19T00:59:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/recon-ig/branches/main/package.tgz"
