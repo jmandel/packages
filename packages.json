@@ -3234,13 +3234,13 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/main/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "main",
-        "lastSeen": "2025-05-16T07:33:28.000Z"
+        "lastSeen": "2025-05-19T11:32:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/clean_warnings/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "clean_warnings",
-        "lastSeen": "2025-05-19T11:31:14.000Z"
+        "lastSeen": "2025-05-19T12:41:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/ziegm-patch-1/package.tgz",
@@ -12264,7 +12264,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/aps-profiles/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "aps-profiles",
-        "lastSeen": "2025-05-15T13:47:26.000Z"
+        "lastSeen": "2025-05-19T12:00:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -19668,7 +19668,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-05-19T11:35:06.000Z"
+        "lastSeen": "2025-05-19T12:49:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -19717,6 +19717,12 @@
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Issue-34,-Specimen-and-Medication",
         "lastSeen": "2025-05-18T18:56:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/QA-fix/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "QA-fix",
+        "lastSeen": "2025-05-19T12:44:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -20508,7 +20514,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/gc-0.1.0-ballot/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "gc-0.1.0-ballot",
-        "lastSeen": "2025-05-15T12:56:11.000Z"
+        "lastSeen": "2025-05-19T12:08:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/0.1.0-ballot/package.tgz",
@@ -20520,7 +20526,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/connecthaton39/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "connecthaton39",
-        "lastSeen": "2025-05-11T07:39:17.000Z"
+        "lastSeen": "2025-05-19T12:24:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/R4mapping/package.tgz",
@@ -42006,7 +42012,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ConditionList-test-scripts",
         "branch": "main",
-        "lastSeen": "2025-04-22T12:34:17.000Z"
+        "lastSeen": "2025-05-19T12:15:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/SMJ/package.tgz",
