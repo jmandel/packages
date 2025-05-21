@@ -3253,6 +3253,12 @@
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "ziegm-patch-1",
         "lastSeen": "2025-05-19T11:24:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/mz_prepare-publication/package.tgz",
+        "repo": "https://github.com/bag-epl/bag-epl-fhir",
+        "branch": "mz_prepare-publication",
+        "lastSeen": "2025-05-21T10:18:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -4146,7 +4152,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "master",
-        "lastSeen": "2025-01-16T09:54:47.000Z"
+        "lastSeen": "2025-05-21T09:48:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/ch-emed-validatation/package.tgz",
@@ -4249,6 +4255,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "oe_issuecontainedidwithslicing",
         "lastSeen": "2025-02-03T16:36:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/1.2.2/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "1.2.2",
+        "lastSeen": "2025-05-21T09:56:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -13585,6 +13597,12 @@
         "repo": "https://github.com/hl7-eu/xshare-ipsr",
         "branch": "master",
         "lastSeen": "2025-05-21T09:24:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/xshare-ips-plus/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-eu/xshare-ips-plus",
+        "branch": "master",
+        "lastSeen": "2025-05-21T10:03:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xshare-ipsr/branches/master/package.tgz"
@@ -43530,7 +43548,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-21T09:09:12.000Z"
+        "lastSeen": "2025-05-21T09:42:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
