@@ -3145,6 +3145,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue323_relatedpersonreferences",
         "lastSeen": "2025-05-08T10:21:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/6.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "6.0.0-ballot",
+        "lastSeen": "2025-05-22T07:45:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -4339,6 +4345,12 @@
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "issue18-terminology",
         "lastSeen": "2025-03-25T07:43:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ips",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2025-05-22T08:14:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz"
@@ -5184,7 +5196,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-orf",
         "branch": "master",
-        "lastSeen": "2025-05-22T06:26:26.000Z"
+        "lastSeen": "2025-05-22T07:45:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/oe_update_core/package.tgz",
@@ -5353,6 +5365,12 @@
         "repo": "https://github.com/hl7ch/ch-orf",
         "branch": "issue195_dependecies-corrections",
         "lastSeen": "2025-05-09T14:07:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/3.0.1/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-orf",
+        "branch": "3.0.1",
+        "lastSeen": "2025-05-22T08:01:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz"
@@ -5712,7 +5730,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2025-05-15T12:34:54.000Z"
+        "lastSeen": "2025-05-22T07:50:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -6954,7 +6972,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/mtb-modul/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "mtb-modul",
-        "lastSeen": "2025-05-22T07:33:14.000Z"
+        "lastSeen": "2025-05-22T07:51:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz"
