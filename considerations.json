@@ -274,9 +274,9 @@
   {
     "name": "hl7.fhir.be.referral",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-be/referral/branches/waitingroom/package.tgz",
+      "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-454/package.tgz",
       "repo": "https://github.com/hl7-be/referral",
-      "branch": "waitingroom"
+      "branch": "issue-454"
     }
   },
   {
@@ -541,14 +541,6 @@
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/4.0.2-TestExamples-KortProtokol/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
       "branch": "4.0.2-TestExamples-KortProtokol"
-    }
-  },
-  {
-    "name": "medcom.fhir.dk.carecommunicationtestscripts",
-    "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master_SKS_TouchStone/package.tgz",
-      "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
-      "branch": "master_SKS_TouchStone"
     }
   },
   {
