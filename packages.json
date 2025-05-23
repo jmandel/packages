@@ -8880,7 +8880,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-05-22T18:23:00.000Z"
+        "lastSeen": "2025-05-23T18:02:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -25614,7 +25614,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2025-05-23T16:08:42.000Z"
+        "lastSeen": "2025-05-23T17:42:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -25704,7 +25704,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post-ballot_stu21/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "post-ballot_stu21",
-        "lastSeen": "2025-05-23T16:06:18.000Z"
+        "lastSeen": "2025-05-23T17:42:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post_ballot_stu2.1/package.tgz",
@@ -27570,7 +27570,7 @@
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "main",
-        "lastSeen": "2025-05-21T20:57:17.000Z"
+        "lastSeen": "2025-05-23T17:49:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/bc_cohort/package.tgz",
@@ -33601,6 +33601,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "SDCLinkFix",
         "lastSeen": "2025-04-04T17:37:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/br-50214-cqf-libraryAlias/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "br-50214-cqf-libraryAlias",
+        "lastSeen": "2025-05-23T18:09:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
