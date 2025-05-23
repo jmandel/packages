@@ -246,7 +246,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-2/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases-2",
-        "lastSeen": "2025-05-21T05:48:41.000Z"
+        "lastSeen": "2025-05-23T05:49:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/Clone-branch/package.tgz",
@@ -14425,6 +14425,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_46685_profiletitlepolicy",
         "lastSeen": "2025-05-21T03:35:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_49189_obseffective/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "ft_49189_obseffective",
+        "lastSeen": "2025-05-23T05:36:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -16668,7 +16674,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-05-23T05:18:36.000Z"
+        "lastSeen": "2025-05-23T06:25:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -19980,7 +19986,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "connection-to-czech-profile",
-        "lastSeen": "2025-05-22T22:37:37.000Z"
+        "lastSeen": "2025-05-23T06:34:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -20604,7 +20610,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "master",
-        "lastSeen": "2025-05-22T06:40:30.000Z"
+        "lastSeen": "2025-05-23T06:29:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/update_gitignore/package.tgz",
@@ -20640,7 +20646,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/gc-dev/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "gc-dev",
-        "lastSeen": "2025-05-22T20:31:55.000Z"
+        "lastSeen": "2025-05-23T06:28:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/fix-examples/package.tgz",
@@ -24462,7 +24468,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-05-22T16:47:36.000Z"
+        "lastSeen": "2025-05-23T06:02:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -25704,7 +25710,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2025-05-15T19:05:20.000Z"
+        "lastSeen": "2025-05-23T06:10:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -42750,7 +42756,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.2.2/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "2.2.2",
-        "lastSeen": "2025-05-13T07:58:05.000Z"
+        "lastSeen": "2025-05-23T06:40:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/3.0.0/package.tgz",
@@ -43734,7 +43740,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-05-23T05:03:50.000Z"
+        "lastSeen": "2025-05-23T06:05:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
