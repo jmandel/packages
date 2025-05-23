@@ -8298,7 +8298,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2025-05-19T04:44:57.000Z"
+        "lastSeen": "2025-05-23T11:24:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -8317,6 +8317,12 @@
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "2.11.0",
         "lastSeen": "2025-05-15T08:18:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.11.1/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "2.11.1",
+        "lastSeen": "2025-05-23T11:26:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -12514,6 +12520,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz"
+  },
+  "hl7.at.fhir.tc.wg.scheduling.r5": {
+    "name": "hl7.at.fhir.tc.wg.scheduling.r5",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "main",
+        "lastSeen": "2025-05-23T10:56:08.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
   },
   "hl7.at.fhir.template": {
     "name": "hl7.at.fhir.template",
