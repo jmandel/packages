@@ -24787,6 +24787,12 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "futures-page",
         "lastSeen": "2025-04-08T02:17:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/R6_prototype/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "R6_prototype",
+        "lastSeen": "2025-05-30T17:56:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -25788,7 +25794,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2025-05-28T21:46:19.000Z"
+        "lastSeen": "2025-05-30T18:24:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -25836,7 +25842,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2025-05-30T15:59:19.000Z"
+        "lastSeen": "2025-05-30T18:06:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -25926,7 +25932,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post-ballot_stu21/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "post-ballot_stu21",
-        "lastSeen": "2025-05-30T15:57:42.000Z"
+        "lastSeen": "2025-05-30T18:03:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post_ballot_stu2.1/package.tgz",
@@ -40398,7 +40404,13 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/oe_cp1314_followup/package.tgz",
         "repo": "https://github.com/IHE/ITI.PDQm",
         "branch": "oe_cp1314_followup",
-        "lastSeen": "2025-05-19T15:51:39.000Z"
+        "lastSeen": "2025-05-30T17:50:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/moehrke-build-cleanup-202505/package.tgz",
+        "repo": "https://github.com/IHE/ITI.PDQm",
+        "branch": "moehrke-build-cleanup-202505",
+        "lastSeen": "2025-05-30T18:10:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.PDQm/branches/main/package.tgz"
