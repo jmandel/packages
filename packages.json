@@ -246,7 +246,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-2/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases-2",
-        "lastSeen": "2025-05-27T03:25:30.000Z"
+        "lastSeen": "2025-05-30T00:53:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/Clone-branch/package.tgz",
@@ -9103,6 +9103,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "36-apply-avoid-duplicating-base-url",
         "lastSeen": "2025-05-29T12:37:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/26-add-ph-core-practitioner-and-its-dependencies/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "26-add-ph-core-practitioner-and-its-dependencies",
+        "lastSeen": "2025-05-30T00:58:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
