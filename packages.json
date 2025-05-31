@@ -9139,6 +9139,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "26-add-ph-core-practitioner-and-its-dependencies",
         "lastSeen": "2025-05-30T01:10:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/43-update-code-system-uris-to-use-canonical-domains/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "43-update-code-system-uris-to-use-canonical-domains",
+        "lastSeen": "2025-05-31T09:00:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
