@@ -5312,6 +5312,14 @@
     }
   },
   {
+    "name": "hl7.xprod.uv.piqi",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/piqi",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.xprod.uv.tinkar",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/tinkar-ig/branches/main/package.tgz",
