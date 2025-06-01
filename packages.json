@@ -16008,7 +16008,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comparison-capstat/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_comparison-capstat",
-        "lastSeen": "2025-05-09T08:38:09.000Z"
+        "lastSeen": "2025-06-01T06:58:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_FHIR-46878/package.tgz",
@@ -16975,6 +16975,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_meds",
         "lastSeen": "2025-05-28T04:28:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/fr_conv/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "fr_conv",
+        "lastSeen": "2025-06-01T06:50:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
