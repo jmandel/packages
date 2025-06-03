@@ -20286,7 +20286,19 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-04-29T11:15:36.000Z"
+        "lastSeen": "2025-06-03T11:27:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "develop",
+        "lastSeen": "2025-06-03T11:25:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "Sarka",
+        "lastSeen": "2025-06-03T11:32:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -20322,7 +20334,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/new-menu-and-repair-mapping/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "new-menu-and-repair-mapping",
-        "lastSeen": "2025-06-03T09:06:03.000Z"
+        "lastSeen": "2025-06-03T11:31:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -33222,7 +33234,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2025-06-02T17:03:46.000Z"
+        "lastSeen": "2025-06-03T11:39:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -40032,7 +40044,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.mCSD/branches/moehrke-cleanup-warnings-202505/package.tgz",
         "repo": "https://github.com/IHE/ITI.mCSD",
         "branch": "moehrke-cleanup-warnings-202505",
-        "lastSeen": "2025-06-02T16:12:14.000Z"
+        "lastSeen": "2025-06-03T11:32:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/MedCom.SOR.mCSD/branches/main/package.tgz"
@@ -40206,7 +40218,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHDS/branches/moehrke-build-cleanup-202505/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHDS",
         "branch": "moehrke-build-cleanup-202505",
-        "lastSeen": "2025-05-31T12:51:24.000Z"
+        "lastSeen": "2025-06-03T11:35:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHDS/branches/master/package.tgz"
