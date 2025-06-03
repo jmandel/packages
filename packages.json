@@ -16158,7 +16158,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2025-06-02T23:37:58.000Z"
+        "lastSeen": "2025-06-03T03:01:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -16765,6 +16765,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-50880",
         "lastSeen": "2025-06-03T01:51:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_adb-key/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_adb-key",
+        "lastSeen": "2025-06-03T02:29:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -47455,6 +47461,12 @@
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.4",
         "lastSeen": "2025-05-28T01:54:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.5/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/pas",
+        "branch": "1.0.5",
+        "lastSeen": "2025-06-03T02:08:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
