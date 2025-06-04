@@ -7049,6 +7049,18 @@
     ],
     "current": "https://build.fhir.org/ig/mburwit/etpro/branches/master/package.tgz"
   },
+  "de.medication.dosage": {
+    "name": "de.medication.dosage",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-dosage-ig",
+        "branch": "main",
+        "lastSeen": "2025-06-04T15:02:56.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz"
+  },
   "de.medizininformatikinitiative.kerndatensatz.dokument": {
     "name": "de.medizininformatikinitiative.kerndatensatz.dokument",
     "locations": [
@@ -19026,7 +19038,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/earlyadopter/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "earlyadopter",
-        "lastSeen": "2025-03-14T10:21:59.000Z"
+        "lastSeen": "2025-06-04T14:54:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/revert-271-issue-270/package.tgz",
@@ -19314,7 +19326,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/issue-396/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "issue-396",
-        "lastSeen": "2025-06-04T14:27:27.000Z"
+        "lastSeen": "2025-06-04T14:53:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/question/package.tgz",
@@ -29352,7 +29364,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIR-us-pq-cmc-fda",
         "branch": "master",
-        "lastSeen": "2025-05-21T20:19:06.000Z"
+        "lastSeen": "2025-06-04T15:16:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda/branches/trial/package.tgz",
