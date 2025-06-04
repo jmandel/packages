@@ -11928,7 +11928,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-06-04T07:10:04.000Z"
+        "lastSeen": "2025-06-04T09:19:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -16140,13 +16140,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_crs/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_crs",
-        "lastSeen": "2025-06-03T03:44:44.000Z"
+        "lastSeen": "2025-06-04T09:09:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_term-page/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_term-page",
-        "lastSeen": "2025-06-03T03:45:08.000Z"
+        "lastSeen": "2025-06-04T09:09:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comp-qa/package.tgz",
@@ -17064,7 +17064,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_term/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_term",
-        "lastSeen": "2025-06-03T03:41:42.000Z"
+        "lastSeen": "2025-06-04T09:33:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/ft_test/package.tgz",
@@ -17094,7 +17094,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/fr_conv/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "fr_conv",
-        "lastSeen": "2025-06-03T03:40:40.000Z"
+        "lastSeen": "2025-06-04T09:34:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -21336,7 +21336,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/mpd",
         "branch": "master",
-        "lastSeen": "2025-06-04T08:44:14.000Z"
+        "lastSeen": "2025-06-04T08:47:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r4-giorgio/package.tgz",
@@ -25326,7 +25326,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2025-04-17T04:21:02.000Z"
+        "lastSeen": "2025-06-04T09:02:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -45048,7 +45048,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-06-04T05:54:07.000Z"
+        "lastSeen": "2025-06-04T09:30:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -45589,6 +45589,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "specimen-vs",
         "lastSeen": "2025-06-04T08:44:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/fix-specimenVS/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "fix-specimenVS",
+        "lastSeen": "2025-06-04T09:10:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
