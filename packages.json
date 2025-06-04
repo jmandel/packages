@@ -9163,6 +9163,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "upmsilab-patch-1",
         "lastSeen": "2025-06-03T03:21:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/56-use-a-realistic-example-of-the-philippine-core-patient-profile-for-practical-testing/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "56-use-a-realistic-example-of-the-philippine-core-patient-profile-for-practical-testing",
+        "lastSeen": "2025-06-04T00:49:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
@@ -10416,7 +10422,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cqf-ccc/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/cqf-ccc",
         "branch": "master",
-        "lastSeen": "2025-06-03T21:40:36.000Z"
+        "lastSeen": "2025-06-04T00:30:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cqf-ccc/branches/qa-check/package.tgz",
@@ -14226,7 +14232,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-05-28T02:33:15.000Z"
+        "lastSeen": "2025-06-04T00:49:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -14388,7 +14394,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-timezone-ext/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-timezone-ext",
-        "lastSeen": "2024-07-11T10:25:37.000Z"
+        "lastSeen": "2025-06-04T00:38:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/rsg-src-doc-jurisdiction/package.tgz",
@@ -14683,6 +14689,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_49189_obseffective",
         "lastSeen": "2025-05-27T02:15:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mjosborne1/mjo-au-fhir-base/branches/ft_48671-patient-identifier-profile/package.tgz",
+        "repo": "https://github.com/mjosborne1/mjo-au-fhir-base",
+        "branch": "ft_48671-patient-identifier-profile",
+        "lastSeen": "2025-06-04T00:08:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -14712,7 +14724,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-06-03T03:42:46.000Z"
+        "lastSeen": "2025-06-04T00:20:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -16099,6 +16111,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_term-page",
         "lastSeen": "2025-06-03T03:45:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comp-qa/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_comp-qa",
+        "lastSeen": "2025-06-03T23:46:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
