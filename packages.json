@@ -11928,7 +11928,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-06-04T11:25:25.000Z"
+        "lastSeen": "2025-06-04T12:04:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -16146,13 +16146,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_term-page/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_term-page",
-        "lastSeen": "2025-06-04T09:09:57.000Z"
+        "lastSeen": "2025-06-04T11:52:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comp-qa/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_comp-qa",
         "lastSeen": "2025-06-03T23:46:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_qa-img/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_qa-img",
+        "lastSeen": "2025-06-04T12:33:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -16824,7 +16830,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_clincontext-si/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_clincontext-si",
-        "lastSeen": "2025-06-03T01:50:50.000Z"
+        "lastSeen": "2025-06-04T12:17:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-50899/package.tgz",
@@ -16843,6 +16849,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_adb-key",
         "lastSeen": "2025-06-03T02:29:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_qa-img/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_qa-img",
+        "lastSeen": "2025-06-04T12:11:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -20412,7 +20424,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/new-menu-and-repair-mapping/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "new-menu-and-repair-mapping",
-        "lastSeen": "2025-06-04T11:16:43.000Z"
+        "lastSeen": "2025-06-04T12:30:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -29544,7 +29556,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2025-06-02T15:03:58.000Z"
+        "lastSeen": "2025-06-04T12:44:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
