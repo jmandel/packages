@@ -6810,7 +6810,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2025-05-23T07:14:17.000Z"
+        "lastSeen": "2025-06-05T07:21:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -8586,7 +8586,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "main",
-        "lastSeen": "2025-06-03T13:38:58.000Z"
+        "lastSeen": "2025-06-05T06:55:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-3327/package.tgz",
@@ -8628,7 +8628,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/johannes-test/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "johannes-test",
-        "lastSeen": "2025-05-23T12:30:49.000Z"
+        "lastSeen": "2025-06-05T06:55:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -8646,7 +8646,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-06-05T05:42:32.000Z"
+        "lastSeen": "2025-06-05T07:16:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -23470,6 +23470,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-fhir/branches/master/package.tgz"
+  },
+  "hl7.fhir.test.multi-lang": {
+    "name": "hl7.fhir.test.multi-lang",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/FHIR/multi-lang-test-ig/branches/master/package.tgz",
+        "repo": "https://github.com/FHIR/multi-lang-test-ig",
+        "branch": "master",
+        "lastSeen": "2025-06-05T06:52:29.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/FHIR/multi-lang-test-ig/branches/master/package.tgz"
   },
   "hl7.fhir.us.bfdr": {
     "name": "hl7.fhir.us.bfdr",
@@ -44692,6 +44704,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/openehr-base-ig/branches/master/package.tgz"
+  },
+  "openehr.fhir.template": {
+    "name": "openehr.fhir.template",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/FHIR/openehr.fhir.template/branches/main/package.tgz",
+        "repo": "https://github.com/FHIR/openehr.fhir.template",
+        "branch": "main",
+        "lastSeen": "2025-06-05T07:28:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/FHIR/openehr.fhir.template/branches/main/package.tgz"
   },
   "openhie.fhir.casereporting": {
     "name": "openhie.fhir.casereporting",
