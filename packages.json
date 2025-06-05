@@ -4248,7 +4248,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "master",
-        "lastSeen": "2025-05-21T09:48:33.000Z"
+        "lastSeen": "2025-06-05T08:40:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/ch-emed-validatation/package.tgz",
@@ -8646,7 +8646,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-06-05T07:16:26.000Z"
+        "lastSeen": "2025-06-05T08:43:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -45186,7 +45186,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-06-04T09:30:54.000Z"
+        "lastSeen": "2025-06-05T07:55:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -45733,6 +45733,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "fix-specimenVS",
         "lastSeen": "2025-06-04T09:10:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/cancer-stagingVS/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "cancer-stagingVS",
+        "lastSeen": "2025-06-05T07:44:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -47760,7 +47766,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.5/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.5",
-        "lastSeen": "2025-06-05T04:53:56.000Z"
+        "lastSeen": "2025-06-05T07:38:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
