@@ -277,6 +277,12 @@
         "repo": "https://github.com/PROJ-PHILHEALTH-EA-NHDR/PhilHealth-NHDR-IG-Review",
         "branch": "main",
         "lastSeen": "2025-06-04T05:27:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-3/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
+        "branch": "nhdr-use-cases-3",
+        "lastSeen": "2025-06-05T05:08:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-branch/package.tgz"
@@ -8634,7 +8640,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-06-04T05:54:34.000Z"
+        "lastSeen": "2025-06-05T05:42:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -9211,6 +9217,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "61-create-a-form-for-connectathon",
         "lastSeen": "2025-06-05T03:40:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/41-add-ph-core-immunization-resource-profile/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "41-add-ph-core-immunization-resource-profile",
+        "lastSeen": "2025-06-05T05:05:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
@@ -11592,7 +11604,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/master/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "master",
-        "lastSeen": "2025-06-02T16:26:10.000Z"
+        "lastSeen": "2025-06-05T05:01:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/pacio/package.tgz",
@@ -11604,7 +11616,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/mlt_edits/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "mlt_edits",
-        "lastSeen": "2025-06-03T17:46:25.000Z"
+        "lastSeen": "2025-06-05T04:58:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/jp_working/package.tgz",
@@ -14700,7 +14712,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-patient-internal-identifier/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-patient-internal-identifier",
-        "lastSeen": "2025-06-05T01:46:30.000Z"
+        "lastSeen": "2025-06-05T05:19:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-practitioner-qualification/package.tgz",
@@ -16885,6 +16897,18 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft_qa-img",
         "lastSeen": "2025-06-04T12:11:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mjosborne1/mjo-au-fhir-erequesting/branches/fix-businessStatusCS/package.tgz",
+        "repo": "https://github.com/mjosborne1/mjo-au-fhir-erequesting",
+        "branch": "fix-businessStatusCS",
+        "lastSeen": "2025-06-05T05:33:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mjosborne1/mjo-au-fhir-erequesting/branches/master/package.tgz",
+        "repo": "https://github.com/mjosborne1/mjo-au-fhir-erequesting",
+        "branch": "master",
+        "lastSeen": "2025-06-05T05:21:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -17064,7 +17088,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-06-05T03:48:37.000Z"
+        "lastSeen": "2025-06-05T04:57:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -47694,7 +47718,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.5/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.5",
-        "lastSeen": "2025-06-04T03:20:46.000Z"
+        "lastSeen": "2025-06-05T04:53:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
