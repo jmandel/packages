@@ -282,7 +282,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-3/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases-3",
-        "lastSeen": "2025-06-05T05:08:25.000Z"
+        "lastSeen": "2025-06-05T06:22:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-branch/package.tgz"
@@ -7027,6 +7027,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "extract-template-2",
         "lastSeen": "2025-06-02T07:28:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/redundant-resource-references/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "redundant-resource-references",
+        "lastSeen": "2025-06-05T06:39:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -9078,7 +9084,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/patient-summary/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "patient-summary",
-        "lastSeen": "2025-06-02T06:56:05.000Z"
+        "lastSeen": "2025-06-05T06:36:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -9222,7 +9228,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/41-add-ph-core-immunization-resource-profile/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "41-add-ph-core-immunization-resource-profile",
-        "lastSeen": "2025-06-05T05:05:43.000Z"
+        "lastSeen": "2025-06-05T06:08:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
@@ -9654,7 +9660,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "master",
-        "lastSeen": "2025-05-18T02:56:30.000Z"
+        "lastSeen": "2025-06-05T06:25:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/fail-on-plantuml-errors/package.tgz",
@@ -12118,6 +12124,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/LeandroLescano/hl7-group-b/branches/master/package.tgz"
+  },
+  "fhir2.base.template": {
+    "name": "fhir2.base.template",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-base2",
+        "branch": "main",
+        "lastSeen": "2025-06-05T06:26:52.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz"
   },
   "fhirtesting": {
     "name": "fhirtesting",
@@ -25068,7 +25086,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/R6_prototype/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "R6_prototype",
-        "lastSeen": "2025-06-04T15:27:14.000Z"
+        "lastSeen": "2025-06-05T05:33:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
