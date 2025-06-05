@@ -9216,7 +9216,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/40-remove-indigenous-people-extension/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "40-remove-indigenous-people-extension",
-        "lastSeen": "2025-06-05T12:34:41.000Z"
+        "lastSeen": "2025-06-05T23:10:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/61-create-a-form-for-connectathon/package.tgz",
@@ -14346,7 +14346,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-06-05T01:45:36.000Z"
+        "lastSeen": "2025-06-05T22:42:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -14760,7 +14760,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-patient-internal-identifier/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-patient-internal-identifier",
-        "lastSeen": "2025-06-05T05:19:00.000Z"
+        "lastSeen": "2025-06-05T22:43:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-practitioner-qualification/package.tgz",
@@ -17142,7 +17142,7 @@
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/draft-au-patient-summary",
         "branch": "master",
-        "lastSeen": "2025-05-28T22:53:50.000Z"
+        "lastSeen": "2025-06-05T23:20:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/0.1.0-preview/package.tgz",
@@ -17215,6 +17215,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_qa-img",
         "lastSeen": "2025-06-04T09:51:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_conf-proposal/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_conf-proposal",
+        "lastSeen": "2025-06-05T23:31:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -39096,7 +39102,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-04-11T12:39:38.000Z"
+        "lastSeen": "2025-06-05T23:37:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
@@ -39145,6 +39151,12 @@
         "repo": "https://github.com/HL7/v2ig",
         "branch": "JIRA-V2-25248",
         "lastSeen": "2025-06-04T21:06:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update_seg_defs/package.tgz",
+        "repo": "https://github.com/HL7/v2ig",
+        "branch": "update_seg_defs",
+        "lastSeen": "2025-06-05T23:35:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
