@@ -11226,7 +11226,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-06-05T13:59:58.000Z"
+        "lastSeen": "2025-06-06T10:20:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/patientprofileFix/package.tgz",
@@ -11239,6 +11239,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG",
         "branch": "encounterProfile",
         "lastSeen": "2025-06-05T13:58:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/menuItems/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG",
+        "branch": "menuItems",
+        "lastSeen": "2025-06-06T10:19:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/main/package.tgz"
@@ -44628,7 +44634,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-06-06T06:40:47.000Z"
+        "lastSeen": "2025-06-06T09:54:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
@@ -45246,7 +45252,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-06-05T11:54:53.000Z"
+        "lastSeen": "2025-06-06T10:12:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -45811,6 +45817,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "default-code-valueset",
         "lastSeen": "2025-06-05T11:53:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/medicationVS/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "medicationVS",
+        "lastSeen": "2025-06-06T09:59:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
