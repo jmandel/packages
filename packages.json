@@ -282,7 +282,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-3/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases-3",
-        "lastSeen": "2025-06-09T07:29:07.000Z"
+        "lastSeen": "2025-06-10T06:23:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/NHDR-Dev-branch/package.tgz",
@@ -11712,7 +11712,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/master/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "master",
-        "lastSeen": "2025-06-06T04:29:49.000Z"
+        "lastSeen": "2025-06-10T05:53:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/pacio/package.tgz",
@@ -11724,7 +11724,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/mlt_edits/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "mlt_edits",
-        "lastSeen": "2025-06-06T13:09:11.000Z"
+        "lastSeen": "2025-06-10T05:54:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/jp_working/package.tgz",
@@ -20616,7 +20616,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "new-menu-and-fix-mapping",
-        "lastSeen": "2025-06-10T05:30:22.000Z"
+        "lastSeen": "2025-06-10T06:32:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -39499,6 +39499,12 @@
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "1.1.0",
         "lastSeen": "2025-06-02T08:42:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/enable-pinning/package.tgz",
+        "repo": "https://github.com/HL7Sweden/basprofiler-r4",
+        "branch": "enable-pinning",
+        "lastSeen": "2025-06-10T06:47:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
