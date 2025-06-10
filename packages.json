@@ -9186,7 +9186,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "main",
-        "lastSeen": "2025-06-06T01:10:06.000Z"
+        "lastSeen": "2025-06-10T20:20:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/5-add-the-procedure-resource-and-its-dependencies/package.tgz",
@@ -9301,6 +9301,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "60-remove-codesystems-psa-code-systems-and-replace-with-identifiers-and-namingsystems",
         "lastSeen": "2025-06-06T03:22:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/67-add-ph-core-location-resource/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "67-add-ph-core-location-resource",
+        "lastSeen": "2025-06-10T20:39:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
@@ -36168,7 +36174,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2025-06-10T18:39:27.000Z"
+        "lastSeen": "2025-06-10T20:42:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
