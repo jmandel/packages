@@ -7104,7 +7104,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-dokument/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-dokument",
         "branch": "dev",
-        "lastSeen": "2025-05-16T15:55:47.000Z"
+        "lastSeen": "2025-06-10T17:41:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-dokument/branches/dev/package.tgz"
@@ -32137,6 +32137,12 @@
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "mlt-edits",
         "lastSeen": "2025-06-06T15:05:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/moehrke-full-prov/package.tgz",
+        "repo": "https://github.com/HL7/aitransparency-ig",
+        "branch": "moehrke-full-prov",
+        "lastSeen": "2025-06-10T18:22:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz"
@@ -36162,7 +36168,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2025-05-11T08:22:44.000Z"
+        "lastSeen": "2025-06-10T18:39:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
@@ -46332,7 +46338,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-bds",
         "branch": "main",
-        "lastSeen": "2025-06-10T16:52:26.000Z"
+        "lastSeen": "2025-06-10T18:10:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/v1.0.0_releaseCandidate/package.tgz",
