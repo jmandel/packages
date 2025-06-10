@@ -21234,7 +21234,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2024-12-12T17:00:17.000Z"
+        "lastSeen": "2025-06-10T16:04:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -24799,6 +24799,12 @@
         "repo": "https://github.com/HL7/cdc-opioid-cpg",
         "branch": "qa-post-initial-setup",
         "lastSeen": "2025-06-09T19:10:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cdc-opioid-cpg/branches/opioid-review-useful-patient/package.tgz",
+        "repo": "https://github.com/HL7/cdc-opioid-cpg",
+        "branch": "opioid-review-useful-patient",
+        "lastSeen": "2025-06-10T16:06:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cdc-opioid-cpg/branches/main/package.tgz"
@@ -29118,7 +29124,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2025-06-03T04:47:32.000Z"
+        "lastSeen": "2025-06-10T15:53:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -29850,7 +29856,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-resp-net-ig",
         "branch": "master",
-        "lastSeen": "2025-05-02T20:54:04.000Z"
+        "lastSeen": "2025-06-10T15:48:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/ballot-updates/package.tgz",
@@ -30162,7 +30168,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "main",
-        "lastSeen": "2025-06-10T14:58:35.000Z"
+        "lastSeen": "2025-06-10T16:38:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/nush_dev/package.tgz",
@@ -33648,7 +33654,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2025-06-10T15:23:43.000Z"
+        "lastSeen": "2025-06-10T15:46:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -36330,7 +36336,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/ACOM-GHS-support/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "ACOM-GHS-support",
-        "lastSeen": "2025-05-28T15:09:22.000Z"
+        "lastSeen": "2025-06-10T15:51:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/es-prepub-qa/package.tgz",
@@ -46320,7 +46326,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-bds",
         "branch": "main",
-        "lastSeen": "2025-06-10T14:08:40.000Z"
+        "lastSeen": "2025-06-10T16:04:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/v1.0.0_releaseCandidate/package.tgz",
