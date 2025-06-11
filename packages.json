@@ -13368,7 +13368,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/qa-review/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "qa-review",
-        "lastSeen": "2025-06-11T18:06:01.000Z"
+        "lastSeen": "2025-06-11T20:17:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/4.0.0-ballot/package.tgz",
@@ -17413,6 +17413,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_newsd",
         "lastSeen": "2025-06-11T09:26:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_additionalCFG/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_additionalCFG",
+        "lastSeen": "2025-06-11T21:16:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -26232,7 +26238,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-06-11T14:11:06.000Z"
+        "lastSeen": "2025-06-11T21:01:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -26418,7 +26424,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2025-06-03T15:20:32.000Z"
+        "lastSeen": "2025-06-11T20:58:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -26508,7 +26514,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post-ballot_stu21/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "post-ballot_stu21",
-        "lastSeen": "2025-06-03T15:19:45.000Z"
+        "lastSeen": "2025-06-11T20:58:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post_ballot_stu2.1/package.tgz",
@@ -33294,7 +33300,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cql-ig",
         "branch": "main",
-        "lastSeen": "2025-06-11T20:16:14.000Z"
+        "lastSeen": "2025-06-11T20:52:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/v1.0.0-ballot/package.tgz",
@@ -34506,7 +34512,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "main",
-        "lastSeen": "2025-06-09T18:48:56.000Z"
+        "lastSeen": "2025-06-11T20:53:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/complexExtensionSlicing/package.tgz",
@@ -39744,7 +39750,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2025-05-26T11:00:48.000Z"
+        "lastSeen": "2025-06-11T21:15:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
