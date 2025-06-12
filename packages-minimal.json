@@ -5440,6 +5440,14 @@
     }
   },
   {
+    "name": "ig-ee-starter",
+    "current": {
+      "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-starter/branches/main/package.tgz",
+      "repo": "https://github.com/TEHIK-EE/ig-ee-starter",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ihe-de.iti.xds-vs",
     "current": {
       "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",

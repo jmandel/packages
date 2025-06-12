@@ -11389,6 +11389,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
         "branch": "main",
         "lastSeen": "2025-06-11T13:34:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/managingOrganizationProfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
+        "branch": "managingOrganizationProfile",
+        "lastSeen": "2025-06-12T06:47:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/main/package.tgz"
@@ -14916,7 +14922,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-patient-internal-identifier/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-patient-internal-identifier",
-        "lastSeen": "2025-06-12T04:35:54.000Z"
+        "lastSeen": "2025-06-12T06:24:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-practitioner-qualification/package.tgz",
@@ -14964,7 +14970,7 @@
         "url": "https://build.fhir.org/ig/mjosborne1/mjo-au-fhir-base/branches/ft_48671-patient-identifier-profile/package.tgz",
         "repo": "https://github.com/mjosborne1/mjo-au-fhir-base",
         "branch": "ft_48671-patient-identifier-profile",
-        "lastSeen": "2025-06-12T05:12:23.000Z"
+        "lastSeen": "2025-06-12T06:17:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/mjosborne1/mjo-au-fhir-base/branches/ft-au-coverage-codesystem/package.tgz",
@@ -14977,6 +14983,12 @@
         "repo": "https://github.com/mjosborne1/mjo-au-fhir-base",
         "branch": "master",
         "lastSeen": "2025-06-06T00:09:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/5.2.0-preview/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "5.2.0-preview",
+        "lastSeen": "2025-06-12T06:22:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -39748,6 +39760,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
+  },
+  "ig-ee-starter": {
+    "name": "ig-ee-starter",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-starter/branches/main/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-starter",
+        "branch": "main",
+        "lastSeen": "2025-06-12T06:30:51.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-starter/branches/main/package.tgz"
   },
   "ihe-de.iti.xds-vs": {
     "name": "ihe-de.iti.xds-vs",
