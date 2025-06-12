@@ -7032,6 +7032,14 @@
     }
   },
   {
+    "name": "smart.who.int.dak-bds",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/v1.0.0_releaseCandidate/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-dak-bds",
+      "branch": "v1.0.0_releaseCandidate"
+    }
+  },
+  {
     "name": "smart.who.int.dak-ccc",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-ccc/branches/main/package.tgz",
