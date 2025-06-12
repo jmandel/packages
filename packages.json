@@ -7908,7 +7908,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Update-activityDef_to_obs-mappings/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-12671-Update-activityDef_to_obs-mappings",
-        "lastSeen": "2025-05-06T09:27:03.000Z"
+        "lastSeen": "2025-06-12T12:26:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-12671-Cleaning-up-old-codes/package.tgz",
@@ -8196,7 +8196,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_3_6_0",
-        "lastSeen": "2025-06-02T10:34:08.000Z"
+        "lastSeen": "2025-06-12T12:35:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19354-test-IG-fix-hapifhir8-basebranch/package.tgz",
@@ -11394,13 +11394,19 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-06-12T06:48:20.000Z"
+        "lastSeen": "2025-06-12T12:43:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/managingOrganizationProfile/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
         "branch": "managingOrganizationProfile",
         "lastSeen": "2025-06-12T06:47:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/encounterProfileKsm/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
+        "branch": "encounterProfileKsm",
+        "lastSeen": "2025-06-12T12:43:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/main/package.tgz"
@@ -14052,7 +14058,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/pcsp/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/pcsp",
         "branch": "master",
-        "lastSeen": "2025-06-11T14:07:50.000Z"
+        "lastSeen": "2025-06-12T12:34:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/pcsp/branches/only-follow-up/package.tgz",
@@ -20754,7 +20760,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "new-menu-and-fix-mapping",
-        "lastSeen": "2025-06-10T06:32:18.000Z"
+        "lastSeen": "2025-06-12T12:10:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -26280,7 +26286,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-06-11T21:01:35.000Z"
+        "lastSeen": "2025-06-12T12:20:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -33762,7 +33768,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2025-06-11T02:21:36.000Z"
+        "lastSeen": "2025-06-12T12:34:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
