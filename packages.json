@@ -7110,7 +7110,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-dokument/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-dokument",
         "branch": "dev",
-        "lastSeen": "2025-06-10T17:41:58.000Z"
+        "lastSeen": "2025-06-13T12:43:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-dokument/branches/dev/package.tgz"
@@ -8701,6 +8701,12 @@
         "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
         "branch": "johannes-test",
         "lastSeen": "2025-06-05T06:55:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/UPTIS-3806/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-hdecl",
+        "branch": "UPTIS-3806",
+        "lastSeen": "2025-06-13T12:21:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-hdecl/branches/main/package.tgz"
@@ -9354,7 +9360,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2025-06-13T01:02:22.000Z"
+        "lastSeen": "2025-06-13T12:19:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -17244,7 +17250,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-51005/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-51005",
-        "lastSeen": "2025-06-12T04:42:59.000Z"
+        "lastSeen": "2025-06-13T11:49:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -20874,7 +20880,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-clinical-question-and-texts/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-clinical-question-and-texts",
-        "lastSeen": "2025-06-10T10:47:59.000Z"
+        "lastSeen": "2025-06-13T11:53:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -21114,7 +21120,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/150-profiling-of-encounter/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "150-profiling-of-encounter",
-        "lastSeen": "2025-06-13T08:55:37.000Z"
+        "lastSeen": "2025-06-13T12:48:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
