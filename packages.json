@@ -4788,7 +4788,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/split-blood-cultures/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "split-blood-cultures",
-        "lastSeen": "2025-06-12T14:30:07.000Z"
+        "lastSeen": "2025-06-13T10:46:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -26562,7 +26562,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2025-06-12T03:31:53.000Z"
+        "lastSeen": "2025-06-13T13:20:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -26652,7 +26652,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post-ballot_stu21/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "post-ballot_stu21",
-        "lastSeen": "2025-06-12T03:28:57.000Z"
+        "lastSeen": "2025-06-13T13:24:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/post_ballot_stu2.1/package.tgz",
@@ -28294,6 +28294,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-mdi-ig/branches/master/package.tgz"
+  },
+  "hl7.fhir.us.measureset": {
+    "name": "hl7.fhir.us.measureset",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/main/package.tgz",
+        "repo": "https://github.com/FHIR/MADFSH",
+        "branch": "main",
+        "lastSeen": "2025-06-13T13:34:57.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/FHIR/MADFSH/branches/main/package.tgz"
   },
   "hl7.fhir.us.medication-rems": {
     "name": "hl7.fhir.us.medication-rems",
@@ -46566,7 +46578,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/v1.0.0_releaseCandidate/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-bds",
         "branch": "v1.0.0_releaseCandidate",
-        "lastSeen": "2025-06-12T10:48:25.000Z"
+        "lastSeen": "2025-06-13T13:33:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/v1.0.0_releaseCandidate/package.tgz"
@@ -46608,7 +46620,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-bds",
         "branch": "main",
-        "lastSeen": "2025-06-10T18:10:46.000Z"
+        "lastSeen": "2025-06-13T13:11:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-bds/branches/v1.0.0_releaseCandidate/package.tgz",
