@@ -36366,7 +36366,7 @@
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/adding-documentation/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "adding-documentation",
-        "lastSeen": "2025-06-13T21:32:36.000Z"
+        "lastSeen": "2025-06-13T22:40:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz"
@@ -39570,7 +39570,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-06-06T01:25:15.000Z"
+        "lastSeen": "2025-06-13T21:46:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
@@ -39624,13 +39624,25 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update_seg_defs/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "update_seg_defs",
-        "lastSeen": "2025-06-05T23:35:35.000Z"
+        "lastSeen": "2025-06-13T21:44:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/remove_ack_chors/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "remove_ack_chors",
         "lastSeen": "2025-06-05T23:44:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/v2ig/branches/msg_structs/package.tgz",
+        "repo": "https://github.com/HL7/v2ig",
+        "branch": "msg_structs",
+        "lastSeen": "2025-06-13T21:41:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/v2ig/branches/fsh/package.tgz",
+        "repo": "https://github.com/HL7/v2ig",
+        "branch": "fsh",
+        "lastSeen": "2025-06-13T21:49:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
@@ -47196,7 +47208,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "sop",
-        "lastSeen": "2025-06-13T20:50:24.000Z"
+        "lastSeen": "2025-06-13T22:24:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
