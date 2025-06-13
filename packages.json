@@ -9048,7 +9048,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-06-12T11:36:53.000Z"
+        "lastSeen": "2025-06-13T05:33:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -9156,7 +9156,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/patient-summary/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "patient-summary",
-        "lastSeen": "2025-06-09T14:45:52.000Z"
+        "lastSeen": "2025-06-13T04:54:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -15025,6 +15025,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "6.0.0-draft",
         "lastSeen": "2025-06-13T02:21:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-6.0.0-draft/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "release-6.0.0-draft",
+        "lastSeen": "2025-06-13T04:55:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -15054,7 +15060,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-06-13T03:29:04.000Z"
+        "lastSeen": "2025-06-13T05:23:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -16458,7 +16464,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_contactpointMS/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_contactpointMS",
-        "lastSeen": "2025-06-13T02:34:35.000Z"
+        "lastSeen": "2025-06-13T05:27:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ms/package.tgz",
@@ -16488,7 +16494,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_change-log/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_change-log",
-        "lastSeen": "2025-06-13T03:25:00.000Z"
+        "lastSeen": "2025-06-13T05:32:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -25386,7 +25392,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2025-06-11T16:56:49.000Z"
+        "lastSeen": "2025-06-13T05:26:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
@@ -42234,7 +42240,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/immunizationfhirig/branches/master/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/immunizationfhirig",
         "branch": "master",
-        "lastSeen": "2025-06-13T04:43:23.000Z"
+        "lastSeen": "2025-06-13T05:09:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/immunizationfhirig/branches/add-name-extensions/package.tgz",
