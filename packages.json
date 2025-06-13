@@ -11201,6 +11201,18 @@
     ],
     "current": "https://build.fhir.org/ig/iteyes-inc/iteyes-ig/branches/main/package.tgz"
   },
+  "fhir.jgsuess.psa-ig": {
+    "name": "fhir.jgsuess.psa-ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/jgsuess/psa-ig/branches/main/package.tgz",
+        "repo": "https://github.com/jgsuess/psa-ig",
+        "branch": "main",
+        "lastSeen": "2025-06-13T07:13:33.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/jgsuess/psa-ig/branches/main/package.tgz"
+  },
   "fhir.kenyaCoreIG": {
     "name": "fhir.kenyaCoreIG",
     "locations": [
