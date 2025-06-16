@@ -9499,6 +9499,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "v0.4.7",
         "lastSeen": "2025-04-23T20:08:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/row-header-styling/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "row-header-styling",
+        "lastSeen": "2025-06-16T17:23:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -11898,7 +11904,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/btm_working/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "btm_working",
-        "lastSeen": "2025-06-16T15:14:15.000Z"
+        "lastSeen": "2025-06-16T17:09:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -13392,7 +13398,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2025-06-16T15:34:45.000Z"
+        "lastSeen": "2025-06-16T16:43:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/addr-test/package.tgz",
