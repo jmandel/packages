@@ -9372,7 +9372,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2025-06-16T18:04:25.000Z"
+        "lastSeen": "2025-06-16T20:38:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -9505,6 +9505,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "row-header-styling",
         "lastSeen": "2025-06-16T17:23:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/v0.4.8/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "v0.4.8",
+        "lastSeen": "2025-06-16T20:42:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -11880,7 +11886,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/master/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "master",
-        "lastSeen": "2025-06-13T17:31:10.000Z"
+        "lastSeen": "2025-06-16T19:54:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/pacio/package.tgz",
@@ -11904,7 +11910,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/btm_working/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "btm_working",
-        "lastSeen": "2025-06-16T17:09:35.000Z"
+        "lastSeen": "2025-06-16T19:57:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -33570,7 +33576,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2025-06-16T18:18:02.000Z"
+        "lastSeen": "2025-06-16T20:06:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -36900,7 +36906,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2025-06-16T19:08:29.000Z"
+        "lastSeen": "2025-06-16T20:27:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
