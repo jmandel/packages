@@ -7410,7 +7410,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-patient/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-patient",
-        "lastSeen": "2025-06-11T14:07:00.000Z"
+        "lastSeen": "2025-06-18T12:36:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz"
@@ -20976,7 +20976,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "new-menu-and-fix-mapping",
-        "lastSeen": "2025-06-17T11:56:18.000Z"
+        "lastSeen": "2025-06-18T11:47:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -36954,7 +36954,7 @@
         "url": "https://build.fhir.org/ig/cander2/rfi-ig/branches/main/package.tgz",
         "repo": "https://github.com/cander2/rfi-ig",
         "branch": "main",
-        "lastSeen": "2025-06-18T00:18:25.000Z"
+        "lastSeen": "2025-06-18T11:59:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/rfi-ig/branches/main/package.tgz"
@@ -44359,6 +44359,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "messaging-CC-RCH-41",
         "lastSeen": "2025-06-18T07:05:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/5.0.0_SKS_24/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "5.0.0_SKS_24",
+        "lastSeen": "2025-06-18T12:05:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
