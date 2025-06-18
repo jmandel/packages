@@ -8346,7 +8346,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-04-23T15:02:04.000Z"
+        "lastSeen": "2025-06-18T14:34:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -8652,7 +8652,7 @@
         "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7EE/ig-ee-base",
         "branch": "master",
-        "lastSeen": "2025-05-07T11:37:49.000Z"
+        "lastSeen": "2025-06-18T14:09:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
@@ -19957,6 +19957,12 @@
         "repo": "https://github.com/hl7-be/terminology",
         "branch": "draft",
         "lastSeen": "2025-06-18T08:52:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/terminology",
+        "branch": "master",
+        "lastSeen": "2025-06-18T14:32:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/terminology/branches/draft/package.tgz"
@@ -39864,7 +39870,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2025-06-18T13:35:31.000Z"
+        "lastSeen": "2025-06-18T14:23:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
