@@ -12354,7 +12354,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-06-23T09:33:42.000Z"
+        "lastSeen": "2025-06-23T11:44:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -43963,6 +43963,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "develop",
         "lastSeen": "2025-06-23T11:13:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/olw-narrative-helper-example/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "olw-narrative-helper-example",
+        "lastSeen": "2025-06-23T12:24:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
