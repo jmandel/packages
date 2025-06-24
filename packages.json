@@ -7464,7 +7464,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2025-06-24T10:54:51.000Z"
+        "lastSeen": "2025-06-24T12:06:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.9.0-beta.1/package.tgz",
@@ -11521,6 +11521,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
         "branch": "updateDAKComponentDescription",
         "lastSeen": "2025-06-06T15:56:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/ipsDependency/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "ipsDependency",
+        "lastSeen": "2025-06-24T11:13:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz"
@@ -21120,7 +21126,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/obligations-and-examples/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "obligations-and-examples",
-        "lastSeen": "2025-06-24T09:37:05.000Z"
+        "lastSeen": "2025-06-24T12:17:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -44004,7 +44010,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/olw-narrative-helper-example/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "olw-narrative-helper-example",
-        "lastSeen": "2025-06-23T12:24:01.000Z"
+        "lastSeen": "2025-06-24T12:14:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/5.0.0_SKS_26/package.tgz",
@@ -44155,6 +44161,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-ConditionList-test-scripts",
         "branch": "RCH-2025-04-23",
         "lastSeen": "2025-04-24T15:23:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/Test-scripts-timezone-correction-24-06-2025/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-ConditionList-test-scripts",
+        "branch": "Test-scripts-timezone-correction-24-06-2025",
+        "lastSeen": "2025-06-24T12:53:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/main/package.tgz"
