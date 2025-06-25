@@ -7440,7 +7440,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-patient/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-patient",
-        "lastSeen": "2025-06-23T15:12:34.000Z"
+        "lastSeen": "2025-06-25T08:47:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz"
@@ -8244,7 +8244,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_3_6_0",
-        "lastSeen": "2025-06-12T12:35:57.000Z"
+        "lastSeen": "2025-06-25T09:22:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19354-test-IG-fix-hapifhir8-basebranch/package.tgz",
@@ -8298,7 +8298,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19795-Questionnaire-minmax-validations/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19795-Questionnaire-minmax-validations",
-        "lastSeen": "2025-06-24T06:55:51.000Z"
+        "lastSeen": "2025-06-25T09:22:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -9217,6 +9217,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "patient-summary",
         "lastSeen": "2025-06-17T16:59:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/ps-medication-summary/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "ps-medication-summary",
+        "lastSeen": "2025-06-25T08:56:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -18780,7 +18786,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "releasecandidate",
-        "lastSeen": "2025-06-25T07:41:32.000Z"
+        "lastSeen": "2025-06-25T09:13:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-31/package.tgz",
@@ -21763,6 +21769,12 @@
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "0.1.1-ballot",
         "lastSeen": "2025-06-22T17:48:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/next-dose-ext/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions",
+        "branch": "next-dose-ext",
+        "lastSeen": "2025-06-25T09:03:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
@@ -23467,6 +23479,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-patient-ins-descr",
         "lastSeen": "2025-06-04T13:37:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-encounter-group/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-add-encounter-group",
+        "lastSeen": "2025-06-25T09:04:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -40746,7 +40764,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/6-feature-de-identification-techniques-algorithms/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "6-feature-de-identification-techniques-algorithms",
-        "lastSeen": "2025-06-23T07:44:51.000Z"
+        "lastSeen": "2025-06-25T08:50:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/moehrke-security-considerations/package.tgz",
@@ -48246,7 +48264,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/smart_trust_enhancement/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "smart_trust_enhancement",
-        "lastSeen": "2025-06-25T07:26:06.000Z"
+        "lastSeen": "2025-06-25T09:01:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
