@@ -276,7 +276,7 @@
         "url": "https://build.fhir.org/ig/PROJ-PHILHEALTH-EA-NHDR/PhilHealth-NHDR-IG-Review/branches/main/package.tgz",
         "repo": "https://github.com/PROJ-PHILHEALTH-EA-NHDR/PhilHealth-NHDR-IG-Review",
         "branch": "main",
-        "lastSeen": "2025-06-23T10:49:21.000Z"
+        "lastSeen": "2025-06-25T07:50:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-3/package.tgz",
@@ -11514,7 +11514,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-06-24T12:57:28.000Z"
+        "lastSeen": "2025-06-25T08:10:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/updateDAKComponentDescription/package.tgz",
@@ -11527,6 +11527,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
         "branch": "ipsDependency",
         "lastSeen": "2025-06-24T11:13:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/additionalKpsProfiles/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "additionalKpsProfiles",
+        "lastSeen": "2025-06-25T08:06:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/removeOldProfiles/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "removeOldProfiles",
+        "lastSeen": "2025-06-25T08:19:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz"
@@ -18768,7 +18780,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/releasecandidate/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "releasecandidate",
-        "lastSeen": "2025-06-19T09:15:05.000Z"
+        "lastSeen": "2025-06-25T07:41:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/issue-31/package.tgz",
@@ -21144,7 +21156,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "master",
-        "lastSeen": "2025-06-24T09:34:41.000Z"
+        "lastSeen": "2025-06-25T08:21:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
@@ -48229,6 +48241,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "qa-updates",
         "lastSeen": "2025-04-01T19:23:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/smart_trust_enhancement/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "smart_trust_enhancement",
+        "lastSeen": "2025-06-25T07:26:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
