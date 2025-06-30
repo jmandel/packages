@@ -114,8 +114,8 @@
   {
     "name": "fhir.example",
     "current": {
-      "url": "https://build.fhir.org/ig/vadi2/nordic-hackathon-2025-ig/branches/main/package.tgz",
-      "repo": "https://github.com/vadi2/nordic-hackathon-2025-ig",
+      "url": "https://build.fhir.org/ig/trifork/fhir-ig-sample/branches/main/package.tgz",
+      "repo": "https://github.com/trifork/fhir-ig-sample",
       "branch": "main"
     }
   },
@@ -516,6 +516,14 @@
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-empty/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-dak-empty",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "smart.who.int.dak-smbp",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-smbp/branches/main/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-dak-smbp",
       "branch": "main"
     }
   },
