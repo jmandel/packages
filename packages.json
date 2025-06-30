@@ -12492,7 +12492,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-06-30T05:36:31.000Z"
+        "lastSeen": "2025-06-30T07:15:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -17647,6 +17647,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_mhr-comreq",
         "lastSeen": "2025-06-23T03:33:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/tc_fhir-51252/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "tc_fhir-51252",
+        "lastSeen": "2025-06-30T07:08:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -21300,7 +21306,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "master",
-        "lastSeen": "2025-06-23T16:56:33.000Z"
+        "lastSeen": "2025-06-30T06:53:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
@@ -40566,7 +40572,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-06-27T10:57:34.000Z"
+        "lastSeen": "2025-06-30T07:00:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -44502,7 +44508,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/5.0.0_SKS_29/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "5.0.0_SKS_29",
-        "lastSeen": "2025-06-30T06:39:43.000Z"
+        "lastSeen": "2025-06-30T06:49:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
