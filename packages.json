@@ -7176,19 +7176,25 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "develop",
-        "lastSeen": "2025-07-01T11:19:46.000Z"
+        "lastSeen": "2025-07-01T12:44:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop-invariant-improvement/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "develop-invariant-improvement",
-        "lastSeen": "2025-07-01T11:03:28.000Z"
+        "lastSeen": "2025-07-01T12:33:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/add-dosage-text/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "add-dosage-text",
         "lastSeen": "2025-07-01T10:05:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-template/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "fix-template",
+        "lastSeen": "2025-07-01T11:46:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz"
@@ -37230,7 +37236,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2025-04-29T08:02:08.000Z"
+        "lastSeen": "2025-07-01T12:31:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -37248,7 +37254,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/ACOM-GHS-support/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "ACOM-GHS-support",
-        "lastSeen": "2025-06-30T13:08:20.000Z"
+        "lastSeen": "2025-07-01T12:08:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/es-prepub-qa/package.tgz",
@@ -45984,7 +45990,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-07-01T09:06:47.000Z"
+        "lastSeen": "2025-07-01T12:09:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
