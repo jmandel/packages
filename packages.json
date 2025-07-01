@@ -12522,7 +12522,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-07-01T07:16:38.000Z"
+        "lastSeen": "2025-07-01T07:50:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -30366,7 +30366,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-library",
         "branch": "master",
-        "lastSeen": "2025-06-30T23:05:27.000Z"
+        "lastSeen": "2025-07-01T08:19:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz"
@@ -45150,7 +45150,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "develop",
-        "lastSeen": "2025-06-30T09:18:54.000Z"
+        "lastSeen": "2025-07-01T08:01:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/1.8.1/package.tgz",
@@ -48408,7 +48408,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt",
         "branch": "main",
-        "lastSeen": "2025-06-25T12:52:06.000Z"
+        "lastSeen": "2025-07-01T08:16:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/Qa-fix/package.tgz",
@@ -48457,6 +48457,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
         "branch": "main",
         "lastSeen": "2025-06-26T12:59:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
+        "branch": "release-candidate",
+        "lastSeen": "2025-07-01T08:08:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-pcmt-vaxprequal/branches/main/package.tgz"
@@ -48492,7 +48498,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ra/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ra",
         "branch": "main",
-        "lastSeen": "2025-06-25T13:52:12.000Z"
+        "lastSeen": "2025-07-01T07:58:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umernisar024/smart-ra/branches/patch-2/package.tgz",
@@ -48522,7 +48528,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ra/branches/release-candidate/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ra",
         "branch": "release-candidate",
-        "lastSeen": "2025-06-25T12:36:20.000Z"
+        "lastSeen": "2025-07-01T08:00:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-ra/branches/main/package.tgz"
