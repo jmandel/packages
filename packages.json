@@ -8316,7 +8316,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_3_6_0",
-        "lastSeen": "2025-06-25T09:22:00.000Z"
+        "lastSeen": "2025-07-01T17:45:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19354-test-IG-fix-hapifhir8-basebranch/package.tgz",
@@ -30126,7 +30126,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/qa-cleanup-stu2/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "qa-cleanup-stu2",
-        "lastSeen": "2025-06-24T21:55:15.000Z"
+        "lastSeen": "2025-07-01T18:26:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/sdoh-clinicalcare-2-3-0/package.tgz",
@@ -34230,7 +34230,7 @@
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "master",
-        "lastSeen": "2025-07-01T05:41:11.000Z"
+        "lastSeen": "2025-07-01T16:57:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/main/package.tgz",
@@ -37092,7 +37092,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2025-07-01T17:22:15.000Z"
+        "lastSeen": "2025-07-01T17:58:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
@@ -37494,7 +37494,7 @@
         "url": "https://build.fhir.org/ig/cander2/apix-ig/branches/main/package.tgz",
         "repo": "https://github.com/cander2/apix-ig",
         "branch": "main",
-        "lastSeen": "2025-07-01T16:23:30.000Z"
+        "lastSeen": "2025-07-01T18:07:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/recon-ig/branches/main/package.tgz"
@@ -37825,6 +37825,12 @@
         "repo": "https://github.com/HL7/fhir-shorthand",
         "branch": "3.0.0",
         "lastSeen": "2024-08-19T16:40:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/fhir-shorthand/branches/add-russian-translation/package.tgz",
+        "repo": "https://github.com/vadi2/fhir-shorthand",
+        "branch": "add-russian-translation",
+        "lastSeen": "2025-07-01T18:04:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-shorthand/branches/master/package.tgz"
@@ -48252,7 +48258,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "main",
-        "lastSeen": "2025-07-01T17:08:34.000Z"
+        "lastSeen": "2025-07-01T18:16:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
