@@ -15474,7 +15474,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-ahpra-extensions-deprecate/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-ahpra-extensions-deprecate",
-        "lastSeen": "2025-07-01T04:16:01.000Z"
+        "lastSeen": "2025-07-02T07:34:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr_fhir_wood/package.tgz",
@@ -40740,7 +40740,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-07-02T05:48:09.000Z"
+        "lastSeen": "2025-07-02T07:54:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -42462,7 +42462,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/updates/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "updates",
-        "lastSeen": "2025-07-02T06:48:03.000Z"
+        "lastSeen": "2025-07-02T07:36:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -44449,6 +44449,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master-4.1.0-TestExamples",
         "lastSeen": "2025-06-30T08:49:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/5.0.0_SKS_2/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "5.0.0_SKS_2",
+        "lastSeen": "2025-07-02T08:23:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -47400,7 +47406,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/risk-assessment-profile/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "risk-assessment-profile",
-        "lastSeen": "2025-06-26T14:05:21.000Z"
+        "lastSeen": "2025-07-02T08:21:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/condition-fml/package.tgz",
@@ -47437,6 +47443,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "medication-request-fml",
         "lastSeen": "2025-07-01T08:49:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/fix-obs-fml/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "fix-obs-fml",
+        "lastSeen": "2025-07-02T07:45:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -47820,7 +47832,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-pnc/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-pnc",
         "branch": "main",
-        "lastSeen": "2025-07-01T14:00:19.000Z"
+        "lastSeen": "2025-07-02T07:56:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-pnc/branches/main/package.tgz"
@@ -48318,7 +48330,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "main",
-        "lastSeen": "2025-07-01T22:42:40.000Z"
+        "lastSeen": "2025-07-02T08:36:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/costateixeira-update-readme/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "costateixeira-update-readme",
+        "lastSeen": "2025-07-02T07:45:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
