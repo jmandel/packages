@@ -12948,7 +12948,7 @@
         "url": "https://build.fhir.org/ig/danka74/hl7-eu-microbiology-experiment/branches/master/package.tgz",
         "repo": "https://github.com/danka74/hl7-eu-microbiology-experiment",
         "branch": "master",
-        "lastSeen": "2025-07-02T07:18:01.000Z"
+        "lastSeen": "2025-07-02T10:38:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/danka74/hl7-eu-microbiology-experiment/branches/master/package.tgz"
@@ -19362,7 +19362,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/main/package.tgz",
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "main",
-        "lastSeen": "2025-05-07T09:11:07.000Z"
+        "lastSeen": "2025-07-02T10:25:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/carepath/package.tgz",
@@ -19386,7 +19386,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/holter/package.tgz",
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "holter",
-        "lastSeen": "2025-05-26T15:31:18.000Z"
+        "lastSeen": "2025-07-02T10:17:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/master/package.tgz"
@@ -21366,7 +21366,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-06-29T07:47:00.000Z"
+        "lastSeen": "2025-07-02T09:44:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -21481,6 +21481,12 @@
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-attachment-and-presented-form",
         "lastSeen": "2025-06-24T15:33:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-QA-errors-and-texts/package.tgz",
+        "repo": "https://github.com/HL7-cz/img-order",
+        "branch": "Fix-QA-errors-and-texts",
+        "lastSeen": "2025-07-02T10:30:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
