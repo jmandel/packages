@@ -4405,6 +4405,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "mz_wff_hmb",
         "lastSeen": "2025-05-30T11:43:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-consent-r5/branches/master/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-consent-r5",
+        "branch": "master",
+        "lastSeen": "2025-07-03T09:33:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -6204,7 +6210,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ig-template",
         "branch": "master",
-        "lastSeen": "2025-03-28T16:44:36.000Z"
+        "lastSeen": "2025-07-03T09:29:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/ql_searchform/package.tgz",
@@ -6253,6 +6259,12 @@
         "repo": "https://github.com/pjolo/ig-template",
         "branch": "master",
         "lastSeen": "2025-02-25T11:24:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/oe_ping/package.tgz",
+        "repo": "https://github.com/hl7ch/ig-template",
+        "branch": "oe_ping",
+        "lastSeen": "2025-07-03T09:28:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz"
@@ -7200,7 +7212,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-dosage-script/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "fix-dosage-script",
-        "lastSeen": "2025-07-03T08:11:07.000Z"
+        "lastSeen": "2025-07-03T09:03:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz"
@@ -12576,7 +12588,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-07-03T06:54:56.000Z"
+        "lastSeen": "2025-07-03T08:17:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -40830,7 +40842,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-07-03T06:59:24.000Z"
+        "lastSeen": "2025-07-03T08:47:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
