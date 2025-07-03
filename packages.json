@@ -7188,7 +7188,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "develop",
-        "lastSeen": "2025-07-03T12:07:37.000Z"
+        "lastSeen": "2025-07-03T13:42:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop-invariant-improvement/package.tgz",
@@ -25741,6 +25741,12 @@
         "repo": "https://github.com/HL7/cdc-opioid-cpg",
         "branch": "sickle-cell-conditions",
         "lastSeen": "2025-06-10T17:15:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cdc-opioid-cpg/branches/end-of-life-conditions/package.tgz",
+        "repo": "https://github.com/HL7/cdc-opioid-cpg",
+        "branch": "end-of-life-conditions",
+        "lastSeen": "2025-07-03T14:33:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cdc-opioid-cpg/branches/main/package.tgz"
@@ -37284,7 +37290,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2025-07-02T01:11:17.000Z"
+        "lastSeen": "2025-07-03T13:59:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
@@ -40884,7 +40890,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-07-03T13:03:11.000Z"
+        "lastSeen": "2025-07-03T13:49:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
