@@ -7554,7 +7554,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/convert-to-codesystemsupplements/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "convert-to-codesystemsupplements",
-        "lastSeen": "2025-07-02T11:47:54.000Z"
+        "lastSeen": "2025-07-04T06:58:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/vadi2-patch-1/package.tgz",
@@ -9391,6 +9391,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "ps-pregnancy",
         "lastSeen": "2025-07-03T10:58:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/ps-advance-directive/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "ps-advance-directive",
+        "lastSeen": "2025-07-04T07:23:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -13590,7 +13596,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-hl7",
         "branch": "master",
-        "lastSeen": "2025-05-05T02:42:01.000Z"
+        "lastSeen": "2025-07-04T06:40:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-hl7/branches/costateixeira-patch-1/package.tgz",
@@ -15540,7 +15546,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-ahpra-extensions-deprecate/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-ahpra-extensions-deprecate",
-        "lastSeen": "2025-07-02T07:34:43.000Z"
+        "lastSeen": "2025-07-04T07:16:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr_fhir_wood/package.tgz",
@@ -37776,7 +37782,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2025-07-04T04:41:09.000Z"
+        "lastSeen": "2025-07-04T07:08:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
