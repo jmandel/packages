@@ -9270,7 +9270,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-07-07T14:41:57.000Z"
+        "lastSeen": "2025-07-07T15:43:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -13794,7 +13794,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "main",
-        "lastSeen": "2025-07-07T05:51:22.000Z"
+        "lastSeen": "2025-07-07T15:14:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/broken-linkhtml/package.tgz",
@@ -18304,6 +18304,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/allergy/branches/issue-100/package.tgz"
+  },
+  "hl7.fhir.be.bits": {
+    "name": "hl7.fhir.be.bits",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/bits/branches/issue-1/package.tgz",
+        "repo": "https://github.com/hl7-be/bits",
+        "branch": "issue-1",
+        "lastSeen": "2025-07-07T14:58:59.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-be/bits/branches/issue-1/package.tgz"
   },
   "hl7.fhir.be.capabilities": {
     "name": "hl7.fhir.be.capabilities",
@@ -24013,6 +24025,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-practitioner-qualification-reslice",
         "lastSeen": "2025-07-04T12:06:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-change-notes/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-change-notes",
+        "lastSeen": "2025-07-07T15:29:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -31182,7 +31200,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU3/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "STU3",
-        "lastSeen": "2025-05-15T17:32:25.000Z"
+        "lastSeen": "2025-07-07T14:26:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/STU2.3/package.tgz",
@@ -31266,7 +31284,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-spl/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-spl",
         "branch": "main",
-        "lastSeen": "2025-06-27T19:12:48.000Z"
+        "lastSeen": "2025-07-07T15:18:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-spl/branches/R5/package.tgz",
