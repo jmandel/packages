@@ -9270,7 +9270,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-07-07T15:43:02.000Z"
+        "lastSeen": "2025-07-07T22:12:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -37902,7 +37902,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2025-07-06T22:59:52.000Z"
+        "lastSeen": "2025-07-07T22:07:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
@@ -38352,7 +38352,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/pascal/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "pascal",
-        "lastSeen": "2025-07-07T20:33:44.000Z"
+        "lastSeen": "2025-07-07T21:25:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/initial-content/package.tgz"
@@ -38868,7 +38868,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-06-17T06:02:46.000Z"
+        "lastSeen": "2025-07-07T22:16:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
@@ -49069,6 +49069,18 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ra",
         "branch": "release-candidate",
         "lastSeen": "2025-07-01T08:00:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-ra/branches/glossary/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-ra",
+        "branch": "glossary",
+        "lastSeen": "2025-07-07T22:26:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-ra/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-ra",
+        "branch": "main",
+        "lastSeen": "2025-07-07T22:26:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-ra/branches/main/package.tgz"
