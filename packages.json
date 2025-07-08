@@ -12348,7 +12348,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/master/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "master",
-        "lastSeen": "2025-07-08T19:43:17.000Z"
+        "lastSeen": "2025-07-08T21:21:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/pacio/package.tgz",
@@ -12372,7 +12372,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/btm_working/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "btm_working",
-        "lastSeen": "2025-07-08T16:34:24.000Z"
+        "lastSeen": "2025-07-08T21:28:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -30756,7 +30756,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-library",
         "branch": "master",
-        "lastSeen": "2025-07-07T21:03:52.000Z"
+        "lastSeen": "2025-07-08T21:05:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz"
@@ -33516,7 +33516,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/updates1/package.tgz",
         "repo": "https://github.com/HL7/CardX-CIED",
         "branch": "updates1",
-        "lastSeen": "2025-06-09T15:17:16.000Z"
+        "lastSeen": "2025-07-08T21:40:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/main/package.tgz",
@@ -37903,6 +37903,12 @@
         "repo": "https://github.com/cander2/rcs-ig",
         "branch": "main",
         "lastSeen": "2025-07-08T20:21:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cander2/src-ig/branches/main/package.tgz",
+        "repo": "https://github.com/cander2/src-ig",
+        "branch": "main",
+        "lastSeen": "2025-07-08T20:42:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/rfi-ig/branches/main/package.tgz"
@@ -48637,6 +48643,12 @@
         "repo": "https://github.com/jamlung-ri/smart-ig-empty-ocl",
         "branch": "main",
         "lastSeen": "2025-04-08T18:13:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/logicalmodelstuff/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/logicalmodelstuff",
+        "branch": "main",
+        "lastSeen": "2025-07-08T21:08:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
@@ -50454,7 +50466,7 @@
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/main/package.tgz",
         "repo": "https://github.com/nightingaleproject/vital_records_fhir_messaging_ig",
         "branch": "main",
-        "lastSeen": "2025-04-23T15:03:42.000Z"
+        "lastSeen": "2025-07-08T20:29:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nightingaleproject/vital_records_fhir_messaging_ig/branches/business_rules_2/package.tgz",
