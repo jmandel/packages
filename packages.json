@@ -7122,7 +7122,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/obligation-profiles/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "obligation-profiles",
-        "lastSeen": "2025-07-01T04:16:28.000Z"
+        "lastSeen": "2025-07-08T12:08:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/obligation-profiles-2/package.tgz",
@@ -8473,6 +8473,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0258",
         "lastSeen": "2025-07-08T06:58:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20311-CCR0258S6-communication-profiling/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-20311-CCR0258S6-communication-profiling",
+        "lastSeen": "2025-07-08T11:43:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -9390,7 +9396,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/patient-summary/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "patient-summary",
-        "lastSeen": "2025-07-07T18:31:01.000Z"
+        "lastSeen": "2025-07-08T11:37:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/ps-medication-summary/package.tgz",
@@ -21666,7 +21672,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/obligations-fix/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "obligations-fix",
-        "lastSeen": "2025-07-08T09:21:08.000Z"
+        "lastSeen": "2025-07-08T12:00:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -24163,6 +24169,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "nr-update-url",
         "lastSeen": "2025-05-05T07:46:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/nr-test-debug/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
+        "branch": "nr-test-debug",
+        "lastSeen": "2025-07-08T12:05:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -30450,7 +30462,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/qa-cleanup-stu2/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "qa-cleanup-stu2",
-        "lastSeen": "2025-07-07T19:40:14.000Z"
+        "lastSeen": "2025-07-08T12:31:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/sdoh-clinicalcare-2-3-0/package.tgz",
@@ -45162,7 +45174,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2025-05-13T11:25:48.000Z"
+        "lastSeen": "2025-07-08T12:05:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
@@ -47076,7 +47088,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-07-08T11:26:26.000Z"
+        "lastSeen": "2025-07-08T12:23:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
