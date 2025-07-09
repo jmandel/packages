@@ -12420,7 +12420,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/btm_working/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "btm_working",
-        "lastSeen": "2025-07-09T15:51:35.000Z"
+        "lastSeen": "2025-07-09T22:14:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -13872,7 +13872,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "main",
-        "lastSeen": "2025-07-09T21:07:28.000Z"
+        "lastSeen": "2025-07-09T22:31:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/broken-linkhtml/package.tgz",
@@ -29581,6 +29581,12 @@
         "repo": "https://github.com/HL7/nhsn-dqm",
         "branch": "bc_cohort",
         "lastSeen": "2024-06-24T20:48:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/nhsn-dqm",
+        "branch": "1.0.0",
+        "lastSeen": "2025-07-09T21:44:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/nhsn-dqm/branches/main/package.tgz"
@@ -31158,7 +31164,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2025-06-04T12:44:38.000Z"
+        "lastSeen": "2025-07-09T21:31:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -41232,7 +41238,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2025-07-08T15:42:24.000Z"
+        "lastSeen": "2025-07-09T22:27:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
@@ -48096,7 +48102,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/v0.3.0/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-anc",
         "branch": "v0.3.0",
-        "lastSeen": "2025-07-09T07:15:40.000Z"
+        "lastSeen": "2025-07-09T21:46:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/master/package.tgz"
