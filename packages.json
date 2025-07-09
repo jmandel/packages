@@ -10560,7 +10560,7 @@
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/rec8-plantuml-diagrams/package.tgz",
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "rec8-plantuml-diagrams",
-        "lastSeen": "2025-06-05T18:10:28.000Z"
+        "lastSeen": "2025-07-09T03:15:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/rec7-plantuml-diagrams/package.tgz",
@@ -12372,7 +12372,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/mlt_edits/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "mlt_edits",
-        "lastSeen": "2025-07-08T20:33:50.000Z"
+        "lastSeen": "2025-07-09T03:20:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/jp_working/package.tgz",
@@ -18126,7 +18126,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-07-08T22:59:38.000Z"
+        "lastSeen": "2025-07-09T03:25:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -34579,6 +34579,12 @@
         "repo": "https://github.com/HL7/cql-ig",
         "branch": "br-48618-isEmptyTuple",
         "lastSeen": "2024-12-10T21:05:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/2.0.0/package.tgz",
+        "repo": "https://github.com/HL7/cql-ig",
+        "branch": "2.0.0",
+        "lastSeen": "2025-07-09T03:33:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz"
