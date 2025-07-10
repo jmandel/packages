@@ -12474,7 +12474,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/btm_working/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "btm_working",
-        "lastSeen": "2025-07-09T22:14:10.000Z"
+        "lastSeen": "2025-07-10T16:24:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -27474,7 +27474,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-07-10T15:13:05.000Z"
+        "lastSeen": "2025-07-10T15:52:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -31116,7 +31116,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2025-07-08T17:22:22.000Z"
+        "lastSeen": "2025-07-10T15:45:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -37783,6 +37783,12 @@
         "repo": "https://github.com/HL7/fhir-patient-correction",
         "branch": "gino-wip",
         "lastSeen": "2025-05-14T06:40:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-patient-correction",
+        "branch": "1.0.0",
+        "lastSeen": "2025-07-10T16:24:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/main/package.tgz"
