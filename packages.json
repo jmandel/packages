@@ -17251,6 +17251,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_profilingapproach",
         "lastSeen": "2025-07-09T22:58:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ms-datetime/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_ms-datetime",
+        "lastSeen": "2025-07-10T10:24:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -19525,6 +19531,12 @@
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "issue-111",
         "lastSeen": "2025-07-08T15:30:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/v2.1.2/package.tgz",
+        "repo": "https://github.com/hl7-be/mycarenet",
+        "branch": "v2.1.2",
+        "lastSeen": "2025-07-10T09:43:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/master/package.tgz"
@@ -21618,7 +21630,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-07-07T08:44:59.000Z"
+        "lastSeen": "2025-07-10T10:39:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -21762,7 +21774,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/ExampleFinish/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "ExampleFinish",
-        "lastSeen": "2025-07-10T08:58:21.000Z"
+        "lastSeen": "2025-07-10T09:31:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -48138,7 +48150,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/release-candidate/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-anc",
         "branch": "release-candidate",
-        "lastSeen": "2025-07-09T20:42:07.000Z"
+        "lastSeen": "2025-07-10T09:23:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/v0.3.0/package.tgz",
@@ -48462,13 +48474,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-pnc/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-pnc",
         "branch": "main",
-        "lastSeen": "2025-07-07T13:28:40.000Z"
+        "lastSeen": "2025-07-10T10:13:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-pnc/branches/v0.9.9_releaseCandidate/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-pnc",
         "branch": "v0.9.9_releaseCandidate",
-        "lastSeen": "2025-07-07T13:38:18.000Z"
+        "lastSeen": "2025-07-10T09:46:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-pnc/branches/main/package.tgz"
@@ -50281,6 +50293,12 @@
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.5",
         "lastSeen": "2025-07-01T12:38:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.6/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/pas",
+        "branch": "1.0.6",
+        "lastSeen": "2025-07-10T09:44:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
