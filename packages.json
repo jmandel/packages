@@ -7242,7 +7242,13 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-examples/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "fix-examples",
-        "lastSeen": "2025-07-10T12:38:02.000Z"
+        "lastSeen": "2025-07-10T13:31:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/constraint-interval-comb/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "constraint-interval-comb",
+        "lastSeen": "2025-07-10T13:05:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -21726,7 +21732,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-07-09T13:04:20.000Z"
+        "lastSeen": "2025-07-10T13:03:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -21786,7 +21792,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/ExampleFinish/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "ExampleFinish",
-        "lastSeen": "2025-07-10T09:31:30.000Z"
+        "lastSeen": "2025-07-10T13:01:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -21822,7 +21828,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/obligations-fix/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "obligations-fix",
-        "lastSeen": "2025-07-10T08:37:41.000Z"
+        "lastSeen": "2025-07-10T13:04:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -35016,7 +35022,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-07-08T19:24:34.000Z"
+        "lastSeen": "2025-07-10T13:21:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -37764,7 +37770,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-patient-correction",
         "branch": "main",
-        "lastSeen": "2025-07-09T17:57:57.000Z"
+        "lastSeen": "2025-07-10T13:15:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-patient-correction/branches/gino-wip/package.tgz",
@@ -41634,7 +41640,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "main",
-        "lastSeen": "2025-07-02T20:25:10.000Z"
+        "lastSeen": "2025-07-10T13:16:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/feature_concepts/package.tgz",
@@ -41688,7 +41694,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/6-feature-de-identification-techniques-algorithms/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "6-feature-de-identification-techniques-algorithms",
-        "lastSeen": "2025-07-10T08:31:27.000Z"
+        "lastSeen": "2025-07-10T13:29:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/moehrke-security-considerations/package.tgz",
@@ -43008,7 +43014,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/updates/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "updates",
-        "lastSeen": "2025-07-09T14:03:19.000Z"
+        "lastSeen": "2025-07-10T12:54:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -47292,7 +47298,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-07-08T12:23:14.000Z"
+        "lastSeen": "2025-07-10T13:43:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
