@@ -7147,6 +7147,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "examination-reformat-previous-values",
         "lastSeen": "2025-07-10T01:32:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/prepop-referenced-meds/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "prepop-referenced-meds",
+        "lastSeen": "2025-07-10T05:30:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -7213,6 +7219,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "fix-dosage-script",
         "lastSeen": "2025-07-09T14:39:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/when-check/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "when-check",
+        "lastSeen": "2025-07-10T06:28:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -17220,7 +17232,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ignore/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_ignore",
-        "lastSeen": "2025-07-08T22:59:25.000Z"
+        "lastSeen": "2025-07-10T05:43:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_aucdi2/package.tgz",
@@ -39060,7 +39072,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-07-09T17:04:35.000Z"
+        "lastSeen": "2025-07-10T06:09:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
