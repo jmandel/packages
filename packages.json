@@ -7141,6 +7141,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "fix-fhirContext-role",
         "lastSeen": "2025-07-10T00:06:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/examination-reformat-previous-values/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "examination-reformat-previous-values",
+        "lastSeen": "2025-07-10T01:32:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -13087,6 +13093,12 @@
         "repo": "https://github.com/cqframework/ecqm-content-cms-2025",
         "branch": "master",
         "lastSeen": "2025-07-09T19:16:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/multi-measure-scenario/package.tgz",
+        "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
+        "branch": "multi-measure-scenario",
+        "lastSeen": "2025-07-10T00:52:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2022/branches/master/package.tgz"
@@ -17995,6 +18007,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-51253-51406",
         "lastSeen": "2025-07-07T01:38:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/qa_batch-2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "qa_batch-2",
+        "lastSeen": "2025-07-10T01:59:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -18174,7 +18192,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-07-09T05:29:02.000Z"
+        "lastSeen": "2025-07-10T02:00:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -28068,7 +28086,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2025-07-07T20:50:30.000Z"
+        "lastSeen": "2025-07-10T01:13:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/1.0.0/package.tgz",
