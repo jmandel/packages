@@ -7218,7 +7218,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-07-11T08:56:03.000Z"
+        "lastSeen": "2025-07-11T10:01:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7273,6 +7273,18 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "remove-dependency",
         "lastSeen": "2025-07-10T15:28:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/bounds-duration-constraint/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "bounds-duration-constraint",
+        "lastSeen": "2025-07-11T09:45:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/refactor-heading-level/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "refactor-heading-level",
+        "lastSeen": "2025-07-11T09:54:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -9576,7 +9588,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/merge-from-ps/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "merge-from-ps",
-        "lastSeen": "2025-07-11T06:40:23.000Z"
+        "lastSeen": "2025-07-11T10:03:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -43068,7 +43080,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/updates/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "updates",
-        "lastSeen": "2025-07-10T12:54:40.000Z"
+        "lastSeen": "2025-07-11T09:59:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -48048,7 +48060,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/service-request-fml/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "service-request-fml",
-        "lastSeen": "2025-07-08T18:58:24.000Z"
+        "lastSeen": "2025-07-11T09:55:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/observation-fml/package.tgz",
