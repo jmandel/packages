@@ -7206,7 +7206,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-07-10T11:44:57.000Z"
+        "lastSeen": "2025-07-11T05:39:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7248,7 +7248,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-examples/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "fix-examples",
-        "lastSeen": "2025-07-10T14:21:21.000Z"
+        "lastSeen": "2025-07-11T04:56:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/constraint-interval-comb/package.tgz",
@@ -9559,6 +9559,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "stakeholder-consultation-D6-1",
         "lastSeen": "2025-07-08T15:52:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/merge-from-ps/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "merge-from-ps",
+        "lastSeen": "2025-07-11T05:37:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -15744,7 +15750,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-enc-hcs-preadoptR5/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-enc-hcs-preadoptR5",
-        "lastSeen": "2025-07-11T01:57:02.000Z"
+        "lastSeen": "2025-07-11T05:30:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-ahpra-extensions-deprecate/package.tgz",
@@ -48312,7 +48318,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/cql-processing/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "cql-processing",
-        "lastSeen": "2025-07-10T22:20:13.000Z"
+        "lastSeen": "2025-07-11T05:19:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz"
@@ -49050,7 +49056,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/dak-extract/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "dak-extract",
-        "lastSeen": "2025-07-10T23:21:25.000Z"
+        "lastSeen": "2025-07-11T05:21:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
