@@ -7153,6 +7153,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "prepop-referenced-meds",
         "lastSeen": "2025-07-11T00:41:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/obligation-profiles-3/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "obligation-profiles-3",
+        "lastSeen": "2025-07-11T01:21:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -15738,7 +15744,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-enc-hcs-preadoptR5/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-enc-hcs-preadoptR5",
-        "lastSeen": "2025-07-09T09:34:06.000Z"
+        "lastSeen": "2025-07-11T01:57:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-ahpra-extensions-deprecate/package.tgz",
@@ -18240,7 +18246,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-07-10T23:03:42.000Z"
+        "lastSeen": "2025-07-11T01:13:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -35886,7 +35892,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/2025-06-gg-narrative-control/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "2025-06-gg-narrative-control",
-        "lastSeen": "2025-06-13T02:41:47.000Z"
+        "lastSeen": "2025-07-11T02:00:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/jct-oo/package.tgz",
