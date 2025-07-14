@@ -15840,7 +15840,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/6.0.0-preview/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "6.0.0-preview",
-        "lastSeen": "2025-07-14T06:00:28.000Z"
+        "lastSeen": "2025-07-14T14:06:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-6.0.0-preview/package.tgz",
@@ -17376,7 +17376,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comp-uscore/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_comp-uscore",
-        "lastSeen": "2025-07-13T23:51:17.000Z"
+        "lastSeen": "2025-07-14T13:54:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -29682,7 +29682,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2025-07-14T11:18:44.000Z"
+        "lastSeen": "2025-07-14T13:40:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -30787,6 +30787,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "sdoh-clinicalcare-2-3-0",
         "lastSeen": "2025-06-18T05:36:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/icf-mapping/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-pfe",
+        "branch": "icf-mapping",
+        "lastSeen": "2025-07-14T14:37:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -37974,7 +37980,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2025-07-08T07:19:07.000Z"
+        "lastSeen": "2025-07-14T14:00:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -38718,7 +38724,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/main/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "main",
-        "lastSeen": "2025-07-09T17:59:13.000Z"
+        "lastSeen": "2025-07-14T14:27:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/transferred-content/package.tgz",
@@ -38748,7 +38754,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/pascal/package.tgz",
         "repo": "https://github.com/HL7/smart-health-cards-and-links",
         "branch": "pascal",
-        "lastSeen": "2025-07-07T21:25:53.000Z"
+        "lastSeen": "2025-07-14T14:14:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-health-cards-and-links/branches/initial-content/package.tgz"
@@ -41190,7 +41196,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2025-07-12T01:52:06.000Z"
+        "lastSeen": "2025-07-14T14:32:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
