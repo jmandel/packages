@@ -12618,7 +12618,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/master/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "master",
-        "lastSeen": "2025-07-15T16:33:33.000Z"
+        "lastSeen": "2025-07-15T18:05:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/pacio/package.tgz",
@@ -12630,7 +12630,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/mlt_edits/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "mlt_edits",
-        "lastSeen": "2025-07-15T16:02:13.000Z"
+        "lastSeen": "2025-07-15T17:41:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/jp_working/package.tgz",
@@ -13290,7 +13290,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
         "branch": "main",
-        "lastSeen": "2025-07-15T16:10:39.000Z"
+        "lastSeen": "2025-07-15T17:54:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/manifests/package.tgz",
@@ -30720,7 +30720,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2025-07-10T14:24:16.000Z"
+        "lastSeen": "2025-07-15T18:12:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -38105,6 +38105,24 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz"
   },
+  "hl7.fhir.uv.pharmaceutical-research-protocol": {
+    "name": "hl7.fhir.uv.pharmaceutical-research-protocol",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
+        "repo": "https://github.com/HL7/vulcan-udp-ig",
+        "branch": "hugh",
+        "lastSeen": "2025-07-15T17:55:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/vulcan-udp-ig",
+        "branch": "main",
+        "lastSeen": "2025-07-15T18:28:07.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
+  },
   "hl7.fhir.uv.phd": {
     "name": "hl7.fhir.uv.phd",
     "locations": [
@@ -38130,7 +38148,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/ACOM-GHS-support/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "ACOM-GHS-support",
-        "lastSeen": "2025-07-15T13:47:03.000Z"
+        "lastSeen": "2025-07-15T18:34:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/es-prepub-qa/package.tgz",
@@ -41328,7 +41346,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2025-07-15T15:53:08.000Z"
+        "lastSeen": "2025-07-15T18:42:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
