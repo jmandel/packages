@@ -7327,6 +7327,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "dosage-description",
         "lastSeen": "2025-07-15T05:10:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/intro-pages-profiles/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "intro-pages-profiles",
+        "lastSeen": "2025-07-15T08:47:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -8562,7 +8568,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_3_6_0",
-        "lastSeen": "2025-07-01T17:45:42.000Z"
+        "lastSeen": "2025-07-15T09:23:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19354-test-IG-fix-hapifhir8-basebranch/package.tgz",
@@ -8646,7 +8652,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20258_FUT1-19669_UpdateMedcomCodeSystem/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20258_FUT1-19669_UpdateMedcomCodeSystem",
-        "lastSeen": "2025-07-14T18:37:18.000Z"
+        "lastSeen": "2025-07-15T09:06:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -11970,7 +11976,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-06-25T08:10:12.000Z"
+        "lastSeen": "2025-07-15T09:33:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/updateDAKComponentDescription/package.tgz",
@@ -12031,6 +12037,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
         "branch": "jk_concepts",
         "lastSeen": "2025-07-14T10:28:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/genderVs/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "genderVs",
+        "lastSeen": "2025-07-15T09:15:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/patIdentifierFix/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "patIdentifierFix",
+        "lastSeen": "2025-07-15T09:01:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz"
@@ -14688,7 +14706,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2025-03-22T19:51:26.000Z"
+        "lastSeen": "2025-07-15T09:22:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -21894,7 +21912,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Fixing-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Fixing-issues",
-        "lastSeen": "2025-07-15T08:54:47.000Z"
+        "lastSeen": "2025-07-15T09:41:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -22020,7 +22038,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/czech-logical-model-and-fix-git-hub-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "czech-logical-model-and-fix-git-hub-issues",
-        "lastSeen": "2025-07-14T15:57:56.000Z"
+        "lastSeen": "2025-07-15T09:05:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
