@@ -5881,6 +5881,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "v3.2.0",
         "lastSeen": "2025-05-22T05:52:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/110-ch-vacd-swissmedic-code-for-vaccinecode/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "110-ch-vacd-swissmedic-code-for-vaccinecode",
+        "lastSeen": "2025-07-15T07:34:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -7230,7 +7236,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-07-15T05:48:07.000Z"
+        "lastSeen": "2025-07-15T07:35:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -12018,7 +12024,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/jk_logicalModels/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
         "branch": "jk_logicalModels",
-        "lastSeen": "2025-07-09T09:44:53.000Z"
+        "lastSeen": "2025-07-15T08:43:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/jk_concepts/package.tgz",
@@ -19476,7 +19482,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/merge-prescription/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "merge-prescription",
-        "lastSeen": "2025-07-14T16:37:20.000Z"
+        "lastSeen": "2025-07-15T08:30:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -21883,6 +21889,12 @@
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Issues-41-and-42",
         "lastSeen": "2025-07-09T11:34:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Fixing-issues/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "Fixing-issues",
+        "lastSeen": "2025-07-15T08:54:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -45672,7 +45684,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/olw-test-status-of-pr-workflow/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "olw-test-status-of-pr-workflow",
-        "lastSeen": "2025-07-14T12:35:07.000Z"
+        "lastSeen": "2025-07-15T07:51:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
