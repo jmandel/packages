@@ -7188,7 +7188,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/cvd-risk-section-1/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "cvd-risk-section-1",
-        "lastSeen": "2025-07-15T04:06:58.000Z"
+        "lastSeen": "2025-07-16T02:07:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -15390,7 +15390,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-07-14T22:04:39.000Z"
+        "lastSeen": "2025-07-16T01:26:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -15912,7 +15912,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-add-ereq-terminology1/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-add-ereq-terminology1",
-        "lastSeen": "2025-07-15T00:14:56.000Z"
+        "lastSeen": "2025-07-16T00:46:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-enc-hcs-preadoptR5/package.tgz",
@@ -18619,6 +18619,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_generationAccess",
         "lastSeen": "2025-07-15T06:16:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/steveswinsburg/au-fhir-ps/branches/ft_generationAccess/package.tgz",
+        "repo": "https://github.com/steveswinsburg/au-fhir-ps",
+        "branch": "ft_generationAccess",
+        "lastSeen": "2025-07-16T00:56:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -28482,7 +28488,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2025-07-11T17:18:06.000Z"
+        "lastSeen": "2025-07-16T00:13:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -35544,7 +35550,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2025-07-14T19:33:54.000Z"
+        "lastSeen": "2025-07-16T01:03:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -36217,6 +36223,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "FHIR-51495-deprecate-device-maintenanceresponsibility",
         "lastSeen": "2025-07-16T00:10:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/rd-FHIR-49705-update-extension-name/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "rd-FHIR-49705-update-extension-name",
+        "lastSeen": "2025-07-16T01:09:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
