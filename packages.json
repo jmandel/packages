@@ -15942,7 +15942,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-ahpra-extensions-deprecate/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-ahpra-extensions-deprecate",
-        "lastSeen": "2025-07-07T05:13:23.000Z"
+        "lastSeen": "2025-07-17T02:50:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr_fhir_wood/package.tgz",
@@ -16008,7 +16008,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-07-15T00:21:32.000Z"
+        "lastSeen": "2025-07-17T03:03:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -36265,6 +36265,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "rd-FHIR-47323-new-extensions-device-operation",
         "lastSeen": "2025-07-17T01:52:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/FHIR-46838-43391-undeprecate-observation-deviceCode/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "FHIR-46838-43391-undeprecate-observation-deviceCode",
+        "lastSeen": "2025-07-17T02:38:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
