@@ -15408,7 +15408,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-07-16T10:23:52.000Z"
+        "lastSeen": "2025-07-17T03:43:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -15930,7 +15930,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-add-ereq-terminology1/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-add-ereq-terminology1",
-        "lastSeen": "2025-07-16T04:57:52.000Z"
+        "lastSeen": "2025-07-17T03:45:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-enc-hcs-preadoptR5/package.tgz",
@@ -15954,7 +15954,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-medication-request/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-medication-request",
-        "lastSeen": "2025-07-16T07:59:55.000Z"
+        "lastSeen": "2025-07-17T03:18:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/6.0.0-preview/package.tgz",
@@ -15978,7 +15978,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_AFMM1-51347/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_AFMM1-51347",
-        "lastSeen": "2025-07-16T23:15:37.000Z"
+        "lastSeen": "2025-07-17T03:37:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -36271,6 +36271,18 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "FHIR-46838-43391-undeprecate-observation-deviceCode",
         "lastSeen": "2025-07-17T02:38:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/2025-07-gg-sweep-2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "2025-07-gg-sweep-2",
+        "lastSeen": "2025-07-17T03:25:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/rd-FHIR-45046-add-new-extension-SupplyDelivery/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "rd-FHIR-45046-add-new-extension-SupplyDelivery",
+        "lastSeen": "2025-07-17T03:13:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
