@@ -28518,7 +28518,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2025-07-16T22:12:49.000Z"
+        "lastSeen": "2025-07-17T01:48:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -36259,6 +36259,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "rd-FHIR-49705-update-extension-name",
         "lastSeen": "2025-07-16T01:09:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/rd-FHIR-47323-new-extensions-device-operation/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "rd-FHIR-47323-new-extensions-device-operation",
+        "lastSeen": "2025-07-17T01:52:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -39510,7 +39516,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-07-15T15:33:06.000Z"
+        "lastSeen": "2025-07-17T01:26:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
