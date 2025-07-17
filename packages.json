@@ -7392,13 +7392,19 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/interval-with-time+/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "interval-with-time+",
-        "lastSeen": "2025-07-17T08:33:52.000Z"
+        "lastSeen": "2025-07-17T10:26:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/improve-extension/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "improve-extension",
         "lastSeen": "2025-07-17T08:18:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/dav-comments-script/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "dav-comments-script",
+        "lastSeen": "2025-07-17T09:51:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -8725,6 +8731,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20258_FUT1-19669_UpdateMedcomCodeSystem",
         "lastSeen": "2025-07-15T09:06:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20258_fix_ig_import/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-20258_fix_ig_import",
+        "lastSeen": "2025-07-17T10:30:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -14814,7 +14826,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2025-07-15T09:22:53.000Z"
+        "lastSeen": "2025-07-17T09:42:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -35400,7 +35412,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-07-16T22:07:59.000Z"
+        "lastSeen": "2025-07-17T10:07:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -38268,7 +38280,7 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2025-07-15T18:28:07.000Z"
+        "lastSeen": "2025-07-17T10:19:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -43950,7 +43962,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/trial-implementation_releaseCandidate/package.tgz",
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "trial-implementation_releaseCandidate",
-        "lastSeen": "2025-07-16T13:16:42.000Z"
+        "lastSeen": "2025-07-17T09:50:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/jct-updates/package.tgz",
@@ -50820,7 +50832,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.6/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.6",
-        "lastSeen": "2025-07-16T10:57:02.000Z"
+        "lastSeen": "2025-07-17T09:58:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
