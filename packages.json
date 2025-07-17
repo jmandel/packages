@@ -7195,6 +7195,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "item-text-hidden-extension",
         "lastSeen": "2025-07-16T05:54:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/observation-dates-populate/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "observation-dates-populate",
+        "lastSeen": "2025-07-17T03:36:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -17484,7 +17490,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ignore/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_ignore",
-        "lastSeen": "2025-07-10T22:54:26.000Z"
+        "lastSeen": "2025-07-17T04:26:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_aucdi2/package.tgz",
@@ -17502,13 +17508,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ms-datetime/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_ms-datetime",
-        "lastSeen": "2025-07-15T10:09:17.000Z"
+        "lastSeen": "2025-07-17T03:55:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comp-uscore/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_comp-uscore",
-        "lastSeen": "2025-07-16T21:24:54.000Z"
+        "lastSeen": "2025-07-17T03:55:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_readme/package.tgz",
@@ -35580,7 +35586,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2025-07-16T14:38:43.000Z"
+        "lastSeen": "2025-07-17T04:37:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -38832,7 +38838,7 @@
         "url": "https://build.fhir.org/ig/vadi2/fhir-shorthand/branches/add-russian-translation/package.tgz",
         "repo": "https://github.com/vadi2/fhir-shorthand",
         "branch": "add-russian-translation",
-        "lastSeen": "2025-07-01T19:40:06.000Z"
+        "lastSeen": "2025-07-17T04:16:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/fhir-shorthand/branches/master/package.tgz",
