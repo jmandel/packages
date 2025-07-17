@@ -13392,7 +13392,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-cms-2025/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-cms-2025",
         "branch": "master",
-        "lastSeen": "2025-07-17T14:32:32.000Z"
+        "lastSeen": "2025-07-17T18:14:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/multi-measure-scenario/package.tgz",
@@ -31597,6 +31597,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "v8.0.0-ballot",
         "lastSeen": "2025-06-25T13:33:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/7.0.1/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "7.0.1",
+        "lastSeen": "2025-07-17T18:34:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
@@ -41562,7 +41568,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2025-07-17T17:09:05.000Z"
+        "lastSeen": "2025-07-17T18:31:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
@@ -44016,7 +44022,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/trial-implementation_releaseCandidate/package.tgz",
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "trial-implementation_releaseCandidate",
-        "lastSeen": "2025-07-17T13:49:12.000Z"
+        "lastSeen": "2025-07-17T17:40:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/jct-updates/package.tgz",
@@ -48762,7 +48768,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-07-17T17:39:28.000Z"
+        "lastSeen": "2025-07-17T18:24:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
