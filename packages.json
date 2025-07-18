@@ -306,7 +306,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-4/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases-4",
-        "lastSeen": "2025-07-18T00:50:21.000Z"
+        "lastSeen": "2025-07-18T07:51:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/NHDR-DEV-BRANCH/package.tgz",
@@ -7254,7 +7254,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-07-18T04:23:58.000Z"
+        "lastSeen": "2025-07-18T08:01:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7417,6 +7417,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "fix-scheme-descriptions",
         "lastSeen": "2025-07-17T14:05:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/renaming-rephrasing/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "renaming-rephrasing",
+        "lastSeen": "2025-07-18T07:45:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -8748,7 +8754,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20258_fix_ig_import/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20258_fix_ig_import",
-        "lastSeen": "2025-07-18T07:09:52.000Z"
+        "lastSeen": "2025-07-18T07:43:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -9564,7 +9570,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-07-16T22:21:30.000Z"
+        "lastSeen": "2025-07-18T08:41:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -9774,7 +9780,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/dicharge-report-20250716/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "dicharge-report-20250716",
-        "lastSeen": "2025-07-18T05:30:14.000Z"
+        "lastSeen": "2025-07-18T08:24:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -22152,7 +22158,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-07-15T12:08:09.000Z"
+        "lastSeen": "2025-07-18T08:23:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -22218,7 +22224,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2025-07-15T12:03:26.000Z"
+        "lastSeen": "2025-07-18T08:24:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
