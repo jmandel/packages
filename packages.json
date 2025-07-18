@@ -6900,7 +6900,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2025-07-18T06:33:59.000Z"
+        "lastSeen": "2025-07-18T07:00:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -8748,7 +8748,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20258_fix_ig_import/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20258_fix_ig_import",
-        "lastSeen": "2025-07-18T06:18:08.000Z"
+        "lastSeen": "2025-07-18T07:09:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -35718,7 +35718,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2025-07-17T15:57:12.000Z"
+        "lastSeen": "2025-07-18T07:26:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -36469,6 +36469,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "2025-07-gg-sweep-3",
         "lastSeen": "2025-07-18T06:20:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/rd-FHIR-48750-new-extensions-quantity-accuracy-confidenceintervals/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "rd-FHIR-48750-new-extensions-quantity-accuracy-confidenceintervals",
+        "lastSeen": "2025-07-18T06:54:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -38244,7 +38250,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2025-07-18T06:43:59.000Z"
+        "lastSeen": "2025-07-18T06:58:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
