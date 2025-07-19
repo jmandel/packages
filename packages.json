@@ -16110,7 +16110,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test5/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "test5",
-        "lastSeen": "2025-07-18T05:52:28.000Z"
+        "lastSeen": "2025-07-19T07:07:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_tag/package.tgz",
@@ -36541,6 +36541,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "rd-FHIR-42899-add-and-deprecate-extensions",
         "lastSeen": "2025-07-18T23:53:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/rd-FHIR-47606-Deprecate-Observation-gateway-device-extension/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "rd-FHIR-47606-Deprecate-Observation-gateway-device-extension",
+        "lastSeen": "2025-07-19T06:55:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
