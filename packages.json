@@ -7489,6 +7489,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "ballot-release",
         "lastSeen": "2025-07-22T09:57:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/updates-from-ballot/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "updates-from-ballot",
+        "lastSeen": "2025-07-22T14:31:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -14706,7 +14712,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "master",
-        "lastSeen": "2025-07-22T06:37:06.000Z"
+        "lastSeen": "2025-07-22T14:40:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
@@ -20442,7 +20448,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "master",
-        "lastSeen": "2025-07-22T13:41:25.000Z"
+        "lastSeen": "2025-07-22T14:42:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-26/package.tgz",
@@ -27564,7 +27570,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2025-07-22T06:29:39.000Z"
+        "lastSeen": "2025-07-22T14:10:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -38496,7 +38502,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2025-07-22T04:12:07.000Z"
+        "lastSeen": "2025-07-22T14:32:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
@@ -49104,7 +49110,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-07-22T13:23:48.000Z"
+        "lastSeen": "2025-07-22T14:31:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
