@@ -7272,7 +7272,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-07-22T07:02:12.000Z"
+        "lastSeen": "2025-07-22T07:55:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7471,6 +7471,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "add-description-constraint",
         "lastSeen": "2025-07-22T04:34:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/zur-nacht-typo-fix/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "zur-nacht-typo-fix",
+        "lastSeen": "2025-07-22T07:53:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -15072,7 +15078,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/oah",
         "branch": "master",
-        "lastSeen": "2025-07-21T21:01:11.000Z"
+        "lastSeen": "2025-07-22T07:48:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz"
@@ -20418,7 +20424,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "master",
-        "lastSeen": "2025-07-22T07:40:34.000Z"
+        "lastSeen": "2025-07-22T08:28:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-26/package.tgz",
@@ -51156,7 +51162,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2025-07-21T07:43:19.000Z"
+        "lastSeen": "2025-07-22T07:17:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -51198,7 +51204,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.6/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.6",
-        "lastSeen": "2025-07-21T07:42:35.000Z"
+        "lastSeen": "2025-07-22T07:16:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
