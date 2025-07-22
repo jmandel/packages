@@ -7219,6 +7219,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "observation-last-result-record",
         "lastSeen": "2025-07-22T00:10:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/medical-history-column-width/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "medical-history-column-width",
+        "lastSeen": "2025-07-22T02:15:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -14670,7 +14676,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "master",
-        "lastSeen": "2025-07-22T02:01:08.000Z"
+        "lastSeen": "2025-07-22T02:44:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
@@ -32130,7 +32136,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "main",
-        "lastSeen": "2025-07-14T17:16:01.000Z"
+        "lastSeen": "2025-07-22T03:12:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/nush_dev/package.tgz",
@@ -35040,7 +35046,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/BMS-Ballot-Updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "BMS-Ballot-Updates",
-        "lastSeen": "2025-07-21T21:49:25.000Z"
+        "lastSeen": "2025-07-22T03:00:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -39948,7 +39954,7 @@
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/termchangeset-ig",
         "branch": "master",
-        "lastSeen": "2025-07-21T20:41:23.000Z"
+        "lastSeen": "2025-07-22T02:22:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/1.0.0-ballot/package.tgz",
