@@ -296,6 +296,14 @@
     }
   },
   {
+    "name": "hl7.fhir.eu.extensions",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/next-dose-ext/package.tgz",
+      "repo": "https://github.com/hl7-eu/extensions",
+      "branch": "next-dose-ext"
+    }
+  },
+  {
     "name": "hl7.fhir.eu.extensions.r5",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-eu/extensions-r5/branches/master/package.tgz",
