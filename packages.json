@@ -3294,7 +3294,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "master",
-        "lastSeen": "2025-07-23T06:28:38.000Z"
+        "lastSeen": "2025-07-23T09:28:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2024/package.tgz",
@@ -15102,7 +15102,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/oah",
         "branch": "master",
-        "lastSeen": "2025-07-22T20:25:19.000Z"
+        "lastSeen": "2025-07-23T09:34:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz"
@@ -16110,7 +16110,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-ahpra-extensions-deprecate/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-ahpra-extensions-deprecate",
-        "lastSeen": "2025-07-23T07:42:31.000Z"
+        "lastSeen": "2025-07-23T08:44:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr_fhir_wood/package.tgz",
@@ -50141,6 +50141,18 @@
     ],
     "current": "https://build.fhir.org/ig/costateixeira/smart-ips-pilgrimage-test/branches/main/package.tgz"
   },
+  "smart.who.int.l2-hhas": {
+    "name": "smart.who.int.l2-hhas",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-l2-hhas",
+        "branch": "main",
+        "lastSeen": "2025-07-23T09:34:51.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz"
+  },
   "smart.who.int.pcmt": {
     "name": "smart.who.int.pcmt",
     "locations": [
@@ -51198,7 +51210,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2025-07-22T07:17:41.000Z"
+        "lastSeen": "2025-07-23T08:04:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -51240,7 +51252,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.6/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.6",
-        "lastSeen": "2025-07-22T07:16:52.000Z"
+        "lastSeen": "2025-07-23T08:00:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
