@@ -12689,6 +12689,18 @@
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
   },
+  "fhir.nl.generic-functions-ig": {
+    "name": "fhir.nl.generic-functions-ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "main",
+        "lastSeen": "2025-07-24T11:18:42.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz"
+  },
   "fhir.nw-gmsa.nhs.uk": {
     "name": "fhir.nw-gmsa.nhs.uk",
     "locations": [
@@ -35736,7 +35748,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-07-22T23:08:03.000Z"
+        "lastSeen": "2025-07-24T11:11:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
