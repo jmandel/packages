@@ -22500,7 +22500,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "master",
-        "lastSeen": "2025-07-18T09:03:22.000Z"
+        "lastSeen": "2025-07-24T18:52:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
@@ -31830,7 +31830,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "master",
-        "lastSeen": "2025-07-24T17:56:37.000Z"
+        "lastSeen": "2025-07-24T18:51:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/v5.0.0/package.tgz",
@@ -34381,6 +34381,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "tweak-version",
         "lastSeen": "2025-07-23T15:30:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/changelog-link/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "changelog-link",
+        "lastSeen": "2025-07-24T19:28:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -49212,7 +49218,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-07-24T12:58:56.000Z"
+        "lastSeen": "2025-07-24T18:59:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
@@ -49654,6 +49660,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/brynrhodes/smart-workshop/branches/br-02-concepts/package.tgz"
+  },
+  "smart.who.int.hiv": {
+    "name": "smart.who.int.hiv",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/DIGI-UW/smart-hiv/branches/develop/package.tgz",
+        "repo": "https://github.com/DIGI-UW/smart-hiv",
+        "branch": "develop",
+        "lastSeen": "2025-07-24T19:21:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/DIGI-UW/smart-hiv/branches/develop/package.tgz"
   },
   "smart.who.int.icvp": {
     "name": "smart.who.int.icvp",

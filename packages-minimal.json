@@ -7272,6 +7272,14 @@
     }
   },
   {
+    "name": "smart.who.int.hiv",
+    "current": {
+      "url": "https://build.fhir.org/ig/DIGI-UW/smart-hiv/branches/develop/package.tgz",
+      "repo": "https://github.com/DIGI-UW/smart-hiv",
+      "branch": "develop"
+    }
+  },
+  {
     "name": "smart.who.int.icvp",
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz",
