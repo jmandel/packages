@@ -27648,7 +27648,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2025-07-24T06:09:52.000Z"
+        "lastSeen": "2025-07-24T20:06:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -28254,7 +28254,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2025-07-23T21:01:54.000Z"
+        "lastSeen": "2025-07-24T19:55:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -33457,6 +33457,12 @@
         "repo": "https://github.com/IHE/QRPH.VRDR",
         "branch": "master",
         "lastSeen": "2024-10-23T21:53:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/FHIR49660_ReturnBundleNarrativeUpdate/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "FHIR49660_ReturnBundleNarrativeUpdate",
+        "lastSeen": "2025-07-24T20:11:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -34278,7 +34284,7 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "master",
-        "lastSeen": "2025-07-23T20:32:02.000Z"
+        "lastSeen": "2025-07-24T20:12:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/show-cardinality/package.tgz",
@@ -49218,7 +49224,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-07-24T18:59:44.000Z"
+        "lastSeen": "2025-07-24T20:15:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
@@ -49669,6 +49675,18 @@
         "repo": "https://github.com/DIGI-UW/smart-hiv",
         "branch": "develop",
         "lastSeen": "2025-07-24T19:21:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-hiv/branches/main/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-hiv",
+        "branch": "main",
+        "lastSeen": "2025-07-24T19:29:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/DIGI-UW/smart-hiv/branches/main/package.tgz",
+        "repo": "https://github.com/DIGI-UW/smart-hiv",
+        "branch": "main",
+        "lastSeen": "2025-07-24T19:31:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/DIGI-UW/smart-hiv/branches/develop/package.tgz"
