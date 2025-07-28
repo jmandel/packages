@@ -12678,7 +12678,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-07-28T07:41:32.000Z"
+        "lastSeen": "2025-07-28T20:37:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/test-scripts/package.tgz",
@@ -12709,6 +12709,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "jkQaWarnings",
         "lastSeen": "2025-07-28T10:13:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/canonicalURL/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "canonicalURL",
+        "lastSeen": "2025-07-28T20:32:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/canonicalURLFix/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "canonicalURLFix",
+        "lastSeen": "2025-07-28T20:35:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -14328,7 +14340,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "main",
-        "lastSeen": "2025-07-23T01:24:12.000Z"
+        "lastSeen": "2025-07-28T19:55:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/broken-linkhtml/package.tgz",
@@ -44568,7 +44580,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/jct-updates/package.tgz",
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "jct-updates",
-        "lastSeen": "2025-07-28T19:20:07.000Z"
+        "lastSeen": "2025-07-28T20:18:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz"
