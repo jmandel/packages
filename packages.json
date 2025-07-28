@@ -14340,7 +14340,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "main",
-        "lastSeen": "2025-07-28T19:55:25.000Z"
+        "lastSeen": "2025-07-28T21:11:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/broken-linkhtml/package.tgz",
@@ -16302,7 +16302,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_changelog/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_changelog",
-        "lastSeen": "2025-07-28T11:54:07.000Z"
+        "lastSeen": "2025-07-28T21:19:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/SPCU-QA/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "SPCU-QA",
+        "lastSeen": "2025-07-28T21:15:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -16332,7 +16338,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-07-28T05:18:03.000Z"
+        "lastSeen": "2025-07-28T21:18:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -17724,7 +17730,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_comp-qa/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_comp-qa",
-        "lastSeen": "2025-07-28T00:39:07.000Z"
+        "lastSeen": "2025-07-28T21:19:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_qa-img/package.tgz",
@@ -17869,6 +17875,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_terminology-qa",
         "lastSeen": "2025-07-26T12:24:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_SPCU_update/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_SPCU_update",
+        "lastSeen": "2025-07-28T21:27:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -19027,6 +19039,12 @@
         "repo": "https://github.com/steveswinsburg/au-fhir-ps",
         "branch": "use-cases-diagrams-mermaid",
         "lastSeen": "2025-07-17T12:41:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_SPCU_update/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_SPCU_update",
+        "lastSeen": "2025-07-28T21:30:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -28974,7 +28992,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2025-07-28T18:57:49.000Z"
+        "lastSeen": "2025-07-28T21:06:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -30636,7 +30654,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2025-07-28T06:01:36.000Z"
+        "lastSeen": "2025-07-28T21:04:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
