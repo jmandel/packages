@@ -2947,6 +2947,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "169-correct-mistakes-on-api-page",
         "lastSeen": "2025-07-21T13:16:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/173-document-usage-of-foph-code-system/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "173-document-usage-of-foph-code-system",
+        "lastSeen": "2025-07-29T11:42:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -12714,7 +12720,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jkQaWarnings/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "jkQaWarnings",
-        "lastSeen": "2025-07-28T10:13:49.000Z"
+        "lastSeen": "2025-07-29T12:55:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/canonicalURL/package.tgz",
@@ -15636,7 +15642,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-07-29T03:52:43.000Z"
+        "lastSeen": "2025-07-29T12:20:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -16320,7 +16326,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/6.0.0-ballot/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "6.0.0-ballot",
-        "lastSeen": "2025-07-29T06:57:21.000Z"
+        "lastSeen": "2025-07-29T11:50:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-6.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "release-6.0.0-ballot",
+        "lastSeen": "2025-07-29T12:36:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -16350,7 +16362,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-07-29T05:02:42.000Z"
+        "lastSeen": "2025-07-29T12:13:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -20449,6 +20461,12 @@
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "52-publisher",
         "lastSeen": "2025-07-28T12:42:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/50-readme/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-monitoring",
+        "branch": "50-readme",
+        "lastSeen": "2025-07-29T12:01:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/master/package.tgz"
@@ -22572,7 +22590,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-07-29T09:37:07.000Z"
+        "lastSeen": "2025-07-29T11:37:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -38928,7 +38946,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2025-07-28T15:59:10.000Z"
+        "lastSeen": "2025-07-29T12:54:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -38946,7 +38964,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/ACOM-GHS-support/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "ACOM-GHS-support",
-        "lastSeen": "2025-07-28T15:49:49.000Z"
+        "lastSeen": "2025-07-29T12:47:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/es-prepub-qa/package.tgz",
