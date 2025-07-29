@@ -16302,7 +16302,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_changelog/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_changelog",
-        "lastSeen": "2025-07-29T00:27:41.000Z"
+        "lastSeen": "2025-07-29T02:10:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/SPCU-QA/package.tgz",
@@ -16314,7 +16314,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/6.0.0-ballot/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "6.0.0-ballot",
-        "lastSeen": "2025-07-29T00:50:11.000Z"
+        "lastSeen": "2025-07-29T02:07:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -16344,7 +16344,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-07-28T21:18:13.000Z"
+        "lastSeen": "2025-07-29T01:52:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -17886,7 +17886,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_SPCU_update/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_SPCU_update",
-        "lastSeen": "2025-07-29T00:22:30.000Z"
+        "lastSeen": "2025-07-29T02:12:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/steveswinsburg/au-fhir-core/branches/master/package.tgz",
+        "repo": "https://github.com/steveswinsburg/au-fhir-core",
+        "branch": "master",
+        "lastSeen": "2025-07-29T01:06:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -18654,7 +18660,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft-guidance/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-guidance",
-        "lastSeen": "2025-07-28T14:04:57.000Z"
+        "lastSeen": "2025-07-29T02:00:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-51253-51406/package.tgz",
@@ -19050,7 +19056,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_SPCU_update/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_SPCU_update",
-        "lastSeen": "2025-07-29T00:21:00.000Z"
+        "lastSeen": "2025-07-29T02:18:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
