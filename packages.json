@@ -16362,7 +16362,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-07-30T03:35:26.000Z"
+        "lastSeen": "2025-07-30T04:08:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -17917,6 +17917,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_linkprof",
         "lastSeen": "2025-07-30T02:20:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2025-07-30T04:43:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -19050,7 +19056,7 @@
         "url": "https://build.fhir.org/ig/steveswinsburg/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/steveswinsburg/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2025-07-17T10:50:25.000Z"
+        "lastSeen": "2025-07-30T04:27:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/steveswinsburg/au-fhir-ps/branches/cr_50923_security/package.tgz",
@@ -19087,6 +19093,18 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_SPCU_update",
         "lastSeen": "2025-07-29T02:18:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/steveswinsburg/au-fhir-ps/branches/qa-actors/package.tgz",
+        "repo": "https://github.com/steveswinsburg/au-fhir-ps",
+        "branch": "qa-actors",
+        "lastSeen": "2025-07-30T04:42:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/steveswinsburg/au-fhir-ps/branches/qa-declaring-conformance/package.tgz",
+        "repo": "https://github.com/steveswinsburg/au-fhir-ps",
+        "branch": "qa-declaring-conformance",
+        "lastSeen": "2025-07-30T04:25:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -31254,7 +31272,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postFMG-mods/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postFMG-mods",
-        "lastSeen": "2025-07-29T20:33:45.000Z"
+        "lastSeen": "2025-07-30T04:17:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -40428,7 +40446,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/master/package.tgz",
         "repo": "https://github.com/HL7/v2-to-fhir",
         "branch": "master",
-        "lastSeen": "2025-07-29T14:03:38.000Z"
+        "lastSeen": "2025-07-30T04:29:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2-to-fhir/branches/hans-updates/package.tgz",
