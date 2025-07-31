@@ -15654,7 +15654,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-07-30T13:29:24.000Z"
+        "lastSeen": "2025-07-31T03:23:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -16386,7 +16386,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2025-07-31T03:04:16.000Z"
+        "lastSeen": "2025-07-31T03:21:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -18763,6 +18763,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-spcu",
         "lastSeen": "2025-07-31T02:35:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-51474/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "cr_fhir-51474",
+        "lastSeen": "2025-07-31T03:52:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -30354,7 +30360,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/2025-sept-ballot/package.tgz",
         "repo": "https://github.com/HL7/fhir-medication-rems-ig",
         "branch": "2025-sept-ballot",
-        "lastSeen": "2025-07-30T03:19:02.000Z"
+        "lastSeen": "2025-07-31T03:46:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/2025-sept-updates/package.tgz",
