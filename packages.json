@@ -2526,7 +2526,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-07-31T07:39:54.000Z"
+        "lastSeen": "2025-07-31T15:07:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -2953,6 +2953,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "173-document-usage-of-foph-code-system",
         "lastSeen": "2025-07-29T11:42:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_110/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "oe_110",
+        "lastSeen": "2025-07-31T15:07:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -13536,7 +13542,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-qicore-2025",
         "branch": "main",
-        "lastSeen": "2025-07-23T13:10:02.000Z"
+        "lastSeen": "2025-07-31T14:53:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/manifests/package.tgz",
@@ -18769,6 +18775,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-51474",
         "lastSeen": "2025-07-31T03:52:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_term-fixes/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_term-fixes",
+        "lastSeen": "2025-07-31T14:55:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -39054,13 +39066,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2025-07-31T12:25:34.000Z"
+        "lastSeen": "2025-07-31T15:33:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2025-07-31T12:26:04.000Z"
+        "lastSeen": "2025-07-31T15:35:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -39072,7 +39084,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2025-07-31T12:59:25.000Z"
+        "lastSeen": "2025-07-31T14:49:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -39354,7 +39366,7 @@
         "url": "https://build.fhir.org/ig/HL7/rtls-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/rtls-ig",
         "branch": "main",
-        "lastSeen": "2025-07-30T20:53:25.000Z"
+        "lastSeen": "2025-07-31T14:57:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/rtls-ig/branches/nat/package.tgz",
