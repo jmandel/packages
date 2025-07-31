@@ -13560,7 +13560,7 @@
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-cms-2025/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/ecqm-content-cms-2025",
         "branch": "master",
-        "lastSeen": "2025-07-25T16:12:57.000Z"
+        "lastSeen": "2025-07-31T16:33:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/ecqm-content-qicore-2025/branches/multi-measure-scenario/package.tgz",
@@ -14370,7 +14370,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "main",
-        "lastSeen": "2025-07-30T20:28:43.000Z"
+        "lastSeen": "2025-07-31T16:34:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/broken-linkhtml/package.tgz",
@@ -26688,7 +26688,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2025-07-30T22:56:20.000Z"
+        "lastSeen": "2025-07-31T16:19:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
@@ -30786,7 +30786,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2025-07-30T18:57:27.000Z"
+        "lastSeen": "2025-07-31T16:08:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -31339,6 +31339,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postFMG-mods",
         "lastSeen": "2025-07-30T04:17:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt_changes_postFMG2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-adi",
+        "branch": "mlt_changes_postFMG2",
+        "lastSeen": "2025-07-31T16:08:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -39066,13 +39072,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2025-07-31T15:33:52.000Z"
+        "lastSeen": "2025-07-31T16:16:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2025-07-31T15:35:04.000Z"
+        "lastSeen": "2025-07-31T16:18:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -42306,7 +42312,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2025-07-30T20:47:27.000Z"
+        "lastSeen": "2025-07-31T16:22:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
