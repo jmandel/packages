@@ -19014,7 +19014,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_term/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_term",
-        "lastSeen": "2025-08-01T05:30:36.000Z"
+        "lastSeen": "2025-08-01T21:37:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/ft_test/package.tgz",
@@ -19183,6 +19183,12 @@
         "repo": "https://github.com/steveswinsburg/au-fhir-ps",
         "branch": "prep-syntactic-example",
         "lastSeen": "2025-08-01T06:19:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_comp/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_comp",
+        "lastSeen": "2025-08-01T22:08:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -29076,7 +29082,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2025-07-29T20:36:35.000Z"
+        "lastSeen": "2025-08-01T22:23:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/1.0.0/package.tgz",
@@ -40446,7 +40452,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-07-29T18:01:08.000Z"
+        "lastSeen": "2025-08-01T21:51:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
