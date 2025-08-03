@@ -19020,7 +19020,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_term/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_term",
-        "lastSeen": "2025-08-02T08:15:57.000Z"
+        "lastSeen": "2025-08-02T23:51:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/ft_test/package.tgz",
@@ -19200,7 +19200,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_profile-shorrtDesc/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_profile-shorrtDesc",
-        "lastSeen": "2025-08-02T23:22:53.000Z"
+        "lastSeen": "2025-08-02T23:43:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_intro/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_intro",
+        "lastSeen": "2025-08-02T23:51:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
