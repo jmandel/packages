@@ -22409,6 +22409,18 @@
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/rbi/branches/master/package.tgz"
   },
+  "hl7.fhir.cl.minsal.ribco": {
+    "name": "hl7.fhir.cl.minsal.ribco",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/riap/branches/master/package.tgz",
+        "repo": "https://github.com/Minsal-CL/riap",
+        "branch": "master",
+        "lastSeen": "2025-08-04T14:17:22.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Minsal-CL/riap/branches/master/package.tgz"
+  },
   "hl7.fhir.cl.minsal.snre": {
     "name": "hl7.fhir.cl.minsal.snre",
     "locations": [
@@ -23238,7 +23250,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-08-04T13:40:16.000Z"
+        "lastSeen": "2025-08-04T14:36:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -28500,7 +28512,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-07-29T22:26:32.000Z"
+        "lastSeen": "2025-08-04T14:43:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -34644,7 +34656,7 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "master",
-        "lastSeen": "2025-07-25T17:22:01.000Z"
+        "lastSeen": "2025-08-04T14:28:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/show-cardinality/package.tgz",
@@ -34753,6 +34765,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "changelog-link",
         "lastSeen": "2025-07-24T19:28:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/fmg-tweaks/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "fmg-tweaks",
+        "lastSeen": "2025-08-04T14:15:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -48198,7 +48216,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-08-04T11:53:47.000Z"
+        "lastSeen": "2025-08-04T13:52:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
@@ -51145,6 +51163,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "did-context-extension-links-FHIR-spec",
         "lastSeen": "2025-07-08T17:49:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/gherkintests/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "gherkintests",
+        "lastSeen": "2025-08-04T14:42:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
