@@ -18804,7 +18804,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/0.5.0-ballot/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "0.5.0-ballot",
-        "lastSeen": "2025-08-04T02:44:30.000Z"
+        "lastSeen": "2025-08-04T04:39:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_remove-ahpraprofext/package.tgz",
@@ -19224,13 +19224,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/0.3.0-ballot/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "0.3.0-ballot",
-        "lastSeen": "2025-08-04T03:56:57.000Z"
+        "lastSeen": "2025-08-04T04:50:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_extraballoternotes/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_extraballoternotes",
         "lastSeen": "2025-08-03T23:46:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/release-0.3.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "release-0.3.0-ballot",
+        "lastSeen": "2025-08-04T04:22:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
