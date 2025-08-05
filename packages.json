@@ -14376,13 +14376,19 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "main",
-        "lastSeen": "2025-07-31T16:34:40.000Z"
+        "lastSeen": "2025-08-04T23:35:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/broken-linkhtml/package.tgz",
         "repo": "https://github.com/HL7/CDA-Examples",
         "branch": "broken-linkhtml",
         "lastSeen": "2025-04-17T15:08:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/med-error/package.tgz",
+        "repo": "https://github.com/HL7/CDA-Examples",
+        "branch": "med-error",
+        "lastSeen": "2025-08-04T23:46:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-Examples/branches/main/package.tgz"
