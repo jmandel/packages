@@ -131,6 +131,24 @@
     ],
     "current": "https://build.fhir.org/ig/rukundoaloyz/smart-immunizations-measles/branches/main/package.tgz"
   },
+  "Hl7PlBaseIg": {
+    "name": "Hl7PlBaseIg",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main-r5/package.tgz",
+        "repo": "https://github.com/HL7-Poland/pl-fhir-base",
+        "branch": "main-r5",
+        "lastSeen": "2025-08-06T12:52:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main/package.tgz",
+        "repo": "https://github.com/HL7-Poland/pl-fhir-base",
+        "branch": "main",
+        "lastSeen": "2025-08-06T12:52:00.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main/package.tgz"
+  },
   "IPSFalp": {
     "name": "IPSFalp",
     "locations": [
@@ -3306,7 +3324,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "master",
-        "lastSeen": "2025-08-06T11:03:52.000Z"
+        "lastSeen": "2025-08-06T11:58:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2024/package.tgz",
@@ -12786,7 +12804,13 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/develop/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "develop",
-        "lastSeen": "2025-08-06T09:25:12.000Z"
+        "lastSeen": "2025-08-06T12:38:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientExtensionFixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "patientExtensionFixes",
+        "lastSeen": "2025-08-06T12:36:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -12799,6 +12823,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
         "lastSeen": "2025-07-25T11:48:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "localization",
+        "lastSeen": "2025-08-06T12:33:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz"
@@ -23316,7 +23346,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-08-05T10:41:23.000Z"
+        "lastSeen": "2025-08-06T12:54:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -23478,7 +23508,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "master",
-        "lastSeen": "2025-04-23T06:27:49.000Z"
+        "lastSeen": "2025-08-06T12:57:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/0.1.0/package.tgz",
@@ -52309,6 +52339,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
         "lastSeen": "2025-08-04T12:21:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-versioning/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-versioning",
+        "lastSeen": "2025-08-06T12:14:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz"
