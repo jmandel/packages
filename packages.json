@@ -11773,6 +11773,12 @@
         "repo": "https://github.com/trifork/fhir-ig-sample",
         "branch": "main",
         "lastSeen": "2025-08-05T14:28:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/0.1.0/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "0.1.0",
+        "lastSeen": "2025-08-06T13:25:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -12804,13 +12810,37 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/develop/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "develop",
-        "lastSeen": "2025-08-06T12:38:09.000Z"
+        "lastSeen": "2025-08-06T13:35:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientExtensionFixes/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "patientExtensionFixes",
         "lastSeen": "2025-08-06T12:36:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/addRelatedPersonRegBundle/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "addRelatedPersonRegBundle",
+        "lastSeen": "2025-08-06T13:22:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/registrationBundle/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "registrationBundle",
+        "lastSeen": "2025-08-06T13:07:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientBundleRenaming/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "patientBundleRenaming",
+        "lastSeen": "2025-08-06T13:34:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jkProfiles/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "jkProfiles",
+        "lastSeen": "2025-08-06T13:48:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -22986,7 +23016,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/terminology",
         "branch": "master",
-        "lastSeen": "2025-07-10T11:17:10.000Z"
+        "lastSeen": "2025-08-06T13:43:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz"
@@ -23364,7 +23394,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-08-05T11:37:44.000Z"
+        "lastSeen": "2025-08-06T13:10:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -39690,7 +39720,7 @@
         "url": "https://build.fhir.org/ig/HL7/rtls-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/rtls-ig",
         "branch": "main",
-        "lastSeen": "2025-08-05T22:21:50.000Z"
+        "lastSeen": "2025-08-06T13:47:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/rtls-ig/branches/nat/package.tgz",
@@ -40722,7 +40752,7 @@
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/termchangeset-ig",
         "branch": "master",
-        "lastSeen": "2025-07-31T18:11:49.000Z"
+        "lastSeen": "2025-08-06T13:43:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/1.0.0-ballot/package.tgz",
@@ -48617,6 +48647,18 @@
     ],
     "current": "https://build.fhir.org/ig/costateixeira/openmrs-contrib-fhir2-ig/branches/main/package.tgz"
   },
+  "org.helex.health-bridge": {
+    "name": "org.helex.health-bridge",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/helexlab/bridge-ig/branches/main/package.tgz",
+        "repo": "https://github.com/helexlab/bridge-ig",
+        "branch": "main",
+        "lastSeen": "2025-08-06T13:46:40.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/helexlab/bridge-ig/branches/main/package.tgz"
+  },
   "org.sql-on-fhir.ig": {
     "name": "org.sql-on-fhir.ig",
     "locations": [
@@ -50580,7 +50622,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "main",
-        "lastSeen": "2025-05-16T12:32:17.000Z"
+        "lastSeen": "2025-08-06T13:12:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/br-documentation-updates/package.tgz",
@@ -52327,6 +52369,18 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "rename-package-and-canonicals",
         "lastSeen": "2025-07-31T10:36:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-0.2.0-changelog/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-0.2.0-changelog",
+        "lastSeen": "2025-08-06T13:38:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "main",
+        "lastSeen": "2025-08-06T13:20:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
@@ -52344,7 +52398,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-versioning/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-versioning",
-        "lastSeen": "2025-08-06T12:14:15.000Z"
+        "lastSeen": "2025-08-06T13:19:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz"
