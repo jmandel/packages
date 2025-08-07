@@ -8802,7 +8802,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_3_6_0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_3_6_0",
-        "lastSeen": "2025-08-07T07:32:48.000Z"
+        "lastSeen": "2025-08-07T11:59:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19354-test-IG-fix-hapifhir8-basebranch/package.tgz",
@@ -8893,6 +8893,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20258_fix_ig_import",
         "lastSeen": "2025-07-18T07:43:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20364_prep_ig/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-20364_prep_ig",
+        "lastSeen": "2025-08-07T11:40:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -12816,7 +12822,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/develop/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "develop",
-        "lastSeen": "2025-08-07T11:30:10.000Z"
+        "lastSeen": "2025-08-07T12:40:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientExtensionFixes/package.tgz",
@@ -12846,7 +12852,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jkProfiles/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "jkProfiles",
-        "lastSeen": "2025-08-07T07:21:14.000Z"
+        "lastSeen": "2025-08-07T11:51:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientIdentifierSlices/package.tgz",
@@ -12901,6 +12907,24 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "adminsterVaccineBundle",
         "lastSeen": "2025-08-07T10:08:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/adminsterVaccineBundleProfiles/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "adminsterVaccineBundleProfiles",
+        "lastSeen": "2025-08-07T12:29:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/examples-naming/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "examples-naming",
+        "lastSeen": "2025-08-07T12:46:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/fixExampleReferences/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "fixExampleReferences",
+        "lastSeen": "2025-08-07T12:37:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -22872,7 +22896,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-07-18T09:06:12.000Z"
+        "lastSeen": "2025-08-07T11:57:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
@@ -51462,7 +51486,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust-phw/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust-phw",
         "branch": "main",
-        "lastSeen": "2025-07-08T11:29:20.000Z"
+        "lastSeen": "2025-08-07T11:45:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-trust-phw/branches/main/package.tgz"
