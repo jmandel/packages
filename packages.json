@@ -12816,7 +12816,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/develop/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "develop",
-        "lastSeen": "2025-08-07T07:39:09.000Z"
+        "lastSeen": "2025-08-07T08:39:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientExtensionFixes/package.tgz",
@@ -12877,6 +12877,24 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "patientRegistrationStructureMap",
         "lastSeen": "2025-08-07T06:52:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/quickFixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "quickFixes",
+        "lastSeen": "2025-08-07T08:13:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/codeSystemFixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "codeSystemFixes",
+        "lastSeen": "2025-08-07T08:38:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/valueset-naming/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "valueset-naming",
+        "lastSeen": "2025-08-07T08:45:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -22968,7 +22986,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-08-01T10:44:33.000Z"
+        "lastSeen": "2025-08-07T08:23:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -52446,7 +52464,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-08-07T06:48:42.000Z"
+        "lastSeen": "2025-08-07T08:13:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.2.0/package.tgz",
@@ -52471,6 +52489,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "uz-not-found",
         "lastSeen": "2025-08-07T07:22:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-introduction/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-introduction",
+        "lastSeen": "2025-08-07T07:54:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
