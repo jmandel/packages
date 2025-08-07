@@ -324,7 +324,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/nhdr-use-cases-4/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/PhilHealth-NHDR-IG-Review",
         "branch": "nhdr-use-cases-4",
-        "lastSeen": "2025-07-18T07:51:56.000Z"
+        "lastSeen": "2025-08-07T03:38:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/PhilHealth-NHDR-IG-Review/branches/NHDR-DEV-BRANCH/package.tgz",
@@ -45391,6 +45391,12 @@
         "repo": "https://github.com/UP-Manila-SILab/immunizationfhirig",
         "branch": "paulyymorph-patch-1",
         "lastSeen": "2025-06-20T04:32:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/immunizationfhirig/branches/SEIR-Patient-Update/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/immunizationfhirig",
+        "branch": "SEIR-Patient-Update",
+        "lastSeen": "2025-08-07T03:40:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/immunizationfhirig/branches/master/package.tgz"
