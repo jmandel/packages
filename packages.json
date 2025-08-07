@@ -12816,7 +12816,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/develop/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "develop",
-        "lastSeen": "2025-08-07T08:39:38.000Z"
+        "lastSeen": "2025-08-07T10:10:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/patientExtensionFixes/package.tgz",
@@ -12894,7 +12894,13 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/valueset-naming/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
         "branch": "valueset-naming",
-        "lastSeen": "2025-08-07T09:11:28.000Z"
+        "lastSeen": "2025-08-07T10:23:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/adminsterVaccineBundle/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG",
+        "branch": "adminsterVaccineBundle",
+        "lastSeen": "2025-08-07T10:08:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Nigeria-Immunization-FHIR-IG/branches/jk-updates/package.tgz"
@@ -23034,7 +23040,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-07-29T10:58:47.000Z"
+        "lastSeen": "2025-08-07T10:26:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -50527,6 +50533,12 @@
         "repo": "https://github.com/janol77/smart-icvp",
         "branch": "main",
         "lastSeen": "2025-08-06T19:40:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/ritika/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
+        "branch": "ritika",
+        "lastSeen": "2025-08-07T10:34:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
@@ -52584,7 +52596,7 @@
         "url": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz",
         "repo": "https://github.com/EUVABECO/VCDS",
         "branch": "main",
-        "lastSeen": "2025-05-02T10:42:31.000Z"
+        "lastSeen": "2025-08-07T10:10:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz"
