@@ -11820,7 +11820,7 @@
         "url": "https://build.fhir.org/ig/trifork/fhir-ig-sample/branches/main/package.tgz",
         "repo": "https://github.com/trifork/fhir-ig-sample",
         "branch": "main",
-        "lastSeen": "2025-08-09T18:03:22.000Z"
+        "lastSeen": "2025-08-09T19:10:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/0.1.0/package.tgz",
@@ -50449,6 +50449,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-dak-pnc",
         "branch": "v0.9.9_releaseCandidate",
         "lastSeen": "2025-07-11T08:19:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/smart-dak-pnc/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/smart-dak-pnc",
+        "branch": "main",
+        "lastSeen": "2025-08-09T18:57:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-pnc/branches/main/package.tgz"
