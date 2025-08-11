@@ -19585,6 +19585,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "release-0.3.3-branch",
         "lastSeen": "2025-08-04T11:05:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_ips-2.0.0/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_ips-2.0.0",
+        "lastSeen": "2025-08-11T23:13:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
