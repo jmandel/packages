@@ -5935,6 +5935,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "110-ch-vacd-swissmedic-code-for-vaccinecode",
         "lastSeen": "2025-07-15T07:34:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/issue112_artifacts-usage/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "issue112_artifacts-usage",
+        "lastSeen": "2025-08-12T07:44:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -8977,6 +8983,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "5.0.0",
         "lastSeen": "2025-08-11T11:36:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_5_0_1/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "release_5_0_1",
+        "lastSeen": "2025-08-12T08:26:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13530,7 +13542,7 @@
         "url": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz",
         "repo": "https://github.com/Virtually-Healthcare/R4",
         "branch": "main",
-        "lastSeen": "2025-08-12T07:27:40.000Z"
+        "lastSeen": "2025-08-12T08:20:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Virtually-Healthcare/R4/branches/main/package.tgz"
@@ -20940,7 +20952,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/main/package.tgz",
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "main",
-        "lastSeen": "2025-07-28T12:47:23.000Z"
+        "lastSeen": "2025-08-12T08:30:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/carepath/package.tgz",
@@ -21349,6 +21361,12 @@
         "repo": "https://github.com/hl7-be/pss",
         "branch": "v1.0.0",
         "lastSeen": "2025-05-14T08:55:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pss/branches/compare/package.tgz",
+        "repo": "https://github.com/hl7-be/pss",
+        "branch": "compare",
+        "lastSeen": "2025-08-12T08:04:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -26118,7 +26136,7 @@
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz",
         "repo": "https://github.com/SSIDL/ssidl-ig",
         "branch": "main",
-        "lastSeen": "2025-08-12T07:13:17.000Z"
+        "lastSeen": "2025-08-12T08:01:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz"
@@ -49188,7 +49206,7 @@
         "url": "https://build.fhir.org/ig/fhir-ru/RuCoreIG/branches/main/package.tgz",
         "repo": "https://github.com/fhir-ru/RuCoreIG",
         "branch": "main",
-        "lastSeen": "2025-07-22T16:04:37.000Z"
+        "lastSeen": "2025-08-12T07:56:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-ru/RuCoreIG/branches/main/package.tgz"
@@ -52722,7 +52740,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-08-12T06:57:10.000Z"
+        "lastSeen": "2025-08-12T07:40:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.2.0/package.tgz",
