@@ -10752,7 +10752,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "master",
-        "lastSeen": "2025-07-26T02:05:12.000Z"
+        "lastSeen": "2025-08-12T21:32:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/fail-on-plantuml-errors/package.tgz",
@@ -10813,6 +10813,12 @@
         "repo": "https://github.com/HL7/ig-template-base",
         "branch": "2025-04-gg-add-fontssh",
         "lastSeen": "2025-04-22T01:54:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-base/branches/fix-logos/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-base",
+        "branch": "fix-logos",
+        "lastSeen": "2025-08-12T21:29:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base/branches/master/package.tgz"
@@ -27564,7 +27570,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-central-cancer-registry-reporting-ig",
         "branch": "master",
-        "lastSeen": "2024-10-07T13:17:15.000Z"
+        "lastSeen": "2025-08-12T21:10:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/1.0.0/package.tgz",
@@ -28056,7 +28062,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/R6_prototype/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "R6_prototype",
-        "lastSeen": "2025-07-22T16:19:48.000Z"
+        "lastSeen": "2025-08-12T20:42:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/8.0.0/package.tgz",
