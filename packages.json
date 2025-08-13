@@ -21198,7 +21198,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "master",
-        "lastSeen": "2025-08-13T10:07:27.000Z"
+        "lastSeen": "2025-08-13T11:08:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/issue-26/package.tgz",
@@ -21415,6 +21415,12 @@
         "repo": "https://github.com/hl7-be/pss",
         "branch": "compare",
         "lastSeen": "2025-08-12T08:04:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pss/branches/jct/package.tgz",
+        "repo": "https://github.com/hl7-be/pss",
+        "branch": "jct",
+        "lastSeen": "2025-08-13T11:09:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -23220,7 +23226,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-08-12T10:47:02.000Z"
+        "lastSeen": "2025-08-13T11:23:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -25962,7 +25968,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-08-07T13:55:58.000Z"
+        "lastSeen": "2025-08-13T11:04:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -43320,7 +43326,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-07-17T08:22:21.000Z"
+        "lastSeen": "2025-08-13T11:15:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -48816,7 +48822,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-08-13T09:53:52.000Z"
+        "lastSeen": "2025-08-13T10:53:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
