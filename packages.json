@@ -10326,7 +10326,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2025-08-07T20:08:10.000Z"
+        "lastSeen": "2025-08-14T00:18:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -30025,6 +30025,12 @@
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "revert-93-FHIR-48041",
         "lastSeen": "2025-07-10T18:31:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/FHIR-51611/package.tgz",
+        "repo": "https://github.com/HL7/fhir-identity-matching-ig",
+        "branch": "FHIR-51611",
+        "lastSeen": "2025-08-14T00:59:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
@@ -36426,7 +36432,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2025-08-08T21:19:26.000Z"
+        "lastSeen": "2025-08-14T00:15:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -39505,6 +39511,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "FHIR-50919",
         "lastSeen": "2025-08-13T12:58:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/steveswinsburg/fhir-ips/branches/FHIR-51745/package.tgz",
+        "repo": "https://github.com/steveswinsburg/fhir-ips",
+        "branch": "FHIR-51745",
+        "lastSeen": "2025-08-14T00:20:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
