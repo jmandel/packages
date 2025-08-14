@@ -6368,6 +6368,14 @@
     }
   },
   {
+    "name": "kl.dk.fhir.ltt",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/kl-ltt/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/kl-ltt",
+      "branch": "main"
+    }
+  },
+  {
     "name": "kl.dk.fhir.prevention",
     "current": {
       "url": "https://build.fhir.org/ig/hl7dk/kl-gateway-prevention/branches/main/package.tgz",

@@ -46541,6 +46541,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.1.0/package.tgz"
   },
+  "kl.dk.fhir.ltt": {
+    "name": "kl.dk.fhir.ltt",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/kl-ltt/branches/main/package.tgz",
+        "repo": "https://github.com/hl7dk/kl-ltt",
+        "branch": "main",
+        "lastSeen": "2025-08-14T08:57:09.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7dk/kl-ltt/branches/main/package.tgz"
+  },
   "kl.dk.fhir.prevention": {
     "name": "kl.dk.fhir.prevention",
     "locations": [
@@ -46650,7 +46662,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-term/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/kl-term",
         "branch": "main",
-        "lastSeen": "2024-10-31T14:17:40.000Z"
+        "lastSeen": "2025-08-14T08:52:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-term/branches/1.1.0/package.tgz",
@@ -48858,7 +48870,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-08-14T07:48:42.000Z"
+        "lastSeen": "2025-08-14T09:19:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
