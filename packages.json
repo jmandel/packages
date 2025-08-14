@@ -7746,7 +7746,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-08-14T15:31:14.000Z"
+        "lastSeen": "2025-08-14T16:21:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -7764,7 +7764,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/sdc-stu3-downgrade/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "sdc-stu3-downgrade",
-        "lastSeen": "2025-08-14T15:29:43.000Z"
+        "lastSeen": "2025-08-14T16:20:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz"
@@ -10326,7 +10326,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2025-08-14T13:10:25.000Z"
+        "lastSeen": "2025-08-14T16:13:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -10465,6 +10465,12 @@
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "v0.4.8",
         "lastSeen": "2025-06-16T20:42:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/v0.4.9/package.tgz",
+        "repo": "https://github.com/cqframework/sample-content-ig",
+        "branch": "v0.4.9",
+        "lastSeen": "2025-08-14T16:38:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz"
@@ -13212,7 +13218,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/master/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "master",
-        "lastSeen": "2025-07-15T20:53:43.000Z"
+        "lastSeen": "2025-08-14T16:10:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/pacio/package.tgz",
@@ -24126,7 +24132,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51274/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51274",
-        "lastSeen": "2025-08-14T13:06:21.000Z"
+        "lastSeen": "2025-08-14T15:44:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
@@ -27312,7 +27318,7 @@
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cancer-reporting",
         "branch": "master",
-        "lastSeen": "2025-07-31T16:19:43.000Z"
+        "lastSeen": "2025-08-14T16:13:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cancer-reporting/branches/1.0.0/package.tgz",
@@ -36450,7 +36456,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2025-08-14T14:15:05.000Z"
+        "lastSeen": "2025-08-14T16:39:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -39541,6 +39547,12 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "tech_narrative_updates",
         "lastSeen": "2025-08-14T14:38:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/all-sections-example/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "all-sections-example",
+        "lastSeen": "2025-08-14T16:10:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
