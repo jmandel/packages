@@ -13104,7 +13104,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "localization",
-        "lastSeen": "2025-08-14T13:42:09.000Z"
+        "lastSeen": "2025-08-15T10:49:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz"
@@ -15282,13 +15282,13 @@
         "url": "https://build.fhir.org/ig/mvdzel/ehrsfm-fhir-r5/branches/master/package.tgz",
         "repo": "https://github.com/mvdzel/ehrsfm-fhir-r5",
         "branch": "master",
-        "lastSeen": "2025-08-15T09:28:03.000Z"
+        "lastSeen": "2025-08-15T11:25:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ehrsfm-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ehrsfm-ig",
         "branch": "master",
-        "lastSeen": "2025-04-03T15:14:34.000Z"
+        "lastSeen": "2025-08-15T11:33:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/mvdzel/ehrsfm-fhir-r5/branches/2.1.1-ballot/package.tgz",
@@ -15318,7 +15318,7 @@
         "url": "https://build.fhir.org/ig/HL7/phrsfm-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/phrsfm-ig",
         "branch": "main",
-        "lastSeen": "2025-08-15T10:41:45.000Z"
+        "lastSeen": "2025-08-15T11:12:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phrsfm-ig/branches/2.0.1-ballot/package.tgz",
@@ -23184,7 +23184,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/TomasHruza/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "TomasHruza",
-        "lastSeen": "2025-07-22T06:55:48.000Z"
+        "lastSeen": "2025-08-15T10:57:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka_new/package.tgz",
@@ -24144,7 +24144,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51274/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51274",
-        "lastSeen": "2025-08-15T10:28:50.000Z"
+        "lastSeen": "2025-08-15T11:14:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
@@ -36762,7 +36762,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-08-14T20:33:00.000Z"
+        "lastSeen": "2025-08-15T10:37:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -47370,7 +47370,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/RCH-2025-08-15/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ConditionList-test-scripts",
         "branch": "RCH-2025-08-15",
-        "lastSeen": "2025-08-15T07:41:35.000Z"
+        "lastSeen": "2025-08-15T11:24:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/main/package.tgz"
@@ -47662,6 +47662,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-HomeCareObservation-test-scripts/branches/main/package.tgz"
+  },
+  "medcom.fhir.dk.homecareobservationtestscripts": {
+    "name": "medcom.fhir.dk.homecareobservationtestscripts",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-HomeCareObservation-testscripts/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-HomeCareObservation-testscripts",
+        "branch": "main",
+        "lastSeen": "2025-08-15T11:40:11.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-HomeCareObservation-testscripts/branches/main/package.tgz"
   },
   "medcom.fhir.dk.hospitalnotification": {
     "name": "medcom.fhir.dk.hospitalnotification",
