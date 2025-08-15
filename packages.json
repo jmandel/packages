@@ -7752,7 +7752,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-08-15T06:07:43.000Z"
+        "lastSeen": "2025-08-15T16:30:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -23130,13 +23130,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-08-14T23:44:31.000Z"
+        "lastSeen": "2025-08-15T15:53:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-08-15T12:51:20.000Z"
+        "lastSeen": "2025-08-15T15:52:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -23209,6 +23209,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Subsekce-Composition",
         "lastSeen": "2025-08-14T22:57:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsection-options/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "Subsection-options",
+        "lastSeen": "2025-08-15T15:49:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -44461,6 +44467,12 @@
         "repo": "https://github.com/IHE/ITI.MHDS",
         "branch": "moehrke-build-cleanup-202505",
         "lastSeen": "2025-06-03T11:35:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHDS/branches/cp-iti-1322/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHDS",
+        "branch": "cp-iti-1322",
+        "lastSeen": "2025-08-15T16:31:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHDS/branches/master/package.tgz"
