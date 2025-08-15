@@ -7752,7 +7752,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-08-15T16:30:38.000Z"
+        "lastSeen": "2025-08-15T21:16:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -29814,7 +29814,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2025-08-14T17:23:43.000Z"
+        "lastSeen": "2025-08-15T21:02:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -36486,7 +36486,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2025-08-14T16:39:23.000Z"
+        "lastSeen": "2025-08-15T21:06:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -39420,7 +39420,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2025-08-15T12:46:22.000Z"
+        "lastSeen": "2025-08-15T20:59:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -39583,6 +39583,18 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "all-sections-example",
         "lastSeen": "2025-08-14T21:44:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/FHIR-46083-2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "FHIR-46083-2",
+        "lastSeen": "2025-08-15T20:58:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/IPS-2-0-review/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "IPS-2-0-review",
+        "lastSeen": "2025-08-15T21:14:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
