@@ -43057,6 +43057,24 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-714-Rename-v2-table-0003-to-disambiguate-from-table-0450",
         "lastSeen": "2025-08-18T17:29:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-631-SOPT---Additional-Identifier-and-Other-Changes/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-631-SOPT---Additional-Identifier-and-Other-Changes",
+        "lastSeen": "2025-08-18T18:18:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-709-Create-an-ISO-8601-Derived-Periods-Code-System/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-709-Create-an-ISO-8601-Derived-Periods-Code-System",
+        "lastSeen": "2025-08-18T18:08:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-696-Change-the-ResearchSubjectMilestone-ValueSet-to-use-NCIT/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-696-Change-the-ResearchSubjectMilestone-ValueSet-to-use-NCIT",
+        "lastSeen": "2025-08-18T18:06:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
