@@ -11227,6 +11227,12 @@
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "remove-cdc-valueset-profile-references",
         "lastSeen": "2025-07-09T00:19:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/rec6-plantuml-diagrams/package.tgz",
+        "repo": "https://github.com/cqframework/opioid-cds-r4",
+        "branch": "rec6-plantuml-diagrams",
+        "lastSeen": "2025-08-18T20:42:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -22824,7 +22830,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/riap/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/riap",
         "branch": "master",
-        "lastSeen": "2025-08-14T21:42:42.000Z"
+        "lastSeen": "2025-08-18T20:51:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/riap/branches/master/package.tgz"
@@ -42696,7 +42702,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject",
-        "lastSeen": "2024-11-04T15:41:50.000Z"
+        "lastSeen": "2025-08-18T20:48:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject/package.tgz",
