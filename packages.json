@@ -23304,7 +23304,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-08-20T07:34:23.000Z"
+        "lastSeen": "2025-08-20T11:45:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -23574,7 +23574,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5.0",
-        "lastSeen": "2025-07-07T11:55:17.000Z"
+        "lastSeen": "2025-08-20T12:30:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0-documentreference/package.tgz",
@@ -24198,7 +24198,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51274/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51274",
-        "lastSeen": "2025-08-19T14:44:37.000Z"
+        "lastSeen": "2025-08-20T12:20:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
@@ -26076,7 +26076,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-08-20T10:51:20.000Z"
+        "lastSeen": "2025-08-20T11:46:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -47754,7 +47754,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/2025-08-20-RCH/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "2025-08-20-RCH",
-        "lastSeen": "2025-08-20T11:39:44.000Z"
+        "lastSeen": "2025-08-20T11:46:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -51792,7 +51792,7 @@
         "url": "https://build.fhir.org/ig/c-corman/smart-l2-hhas-CC/branches/main/package.tgz",
         "repo": "https://github.com/c-corman/smart-l2-hhas-CC",
         "branch": "main",
-        "lastSeen": "2025-07-25T14:21:29.000Z"
+        "lastSeen": "2025-08-20T12:48:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz"
@@ -53184,7 +53184,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-08-20T11:05:13.000Z"
+        "lastSeen": "2025-08-20T12:07:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.2.0/package.tgz",
@@ -53287,6 +53287,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "Re-set-allowed-errors-down-to-4",
         "lastSeen": "2025-08-19T10:56:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-services-translation/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-services-translation",
+        "lastSeen": "2025-08-20T11:40:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
