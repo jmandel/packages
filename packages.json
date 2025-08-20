@@ -3877,6 +3877,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_190",
         "lastSeen": "2025-08-05T10:57:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_seq_diag_mtls/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_seq_diag_mtls",
+        "lastSeen": "2025-08-20T10:01:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -24115,6 +24121,12 @@
         "repo": "https://github.com/hl7-eu/imaging-manifest",
         "branch": "master",
         "lastSeen": "2025-07-02T15:42:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/ihe-refactoring/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-manifest",
+        "branch": "ihe-refactoring",
+        "lastSeen": "2025-08-20T09:57:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/master/package.tgz"
@@ -24156,7 +24168,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-08-13T08:22:54.000Z"
+        "lastSeen": "2025-08-20T09:36:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/0.0.1-ballot/package.tgz",
@@ -24211,6 +24223,18 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_naming_errors",
         "lastSeen": "2025-08-20T08:22:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51277/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "FHIR-51277",
+        "lastSeen": "2025-08-20T09:56:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51157/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "FHIR-51157",
+        "lastSeen": "2025-08-20T09:41:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -26052,7 +26076,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-08-19T12:35:15.000Z"
+        "lastSeen": "2025-08-20T10:35:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -26298,7 +26322,7 @@
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz",
         "repo": "https://github.com/SSIDL/ssidl-ig",
         "branch": "main",
-        "lastSeen": "2025-08-20T08:56:28.000Z"
+        "lastSeen": "2025-08-20T10:13:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz"
@@ -49104,7 +49128,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-08-20T09:17:43.000Z"
+        "lastSeen": "2025-08-20T10:32:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
@@ -49380,7 +49404,7 @@
         "url": "https://build.fhir.org/ig/helexlab/ig-ccm/branches/main/package.tgz",
         "repo": "https://github.com/helexlab/ig-ccm",
         "branch": "main",
-        "lastSeen": "2025-08-07T14:13:25.000Z"
+        "lastSeen": "2025-08-20T10:12:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/helexlab/bridge-ig/branches/main/package.tgz"
@@ -51912,7 +51936,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-ra/branches/main/package.tgz",
         "repo": "https://github.com/costateixeira/smart-ra",
         "branch": "main",
-        "lastSeen": "2025-07-07T22:26:56.000Z"
+        "lastSeen": "2025-08-20T10:16:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medigree/smart-ra2/branches/main/package.tgz",
