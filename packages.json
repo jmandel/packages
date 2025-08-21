@@ -2557,6 +2557,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "oe_upi_test_invalid_html",
         "lastSeen": "2025-08-12T09:25:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue360_comp-vs-binding/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue360_comp-vs-binding",
+        "lastSeen": "2025-08-21T12:26:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -5790,7 +5796,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-05-22T06:03:33.000Z"
+        "lastSeen": "2025-08-21T12:08:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -24234,7 +24240,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51274/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51274",
-        "lastSeen": "2025-08-20T14:04:08.000Z"
+        "lastSeen": "2025-08-21T12:37:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
@@ -26118,7 +26124,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-08-21T10:45:11.000Z"
+        "lastSeen": "2025-08-21T12:52:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -47610,7 +47616,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/RCH-2025-08-15/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ConditionList-test-scripts",
         "branch": "RCH-2025-08-15",
-        "lastSeen": "2025-08-18T13:58:14.000Z"
+        "lastSeen": "2025-08-21T12:39:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ConditionList-test-scripts/branches/main/package.tgz"
@@ -51864,7 +51870,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-l2-hhas",
         "branch": "main",
-        "lastSeen": "2025-08-21T09:34:27.000Z"
+        "lastSeen": "2025-08-21T12:25:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/c-corman/smart-l2-hhas-CC/branches/main/package.tgz",
@@ -53395,6 +53401,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "remove-expensive-codesystems",
         "lastSeen": "2025-08-21T10:54:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/re-set-url-socioeconomic-profile/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "re-set-url-socioeconomic-profile",
+        "lastSeen": "2025-08-21T11:54:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
