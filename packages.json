@@ -9078,7 +9078,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-05-21T17:47:51.000Z"
+        "lastSeen": "2025-08-21T09:30:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -24234,7 +24234,7 @@
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
         "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
         "branch": "master",
-        "lastSeen": "2025-08-13T08:24:22.000Z"
+        "lastSeen": "2025-08-21T08:47:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/FHIR-51275/package.tgz",
@@ -24265,6 +24265,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51157",
         "lastSeen": "2025-08-21T07:37:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/add-workflow/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "add-workflow",
+        "lastSeen": "2025-08-21T08:42:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -26106,7 +26112,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-08-20T18:26:15.000Z"
+        "lastSeen": "2025-08-21T08:51:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -47689,6 +47695,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "olw-CareCom-47-narrative-rulesets",
         "lastSeen": "2025-08-19T07:49:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_5.0.0_59/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "SKS_5.0.0_59",
+        "lastSeen": "2025-08-21T09:06:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -51846,13 +51858,13 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-l2-hhas",
         "branch": "main",
-        "lastSeen": "2025-08-21T06:28:04.000Z"
+        "lastSeen": "2025-08-21T09:34:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/c-corman/smart-l2-hhas-CC/branches/main/package.tgz",
         "repo": "https://github.com/c-corman/smart-l2-hhas-CC",
         "branch": "main",
-        "lastSeen": "2025-08-20T13:59:25.000Z"
+        "lastSeen": "2025-08-21T09:22:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz"
@@ -52932,7 +52944,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2025-08-21T02:39:09.000Z"
+        "lastSeen": "2025-08-21T08:48:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
