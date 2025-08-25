@@ -9390,7 +9390,7 @@
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz",
         "repo": "https://github.com/trifork/gm-fhir-ig",
         "branch": "main",
-        "lastSeen": "2025-06-17T09:05:52.000Z"
+        "lastSeen": "2025-08-25T10:49:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/cherrypick-codes/package.tgz",
@@ -9894,7 +9894,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-08-20T17:09:41.000Z"
+        "lastSeen": "2025-08-25T11:03:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -14521,6 +14521,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "32-typos",
         "lastSeen": "2025-07-30T11:35:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/42-41---clarify-targeted-audience-of-aps/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "42-41---clarify-targeted-audience-of-aps",
+        "lastSeen": "2025-08-25T11:28:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -26428,6 +26434,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-imaging/branches/main/package.tgz"
+  },
+  "hl7.fhir.pl.laboratory": {
+    "name": "hl7.fhir.pl.laboratory",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-lab/branches/main/package.tgz",
+        "repo": "https://github.com/HL7-Poland/pl-fhir-lab",
+        "branch": "main",
+        "lastSeen": "2025-08-25T11:06:52.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-lab/branches/main/package.tgz"
   },
   "hl7.fhir.pl.ssidl": {
     "name": "hl7.fhir.pl.ssidl",
@@ -49950,7 +49968,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-08-25T09:22:24.000Z"
+        "lastSeen": "2025-08-25T11:21:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -50743,6 +50761,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "assorted-ig-fixes",
         "lastSeen": "2025-08-25T09:16:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/assorted-RA-fixes/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "assorted-RA-fixes",
+        "lastSeen": "2025-08-25T11:18:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
