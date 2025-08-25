@@ -26417,6 +26417,18 @@
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
   },
+  "hl7.fhir.pl.imaging": {
+    "name": "hl7.fhir.pl.imaging",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-imaging/branches/main/package.tgz",
+        "repo": "https://github.com/HL7-Poland/pl-fhir-imaging",
+        "branch": "main",
+        "lastSeen": "2025-08-25T10:19:23.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-imaging/branches/main/package.tgz"
+  },
   "hl7.fhir.pl.ssidl": {
     "name": "hl7.fhir.pl.ssidl",
     "locations": [
