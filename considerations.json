@@ -258,8 +258,8 @@
   {
     "name": "hl7.fhir.eu.imaging-r5",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
-      "repo": "https://github.com/hl7-eu/imaging",
+      "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
+      "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
       "branch": "master"
     }
   },
@@ -629,6 +629,14 @@
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
       "branch": "main"
+    }
+  },
+  {
+    "name": "smart.who.int.ips-pilgrimage",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ips-pilgrimage/branches/test2025/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-ips-pilgrimage",
+      "branch": "test2025"
     }
   },
   {
