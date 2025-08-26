@@ -6768,7 +6768,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-qicore-2025",
         "branch": "master",
-        "lastSeen": "2025-08-26T05:42:43.000Z"
+        "lastSeen": "2025-08-26T06:45:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/master/package.tgz"
@@ -7812,7 +7812,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-08-26T06:09:18.000Z"
+        "lastSeen": "2025-08-26T06:53:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -23328,7 +23328,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-08-26T06:45:26.000Z"
+        "lastSeen": "2025-08-26T07:12:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -23520,7 +23520,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-08-22T19:20:36.000Z"
+        "lastSeen": "2025-08-26T07:22:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -26250,7 +26250,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-08-25T12:50:17.000Z"
+        "lastSeen": "2025-08-26T07:23:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -53196,7 +53196,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.7/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.7",
-        "lastSeen": "2025-08-25T02:44:02.000Z"
+        "lastSeen": "2025-08-26T06:19:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -53605,6 +53605,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "fix-smart-quotes",
         "lastSeen": "2025-08-25T08:27:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/remove-explicit-version-date-publisher/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "remove-explicit-version-date-publisher",
+        "lastSeen": "2025-08-26T07:00:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
