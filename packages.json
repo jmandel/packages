@@ -1279,6 +1279,12 @@
         "repo": "https://github.com/jembi/botswana-hie-fhir-ig",
         "branch": "hide-codes",
         "lastSeen": "2025-05-26T06:44:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/samKenpachi011/CreateTest-Project/branches/diabetesDemo/package.tgz",
+        "repo": "https://github.com/samKenpachi011/CreateTest-Project",
+        "branch": "diabetesDemo",
+        "lastSeen": "2025-08-28T11:31:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/master/package.tgz"
@@ -13991,6 +13997,18 @@
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/terminology/branches/main/package.tgz"
   },
+  "gala.hie.fhir": {
+    "name": "gala.hie.fhir",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/galaletsangdintwe/CreateTest-Project/branches/master/package.tgz",
+        "repo": "https://github.com/galaletsangdintwe/CreateTest-Project",
+        "branch": "master",
+        "lastSeen": "2025-08-28T11:26:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/galaletsangdintwe/CreateTest-Project/branches/master/package.tgz"
+  },
   "gov.healthit.ecqi.dqms": {
     "name": "gov.healthit.ecqi.dqms",
     "locations": [
@@ -23952,7 +23970,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-08-28T06:11:25.000Z"
+        "lastSeen": "2025-08-28T10:45:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -47778,7 +47796,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-conditionlist/branches/TestExamples-IGv.1.0.1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-conditionlist",
         "branch": "TestExamples-IGv.1.0.1",
-        "lastSeen": "2025-08-22T14:07:24.000Z"
+        "lastSeen": "2025-08-28T11:21:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-shareddiagnoses/branches/main/package.tgz"
@@ -49163,6 +49181,18 @@
     ],
     "current": "https://build.fhir.org/ig/aehrc/gp-naps-fhir/branches/master/package.tgz"
   },
+  "national.hie.fhir": {
+    "name": "national.hie.fhir",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/tteddyblOak/FHIR-Teddy/branches/testBranch/package.tgz",
+        "repo": "https://github.com/tteddyblOak/FHIR-Teddy",
+        "branch": "testBranch",
+        "lastSeen": "2025-08-28T11:18:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/tteddyblOak/FHIR-Teddy/branches/testBranch/package.tgz"
+  },
   "ncez.cz.fhir.core": {
     "name": "ncez.cz.fhir.core",
     "locations": [
@@ -49252,6 +49282,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/gauravvaishnav17/ig/branches/main/package.tgz"
+  },
+  "neo.connect": {
+    "name": "neo.connect",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/dolly9991/fhir-solvathon/branches/master/package.tgz",
+        "repo": "https://github.com/dolly9991/fhir-solvathon",
+        "branch": "master",
+        "lastSeen": "2025-08-28T11:32:16.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/dolly9991/fhir-solvathon/branches/master/package.tgz"
   },
   "ng.gov.nphcda.immunization": {
     "name": "ng.gov.nphcda.immunization",
@@ -55405,6 +55447,12 @@
         "repo": "https://github.com/elpacificmb/FHIR-IG",
         "branch": "master",
         "lastSeen": "2025-08-27T14:46:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Ogaufi4/CreateTest-Project/branches/main/package.tgz",
+        "repo": "https://github.com/Ogaufi4/CreateTest-Project",
+        "branch": "main",
+        "lastSeen": "2025-08-28T11:35:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tteddyblOak/FHIR-Teddy/branches/testBranch/package.tgz"
