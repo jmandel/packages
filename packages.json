@@ -7836,7 +7836,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-08-28T17:21:02.000Z"
+        "lastSeen": "2025-08-28T18:10:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -26562,7 +26562,7 @@
         "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-lab/branches/main/package.tgz",
         "repo": "https://github.com/HL7-Poland/pl-fhir-lab",
         "branch": "main",
-        "lastSeen": "2025-08-27T17:44:22.000Z"
+        "lastSeen": "2025-08-28T18:33:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-lab/branches/main/package.tgz"
@@ -49339,6 +49339,12 @@
         "repo": "https://github.com/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG",
         "branch": "removePatientExtensions",
         "lastSeen": "2025-08-14T11:30:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG/branches/Scope-update/package.tgz",
+        "repo": "https://github.com/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG",
+        "branch": "Scope-update",
+        "lastSeen": "2025-08-28T17:48:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nigeria-FHIR-Community/ImmunizationIG/branches/main/package.tgz"
