@@ -9252,7 +9252,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2025-09-01T07:46:13.000Z"
+        "lastSeen": "2025-09-01T12:17:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -13288,6 +13288,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz"
+  },
+  "fhir.nl.gf": {
+    "name": "fhir.nl.gf",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "routing",
+        "lastSeen": "2025-09-01T12:23:27.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
   },
   "fhir.nw-gmsa.nhs.uk": {
     "name": "fhir.nw-gmsa.nhs.uk",
@@ -43908,7 +43920,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-09-01T11:13:12.000Z"
+        "lastSeen": "2025-09-01T12:45:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -53736,7 +53748,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-09-01T08:33:31.000Z"
+        "lastSeen": "2025-09-01T11:57:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.2.0/package.tgz",
@@ -53908,6 +53920,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
+  },
+  "uz.dhp.integrations": {
+    "name": "uz.dhp.integrations",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/add-dependency-main-ig/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "add-dependency-main-ig",
+        "lastSeen": "2025-09-01T11:55:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "main",
+        "lastSeen": "2025-09-01T12:03:10.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
   },
   "uz.medcore.core": {
     "name": "uz.medcore.core",
