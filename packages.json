@@ -23388,7 +23388,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-08-29T15:24:08.000Z"
+        "lastSeen": "2025-09-01T07:18:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -43896,7 +43896,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-09-01T06:02:54.000Z"
+        "lastSeen": "2025-09-01T07:11:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -47495,6 +47495,18 @@
     ],
     "current": "https://build.fhir.org/ig/medcomdk/ehmi_mCSD/branches/main/package.tgz"
   },
+  "medcom.ehmi.dk.terminology": {
+    "name": "medcom.ehmi.dk.terminology",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
+        "branch": "main",
+        "lastSeen": "2025-09-01T06:58:53.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
+  },
   "medcom.fhir.dk.acknowledgement": {
     "name": "medcom.fhir.dk.acknowledgement",
     "locations": [
@@ -49578,7 +49590,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-09-01T05:52:09.000Z"
+        "lastSeen": "2025-09-01T07:17:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
