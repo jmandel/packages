@@ -24546,7 +24546,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51340/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51340",
-        "lastSeen": "2025-09-02T14:17:30.000Z"
+        "lastSeen": "2025-09-02T14:45:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -43572,7 +43572,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-08-29T13:55:53.000Z"
+        "lastSeen": "2025-09-02T14:49:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
@@ -43657,6 +43657,12 @@
         "repo": "https://github.com/HL7/v2ig",
         "branch": "Update_Ch_12",
         "lastSeen": "2025-08-29T18:22:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_15/package.tgz",
+        "repo": "https://github.com/HL7/v2ig",
+        "branch": "Update_Ch_15",
+        "lastSeen": "2025-09-02T14:56:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
@@ -51270,7 +51276,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-09-02T14:32:05.000Z"
+        "lastSeen": "2025-09-02T14:54:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
@@ -53989,6 +53995,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "canonical-url-rename",
         "lastSeen": "2025-09-02T11:48:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-mustsupport-explanation/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-mustsupport-explanation",
+        "lastSeen": "2025-09-02T14:41:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
