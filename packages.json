@@ -9648,7 +9648,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-08-29T05:10:50.000Z"
+        "lastSeen": "2025-09-02T09:56:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -23574,7 +23574,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-08-27T11:23:57.000Z"
+        "lastSeen": "2025-09-02T09:55:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -24523,6 +24523,12 @@
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "add-workflow",
         "lastSeen": "2025-08-21T08:42:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51354/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "FHIR-51354",
+        "lastSeen": "2025-09-02T10:06:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
