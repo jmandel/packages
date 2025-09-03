@@ -9066,7 +9066,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0258/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0258",
-        "lastSeen": "2025-09-03T06:02:41.000Z"
+        "lastSeen": "2025-09-03T06:58:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20311-CCR0258S6-communication-profiling/package.tgz",
@@ -40069,6 +40069,30 @@
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "2.0-release",
         "lastSeen": "2025-08-30T18:24:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/rhausam-page-updates/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "rhausam-page-updates",
+        "lastSeen": "2025-09-03T06:55:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/rhausam-page-updates-2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "rhausam-page-updates-2",
+        "lastSeen": "2025-09-03T07:24:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/rhausam-page-updates-1/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "rhausam-page-updates-1",
+        "lastSeen": "2025-09-03T07:12:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/rhausam-page-updates-3/package.tgz",
+        "repo": "https://github.com/HL7/fhir-ips",
+        "branch": "rhausam-page-updates-3",
+        "lastSeen": "2025-09-03T07:34:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
@@ -49698,7 +49722,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/R4",
         "branch": "main",
-        "lastSeen": "2025-09-02T05:42:58.000Z"
+        "lastSeen": "2025-09-03T06:49:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/R4/branches/main/package.tgz"
@@ -49999,6 +50023,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "v2.0.0",
         "lastSeen": "2024-10-08T07:18:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "master",
+        "lastSeen": "2025-09-03T07:03:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
