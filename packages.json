@@ -40278,7 +40278,7 @@
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "main",
-        "lastSeen": "2025-08-21T21:23:43.000Z"
+        "lastSeen": "2025-09-04T18:16:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/focus-cs-ak/package.tgz",
@@ -40890,7 +40890,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2025-08-17T08:47:34.000Z"
+        "lastSeen": "2025-09-04T18:01:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
@@ -43717,6 +43717,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-712-Additional-concepts-for-the-HL7-Workgroup-code-system",
         "lastSeen": "2025-08-18T23:00:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-726-FormatCode-valueset-is-missing-XDS-I-code/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-726-FormatCode-valueset-is-missing-XDS-I-code",
+        "lastSeen": "2025-09-04T17:16:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -46458,7 +46464,7 @@
         "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/mlj_prepub_edits_mADX_rev3-0-0/package.tgz",
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "mlj_prepub_edits_mADX_rev3-0-0",
-        "lastSeen": "2025-09-04T16:29:58.000Z"
+        "lastSeen": "2025-09-04T17:37:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz"
@@ -52075,6 +52081,12 @@
         "repo": "https://github.com/janol77/smart-icvp",
         "branch": "fix-ICVP.fsh",
         "lastSeen": "2025-08-25T20:16:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/jct/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
+        "branch": "jct",
+        "lastSeen": "2025-09-04T18:20:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
