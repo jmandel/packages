@@ -2599,6 +2599,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "308_slicing",
         "lastSeen": "2025-09-04T10:36:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/364_extensionContext/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "364_extensionContext",
+        "lastSeen": "2025-09-04T11:04:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -7762,6 +7768,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
+  },
+  "de.fhir.terminologie": {
+    "name": "de.fhir.terminologie",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/de.basisprofil.terminology/branches/release-with-ig-publisher/package.tgz",
+        "repo": "https://github.com/hl7germany/de.basisprofil.terminology",
+        "branch": "release-with-ig-publisher",
+        "lastSeen": "2025-09-04T11:29:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/de.basisprofil.terminology/branches/main/package.tgz",
+        "repo": "https://github.com/hl7germany/de.basisprofil.terminology",
+        "branch": "main",
+        "lastSeen": "2025-09-04T11:37:08.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7germany/de.basisprofil.terminology/branches/main/package.tgz"
   },
   "de.medication.dosage": {
     "name": "de.medication.dosage",
@@ -23652,7 +23676,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-02T09:55:28.000Z"
+        "lastSeen": "2025-09-04T10:48:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -51331,6 +51355,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "rework-risk-assessment",
         "lastSeen": "2025-08-28T07:32:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/rewrite-risk-assessment-fml/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "rewrite-risk-assessment-fml",
+        "lastSeen": "2025-09-04T11:39:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -53658,7 +53688,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2025-09-02T12:36:47.000Z"
+        "lastSeen": "2025-09-04T10:09:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
