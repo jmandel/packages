@@ -32832,7 +32832,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/mlt_ballotrecon_fixes01/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "mlt_ballotrecon_fixes01",
-        "lastSeen": "2025-09-03T04:16:52.000Z"
+        "lastSeen": "2025-09-04T05:09:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz"
@@ -42151,6 +42151,12 @@
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "BP-2025-ballot-recon",
         "lastSeen": "2025-08-31T23:45:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-2025-ballot-recon2/package.tgz",
+        "repo": "https://github.com/HL7/FHIRPath",
+        "branch": "BP-2025-ballot-recon2",
+        "lastSeen": "2025-09-04T05:07:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
