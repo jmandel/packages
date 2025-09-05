@@ -7746,7 +7746,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/HDB-650/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "HDB-650",
-        "lastSeen": "2025-09-02T13:43:09.000Z"
+        "lastSeen": "2025-09-05T08:25:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/HDB-655/package.tgz",
@@ -7765,6 +7765,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "HDB-660",
         "lastSeen": "2025-09-04T08:09:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/rename-generator-to-dgmpGenerator/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "rename-generator-to-dgmpGenerator",
+        "lastSeen": "2025-09-05T08:13:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -23634,7 +23640,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2025-09-05T07:25:29.000Z"
+        "lastSeen": "2025-09-05T08:16:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -52122,7 +52128,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/jct/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "jct",
-        "lastSeen": "2025-09-04T19:44:29.000Z"
+        "lastSeen": "2025-09-05T08:15:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
@@ -53058,7 +53064,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust-phw/branches/addNdt/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust-phw",
         "branch": "addNdt",
-        "lastSeen": "2025-09-04T14:07:23.000Z"
+        "lastSeen": "2025-09-05T08:24:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust-phw/branches/main/package.tgz",
@@ -54120,7 +54126,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-09-05T07:12:59.000Z"
+        "lastSeen": "2025-09-05T08:17:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.2.0/package.tgz",
@@ -54307,6 +54313,18 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-mustsupport-explanation",
         "lastSeen": "2025-09-04T12:15:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/0.3.0/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "0.3.0",
+        "lastSeen": "2025-09-05T08:18:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.3.0/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "release-0.3.0",
+        "lastSeen": "2025-09-05T08:02:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
