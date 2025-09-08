@@ -7506,7 +7506,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-09-08T12:51:11.000Z"
+        "lastSeen": "2025-09-08T13:12:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7801,6 +7801,18 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "HDB-656",
         "lastSeen": "2025-09-08T12:45:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/invariant-test-files/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "invariant-test-files",
+        "lastSeen": "2025-09-08T13:42:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/HDB-659/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "HDB-659",
+        "lastSeen": "2025-09-08T13:41:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -9672,7 +9684,7 @@
         "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7EE/ig-ee-base",
         "branch": "master",
-        "lastSeen": "2025-09-08T12:41:39.000Z"
+        "lastSeen": "2025-09-08T13:32:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
@@ -24726,7 +24738,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-09-08T09:52:01.000Z"
+        "lastSeen": "2025-09-08T13:26:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/0.0.1-ballot/package.tgz",
@@ -24768,7 +24780,7 @@
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/FHIR-51275/package.tgz",
         "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
         "branch": "FHIR-51275",
-        "lastSeen": "2025-09-08T09:48:54.000Z"
+        "lastSeen": "2025-09-08T13:18:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/FHIR-51167/package.tgz",
@@ -43968,7 +43980,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-09-05T16:45:54.000Z"
+        "lastSeen": "2025-09-08T13:12:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
@@ -44088,7 +44100,13 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_10/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "Update_Ch_10",
-        "lastSeen": "2025-09-08T12:46:00.000Z"
+        "lastSeen": "2025-09-08T13:07:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_16/package.tgz",
+        "repo": "https://github.com/HL7/v2ig",
+        "branch": "Update_Ch_16",
+        "lastSeen": "2025-09-08T13:36:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
@@ -51792,7 +51810,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-09-06T03:06:08.000Z"
+        "lastSeen": "2025-09-08T13:22:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
