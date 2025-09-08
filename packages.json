@@ -7506,7 +7506,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-09-05T10:44:27.000Z"
+        "lastSeen": "2025-09-08T12:51:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7777,6 +7777,30 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "rename-generator-to-dgmpGenerator",
         "lastSeen": "2025-09-05T10:40:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/HDB-658/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "HDB-658",
+        "lastSeen": "2025-09-08T12:36:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-indentation/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "fix-indentation",
+        "lastSeen": "2025-09-08T12:34:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/HDB-657/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "HDB-657",
+        "lastSeen": "2025-09-08T11:55:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/HDB-656/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "HDB-656",
+        "lastSeen": "2025-09-08T12:45:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -9487,6 +9511,12 @@
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "2.12.1",
         "lastSeen": "2025-09-05T09:35:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.12.2/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "2.12.2",
+        "lastSeen": "2025-09-08T11:54:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -9642,7 +9672,7 @@
         "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7EE/ig-ee-base",
         "branch": "master",
-        "lastSeen": "2025-09-08T11:26:27.000Z"
+        "lastSeen": "2025-09-08T12:41:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
@@ -13416,7 +13446,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/careservices-and-routing-testdata/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "careservices-and-routing-testdata",
-        "lastSeen": "2025-09-08T11:39:39.000Z"
+        "lastSeen": "2025-09-08T11:49:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
@@ -23658,13 +23688,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-09-08T00:18:53.000Z"
+        "lastSeen": "2025-09-08T12:39:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-09-08T00:17:04.000Z"
+        "lastSeen": "2025-09-08T12:38:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -23748,7 +23778,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-ponovu/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Subsekce-ponovu",
-        "lastSeen": "2025-09-07T23:59:53.000Z"
+        "lastSeen": "2025-09-08T12:37:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -24774,7 +24804,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51354/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51354",
-        "lastSeen": "2025-09-02T10:06:25.000Z"
+        "lastSeen": "2025-09-08T11:57:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51126/package.tgz",
@@ -24805,6 +24835,18 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51180",
         "lastSeen": "2025-09-08T11:19:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51175/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "FHIR-51175",
+        "lastSeen": "2025-09-08T12:03:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51172/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "FHIR-51172",
+        "lastSeen": "2025-09-08T12:20:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -44046,7 +44088,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_10/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "Update_Ch_10",
-        "lastSeen": "2025-09-05T17:01:00.000Z"
+        "lastSeen": "2025-09-08T12:46:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
