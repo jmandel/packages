@@ -7512,7 +7512,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-09-09T11:32:15.000Z"
+        "lastSeen": "2025-09-09T11:54:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7824,13 +7824,19 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/summarize-script/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "summarize-script",
-        "lastSeen": "2025-09-09T11:26:14.000Z"
+        "lastSeen": "2025-09-09T12:48:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/stueck-instead-of-tablette/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "stueck-instead-of-tablette",
         "lastSeen": "2025-09-09T11:28:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/ms-definition/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "ms-definition",
+        "lastSeen": "2025-09-09T11:52:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -9708,7 +9714,7 @@
         "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7EE/ig-ee-base",
         "branch": "master",
-        "lastSeen": "2025-09-09T11:24:49.000Z"
+        "lastSeen": "2025-09-09T12:12:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
@@ -13482,7 +13488,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/careservices-and-routing-testdata/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "careservices-and-routing-testdata",
-        "lastSeen": "2025-09-09T10:11:20.000Z"
+        "lastSeen": "2025-09-09T11:59:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
@@ -23742,7 +23748,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-09-08T12:38:48.000Z"
+        "lastSeen": "2025-09-09T11:49:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -44166,7 +44172,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_5/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "Update_Ch_5",
-        "lastSeen": "2025-09-08T20:01:49.000Z"
+        "lastSeen": "2025-09-09T12:51:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
@@ -49117,6 +49123,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "CC-5.0-RCH-1",
         "lastSeen": "2025-06-27T13:15:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/5.0_SKS_63/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "5.0_SKS_63",
+        "lastSeen": "2025-09-09T12:12:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
@@ -53340,7 +53352,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/gherkintests/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "gherkintests",
-        "lastSeen": "2025-08-15T19:35:06.000Z"
+        "lastSeen": "2025-09-09T12:42:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
