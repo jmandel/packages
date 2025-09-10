@@ -40,14 +40,6 @@
     }
   },
   {
-    "name": "ch.fhir.ig.ch-ig",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7ch/ch-consent-r5/branches/master/package.tgz",
-      "repo": "https://github.com/hl7ch/ch-consent-r5",
-      "branch": "master"
-    }
-  },
-  {
     "name": "ch.fhir.ig.ch-lab-order",
     "current": {
       "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/gram-stain-observation/package.tgz",
@@ -314,8 +306,8 @@
   {
     "name": "hl7.fhir.eu.imaging-r5",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
-      "repo": "https://github.com/hl7-eu/imaging",
+      "url": "https://build.fhir.org/ig/bvdh/bvdh-hl7eu-imaging/branches/master/package.tgz",
+      "repo": "https://github.com/bvdh/bvdh-hl7eu-imaging",
       "branch": "master"
     }
   },
@@ -554,9 +546,9 @@
   {
     "name": "medcom.fhir.dk.core",
     "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/develop/package.tgz",
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/olw-patient-narrative-CareCom47/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-core",
-      "branch": "develop"
+      "branch": "olw-patient-narrative-CareCom47"
     }
   },
   {
