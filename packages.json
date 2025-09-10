@@ -7080,7 +7080,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2025-09-10T04:39:39.000Z"
+        "lastSeen": "2025-09-10T06:24:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -10411,6 +10411,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "requirements-D6-2",
         "lastSeen": "2025-08-26T05:25:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/prescription-updates/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "prescription-updates",
+        "lastSeen": "2025-09-10T06:15:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -52782,7 +52788,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "main",
-        "lastSeen": "2025-08-08T19:17:20.000Z"
+        "lastSeen": "2025-09-10T06:02:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/costateixeira-update-readme/package.tgz",
@@ -53382,7 +53388,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/gherkintests/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "gherkintests",
-        "lastSeen": "2025-09-09T12:42:54.000Z"
+        "lastSeen": "2025-09-10T05:46:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
@@ -54084,7 +54090,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2025-09-10T04:13:33.000Z"
+        "lastSeen": "2025-09-10T06:13:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
