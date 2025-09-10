@@ -10158,7 +10158,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-09-10T18:05:39.000Z"
+        "lastSeen": "2025-09-10T19:23:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -16518,7 +16518,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-metadata/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-metadata",
         "branch": "main",
-        "lastSeen": "2025-08-21T07:06:18.000Z"
+        "lastSeen": "2025-09-10T19:33:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-metadata/branches/main/package.tgz"
@@ -21024,7 +21024,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/glucose-monitoring",
         "branch": "master",
-        "lastSeen": "2025-06-27T15:57:04.000Z"
+        "lastSeen": "2025-09-10T19:35:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/issue-3/package.tgz",
@@ -22086,7 +22086,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/jct/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "jct",
-        "lastSeen": "2025-09-09T11:21:12.000Z"
+        "lastSeen": "2025-09-10T19:32:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -40350,7 +40350,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-ips",
         "branch": "master",
-        "lastSeen": "2025-09-10T18:03:46.000Z"
+        "lastSeen": "2025-09-10T19:16:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-ips/branches/emptyReasonModeling/package.tgz",
@@ -52087,6 +52087,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "wfw",
         "lastSeen": "2025-09-06T09:17:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/v1/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-base",
+        "branch": "v1",
+        "lastSeen": "2025-09-10T19:23:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz"
