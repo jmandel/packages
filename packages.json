@@ -7849,6 +7849,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "only-one-dosage",
         "lastSeen": "2025-09-09T16:02:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/warning-on-schema-in-text/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "warning-on-schema-in-text",
+        "lastSeen": "2025-09-10T10:50:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -10152,7 +10158,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-08-25T13:12:17.000Z"
+        "lastSeen": "2025-09-10T11:25:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -13548,7 +13554,19 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization-copy-care-services-structure/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "localization-copy-care-services-structure",
-        "lastSeen": "2025-09-10T09:33:10.000Z"
+        "lastSeen": "2025-09-10T11:35:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization-updates/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "localization-updates",
+        "lastSeen": "2025-09-10T11:17:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/consent/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "consent",
+        "lastSeen": "2025-09-10T10:55:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -48733,6 +48751,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "olw-patient-narrative-CareCom47",
         "lastSeen": "2025-09-10T07:01:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/RCH-CC5.0-Obligations-Core/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "RCH-CC5.0-Obligations-Core",
+        "lastSeen": "2025-09-10T11:33:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -53166,7 +53190,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ra/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ra",
         "branch": "main",
-        "lastSeen": "2025-07-04T19:38:37.000Z"
+        "lastSeen": "2025-09-10T10:51:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umernisar024/smart-ra/branches/patch-2/package.tgz",
