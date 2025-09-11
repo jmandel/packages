@@ -7512,7 +7512,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-09-11T09:42:55.000Z"
+        "lastSeen": "2025-09-11T10:48:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -7872,7 +7872,13 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/update-ext-card-and-script/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "update-ext-card-and-script",
-        "lastSeen": "2025-09-11T10:13:24.000Z"
+        "lastSeen": "2025-09-11T10:44:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/extract-script/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "extract-script",
+        "lastSeen": "2025-09-11T11:16:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -23910,7 +23916,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2025-09-05T08:39:44.000Z"
+        "lastSeen": "2025-09-11T10:35:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
