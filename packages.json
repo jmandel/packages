@@ -407,6 +407,18 @@
     ],
     "current": "https://build.fhir.org/ig/Isdoretuyishime/smart-immunizations-measles/branches/main/package.tgz"
   },
+  "SHIFT-Task-Force.privacy.examples": {
+    "name": "SHIFT-Task-Force.privacy.examples",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/main/package.tgz",
+        "repo": "https://github.com/SHIFT-Task-Force/demo-fhir-data",
+        "branch": "main",
+        "lastSeen": "2025-09-13T17:25:33.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/main/package.tgz"
+  },
   "StandardPatientHealthRecordIG": {
     "name": "StandardPatientHealthRecordIG",
     "locations": [
