@@ -15133,6 +15133,18 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "37-Remove-CountryOfAffiliation-Ext",
         "lastSeen": "2025-09-06T12:03:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/60-verify-that-attester-is-present-only-if-author-is-not-device/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "60-verify-that-attester-is-present-only-if-author-is-not-device",
+        "lastSeen": "2025-09-15T14:13:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/53-delete-value-set-at-aps-problems/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "53-delete-value-set-at-aps-problems",
+        "lastSeen": "2025-09-15T14:05:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -24097,6 +24109,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Subsekce-ponovu",
         "lastSeen": "2025-09-08T12:37:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/LatestSync/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "LatestSync",
+        "lastSeen": "2025-09-15T13:47:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -31170,7 +31188,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/STU2.1/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "STU2.1",
-        "lastSeen": "2025-09-14T17:08:11.000Z"
+        "lastSeen": "2025-09-15T14:00:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
@@ -36330,7 +36348,7 @@
         "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/moehrke-ai-profiles/package.tgz",
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "moehrke-ai-profiles",
-        "lastSeen": "2025-09-15T13:17:16.000Z"
+        "lastSeen": "2025-09-15T14:43:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz"
@@ -49026,7 +49044,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/RCH-CC5.0-Obligations-Core/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "RCH-CC5.0-Obligations-Core",
-        "lastSeen": "2025-09-15T13:39:14.000Z"
+        "lastSeen": "2025-09-15T14:10:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -52230,7 +52248,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "main",
-        "lastSeen": "2025-09-15T11:07:16.000Z"
+        "lastSeen": "2025-09-15T14:15:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/br-update-dependencies/package.tgz",
