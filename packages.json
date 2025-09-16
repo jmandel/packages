@@ -30528,7 +30528,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2025-07-24T18:36:26.000Z"
+        "lastSeen": "2025-09-16T04:41:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -49519,6 +49519,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "5.0_SKS_63",
         "lastSeen": "2025-09-09T12:12:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/RCH-CC5.0-Obligations-Messaging/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+        "branch": "RCH-CC5.0-Obligations-Messaging",
+        "lastSeen": "2025-09-16T05:35:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz"
