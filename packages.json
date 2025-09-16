@@ -7975,6 +7975,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "change-script-for-tage",
         "lastSeen": "2025-09-16T15:18:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-script-boundsDuration-handling/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "fix-script-boundsDuration-handling",
+        "lastSeen": "2025-09-16T17:10:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -23904,7 +23910,7 @@
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/main/package.tgz",
         "repo": "https://github.com/HIE-cr/core-ig",
         "branch": "main",
-        "lastSeen": "2025-09-07T02:29:19.000Z"
+        "lastSeen": "2025-09-16T17:04:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HIE-cr/core-ig/branches/issues-30/package.tgz",
@@ -40956,7 +40962,7 @@
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "main",
-        "lastSeen": "2025-09-16T16:25:48.000Z"
+        "lastSeen": "2025-09-16T16:56:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/focus-cs-ak/package.tgz",
