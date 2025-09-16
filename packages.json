@@ -52165,6 +52165,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "rewrite-risk-assessment-fml",
         "lastSeen": "2025-09-04T11:39:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/extract-from-q-response/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "extract-from-q-response",
+        "lastSeen": "2025-09-16T12:48:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
