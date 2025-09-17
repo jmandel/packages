@@ -138,7 +138,7 @@
         "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main-r5/package.tgz",
         "repo": "https://github.com/HL7-Poland/pl-fhir-base",
         "branch": "main-r5",
-        "lastSeen": "2025-09-17T08:35:31.000Z"
+        "lastSeen": "2025-09-17T10:39:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main/package.tgz",
@@ -5023,6 +5023,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "gram-stain-observation",
         "lastSeen": "2025-06-27T15:03:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/Changelog/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "Changelog",
+        "lastSeen": "2025-09-17T10:07:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -9469,6 +9475,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
         "lastSeen": "2025-09-17T07:32:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-20825_ig_errors_on_unknown_property_idempotent",
+        "lastSeen": "2025-09-17T09:18:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13740,7 +13752,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization-copy-care-services-structure/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "localization-copy-care-services-structure",
-        "lastSeen": "2025-09-11T14:15:50.000Z"
+        "lastSeen": "2025-09-17T10:04:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization-updates/package.tgz",
@@ -24234,7 +24246,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-16T10:52:46.000Z"
+        "lastSeen": "2025-09-17T10:29:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -49488,7 +49500,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messagedefinitions",
         "branch": "main",
-        "lastSeen": "2025-07-01T06:51:18.000Z"
+        "lastSeen": "2025-09-17T09:40:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messagedefinitions/branches/1.0.0-homecareobservation_messagedefinition/package.tgz",
@@ -52243,6 +52255,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "extract-from-q-response",
         "lastSeen": "2025-09-16T13:25:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-gcs-extraction/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "refactor-gcs-extraction",
+        "lastSeen": "2025-09-17T10:35:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -53676,7 +53694,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/smart-ra/branches/metamodel/package.tgz",
         "repo": "https://github.com/costateixeira/smart-ra",
         "branch": "metamodel",
-        "lastSeen": "2025-09-10T21:52:59.000Z"
+        "lastSeen": "2025-09-17T10:35:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-ra/branches/patch-1/package.tgz",
@@ -53899,6 +53917,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "fix-qa",
         "lastSeen": "2025-09-14T18:31:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/tng-additional-context-jsonld/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "tng-additional-context-jsonld",
+        "lastSeen": "2025-09-17T09:28:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
@@ -54642,7 +54666,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2025-09-04T10:09:11.000Z"
+        "lastSeen": "2025-09-17T08:39:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -54984,7 +55008,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "main",
-        "lastSeen": "2025-09-16T06:10:04.000Z"
+        "lastSeen": "2025-09-17T09:47:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/release-0.2.0/package.tgz",
@@ -55200,7 +55224,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/review-changes/package.tgz",
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "review-changes",
-        "lastSeen": "2025-09-17T08:27:33.000Z"
+        "lastSeen": "2025-09-17T08:55:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
