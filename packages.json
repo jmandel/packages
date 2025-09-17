@@ -10645,6 +10645,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "imaging-updates",
         "lastSeen": "2025-09-15T06:22:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/header-changes/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "header-changes",
+        "lastSeen": "2025-09-17T17:33:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -36948,7 +36954,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/xFhirQueryFixes/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "xFhirQueryFixes",
-        "lastSeen": "2025-09-17T14:34:00.000Z"
+        "lastSeen": "2025-09-17T17:26:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
