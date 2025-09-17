@@ -10650,7 +10650,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/header-changes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "header-changes",
-        "lastSeen": "2025-09-17T17:33:36.000Z"
+        "lastSeen": "2025-09-17T18:59:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -27402,7 +27402,7 @@
         "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-imaging/branches/main/package.tgz",
         "repo": "https://github.com/HL7-Poland/pl-fhir-imaging",
         "branch": "main",
-        "lastSeen": "2025-09-03T14:11:54.000Z"
+        "lastSeen": "2025-09-17T18:47:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-imaging/branches/main/package.tgz"
@@ -30414,7 +30414,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2025-09-09T21:02:34.000Z"
+        "lastSeen": "2025-09-17T19:20:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -41113,6 +41113,12 @@
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "adding-documentation",
         "lastSeen": "2025-06-20T22:31:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/add-hl7-template/package.tgz",
+        "repo": "https://github.com/HL7/molecular-definition-data-types",
+        "branch": "add-hl7-template",
+        "lastSeen": "2025-09-17T19:17:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz"
@@ -42636,7 +42642,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-09-15T20:52:50.000Z"
+        "lastSeen": "2025-09-17T18:53:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
@@ -47287,6 +47293,18 @@
         "repo": "https://github.com/IHE/QRPH.mADX",
         "branch": "mlj_prepub_edits_mADX_rev3-0-0",
         "lastSeen": "2025-09-05T14:38:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/3.0.0/package.tgz",
+        "repo": "https://github.com/IHE/QRPH.mADX",
+        "branch": "3.0.0",
+        "lastSeen": "2025-09-17T19:02:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/set_CI_build/package.tgz",
+        "repo": "https://github.com/IHE/QRPH.mADX",
+        "branch": "set_CI_build",
+        "lastSeen": "2025-09-17T18:51:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.mADX/branches/master/package.tgz"
