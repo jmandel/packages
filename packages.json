@@ -39247,6 +39247,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "jdlnolen-FHIR-40499",
         "lastSeen": "2025-09-10T16:23:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/es-FHIR-52311-devicealert-activationState-definitions/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "es-FHIR-52311-devicealert-activationState-definitions",
+        "lastSeen": "2025-09-19T19:18:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -47287,6 +47293,12 @@
         "repo": "https://github.com/IHE/QRPH.CCG",
         "branch": "publication-request",
         "lastSeen": "2025-08-14T13:32:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/mlj_prepub_edits_rev_1-0-0_CCG/package.tgz",
+        "repo": "https://github.com/IHE/QRPH.CCG",
+        "branch": "mlj_prepub_edits_rev_1-0-0_CCG",
+        "lastSeen": "2025-09-19T19:05:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QRPH.CCG/branches/master/package.tgz"
