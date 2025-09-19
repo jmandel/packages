@@ -24114,7 +24114,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Fixing-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Fixing-issues",
-        "lastSeen": "2025-09-16T08:04:00.000Z"
+        "lastSeen": "2025-09-19T08:01:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/TomasUrbanczyk-patch-1/package.tgz",
@@ -24150,13 +24150,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-09-19T07:08:03.000Z"
+        "lastSeen": "2025-09-19T08:25:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-09-19T06:33:54.000Z"
+        "lastSeen": "2025-09-19T08:22:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -24259,6 +24259,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "WarningFix",
         "lastSeen": "2025-09-19T06:32:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/OpravyObligations/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "OpravyObligations",
+        "lastSeen": "2025-09-19T08:22:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
