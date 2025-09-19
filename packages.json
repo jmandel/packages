@@ -9498,7 +9498,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20459_ClinicalImpressionDecisionSupportCodes/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20459_ClinicalImpressionDecisionSupportCodes",
-        "lastSeen": "2025-09-18T13:06:03.000Z"
+        "lastSeen": "2025-09-19T06:32:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -10026,7 +10026,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-09-18T11:43:48.000Z"
+        "lastSeen": "2025-09-19T06:40:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -24247,6 +24247,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "LatestSync",
         "lastSeen": "2025-09-15T13:47:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/OpravaAttachmentu/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "OpravaAttachmentu",
+        "lastSeen": "2025-09-19T06:23:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -55333,6 +55339,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "add-capabilitystatement",
         "lastSeen": "2025-09-18T14:07:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/add-updated-russian-translation/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "add-updated-russian-translation",
+        "lastSeen": "2025-09-19T05:27:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
