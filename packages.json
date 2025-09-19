@@ -10026,7 +10026,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-09-19T06:40:10.000Z"
+        "lastSeen": "2025-09-19T07:17:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -24150,13 +24150,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-09-17T13:00:51.000Z"
+        "lastSeen": "2025-09-19T07:08:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-09-17T13:00:07.000Z"
+        "lastSeen": "2025-09-19T06:33:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -24253,6 +24253,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "OpravaAttachmentu",
         "lastSeen": "2025-09-19T06:23:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/WarningFix/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "WarningFix",
+        "lastSeen": "2025-09-19T06:32:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
