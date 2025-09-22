@@ -2634,7 +2634,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-09-19T11:45:23.000Z"
+        "lastSeen": "2025-09-22T09:03:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -4663,6 +4663,12 @@
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "2.0.0-ballot",
         "lastSeen": "2025-05-22T08:14:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/24_confUvIps/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ips",
+        "branch": "24_confUvIps",
+        "lastSeen": "2025-09-22T09:05:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz"
@@ -10662,7 +10668,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/header-changes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "header-changes",
-        "lastSeen": "2025-09-22T08:45:08.000Z"
+        "lastSeen": "2025-09-22T09:25:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -24372,7 +24378,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-22T08:02:37.000Z"
+        "lastSeen": "2025-09-22T08:51:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -49303,6 +49309,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "RCH-CC5.0-Obligations-Core",
         "lastSeen": "2025-09-22T08:26:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_5.0_66/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "SKS_5.0_66",
+        "lastSeen": "2025-09-22T09:34:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -49842,7 +49854,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "master",
-        "lastSeen": "2025-07-07T12:42:13.000Z"
+        "lastSeen": "2025-09-22T09:33:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/v-1.4.0-1rc/package.tgz",
