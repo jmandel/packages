@@ -4668,7 +4668,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/24_confUvIps/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "24_confUvIps",
-        "lastSeen": "2025-09-22T09:05:20.000Z"
+        "lastSeen": "2025-09-22T10:47:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz"
@@ -9480,7 +9480,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-09-22T07:45:07.000Z"
+        "lastSeen": "2025-09-22T11:10:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -9552,7 +9552,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-09-18T12:22:34.000Z"
+        "lastSeen": "2025-09-22T12:48:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -10674,7 +10674,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/stakeholder-consultation-D7-2/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "stakeholder-consultation-D7-2",
-        "lastSeen": "2025-09-22T09:56:58.000Z"
+        "lastSeen": "2025-09-22T11:53:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -21613,6 +21613,12 @@
         "repo": "https://github.com/hl7-be/medication",
         "branch": "pre-release-candidate-updates",
         "lastSeen": "2025-07-24T12:36:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/medication/branches/final-qa/package.tgz",
+        "repo": "https://github.com/hl7-be/medication",
+        "branch": "final-qa",
+        "lastSeen": "2025-09-22T11:35:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -24132,7 +24138,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Fixing-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Fixing-issues",
-        "lastSeen": "2025-09-22T07:37:10.000Z"
+        "lastSeen": "2025-09-22T10:45:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/TomasUrbanczyk-patch-1/package.tgz",
@@ -24300,7 +24306,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "master",
-        "lastSeen": "2025-09-12T08:01:20.000Z"
+        "lastSeen": "2025-09-22T10:42:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
@@ -24336,7 +24342,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-18T08:08:25.000Z"
+        "lastSeen": "2025-09-22T11:51:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -24420,7 +24426,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/terminology",
         "branch": "master",
-        "lastSeen": "2025-09-22T08:38:52.000Z"
+        "lastSeen": "2025-09-22T11:21:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz"
@@ -27222,7 +27228,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-09-19T11:36:02.000Z"
+        "lastSeen": "2025-09-22T12:35:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -49962,7 +49968,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "develop",
-        "lastSeen": "2025-07-07T11:12:07.000Z"
+        "lastSeen": "2025-09-22T11:22:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/1.8.1/package.tgz",
