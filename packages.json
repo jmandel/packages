@@ -3397,6 +3397,12 @@
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "issue313_textLinkExtension",
         "lastSeen": "2025-09-15T08:01:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/resolutionDesk/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-emed",
+        "branch": "resolutionDesk",
+        "lastSeen": "2025-09-23T05:52:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz"
@@ -4327,6 +4333,12 @@
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "12_bloodType",
         "lastSeen": "2025-09-15T12:51:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/resolutionDesk/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epreg",
+        "branch": "resolutionDesk",
+        "lastSeen": "2025-09-23T05:44:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -5041,6 +5053,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "Changelog",
         "lastSeen": "2025-09-17T10:07:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/resolutionDesk/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "resolutionDesk",
+        "lastSeen": "2025-09-23T05:38:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -5515,6 +5533,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "Changelog",
         "lastSeen": "2025-09-16T14:46:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/resolutionDesk/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "resolutionDesk",
+        "lastSeen": "2025-09-23T05:41:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -6415,6 +6439,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "mz_pub",
         "lastSeen": "2025-05-22T11:37:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/resolutionDesk/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "resolutionDesk",
+        "lastSeen": "2025-09-23T06:05:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -24426,7 +24456,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-22T08:51:14.000Z"
+        "lastSeen": "2025-09-23T06:32:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -49026,7 +49056,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "develop",
-        "lastSeen": "2025-08-20T08:31:35.000Z"
+        "lastSeen": "2025-09-23T06:13:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/olw-narrative-helper-example/package.tgz",
@@ -49326,7 +49356,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "develop",
-        "lastSeen": "2025-08-21T13:03:36.000Z"
+        "lastSeen": "2025-09-23T06:11:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.4.1-RCH-3/package.tgz",
@@ -49764,7 +49794,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "develop",
-        "lastSeen": "2025-06-19T06:47:28.000Z"
+        "lastSeen": "2025-09-23T06:12:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/v.2.2.1-IG/package.tgz",
@@ -57205,6 +57235,12 @@
         "repo": "https://github.com/rabiero/FHIR-IG-Template",
         "branch": "main",
         "lastSeen": "2025-09-22T14:38:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/lokungu/Lawrence-FHIR-IG-Template/branches/master/package.tgz",
+        "repo": "https://github.com/lokungu/Lawrence-FHIR-IG-Template",
+        "branch": "master",
+        "lastSeen": "2025-09-23T06:09:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tteddyblOak/FHIR-Teddy/branches/testBranch/package.tgz"
