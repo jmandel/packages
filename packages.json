@@ -3967,6 +3967,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_seq_diag_mtls",
         "lastSeen": "2025-08-20T10:01:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_bundle_profile_361/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_bundle_profile_361",
+        "lastSeen": "2025-09-24T11:52:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -10404,7 +10410,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-09-24T07:25:49.000Z"
+        "lastSeen": "2025-09-24T12:11:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -10717,6 +10723,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "stakeholder-consultation-D7-2",
         "lastSeen": "2025-09-22T14:05:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/prescription-period-of-use/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "prescription-period-of-use",
+        "lastSeen": "2025-09-24T12:01:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -32904,7 +32916,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2025-09-18T19:33:27.000Z"
+        "lastSeen": "2025-09-24T11:49:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -33474,7 +33486,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postSTU2BallotChanges/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postSTU2BallotChanges",
-        "lastSeen": "2025-09-18T19:28:46.000Z"
+        "lastSeen": "2025-09-24T11:49:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -45270,7 +45282,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS.mappings/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS.mappings",
         "branch": "main",
-        "lastSeen": "2025-09-18T10:29:06.000Z"
+        "lastSeen": "2025-09-24T12:50:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS.mappings/branches/main/package.tgz"
@@ -49374,7 +49386,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "master",
-        "lastSeen": "2025-05-08T13:33:32.000Z"
+        "lastSeen": "2025-09-24T12:37:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.2.0-rc1/package.tgz",
@@ -49434,7 +49446,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "develop",
-        "lastSeen": "2025-09-24T10:18:39.000Z"
+        "lastSeen": "2025-09-24T12:27:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.4.1-RCH-3/package.tgz",
@@ -49890,7 +49902,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "develop",
-        "lastSeen": "2025-09-24T11:36:08.000Z"
+        "lastSeen": "2025-09-24T12:35:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/v.2.2.1-IG/package.tgz",
