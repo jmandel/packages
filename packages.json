@@ -6108,7 +6108,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/106-update-swiss-medic-vaccines-april-2025/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "106-update-swiss-medic-vaccines-april-2025",
-        "lastSeen": "2025-05-16T13:56:27.000Z"
+        "lastSeen": "2025-09-26T09:51:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oe_95_105/package.tgz",
@@ -6138,7 +6138,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/124-update-swissmedic-vaccines-august-2025/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "124-update-swissmedic-vaccines-august-2025",
-        "lastSeen": "2025-09-26T09:02:36.000Z"
+        "lastSeen": "2025-09-26T09:41:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -13860,7 +13860,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
-        "lastSeen": "2025-09-21T16:20:56.000Z"
+        "lastSeen": "2025-09-26T09:58:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/4-0-x-dependency-challenge/package.tgz",
@@ -15397,6 +15397,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "57-61---improve-description-of-schulungen-oder-beratungen",
         "lastSeen": "2025-09-26T08:33:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/40-27---apply-extensions-to-careplan/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "40-27---apply-extensions-to-careplan",
+        "lastSeen": "2025-09-26T10:26:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -24793,6 +24799,12 @@
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "feature-allow-multiple-authorizations",
         "lastSeen": "2025-09-25T12:39:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/168-removing-display-values/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "168-removing-display-values",
+        "lastSeen": "2025-09-26T10:03:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -25159,6 +25171,12 @@
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "next-dose-ext",
         "lastSeen": "2025-06-25T09:03:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/0.1.1-snapshot/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions",
+        "branch": "0.1.1-snapshot",
+        "lastSeen": "2025-09-26T10:26:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
