@@ -24390,7 +24390,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-09-25T23:10:51.000Z"
+        "lastSeen": "2025-09-29T12:24:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -24505,6 +24505,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "TOU",
         "lastSeen": "2025-09-19T10:26:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/signedBundle/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "signedBundle",
+        "lastSeen": "2025-09-29T12:24:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -25140,7 +25146,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2025-09-22T14:50:47.000Z"
+        "lastSeen": "2025-09-29T12:49:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -25494,7 +25500,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-09-29T07:25:50.000Z"
+        "lastSeen": "2025-09-29T12:34:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/0.0.1-ballot/package.tgz",
@@ -45061,6 +45067,12 @@
         "repo": "https://github.com/HL7/v2ig",
         "branch": "mfaughn-notes",
         "lastSeen": "2025-09-26T13:43:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_8/package.tgz",
+        "repo": "https://github.com/HL7/v2ig",
+        "branch": "Update_Ch_8",
+        "lastSeen": "2025-09-29T12:38:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
