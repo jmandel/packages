@@ -7651,6 +7651,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "feature_cvd_integration_jv",
         "lastSeen": "2025-09-30T06:22:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/frail-scale/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "frail-scale",
+        "lastSeen": "2025-09-30T08:08:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -24408,13 +24414,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-09-19T08:25:56.000Z"
+        "lastSeen": "2025-09-30T08:12:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-09-29T12:24:12.000Z"
+        "lastSeen": "2025-09-30T08:12:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -37831,6 +37837,18 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "Vassil-fhir-50290",
         "lastSeen": "2025-09-17T05:07:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/herzogr7-FHIR-50746/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "herzogr7-FHIR-50746",
+        "lastSeen": "2025-09-30T08:22:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/herzogr7-FHIR-50308/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "herzogr7-FHIR-50308",
+        "lastSeen": "2025-09-30T08:25:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -49452,7 +49470,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/RCH-ConversionService_TestFiles_5.0/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "RCH-ConversionService_TestFiles_5.0",
-        "lastSeen": "2025-09-30T06:32:16.000Z"
+        "lastSeen": "2025-09-30T08:25:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
