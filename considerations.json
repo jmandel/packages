@@ -632,22 +632,6 @@
     }
   },
   {
-    "name": "smart.who.int.dak-empty",
-    "current": {
-      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-empty/branches/main/package.tgz",
-      "repo": "https://github.com/WorldHealthOrganization/smart-dak-empty",
-      "branch": "main"
-    }
-  },
-  {
-    "name": "smart.who.int.dak-smbp",
-    "current": {
-      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-smbp/branches/main/package.tgz",
-      "repo": "https://github.com/WorldHealthOrganization/smart-dak-smbp",
-      "branch": "main"
-    }
-  },
-  {
     "name": "smart.who.int.hiv",
     "current": {
       "url": "https://build.fhir.org/ig/DIGI-UW/smart-hiv/branches/main/package.tgz",
