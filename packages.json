@@ -22236,7 +22236,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "master",
-        "lastSeen": "2025-09-26T08:03:27.000Z"
+        "lastSeen": "2025-10-02T18:20:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/stvb/patient-care/branches/master/package.tgz",
@@ -22309,6 +22309,12 @@
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "release-candidate",
         "lastSeen": "2025-09-26T12:49:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/release-candidate-fix/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "release-candidate-fix",
+        "lastSeen": "2025-10-02T18:12:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-care/branches/restart/package.tgz"
@@ -31092,7 +31098,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2025-09-16T04:41:38.000Z"
+        "lastSeen": "2025-10-02T17:53:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -45084,7 +45090,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-10-01T13:50:05.000Z"
+        "lastSeen": "2025-10-02T18:33:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
@@ -45222,7 +45228,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_5/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "Update_Ch_5",
-        "lastSeen": "2025-10-02T15:41:22.000Z"
+        "lastSeen": "2025-10-02T18:23:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/Update_Ch_7/package.tgz",
