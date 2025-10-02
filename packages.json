@@ -6499,6 +6499,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "fix-typos",
         "lastSeen": "2025-09-26T06:19:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/318-ch-vacd-laboratory-and-serology-performer-patrick-jolo-ehealth-suisse/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "318-ch-vacd-laboratory-and-serology-performer-patrick-jolo-ehealth-suisse",
+        "lastSeen": "2025-10-02T08:52:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -24672,7 +24678,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-25T09:58:49.000Z"
+        "lastSeen": "2025-10-02T08:57:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
