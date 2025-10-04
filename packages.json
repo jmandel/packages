@@ -15768,7 +15768,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "master",
-        "lastSeen": "2025-09-03T13:12:35.000Z"
+        "lastSeen": "2025-10-04T14:14:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-1/package.tgz",
@@ -15835,6 +15835,12 @@
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "costateixeira-patch-2",
         "lastSeen": "2025-09-03T13:12:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-3/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+        "branch": "costateixeira-patch-3",
+        "lastSeen": "2025-10-04T14:13:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -25374,7 +25380,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "master",
-        "lastSeen": "2025-09-29T15:22:54.000Z"
+        "lastSeen": "2025-10-04T14:09:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/0.1.0/package.tgz",
@@ -53803,6 +53809,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "fix-QA-mappings",
         "lastSeen": "2025-09-19T15:51:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/SMUpdates/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
+        "branch": "SMUpdates",
+        "lastSeen": "2025-10-04T13:41:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
