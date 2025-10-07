@@ -104,6 +104,14 @@
     }
   },
   {
+    "name": "example.fhir.ph.roadsafety",
+    "current": {
+      "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/main/package.tgz",
+      "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
+      "branch": "main"
+    }
+  },
+  {
     "name": "fhir.example",
     "current": {
       "url": "https://build.fhir.org/ig/trifork/fhir-ig-sample/branches/main/package.tgz",
