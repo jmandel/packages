@@ -8292,7 +8292,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2025-10-07T10:25:32.000Z"
+        "lastSeen": "2025-10-07T10:53:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -8359,6 +8359,12 @@
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "test-publisher",
         "lastSeen": "2025-10-07T09:45:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/ig-template/package.tgz",
+        "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
+        "branch": "ig-template",
+        "lastSeen": "2025-10-07T10:52:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz"
@@ -14154,7 +14160,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-10-07T10:25:31.000Z"
+        "lastSeen": "2025-10-07T11:27:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -15126,7 +15132,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2025-09-07T15:46:27.000Z"
+        "lastSeen": "2025-10-07T11:21:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -15330,7 +15336,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "main",
-        "lastSeen": "2025-09-07T15:26:18.000Z"
+        "lastSeen": "2025-10-07T11:13:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/STU2-Ballot-Preparation-Narratives/package.tgz",
@@ -24900,7 +24906,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2025-10-07T09:26:11.000Z"
+        "lastSeen": "2025-10-07T11:17:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
@@ -45822,7 +45828,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-encounter-episode/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-encounter-episode",
         "branch": "main",
-        "lastSeen": "2025-09-29T07:51:53.000Z"
+        "lastSeen": "2025-10-07T11:17:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-encounter-episode/branches/main/package.tgz"
