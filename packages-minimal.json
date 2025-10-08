@@ -2304,6 +2304,14 @@
     }
   },
   {
+    "name": "hl7.cz.terminology",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz",
+      "repo": "https://github.com/HL7-cz/terminology",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.davinci.template",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz",
