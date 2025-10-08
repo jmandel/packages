@@ -678,7 +678,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "main",
-        "lastSeen": "2025-05-13T10:28:55.000Z"
+        "lastSeen": "2025-10-08T12:29:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-smart-card/package.tgz",
@@ -715,6 +715,18 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "1.1.0",
         "lastSeen": "2025-04-14T13:14:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-known-problematics/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nr-add-known-problematics",
+        "lastSeen": "2025-10-08T12:48:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-rm-extension-nationality/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nr-rm-extension-nationality",
+        "lastSeen": "2025-10-08T12:16:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -5976,7 +5988,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-08-27T12:51:27.000Z"
+        "lastSeen": "2025-10-08T12:37:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -6516,7 +6528,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/346-reorganize-source-structure/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "346-reorganize-source-structure",
-        "lastSeen": "2025-10-08T11:35:22.000Z"
+        "lastSeen": "2025-10-08T11:48:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/322-typos-michaela-ziegler-ahdis-ag/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "322-typos-michaela-ziegler-ahdis-ag",
+        "lastSeen": "2025-10-08T11:44:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -10626,7 +10644,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-09-24T12:11:05.000Z"
+        "lastSeen": "2025-10-08T12:10:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/presentedForm/package.tgz",
@@ -10945,6 +10963,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "prescription-period-of-use",
         "lastSeen": "2025-09-24T12:01:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/ps-diagram/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "ps-diagram",
+        "lastSeen": "2025-10-08T11:56:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -19746,7 +19770,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2025-10-01T23:37:46.000Z"
+        "lastSeen": "2025-10-08T12:04:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -20562,7 +20586,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/tc_batch-2/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "tc_batch-2",
-        "lastSeen": "2025-09-25T05:24:10.000Z"
+        "lastSeen": "2025-10-08T11:51:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_commreq-tests/package.tgz",
@@ -24804,7 +24828,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-10-08T11:22:35.000Z"
+        "lastSeen": "2025-10-08T12:33:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -45492,7 +45516,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/data_types/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "data_types",
-        "lastSeen": "2025-10-07T20:02:31.000Z"
+        "lastSeen": "2025-10-08T12:39:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz"
@@ -49932,7 +49956,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/SKS_RCH-testexamples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "SKS_RCH-testexamples",
-        "lastSeen": "2025-10-08T11:27:47.000Z"
+        "lastSeen": "2025-10-08T12:50:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz"
