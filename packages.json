@@ -11268,7 +11268,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2025-10-07T15:12:54.000Z"
+        "lastSeen": "2025-10-09T05:00:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -12750,7 +12750,13 @@
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "master",
-        "lastSeen": "2025-10-09T04:02:36.000Z"
+        "lastSeen": "2025-10-09T05:32:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/uscore_updated_exp_params/package.tgz",
+        "repo": "https://github.com/cqframework/vsp-ig",
+        "branch": "uscore_updated_exp_params",
+        "lastSeen": "2025-10-09T05:23:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz"
