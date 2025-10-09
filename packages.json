@@ -24480,7 +24480,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/IG_Urgencia/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/IG_Urgencia",
         "branch": "master",
-        "lastSeen": "2025-10-06T19:53:40.000Z"
+        "lastSeen": "2025-10-09T00:27:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/IG_Urgencia/branches/master/package.tgz"
@@ -30085,6 +30085,12 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "8.0.1",
         "lastSeen": "2025-10-08T21:12:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/R6_prototype_USCoreV8/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "R6_prototype_USCoreV8",
+        "lastSeen": "2025-10-08T23:54:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -43878,7 +43884,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-2025-ballot-recon2/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "BP-2025-ballot-recon2",
-        "lastSeen": "2025-10-08T21:12:15.000Z"
+        "lastSeen": "2025-10-08T23:53:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
