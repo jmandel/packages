@@ -3520,6 +3520,14 @@
     }
   },
   {
+    "name": "hl7.fhir.eu.imaging-r4",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/imaging-r4",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.eu.imaging-r5",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz",
