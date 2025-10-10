@@ -9841,6 +9841,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0258_story11_revert_profile_name_change",
         "lastSeen": "2025-10-07T07:54:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20974_terminology_Telma_Supportteam/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-20974_terminology_Telma_Supportteam",
+        "lastSeen": "2025-10-10T11:23:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -14262,7 +14268,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/bugfix-nl-core-dependency-4.0.x/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "bugfix-nl-core-dependency-4.0.x",
-        "lastSeen": "2025-10-03T10:02:12.000Z"
+        "lastSeen": "2025-10-10T11:05:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -17484,7 +17490,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2025-08-27T00:56:43.000Z"
+        "lastSeen": "2025-10-10T10:54:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -22237,6 +22243,12 @@
         "repo": "https://github.com/hl7-be/medication",
         "branch": "release-candidate-fix",
         "lastSeen": "2025-10-10T10:06:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v1.1.0/package.tgz",
+        "repo": "https://github.com/hl7-be/medication",
+        "branch": "v1.1.0",
+        "lastSeen": "2025-10-10T11:12:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -22608,13 +22620,19 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "release-candidate",
-        "lastSeen": "2025-09-26T12:49:46.000Z"
+        "lastSeen": "2025-10-10T11:42:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/release-candidate-fix/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "release-candidate-fix",
         "lastSeen": "2025-10-06T12:51:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/v1.1.0/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "v1.1.0",
+        "lastSeen": "2025-10-10T11:23:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-care/branches/restart/package.tgz"
@@ -50136,7 +50154,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/SKS_RCH-testexamples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "SKS_RCH-testexamples",
-        "lastSeen": "2025-10-10T10:24:40.000Z"
+        "lastSeen": "2025-10-10T11:27:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz"
