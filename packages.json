@@ -9828,7 +9828,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0237/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0237",
-        "lastSeen": "2025-10-13T09:21:25.000Z"
+        "lastSeen": "2025-10-13T10:56:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20829_CCR0256_S6/package.tgz",
@@ -14269,6 +14269,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "bugfix-nl-core-dependency-4.0.x",
         "lastSeen": "2025-10-10T11:05:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/feedback-vws-on-care-services-page/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "feedback-vws-on-care-services-page",
+        "lastSeen": "2025-10-13T11:31:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -20749,6 +20755,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-51874",
         "lastSeen": "2025-10-13T03:56:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-51874-pract/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "cr_fhir-51874-pract",
+        "lastSeen": "2025-10-13T11:34:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -39066,7 +39078,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-10-12T23:53:46.000Z"
+        "lastSeen": "2025-10-13T11:05:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -58230,7 +58242,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2025-10-13T07:15:01.000Z"
+        "lastSeen": "2025-10-13T10:55:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
