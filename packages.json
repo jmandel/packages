@@ -52267,6 +52267,12 @@
         "repo": "https://github.com/FHIR/openehr-base-ig",
         "branch": "master",
         "lastSeen": "2025-06-16T09:32:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/openehr-fhir/base-spec/branches/master/package.tgz",
+        "repo": "https://github.com/openehr-fhir/base-spec",
+        "branch": "master",
+        "lastSeen": "2025-10-14T01:25:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/openehr-base-ig/branches/master/package.tgz"
@@ -56104,6 +56110,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz"
+  },
+  "tw.gov.mohw.nhi.base": {
+    "name": "tw.gov.mohw.nhi.base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/base",
+        "branch": "main",
+        "lastSeen": "2025-10-14T02:05:02.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz"
   },
   "tw.gov.mohw.nhi.ci": {
     "name": "tw.gov.mohw.nhi.ci",
