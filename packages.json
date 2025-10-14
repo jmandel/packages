@@ -10200,7 +10200,7 @@
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz",
         "repo": "https://github.com/trifork/gm-fhir-ig",
         "branch": "main",
-        "lastSeen": "2025-10-13T10:04:17.000Z"
+        "lastSeen": "2025-10-14T11:36:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/cherrypick-codes/package.tgz",
@@ -24883,6 +24883,18 @@
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "TomasUrbanczyk-patch-3",
         "lastSeen": "2025-07-25T10:52:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/PractionerRole/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "PractionerRole",
+        "lastSeen": "2025-10-14T11:26:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/Rebase_url/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "Rebase_url",
+        "lastSeen": "2025-10-14T11:25:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -25044,7 +25056,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-10-10T10:39:38.000Z"
+        "lastSeen": "2025-10-14T11:12:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -25374,7 +25386,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5.0",
-        "lastSeen": "2025-09-30T10:18:21.000Z"
+        "lastSeen": "2025-10-14T10:39:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0-documentreference/package.tgz",
@@ -25434,7 +25446,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/feature-156-jkiddo/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "feature-156-jkiddo",
-        "lastSeen": "2025-10-06T21:42:09.000Z"
+        "lastSeen": "2025-10-14T11:15:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -56184,7 +56196,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2025-10-02T11:30:41.000Z"
+        "lastSeen": "2025-10-14T10:39:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
