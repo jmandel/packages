@@ -6222,7 +6222,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2025-10-07T05:02:44.000Z"
+        "lastSeen": "2025-10-15T16:57:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -6552,7 +6552,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/322-typos-michaela-ziegler-ahdis-ag/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "322-typos-michaela-ziegler-ahdis-ag",
-        "lastSeen": "2025-10-08T13:12:40.000Z"
+        "lastSeen": "2025-10-15T17:03:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/325-ch-vacd-immunization-carole-kaiser-ehealth-suisse/package.tgz",
@@ -6564,19 +6564,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/323-allergies-and-intolerance-values-for-immunization-carole-kaiser-ehealth-suisse/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "323-allergies-and-intolerance-values-for-immunization-carole-kaiser-ehealth-suisse",
-        "lastSeen": "2025-10-09T05:59:06.000Z"
+        "lastSeen": "2025-10-15T16:38:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/update_resolutiondesk_ballot_600/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "update_resolutiondesk_ballot_600",
-        "lastSeen": "2025-10-15T16:32:03.000Z"
+        "lastSeen": "2025-10-15T17:09:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/326-ch-vacd-immunization-administration-composition-ehealth-suisse/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "326-ch-vacd-immunization-administration-composition-ehealth-suisse",
-        "lastSeen": "2025-10-09T09:08:37.000Z"
+        "lastSeen": "2025-10-15T16:38:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/327-ch-vacd-immunization-ehealth-suisse/package.tgz",
@@ -6601,6 +6601,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "finalization-resolution-desk",
         "lastSeen": "2025-10-15T14:10:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/339-ch-vacd-extension-verificationstatus-gabriel-hess-bfh/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "339-ch-vacd-extension-verificationstatus-gabriel-hess-bfh",
+        "lastSeen": "2025-10-15T17:08:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -11334,7 +11340,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/04-fsh-reconciliation/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "04-fsh-reconciliation",
-        "lastSeen": "2025-10-15T16:04:54.000Z"
+        "lastSeen": "2025-10-15T17:03:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/Diagram/package.tgz",
@@ -12847,6 +12853,12 @@
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "uscore_updated_exp_params",
         "lastSeen": "2025-10-09T05:23:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/update-release-package/package.tgz",
+        "repo": "https://github.com/cqframework/vsp-ig",
+        "branch": "update-release-package",
+        "lastSeen": "2025-10-15T16:49:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz"
@@ -13002,7 +13014,7 @@
         "url": "https://build.fhir.org/ig/trifork/fhir-ig-sample/branches/main/package.tgz",
         "repo": "https://github.com/trifork/fhir-ig-sample",
         "branch": "main",
-        "lastSeen": "2025-09-23T20:03:02.000Z"
+        "lastSeen": "2025-10-15T17:19:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/0.1.0/package.tgz",
@@ -32317,6 +32329,12 @@
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "STU2.1",
         "lastSeen": "2025-10-07T20:53:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/juliemaas-patient/package.tgz",
+        "repo": "https://github.com/HL7/fhir-identity-matching-ig",
+        "branch": "juliemaas-patient",
+        "lastSeen": "2025-10-15T17:30:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
