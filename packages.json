@@ -6606,7 +6606,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/339-ch-vacd-extension-verificationstatus-gabriel-hess-bfh/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "339-ch-vacd-extension-verificationstatus-gabriel-hess-bfh",
-        "lastSeen": "2025-10-15T17:08:26.000Z"
+        "lastSeen": "2025-10-15T17:56:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -11340,7 +11340,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/04-fsh-reconciliation/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "04-fsh-reconciliation",
-        "lastSeen": "2025-10-15T17:03:08.000Z"
+        "lastSeen": "2025-10-15T18:34:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/Diagram/package.tgz",
@@ -12846,7 +12846,7 @@
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "master",
-        "lastSeen": "2025-10-15T13:39:48.000Z"
+        "lastSeen": "2025-10-15T18:06:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/uscore_updated_exp_params/package.tgz",
@@ -12858,7 +12858,13 @@
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/update-release-package/package.tgz",
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "update-release-package",
-        "lastSeen": "2025-10-15T16:49:08.000Z"
+        "lastSeen": "2025-10-15T18:01:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/postman-collection/package.tgz",
+        "repo": "https://github.com/cqframework/vsp-ig",
+        "branch": "postman-collection",
+        "lastSeen": "2025-10-15T18:03:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz"
@@ -30372,7 +30378,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/8.0.1/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "8.0.1",
-        "lastSeen": "2025-10-13T19:07:29.000Z"
+        "lastSeen": "2025-10-15T17:39:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/R6_prototype_USCoreV8/package.tgz",
@@ -32058,7 +32064,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2025-10-08T20:14:13.000Z"
+        "lastSeen": "2025-10-15T18:35:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -32334,7 +32340,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/juliemaas-patient/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "juliemaas-patient",
-        "lastSeen": "2025-10-15T17:30:48.000Z"
+        "lastSeen": "2025-10-15T17:43:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
@@ -37699,6 +37705,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "orgoutput-example",
         "lastSeen": "2025-09-26T15:43:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/stu3-block-vote/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "stu3-block-vote",
+        "lastSeen": "2025-10-15T18:07:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -49954,6 +49966,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/medigree/locationgraph/branches/master/package.tgz"
+  },
+  "lt.hl7.fhir.base": {
+    "name": "lt.hl7.fhir.base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-base",
+        "branch": "main",
+        "lastSeen": "2025-10-15T17:53:20.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz"
   },
   "ltw.ihe.nw-gmsa.nhs.uk": {
     "name": "ltw.ihe.nw-gmsa.nhs.uk",
