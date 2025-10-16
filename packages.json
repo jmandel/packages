@@ -5994,7 +5994,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-10-08T12:37:48.000Z"
+        "lastSeen": "2025-10-16T06:04:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -6211,6 +6211,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "115-ch-vacd-target-disease-and-illnesses-undergone-for-immunization-carole-kaiser-ehealth-suisse",
         "lastSeen": "2025-10-16T05:05:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/120-concept-maps-vaccinecode-michaela-ziegler/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "120-concept-maps-vaccinecode-michaela-ziegler",
+        "lastSeen": "2025-10-16T05:29:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -9864,7 +9870,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0237/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0237",
-        "lastSeen": "2025-10-14T13:26:06.000Z"
+        "lastSeen": "2025-10-16T05:46:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20829_CCR0256_S6/package.tgz",
@@ -9888,7 +9894,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0258_FUT1-20319-OA3-Documentation/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0258_FUT1-20319-OA3-Documentation",
-        "lastSeen": "2025-10-15T13:53:46.000Z"
+        "lastSeen": "2025-10-16T06:19:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -9936,7 +9942,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-10-15T11:13:01.000Z"
+        "lastSeen": "2025-10-16T06:44:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -14364,7 +14370,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-10-16T05:09:46.000Z"
+        "lastSeen": "2025-10-16T06:37:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
