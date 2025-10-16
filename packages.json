@@ -2665,6 +2665,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "358-entry-resource-cross-references-ehealth-suisse",
         "lastSeen": "2025-10-02T15:32:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/resolutionDesk/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "resolutionDesk",
+        "lastSeen": "2025-10-16T10:45:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -9816,7 +9822,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-10-10T11:43:34.000Z"
+        "lastSeen": "2025-10-16T11:25:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -9870,7 +9876,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0237/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0237",
-        "lastSeen": "2025-10-16T05:46:26.000Z"
+        "lastSeen": "2025-10-16T11:28:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20829_CCR0256_S6/package.tgz",
@@ -46350,7 +46356,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-10-16T10:37:51.000Z"
+        "lastSeen": "2025-10-16T11:24:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -56994,7 +57000,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-10-15T08:36:10.000Z"
+        "lastSeen": "2025-10-16T11:11:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
