@@ -12,7 +12,7 @@
         "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/2025Connectathon/branches/main/package.tgz",
         "repo": "https://github.com/Nigeria-FHIR-Community/2025Connectathon",
         "branch": "main",
-        "lastSeen": "2025-10-15T14:52:58.000Z"
+        "lastSeen": "2025-10-17T08:50:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nigeria-FHIR-Community/2025Connectathon/branches/main/package.tgz"
@@ -2664,13 +2664,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/358-entry-resource-cross-references-ehealth-suisse/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "358-entry-resource-cross-references-ehealth-suisse",
-        "lastSeen": "2025-10-02T15:32:31.000Z"
+        "lastSeen": "2025-10-17T09:08:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/resolutionDesk/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "resolutionDesk",
         "lastSeen": "2025-10-16T10:45:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/390-fix-immunization-immunoglobulin-valueset-url/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "390-fix-immunization-immunoglobulin-valueset-url",
+        "lastSeen": "2025-10-17T09:12:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -15858,7 +15864,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/60-verify-that-attester-is-present-only-if-author-is-not-device/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "60-verify-that-attester-is-present-only-if-author-is-not-device",
-        "lastSeen": "2025-10-17T06:30:08.000Z"
+        "lastSeen": "2025-10-17T09:23:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/53-delete-value-set-at-aps-problems/package.tgz",
@@ -21414,7 +21420,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_core_elem_oblig/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_core_elem_oblig",
-        "lastSeen": "2025-10-16T07:11:38.000Z"
+        "lastSeen": "2025-10-17T09:03:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_51877/package.tgz",
@@ -58824,7 +58830,7 @@
         "url": "https://build.fhir.org/ig/patsicko/pack_hl7fhir/branches/master/package.tgz",
         "repo": "https://github.com/patsicko/pack_hl7fhir",
         "branch": "master",
-        "lastSeen": "2025-10-16T10:25:07.000Z"
+        "lastSeen": "2025-10-17T09:01:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/christianmurwanashyaka/FHIRWORKSHOP/branches/master/package.tgz",
