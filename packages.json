@@ -9840,7 +9840,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-10-16T13:54:39.000Z"
+        "lastSeen": "2025-10-17T13:07:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -9900,7 +9900,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20829_CCR0256_S6/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-20829_CCR0256_S6",
-        "lastSeen": "2025-10-10T09:20:51.000Z"
+        "lastSeen": "2025-10-17T13:36:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0258_story11_revert_profile_name_change/package.tgz",
@@ -21451,6 +21451,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_uc_referral_diagram_updates",
         "lastSeen": "2025-10-16T04:03:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_fixes-misc/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_fixes-misc",
+        "lastSeen": "2025-10-17T13:29:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -37806,7 +37812,7 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/stu3-block-vote/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "stu3-block-vote",
-        "lastSeen": "2025-10-16T13:45:52.000Z"
+        "lastSeen": "2025-10-17T13:43:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -39246,7 +39252,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2025-10-15T19:00:50.000Z"
+        "lastSeen": "2025-10-17T13:05:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/1.0.0-ballot/package.tgz",
