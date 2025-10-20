@@ -6006,7 +6006,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-10-17T05:14:21.000Z"
+        "lastSeen": "2025-10-20T19:17:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -6252,7 +6252,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2025-10-17T05:11:13.000Z"
+        "lastSeen": "2025-10-20T19:10:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -6600,7 +6600,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/update_resolutiondesk_ballot_600/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "update_resolutiondesk_ballot_600",
-        "lastSeen": "2025-10-17T06:12:39.000Z"
+        "lastSeen": "2025-10-20T19:25:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/326-ch-vacd-immunization-administration-composition-ehealth-suisse/package.tgz",
@@ -6654,7 +6654,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/332-role-of-the-ehrkis-regarding-immunization-recommendation-will-schaefermeier-epic/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "332-role-of-the-ehrkis-regarding-immunization-recommendation-will-schaefermeier-epic",
-        "lastSeen": "2025-10-17T07:41:40.000Z"
+        "lastSeen": "2025-10-20T19:36:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -7360,6 +7360,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/Gloriamuema/CreateTest-Project/branches/ig.ini/package.tgz"
+  },
+  "credentials-psv-primarysource": {
+    "name": "credentials-psv-primarysource",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/alpivonka/Practitioners-Qualification-PSV-PrimarySource/branches/master/package.tgz",
+        "repo": "https://github.com/alpivonka/Practitioners-Qualification-PSV-PrimarySource",
+        "branch": "master",
+        "lastSeen": "2025-10-20T19:30:10.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/alpivonka/Practitioners-Qualification-PSV-PrimarySource/branches/master/package.tgz"
   },
   "cs.lim": {
     "name": "cs.lim",
@@ -16307,6 +16319,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-ca/branches/main/package.tgz"
   },
+  "hl7.cda.adi": {
+    "name": "hl7.cda.adi",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/cda-adi",
+        "branch": "main",
+        "lastSeen": "2025-10-20T19:23:08.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz"
+  },
   "hl7.cda.examples": {
     "name": "hl7.cda.examples",
     "locations": [
@@ -18409,6 +18433,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "FHIR-51916",
         "lastSeen": "2025-10-20T05:14:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/FHIR-51893-51894/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "FHIR-51893-51894",
+        "lastSeen": "2025-10-20T18:54:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -30498,7 +30528,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-10-17T22:43:17.000Z"
+        "lastSeen": "2025-10-20T19:04:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -48516,7 +48546,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCSc/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCSc",
         "branch": "master",
-        "lastSeen": "2025-10-20T18:37:06.000Z"
+        "lastSeen": "2025-10-20T19:12:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCSc/branches/master/package.tgz"
