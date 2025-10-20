@@ -2676,7 +2676,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/390-fix-immunization-immunoglobulin-valueset-url/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "390-fix-immunization-immunoglobulin-valueset-url",
-        "lastSeen": "2025-10-17T09:12:45.000Z"
+        "lastSeen": "2025-10-20T07:10:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -3192,7 +3192,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2025-09-16T09:10:57.000Z"
+        "lastSeen": "2025-10-20T07:10:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -4686,7 +4686,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ips",
         "branch": "master",
-        "lastSeen": "2025-09-15T08:44:36.000Z"
+        "lastSeen": "2025-10-20T07:33:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ips/branches/v1.0.0-ballot/package.tgz",
@@ -20106,7 +20106,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2025-10-20T05:23:20.000Z"
+        "lastSeen": "2025-10-20T07:26:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -25602,7 +25602,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5.0",
-        "lastSeen": "2025-10-14T10:39:19.000Z"
+        "lastSeen": "2025-10-20T07:27:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0-documentreference/package.tgz",
@@ -26154,7 +26154,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-03-18T14:32:38.000Z"
+        "lastSeen": "2025-10-20T07:07:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/202501wgm/package.tgz",
@@ -26257,6 +26257,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "master",
         "lastSeen": "2025-10-10T15:09:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-53075-rename-title/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "FHIR-53075-rename-title",
+        "lastSeen": "2025-10-20T07:29:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -26443,6 +26449,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "master",
         "lastSeen": "2025-10-10T15:06:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-53075-rename-title/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "FHIR-53075-rename-title",
+        "lastSeen": "2025-10-20T07:28:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -32010,7 +32022,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2025-10-08T21:24:35.000Z"
+        "lastSeen": "2025-10-20T07:21:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
@@ -46488,7 +46500,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-10-16T11:39:24.000Z"
+        "lastSeen": "2025-10-20T07:28:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
