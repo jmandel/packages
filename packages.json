@@ -11724,7 +11724,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/sample-ig/branches/master/package.tgz",
         "repo": "https://github.com/costateixeira/sample-ig",
         "branch": "master",
-        "lastSeen": "2024-04-04T23:13:55.000Z"
+        "lastSeen": "2025-10-21T21:16:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/mburwit/RiskAssessment/branches/main/package.tgz",
@@ -37843,6 +37843,12 @@
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "moehrke-ai-profiles",
         "lastSeen": "2025-09-15T14:43:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/moehrke-updates/package.tgz",
+        "repo": "https://github.com/HL7/aitransparency-ig",
+        "branch": "moehrke-updates",
+        "lastSeen": "2025-10-21T21:28:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz"
