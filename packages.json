@@ -2688,7 +2688,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-10-21T10:53:17.000Z"
+        "lastSeen": "2025-10-21T11:29:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -3139,6 +3139,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "oe_servicerequest",
         "lastSeen": "2025-09-15T12:14:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/1.12.0/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "1.12.0",
+        "lastSeen": "2025-10-21T12:05:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -8460,7 +8466,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2025-10-07T10:53:33.000Z"
+        "lastSeen": "2025-10-21T12:54:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -8539,6 +8545,12 @@
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "v2025.0.1",
         "lastSeen": "2025-10-07T13:03:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/ci-workflows/package.tgz",
+        "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
+        "branch": "ci-workflows",
+        "lastSeen": "2025-10-21T12:19:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz"
@@ -10476,7 +10488,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-10-21T11:32:28.000Z"
+        "lastSeen": "2025-10-21T12:33:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -25327,6 +25339,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "signedBundle",
         "lastSeen": "2025-09-29T12:24:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/developTobe/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "developTobe",
+        "lastSeen": "2025-10-21T11:53:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -25891,6 +25909,12 @@
         "repo": "https://github.com/hl7-eu/base",
         "branch": "ehic",
         "lastSeen": "2025-09-05T11:56:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/base/branches/v0.1.0/package.tgz",
+        "repo": "https://github.com/hl7-eu/base",
+        "branch": "v0.1.0",
+        "lastSeen": "2025-10-21T12:31:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz"
@@ -25909,6 +25933,12 @@
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "0.1.0-ballot",
         "lastSeen": "2025-05-15T20:44:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/v0.1.0/package.tgz",
+        "repo": "https://github.com/hl7-eu/base-r5",
+        "branch": "v0.1.0",
+        "lastSeen": "2025-10-21T12:31:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz"
@@ -26101,6 +26131,12 @@
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "0.1.1-snapshot",
         "lastSeen": "2025-09-26T10:26:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/v0.1.1/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions",
+        "branch": "v0.1.1",
+        "lastSeen": "2025-10-21T12:33:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
