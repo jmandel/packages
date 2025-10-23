@@ -9888,7 +9888,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-10-23T11:09:27.000Z"
+        "lastSeen": "2025-10-23T12:09:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -14496,7 +14496,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-10-23T10:30:30.000Z"
+        "lastSeen": "2025-10-23T12:14:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -25248,7 +25248,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-10-23T11:08:16.000Z"
+        "lastSeen": "2025-10-23T12:37:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -25260,13 +25260,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-10-20T16:58:13.000Z"
+        "lastSeen": "2025-10-23T12:35:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-10-01T12:58:59.000Z"
+        "lastSeen": "2025-10-23T12:36:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -25405,6 +25405,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "TomasHruza_new",
         "lastSeen": "2025-10-23T07:11:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/EnglishImplementationNotes/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "EnglishImplementationNotes",
+        "lastSeen": "2025-10-23T11:48:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -50826,7 +50832,19 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster_develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster_develop",
-        "lastSeen": "2025-10-23T11:15:53.000Z"
+        "lastSeen": "2025-10-23T12:36:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.1-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.1-githubpages",
+        "lastSeen": "2025-10-23T12:48:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "githubpagesmaster",
+        "lastSeen": "2025-10-23T12:41:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
