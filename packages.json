@@ -4362,7 +4362,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-10-27T07:49:10.000Z"
+        "lastSeen": "2025-10-27T09:09:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -4423,6 +4423,12 @@
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "28_typo",
         "lastSeen": "2025-10-23T13:07:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/27_Namenszusatz/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epreg",
+        "branch": "27_Namenszusatz",
+        "lastSeen": "2025-10-27T08:46:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -16182,7 +16188,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/HL7Austria/at-fhir-ig-template",
         "branch": "master",
-        "lastSeen": "2025-10-06T07:58:17.000Z"
+        "lastSeen": "2025-10-27T09:37:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/remove-feedback-form/package.tgz",
@@ -52680,7 +52686,7 @@
         "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG/branches/main/package.tgz",
         "repo": "https://github.com/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG",
         "branch": "main",
-        "lastSeen": "2025-10-25T10:49:01.000Z"
+        "lastSeen": "2025-10-27T09:11:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG/branches/removePatientExtensions/package.tgz",
@@ -54498,7 +54504,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/master/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-anc",
         "branch": "master",
-        "lastSeen": "2025-06-25T03:27:14.000Z"
+        "lastSeen": "2025-10-27T08:54:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-anc/branches/release-candidate/package.tgz",
@@ -56844,7 +56850,7 @@
         "url": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz",
         "repo": "https://github.com/hpapa2025/pad",
         "branch": "main",
-        "lastSeen": "2025-10-23T10:09:09.000Z"
+        "lastSeen": "2025-10-27T09:13:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz"
