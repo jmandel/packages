@@ -6792,6 +6792,14 @@
     }
   },
   {
+    "name": "lt.hl7.fhir.lifestyle",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
+      "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ltw.ihe.nw-gmsa.nhs.uk",
     "current": {
       "url": "https://build.fhir.org/ig/nw-gmsa/LTW/branches/main/package.tgz",
