@@ -3576,7 +3576,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/main/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "main",
-        "lastSeen": "2025-10-28T12:39:22.000Z"
+        "lastSeen": "2025-10-28T12:57:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/clean_warnings/package.tgz",
@@ -3613,6 +3613,12 @@
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "DSTU1-resolution-desk",
         "lastSeen": "2025-10-28T12:49:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/add-dstu1-resolution-deck/package.tgz",
+        "repo": "https://github.com/bag-epl/bag-epl-fhir",
+        "branch": "add-dstu1-resolution-deck",
+        "lastSeen": "2025-10-28T12:55:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -11544,7 +11550,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/07-obs-review/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "07-obs-review",
-        "lastSeen": "2025-10-28T12:40:12.000Z"
+        "lastSeen": "2025-10-28T12:55:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/v0.1.0/package.tgz",
@@ -28626,7 +28632,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2025-09-30T09:45:55.000Z"
+        "lastSeen": "2025-10-28T13:41:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -28638,7 +28644,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-10-22T08:46:21.000Z"
+        "lastSeen": "2025-10-28T13:43:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -28885,6 +28891,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "1.20.0-sprint68",
         "lastSeen": "2025-09-30T09:43:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/1.21.0-sprint70/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "1.21.0-sprint70",
+        "lastSeen": "2025-10-28T13:37:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
@@ -31800,7 +31812,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-10-27T18:50:17.000Z"
+        "lastSeen": "2025-10-28T13:09:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -38245,6 +38257,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "artifact-metadata",
         "lastSeen": "2025-10-22T17:49:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/stu3-pub/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "stu3-pub",
+        "lastSeen": "2025-10-28T13:07:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -49446,7 +49464,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2025-10-27T17:49:29.000Z"
+        "lastSeen": "2025-10-28T13:21:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -51954,7 +51972,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "master",
-        "lastSeen": "2025-09-24T11:23:27.000Z"
+        "lastSeen": "2025-10-28T13:24:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/v-1.4.0-1rc/package.tgz",
@@ -52104,7 +52122,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/SKS_fixversioning/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "SKS_fixversioning",
-        "lastSeen": "2025-10-28T12:46:15.000Z"
+        "lastSeen": "2025-10-28T13:23:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz"
@@ -53638,6 +53656,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/Carequality/CEQSubscription/branches/master/package.tgz"
+  },
+  "servicewell.fhir.flc": {
+    "name": "servicewell.fhir.flc",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz",
+        "repo": "https://github.com/servicewell/servicewell.fhir.flc",
+        "branch": "main",
+        "lastSeen": "2025-10-28T13:12:52.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz"
   },
   "servtrans.sns.implementationGuide": {
     "name": "servtrans.sns.implementationGuide",
