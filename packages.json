@@ -33792,7 +33792,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-medication-rems-ig",
         "branch": "main",
-        "lastSeen": "2025-10-27T18:28:12.000Z"
+        "lastSeen": "2025-10-28T00:15:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/task-definition/package.tgz",
@@ -33847,6 +33847,12 @@
         "repo": "https://github.com/HL7/fhir-medication-rems-ig",
         "branch": "include_changes",
         "lastSeen": "2025-10-27T18:22:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/fix-warnings-stu2/package.tgz",
+        "repo": "https://github.com/HL7/fhir-medication-rems-ig",
+        "branch": "fix-warnings-stu2",
+        "lastSeen": "2025-10-28T00:11:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/main/package.tgz"
@@ -40867,6 +40873,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "rh-update-request-performerOrder",
         "lastSeen": "2025-10-24T14:50:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/dbarwin-51586/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "dbarwin-51586",
+        "lastSeen": "2025-10-28T00:00:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
