@@ -11550,7 +11550,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/07-obs-review/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "07-obs-review",
-        "lastSeen": "2025-10-28T15:27:46.000Z"
+        "lastSeen": "2025-10-28T15:57:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/v0.1.0/package.tgz",
@@ -14526,7 +14526,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authentication/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authentication",
-        "lastSeen": "2025-10-28T15:33:29.000Z"
+        "lastSeen": "2025-10-28T15:56:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/care-services-mtls/package.tgz",
@@ -16518,7 +16518,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-adi",
         "branch": "main",
-        "lastSeen": "2025-10-27T09:56:40.000Z"
+        "lastSeen": "2025-10-28T15:45:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz"
@@ -31812,7 +31812,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-10-28T14:30:26.000Z"
+        "lastSeen": "2025-10-28T16:35:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -33907,6 +33907,12 @@
         "repo": "https://github.com/HL7/fhir-medication-rems-ig",
         "branch": "fix-warnings-stu2",
         "lastSeen": "2025-10-28T00:11:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/stu2-sushi-config/package.tgz",
+        "repo": "https://github.com/HL7/fhir-medication-rems-ig",
+        "branch": "stu2-sushi-config",
+        "lastSeen": "2025-10-28T16:10:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-medication-rems-ig/branches/main/package.tgz"
@@ -36001,6 +36007,12 @@
         "repo": "https://github.com/HL7/smp-ig",
         "branch": "multilists",
         "lastSeen": "2025-10-20T21:05:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/revert-2-multilists/package.tgz",
+        "repo": "https://github.com/HL7/smp-ig",
+        "branch": "revert-2-multilists",
+        "lastSeen": "2025-10-28T16:02:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz"
@@ -53670,7 +53682,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.flc",
         "branch": "main",
-        "lastSeen": "2025-10-28T13:12:52.000Z"
+        "lastSeen": "2025-10-28T16:06:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz"
