@@ -18636,7 +18636,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-expansion-params/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-expansion-params",
-        "lastSeen": "2025-10-29T21:28:19.000Z"
+        "lastSeen": "2025-10-29T22:08:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -21235,6 +21235,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-52403",
         "lastSeen": "2025-10-28T05:30:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_fragment/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "ft_fragment",
+        "lastSeen": "2025-10-29T22:24:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -25722,7 +25728,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2025-10-23T14:24:38.000Z"
+        "lastSeen": "2025-10-29T22:29:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
@@ -26136,7 +26142,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-10-29T13:17:38.000Z"
+        "lastSeen": "2025-10-29T22:15:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -26172,7 +26178,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-10-29T13:18:53.000Z"
+        "lastSeen": "2025-10-29T22:16:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -48930,7 +48936,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.PCS",
         "branch": "master",
-        "lastSeen": "2025-03-04T23:30:41.000Z"
+        "lastSeen": "2025-10-29T22:06:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.PCS/branches/master/package.tgz"
