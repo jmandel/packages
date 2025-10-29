@@ -2683,6 +2683,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "394_usageCoreProfiles",
         "lastSeen": "2025-10-27T11:29:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue389_revert_slicing_discriminator/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue389_revert_slicing_discriminator",
+        "lastSeen": "2025-10-29T08:39:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -6288,13 +6294,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/131-fix-display-name-issues-from-publisher/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "131-fix-display-name-issues-from-publisher",
-        "lastSeen": "2025-10-29T07:05:34.000Z"
+        "lastSeen": "2025-10-29T07:47:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/qligier/ch-epr-term/branches/ql_dcmuid/package.tgz",
         "repo": "https://github.com/qligier/ch-epr-term",
         "branch": "ql_dcmuid",
         "lastSeen": "2025-10-29T07:07:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oliveregger-patch-1/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "oliveregger-patch-1",
+        "lastSeen": "2025-10-29T07:51:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -6720,7 +6732,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/332-role-of-the-ehrkis-regarding-immunization-recommendation-will-schaefermeier-epic/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "332-role-of-the-ehrkis-regarding-immunization-recommendation-will-schaefermeier-epic",
-        "lastSeen": "2025-10-20T20:01:51.000Z"
+        "lastSeen": "2025-10-29T08:34:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -47370,7 +47382,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/6-feature-de-identification-techniques-algorithms/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "6-feature-de-identification-techniques-algorithms",
-        "lastSeen": "2025-10-29T07:33:40.000Z"
+        "lastSeen": "2025-10-29T07:55:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/moehrke-security-considerations/package.tgz",
@@ -51810,7 +51822,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-messaging",
         "branch": "master",
-        "lastSeen": "2025-10-27T13:38:27.000Z"
+        "lastSeen": "2025-10-29T08:27:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/2.1.0-rc1-master/package.tgz",
@@ -57096,7 +57108,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2025-10-29T07:17:50.000Z"
+        "lastSeen": "2025-10-29T08:00:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
@@ -57120,7 +57132,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/cql",
         "branch": "main",
-        "lastSeen": "2025-10-23T07:31:05.000Z"
+        "lastSeen": "2025-10-29T08:20:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz"
