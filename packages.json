@@ -2676,7 +2676,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/390-fix-immunization-immunoglobulin-valueset-url/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "390-fix-immunization-immunoglobulin-valueset-url",
-        "lastSeen": "2025-10-20T07:10:02.000Z"
+        "lastSeen": "2025-10-29T07:30:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/394_usageCoreProfiles/package.tgz",
@@ -4380,7 +4380,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-10-27T09:09:34.000Z"
+        "lastSeen": "2025-10-29T06:43:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -6283,6 +6283,18 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "120-concept-maps-vaccinecode-michaela-ziegler",
         "lastSeen": "2025-10-16T08:36:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/131-fix-display-name-issues-from-publisher/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "131-fix-display-name-issues-from-publisher",
+        "lastSeen": "2025-10-29T07:05:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/qligier/ch-epr-term/branches/ql_dcmuid/package.tgz",
+        "repo": "https://github.com/qligier/ch-epr-term",
+        "branch": "ql_dcmuid",
+        "lastSeen": "2025-10-29T07:07:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -14574,7 +14586,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-10-29T06:10:12.000Z"
+        "lastSeen": "2025-10-29T07:24:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -47358,7 +47370,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/6-feature-de-identification-techniques-algorithms/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "6-feature-de-identification-techniques-algorithms",
-        "lastSeen": "2025-10-29T05:48:26.000Z"
+        "lastSeen": "2025-10-29T07:33:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/moehrke-security-considerations/package.tgz",
@@ -50676,7 +50688,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
         "branch": "main",
-        "lastSeen": "2025-10-29T00:48:37.000Z"
+        "lastSeen": "2025-10-29T06:59:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz"
@@ -50688,7 +50700,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
         "branch": "main",
-        "lastSeen": "2025-10-28T23:32:00.000Z"
+        "lastSeen": "2025-10-29T07:00:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/main/package.tgz"
@@ -51324,7 +51336,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "master",
-        "lastSeen": "2025-09-24T12:37:37.000Z"
+        "lastSeen": "2025-10-29T07:22:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.2.0-rc1/package.tgz",
@@ -57060,7 +57072,7 @@
         "url": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz",
         "repo": "https://github.com/hpapa2025/pad",
         "branch": "main",
-        "lastSeen": "2025-10-27T09:13:41.000Z"
+        "lastSeen": "2025-10-29T07:10:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz"
@@ -57084,7 +57096,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2025-10-21T09:05:46.000Z"
+        "lastSeen": "2025-10-29T07:17:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
