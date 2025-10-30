@@ -7512,7 +7512,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2025-10-30T04:21:11.000Z"
+        "lastSeen": "2025-10-30T05:55:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -7957,6 +7957,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "cvd-risk-variables-enhancement",
         "lastSeen": "2025-10-10T07:06:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/release-20251030/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "release-20251030",
+        "lastSeen": "2025-10-30T05:58:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -11508,7 +11514,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/main/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "main",
-        "lastSeen": "2025-10-30T02:42:24.000Z"
+        "lastSeen": "2025-10-30T05:42:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/revert-3-03-draft-fsh-template/package.tgz",
@@ -11616,7 +11622,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/35-add-examples-for-each-profile/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "35-add-examples-for-each-profile",
-        "lastSeen": "2025-10-30T05:02:40.000Z"
+        "lastSeen": "2025-10-30T05:45:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/36-fix-integrate-latest-valueset-that-fixes-general_disposition-dupe-codes-officially/package.tgz",
@@ -14628,7 +14634,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-10-30T03:46:39.000Z"
+        "lastSeen": "2025-10-30T06:16:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
