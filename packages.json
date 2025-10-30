@@ -6738,13 +6738,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/336-ch-vacd-immunization---occurencexoccurrencestring-support-will-schaefermeier-epic/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "336-ch-vacd-immunization---occurencexoccurrencestring-support-will-schaefermeier-epic",
-        "lastSeen": "2025-10-17T08:13:10.000Z"
+        "lastSeen": "2025-10-30T08:16:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/332-role-of-the-ehrkis-regarding-immunization-recommendation-will-schaefermeier-epic/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "332-role-of-the-ehrkis-regarding-immunization-recommendation-will-schaefermeier-epic",
-        "lastSeen": "2025-10-29T08:34:21.000Z"
+        "lastSeen": "2025-10-30T08:24:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/338-ch-vacd-extension-merging-conflict-entry-reference---duplicate-detection-and-merging-will-schaefermeier-epic/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "338-ch-vacd-extension-merging-conflict-entry-reference---duplicate-detection-and-merging-will-schaefermeier-epic",
+        "lastSeen": "2025-10-30T08:11:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -11622,7 +11628,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/35-add-examples-for-each-profile/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "35-add-examples-for-each-profile",
-        "lastSeen": "2025-10-30T05:45:24.000Z"
+        "lastSeen": "2025-10-30T07:56:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/36-fix-integrate-latest-valueset-that-fixes-general_disposition-dupe-codes-officially/package.tgz",
@@ -14634,7 +14640,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-10-30T06:16:21.000Z"
+        "lastSeen": "2025-10-30T08:32:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -25452,7 +25458,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-10-24T13:49:58.000Z"
+        "lastSeen": "2025-10-30T07:50:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -26172,7 +26178,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-10-29T22:15:10.000Z"
+        "lastSeen": "2025-10-30T08:25:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -47448,7 +47454,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/6-feature-de-identification-techniques-algorithms/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "6-feature-de-identification-techniques-algorithms",
-        "lastSeen": "2025-10-29T07:55:20.000Z"
+        "lastSeen": "2025-10-30T08:35:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/moehrke-security-considerations/package.tgz",
@@ -51240,7 +51246,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-10-27T13:37:19.000Z"
+        "lastSeen": "2025-10-30T08:30:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -57210,7 +57216,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/cql",
         "branch": "main",
-        "lastSeen": "2025-10-29T08:20:11.000Z"
+        "lastSeen": "2025-10-30T08:19:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz"
@@ -57300,7 +57306,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.9/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.9",
-        "lastSeen": "2025-10-27T06:58:34.000Z"
+        "lastSeen": "2025-10-30T07:37:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -57853,6 +57859,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "rapido-hang",
         "lastSeen": "2025-10-29T13:37:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/kindling-language-switch/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "kindling-language-switch",
+        "lastSeen": "2025-10-30T08:08:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
