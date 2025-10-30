@@ -4075,6 +4075,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "adr-when-paging",
         "lastSeen": "2025-09-30T16:46:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-403-remove-authororg-prohibition/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-403-remove-authororg-prohibition",
+        "lastSeen": "2025-10-30T09:48:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -4465,6 +4471,12 @@
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "usageCoreArtifacts",
         "lastSeen": "2025-10-30T09:16:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/34_deprecatedExtensions/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epreg",
+        "branch": "34_deprecatedExtensions",
+        "lastSeen": "2025-10-30T10:16:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -5748,7 +5760,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-orf",
         "branch": "master",
-        "lastSeen": "2025-09-15T12:14:27.000Z"
+        "lastSeen": "2025-10-30T09:50:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-orf/branches/oe_update_core/package.tgz",
@@ -7974,7 +7986,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/release-20251030/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "release-20251030",
-        "lastSeen": "2025-10-30T05:58:04.000Z"
+        "lastSeen": "2025-10-30T10:29:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -9972,7 +9984,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-10-30T09:33:03.000Z"
+        "lastSeen": "2025-10-30T10:23:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -11634,7 +11646,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/35-add-examples-for-each-profile/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "35-add-examples-for-each-profile",
-        "lastSeen": "2025-10-30T07:56:43.000Z"
+        "lastSeen": "2025-10-30T10:13:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/36-fix-integrate-latest-valueset-that-fixes-general_disposition-dupe-codes-officially/package.tgz",
@@ -25470,7 +25482,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-10-30T07:50:15.000Z"
+        "lastSeen": "2025-10-30T09:55:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -26040,7 +26052,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5-after-review/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5-after-review",
-        "lastSeen": "2025-10-22T12:15:16.000Z"
+        "lastSeen": "2025-10-30T10:27:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -57180,7 +57192,7 @@
         "url": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz",
         "repo": "https://github.com/hpapa2025/pad",
         "branch": "main",
-        "lastSeen": "2025-10-30T09:07:27.000Z"
+        "lastSeen": "2025-10-30T09:54:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz"
@@ -57318,7 +57330,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.0.9/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.0.9",
-        "lastSeen": "2025-10-30T07:37:41.000Z"
+        "lastSeen": "2025-10-30T08:51:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -57852,7 +57864,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-10-16T11:11:15.000Z"
+        "lastSeen": "2025-10-30T09:28:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
