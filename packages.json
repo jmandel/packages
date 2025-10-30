@@ -11508,7 +11508,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/main/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "main",
-        "lastSeen": "2025-10-27T02:00:43.000Z"
+        "lastSeen": "2025-10-30T02:42:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/revert-3-03-draft-fsh-template/package.tgz",
@@ -11605,6 +11605,18 @@
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "20-pre-render-pdf-as-images-as-fallback---for-referencemd",
         "lastSeen": "2025-10-26T07:14:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/v0.2.0/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
+        "branch": "v0.2.0",
+        "lastSeen": "2025-10-30T02:49:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/35-add-examples-for-each-profile/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
+        "branch": "35-add-examples-for-each-profile",
+        "lastSeen": "2025-10-30T02:51:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/03-draft-fsh-template/package.tgz"
@@ -20370,7 +20382,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2025-10-30T00:55:04.000Z"
+        "lastSeen": "2025-10-30T02:23:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -21222,19 +21234,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-51874-org/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-51874-org",
-        "lastSeen": "2025-10-21T04:09:37.000Z"
+        "lastSeen": "2025-10-30T02:41:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-52071/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-52071",
-        "lastSeen": "2025-10-29T23:51:51.000Z"
+        "lastSeen": "2025-10-30T02:29:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-52403/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-52403",
-        "lastSeen": "2025-10-28T05:30:27.000Z"
+        "lastSeen": "2025-10-30T02:26:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_fragment/package.tgz",
@@ -45115,6 +45127,12 @@
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "Add_thc_dried_herb_text",
         "lastSeen": "2025-10-28T02:13:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/Add_thc_flag_text/package.tgz",
+        "repo": "https://github.com/HL7NZ/nzf",
+        "branch": "Add_thc_flag_text",
+        "lastSeen": "2025-10-30T02:30:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz"
