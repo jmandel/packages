@@ -10229,6 +10229,18 @@
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz"
   },
+  "dk.ehmi.eer-config": {
+    "name": "dk.ehmi.eer-config",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
+        "branch": "main",
+        "lastSeen": "2025-10-30T14:55:00.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz"
+  },
   "dk.ehmi.terminology": {
     "name": "dk.ehmi.terminology",
     "locations": [
@@ -26220,7 +26232,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-10-30T08:25:42.000Z"
+        "lastSeen": "2025-10-30T15:30:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -26256,7 +26268,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-10-29T22:16:11.000Z"
+        "lastSeen": "2025-10-30T15:32:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -39930,7 +39942,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-10-23T15:16:21.000Z"
+        "lastSeen": "2025-10-30T15:06:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -48972,7 +48984,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.FIIO",
         "branch": "master",
-        "lastSeen": "2025-10-29T17:18:02.000Z"
+        "lastSeen": "2025-10-30T15:08:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz"
@@ -57948,13 +57960,19 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "main",
-        "lastSeen": "2025-10-30T14:35:46.000Z"
+        "lastSeen": "2025-10-30T15:30:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/syncronize-setup/package.tgz",
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "syncronize-setup",
         "lastSeen": "2025-09-04T10:06:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/update-homepage/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "update-homepage",
+        "lastSeen": "2025-10-30T15:23:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
