@@ -6312,7 +6312,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/114-ch-vacd-swissmedic-code-for-vaccinecode-carole-kaiser-ehealth-suisse/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "114-ch-vacd-swissmedic-code-for-vaccinecode-carole-kaiser-ehealth-suisse",
-        "lastSeen": "2025-10-31T08:02:55.000Z"
+        "lastSeen": "2025-10-31T09:43:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/115-ch-vacd-target-disease-and-illnesses-undergone-for-immunization-carole-kaiser-ehealth-suisse/package.tgz",
@@ -11676,7 +11676,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/35-add-examples-for-each-profile/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "35-add-examples-for-each-profile",
-        "lastSeen": "2025-10-31T09:10:09.000Z"
+        "lastSeen": "2025-10-31T10:08:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/36-fix-integrate-latest-valueset-that-fixes-general_disposition-dupe-codes-officially/package.tgz",
@@ -49686,7 +49686,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "main",
-        "lastSeen": "2025-10-15T10:24:19.000Z"
+        "lastSeen": "2025-10-31T09:52:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue44/package.tgz",
@@ -49729,6 +49729,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "changelog-and-name-valueset-ACP-YesNoYesWithRestrictionsUnknownVS",
         "lastSeen": "2025-10-29T16:06:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/main/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "main",
+        "lastSeen": "2025-10-31T09:54:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -51342,7 +51348,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-10-30T13:21:05.000Z"
+        "lastSeen": "2025-10-31T10:33:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.-5.0.2-githubpages",
+        "lastSeen": "2025-10-31T10:00:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -51354,7 +51366,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "master",
-        "lastSeen": "2025-10-29T13:01:32.000Z"
+        "lastSeen": "2025-10-31T09:39:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/v.4.0.1-rc1/package.tgz",
