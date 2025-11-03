@@ -2688,7 +2688,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue389_revert_slicing_discriminator/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue389_revert_slicing_discriminator",
-        "lastSeen": "2025-10-29T08:39:50.000Z"
+        "lastSeen": "2025-11-03T21:04:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue354_368_388_replace_deprecated_extension/package.tgz",
@@ -16873,6 +16873,12 @@
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "3.0.0-patch",
         "lastSeen": "2025-09-16T20:19:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/rh-healthconcernact/package.tgz",
+        "repo": "https://github.com/HL7/CDA-ccda",
+        "branch": "rh-healthconcernact",
+        "lastSeen": "2025-11-03T20:29:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -38484,7 +38490,7 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "master",
-        "lastSeen": "2025-10-28T18:44:27.000Z"
+        "lastSeen": "2025-11-03T21:31:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/show-cardinality/package.tgz",
@@ -46776,7 +46782,7 @@
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/v2ig",
         "branch": "main",
-        "lastSeen": "2025-10-16T18:22:00.000Z"
+        "lastSeen": "2025-11-03T21:24:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/v2ig/branches/update-PID-segment-example/package.tgz",
