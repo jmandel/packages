@@ -2695,6 +2695,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue354_368_388_replace_deprecated_extension",
         "lastSeen": "2025-10-29T09:06:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue381_name_extension_binding/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue381_name_extension_binding",
+        "lastSeen": "2025-11-03T21:55:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -26364,7 +26370,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-11-02T12:26:25.000Z"
+        "lastSeen": "2025-11-03T21:51:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -26400,7 +26406,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-11-02T12:46:05.000Z"
+        "lastSeen": "2025-11-03T21:53:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
