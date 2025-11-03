@@ -4081,6 +4081,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "issue-403-remove-authororg-prohibition",
         "lastSeen": "2025-10-30T12:04:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/Issue-382/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "Issue-382",
+        "lastSeen": "2025-11-03T13:23:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -25242,7 +25248,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/R2BO/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/R2BO",
         "branch": "master",
-        "lastSeen": "2025-10-27T15:59:27.000Z"
+        "lastSeen": "2025-11-03T13:57:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/riap/branches/master/package.tgz"
@@ -25818,7 +25824,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-10-20T08:44:02.000Z"
+        "lastSeen": "2025-11-03T13:50:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -26100,7 +26106,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5.0",
-        "lastSeen": "2025-10-20T13:33:16.000Z"
+        "lastSeen": "2025-11-03T14:32:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0-documentreference/package.tgz",
@@ -26172,7 +26178,13 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3_5_0-j3h4-fixes/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3_5_0-j3h4-fixes",
-        "lastSeen": "2025-11-03T09:52:30.000Z"
+        "lastSeen": "2025-11-03T14:32:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/181-review-encounter-example-missing/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "181-review-encounter-example-missing",
+        "lastSeen": "2025-11-03T14:33:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -28938,7 +28950,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-10-30T11:09:17.000Z"
+        "lastSeen": "2025-11-03T14:40:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -51492,7 +51504,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-11-03T13:12:19.000Z"
+        "lastSeen": "2025-11-03T13:58:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -58098,7 +58110,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-11-03T11:46:36.000Z"
+        "lastSeen": "2025-11-03T13:49:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
