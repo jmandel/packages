@@ -47568,7 +47568,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/main/package.tgz",
         "repo": "https://github.com/IHE/ITI.BasicAudit",
         "branch": "main",
-        "lastSeen": "2025-10-31T19:36:37.000Z"
+        "lastSeen": "2025-11-03T18:55:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/remove_displaynames/package.tgz",
@@ -47665,6 +47665,12 @@
         "repo": "https://github.com/IHE/ITI.BasicAudit",
         "branch": "BALP-2025-CPintegration",
         "lastSeen": "2025-09-02T18:18:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/1.1.4/package.tgz",
+        "repo": "https://github.com/IHE/ITI.BasicAudit",
+        "branch": "1.1.4",
+        "lastSeen": "2025-11-03T18:54:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.BasicAudit/branches/main/package.tgz"
@@ -48240,7 +48246,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "master",
-        "lastSeen": "2025-10-31T15:41:08.000Z"
+        "lastSeen": "2025-11-03T18:52:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/moehrke-date-range-fix/package.tgz",
@@ -48372,13 +48378,25 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/MHD5/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "MHD5",
-        "lastSeen": "2025-10-31T16:43:30.000Z"
+        "lastSeen": "2025-11-03T18:51:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/moehrke-r4-clarity/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "moehrke-r4-clarity",
         "lastSeen": "2025-10-30T16:21:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/4.2.3/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "4.2.3",
+        "lastSeen": "2025-11-03T18:45:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/5.0.0-comment/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "5.0.0-comment",
+        "lastSeen": "2025-11-03T18:49:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
