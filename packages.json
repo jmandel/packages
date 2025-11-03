@@ -3672,7 +3672,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-10-30T11:30:03.000Z"
+        "lastSeen": "2025-11-03T13:30:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -8058,7 +8058,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-11-03T12:16:16.000Z"
+        "lastSeen": "2025-11-03T12:56:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -10273,6 +10273,12 @@
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "main",
         "lastSeen": "2025-10-30T16:36:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/dk-ehmi-eer-config/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
+        "branch": "dk-ehmi-eer-config",
+        "lastSeen": "2025-11-03T12:55:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz"
@@ -25596,7 +25602,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-10-23T12:35:13.000Z"
+        "lastSeen": "2025-11-03T12:42:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
@@ -25764,7 +25770,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-10-14T14:36:32.000Z"
+        "lastSeen": "2025-11-03T13:39:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -26160,7 +26166,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5-after-review/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5-after-review",
-        "lastSeen": "2025-10-30T11:51:42.000Z"
+        "lastSeen": "2025-11-03T13:02:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3_5_0-j3h4-fixes/package.tgz",
@@ -32112,7 +32118,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-10-29T16:07:17.000Z"
+        "lastSeen": "2025-11-03T13:24:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -51486,7 +51492,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-10-31T10:33:58.000Z"
+        "lastSeen": "2025-11-03T13:12:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -58135,6 +58141,12 @@
         "repo": "https://github.com/vadi2/DHP-temp",
         "branch": "update-flag-main",
         "lastSeen": "2025-10-31T07:35:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/remove-duplicate-severity-valueset/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-temp",
+        "branch": "remove-duplicate-severity-valueset",
+        "lastSeen": "2025-11-03T13:07:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
