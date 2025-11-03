@@ -3672,7 +3672,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-11-03T16:26:13.000Z"
+        "lastSeen": "2025-11-03T19:36:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -4086,7 +4086,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/Issue-382/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "Issue-382",
-        "lastSeen": "2025-11-03T13:23:18.000Z"
+        "lastSeen": "2025-11-03T19:26:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-391-remove-page-count-requirement/package.tgz",
@@ -13254,7 +13254,7 @@
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "master",
-        "lastSeen": "2025-10-27T14:51:20.000Z"
+        "lastSeen": "2025-11-03T20:24:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/uscore_updated_exp_params/package.tgz",
@@ -36361,6 +36361,12 @@
         "repo": "https://github.com/HL7/smp-ig",
         "branch": "revert-2-multilists",
         "lastSeen": "2025-10-28T16:02:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/ms-date/package.tgz",
+        "repo": "https://github.com/HL7/smp-ig",
+        "branch": "ms-date",
+        "lastSeen": "2025-11-03T19:59:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz"
@@ -38629,6 +38635,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "stu3-pub",
         "lastSeen": "2025-10-28T13:07:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/future/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "future",
+        "lastSeen": "2025-11-03T20:07:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
