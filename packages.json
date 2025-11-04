@@ -8652,7 +8652,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2025-11-04T10:41:46.000Z"
+        "lastSeen": "2025-11-04T13:42:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -26832,7 +26832,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2025-11-04T12:42:34.000Z"
+        "lastSeen": "2025-11-04T13:17:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/202501wgm/package.tgz",
@@ -26899,6 +26899,18 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "workflow-auto-deploy",
         "lastSeen": "2025-10-31T14:47:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-51407/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "FHIR-51407",
+        "lastSeen": "2025-11-04T13:03:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-51342/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "FHIR-51342",
+        "lastSeen": "2025-11-04T13:41:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -26952,7 +26964,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "master",
-        "lastSeen": "2025-11-04T12:40:22.000Z"
+        "lastSeen": "2025-11-04T13:25:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-53075-rename-title/package.tgz",
@@ -27156,7 +27168,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "master",
-        "lastSeen": "2025-10-20T15:53:32.000Z"
+        "lastSeen": "2025-11-04T13:26:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-53075-rename-title/package.tgz",
@@ -32238,7 +32250,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-11-03T16:14:01.000Z"
+        "lastSeen": "2025-11-04T12:59:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -40242,7 +40254,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-11-04T12:01:48.000Z"
+        "lastSeen": "2025-11-04T13:30:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -57606,7 +57618,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2025-10-29T08:00:24.000Z"
+        "lastSeen": "2025-11-04T13:23:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
