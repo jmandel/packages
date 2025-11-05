@@ -6150,7 +6150,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-11-04T05:59:13.000Z"
+        "lastSeen": "2025-11-05T09:39:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -6762,7 +6762,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/update_resolutiondesk_ballot_600/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "update_resolutiondesk_ballot_600",
-        "lastSeen": "2025-10-31T13:13:17.000Z"
+        "lastSeen": "2025-11-05T09:44:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/326-ch-vacd-immunization-administration-composition-ehealth-suisse/package.tgz",
@@ -10656,7 +10656,7 @@
         "url": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz",
         "repo": "https://github.com/HL7EE/ig-ee-base",
         "branch": "master",
-        "lastSeen": "2025-10-13T14:43:34.000Z"
+        "lastSeen": "2025-11-05T09:57:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
@@ -16440,7 +16440,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "90-5---2-skizze-patient-does-not-exist",
-        "lastSeen": "2025-11-05T09:42:03.000Z"
+        "lastSeen": "2025-11-05T09:50:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/88-3---terminerinnerung-und-notifications/package.tgz",
@@ -51708,7 +51708,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-11-03T13:58:26.000Z"
+        "lastSeen": "2025-11-05T10:06:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -51720,7 +51720,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster_GettingStarted/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster_GettingStarted",
-        "lastSeen": "2025-11-04T07:25:36.000Z"
+        "lastSeen": "2025-11-05T09:48:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.3-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.3-githubpages",
+        "lastSeen": "2025-11-05T10:06:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
