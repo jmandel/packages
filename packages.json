@@ -2208,7 +2208,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-11-03T07:14:36.000Z"
+        "lastSeen": "2025-11-05T13:12:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -16452,7 +16452,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "main",
-        "lastSeen": "2025-05-23T10:56:08.000Z"
+        "lastSeen": "2025-11-05T13:21:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
@@ -16482,7 +16482,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/96-10---slot-freigabe-nach-statusfree/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "96-10---slot-freigabe-nach-statusfree",
-        "lastSeen": "2025-11-05T11:21:58.000Z"
+        "lastSeen": "2025-11-05T12:57:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -17466,7 +17466,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/flute/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/flute",
         "branch": "master",
-        "lastSeen": "2025-04-24T09:02:21.000Z"
+        "lastSeen": "2025-11-05T13:36:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/flute/branches/master/package.tgz"
@@ -25998,7 +25998,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2025-11-03T13:50:56.000Z"
+        "lastSeen": "2025-11-05T13:31:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -26046,7 +26046,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-09-23T09:44:40.000Z"
+        "lastSeen": "2025-11-05T13:35:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -51427,6 +51427,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "develop",
         "lastSeen": "2025-05-30T08:43:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_UpdateExamples/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
+        "branch": "SKS_UpdateExamples",
+        "lastSeen": "2025-11-05T13:38:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz"
