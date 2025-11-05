@@ -14785,6 +14785,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "removal-of-paragraph-continued-integrity-of-references",
         "lastSeen": "2025-10-16T07:35:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/consent-nov/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "consent-nov",
+        "lastSeen": "2025-11-05T11:22:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -14808,7 +14814,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-11-05T09:19:04.000Z"
+        "lastSeen": "2025-11-05T11:01:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -16453,6 +16459,18 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "117-23---move-actors-to-separate-section",
         "lastSeen": "2025-11-05T09:21:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/121-51---serve-vs-provide/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "121-51---serve-vs-provide",
+        "lastSeen": "2025-11-05T10:50:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/96-10---slot-freigabe-nach-statusfree/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "96-10---slot-freigabe-nach-statusfree",
+        "lastSeen": "2025-11-05T11:21:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -23538,7 +23556,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/main/package.tgz",
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "main",
-        "lastSeen": "2025-11-03T08:00:47.000Z"
+        "lastSeen": "2025-11-05T11:21:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/carepath/package.tgz",
@@ -53914,6 +53932,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/openmrs-contrib-fhir2-ig/branches/main/package.tgz"
+  },
+  "org.dhin-hie.sandbox": {
+    "name": "org.dhin-hie.sandbox",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/2025Connectathon/branches/main/package.tgz",
+        "repo": "https://github.com/Nigeria-FHIR-Community/2025Connectathon",
+        "branch": "main",
+        "lastSeen": "2025-11-05T10:53:32.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Nigeria-FHIR-Community/2025Connectathon/branches/main/package.tgz"
   },
   "org.helex.ccm": {
     "name": "org.helex.ccm",
