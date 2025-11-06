@@ -17034,7 +17034,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/jd-21415/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "jd-21415",
-        "lastSeen": "2025-11-06T00:49:20.000Z"
+        "lastSeen": "2025-11-06T17:50:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -22728,7 +22728,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-48/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "issue-48",
-        "lastSeen": "2024-11-22T16:55:35.000Z"
+        "lastSeen": "2025-11-06T18:42:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-61/package.tgz",
@@ -48660,7 +48660,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/CP-ITI-MHD-homeCommunityId/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "CP-ITI-MHD-homeCommunityId",
-        "lastSeen": "2025-11-05T22:10:09.000Z"
+        "lastSeen": "2025-11-06T17:57:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
@@ -50538,7 +50538,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentWithSegmentation",
         "branch": "main",
-        "lastSeen": "2024-11-20T14:05:18.000Z"
+        "lastSeen": "2025-11-06T18:40:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentWithSegmentation/branches/main/package.tgz"
@@ -53884,6 +53884,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/OHIE24-Continuity-of-Care/branches/initial-cleanup/package.tgz"
+  },
+  "oo.incubator": {
+    "name": "oo.incubator",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/master/package.tgz",
+        "repo": "https://github.com/HL7/oo-incubator",
+        "branch": "master",
+        "lastSeen": "2025-11-06T18:12:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/oo-incubator",
+        "branch": "main",
+        "lastSeen": "2025-11-06T18:41:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz"
   },
   "openehr.base": {
     "name": "openehr.base",
