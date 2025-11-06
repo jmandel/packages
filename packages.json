@@ -22152,7 +22152,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_FHIR-52616/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_FHIR-52616",
-        "lastSeen": "2025-11-05T23:15:11.000Z"
+        "lastSeen": "2025-11-06T02:13:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_med_ingredient_binding/package.tgz",
@@ -22165,6 +22165,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_no-known-meds",
         "lastSeen": "2025-11-05T05:03:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_suppressed-data/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_suppressed-data",
+        "lastSeen": "2025-11-06T02:14:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
