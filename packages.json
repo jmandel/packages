@@ -25842,7 +25842,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-11-06T12:27:53.000Z"
+        "lastSeen": "2025-11-06T20:14:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -30960,7 +30960,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-central-cancer-registry-reporting-ig",
         "branch": "master",
-        "lastSeen": "2025-11-04T02:44:31.000Z"
+        "lastSeen": "2025-11-06T20:24:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/1.0.0/package.tgz",
@@ -43019,6 +43019,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/imaging-service-request-ig/branches/master/package.tgz"
   },
+  "hl7.fhir.uv.immunization-incubator": {
+    "name": "hl7.fhir.uv.immunization-incubator",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/immunization-incubator",
+        "branch": "main",
+        "lastSeen": "2025-11-06T20:13:14.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz"
+  },
   "hl7.fhir.uv.ipa": {
     "name": "hl7.fhir.uv.ipa",
     "locations": [
@@ -45078,7 +45090,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-11-06T16:47:19.000Z"
+        "lastSeen": "2025-11-06T19:52:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
