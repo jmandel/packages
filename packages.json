@@ -744,7 +744,13 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/CorrectionExemplesHAS/package.tgz",
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "CorrectionExemplesHAS",
-        "lastSeen": "2025-11-07T09:32:26.000Z"
+        "lastSeen": "2025-11-07T09:57:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/main/package.tgz",
+        "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
+        "branch": "main",
+        "lastSeen": "2025-11-07T10:37:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/CorrectionExemplesHAS/package.tgz"
@@ -2719,6 +2725,18 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "oe_claude",
         "lastSeen": "2025-11-07T08:07:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue382_multiple_preferred_languages/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue382_multiple_preferred_languages",
+        "lastSeen": "2025-11-07T10:22:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue384_author_extension_documentation/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue384_author_extension_documentation",
+        "lastSeen": "2025-11-07T10:31:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -11718,7 +11736,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/main/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "main",
-        "lastSeen": "2025-11-05T05:23:01.000Z"
+        "lastSeen": "2025-11-07T10:29:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/revert-3-03-draft-fsh-template/package.tgz",
@@ -14874,7 +14892,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/persistant-url/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "persistant-url",
-        "lastSeen": "2025-11-06T16:40:26.000Z"
+        "lastSeen": "2025-11-07T10:10:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -52775,6 +52793,18 @@
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-qrd-cda/branches/master/package.tgz"
   },
+  "medcom.fhir.dk.notes": {
+    "name": "medcom.fhir.dk.notes",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-Notes",
+        "branch": "githubpages",
+        "lastSeen": "2025-11-07T10:24:32.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
+  },
   "medcom.fhir.dk.shareddiagnoses": {
     "name": "medcom.fhir.dk.shareddiagnoses",
     "locations": [
@@ -58596,7 +58626,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-11-07T09:11:44.000Z"
+        "lastSeen": "2025-11-07T10:01:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
