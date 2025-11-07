@@ -2208,7 +2208,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-11-05T13:12:04.000Z"
+        "lastSeen": "2025-11-07T08:10:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -2701,6 +2701,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue381_name_extension_binding",
         "lastSeen": "2025-11-03T21:55:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_claude/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "oe_claude",
+        "lastSeen": "2025-11-07T08:07:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -14880,7 +14886,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-11-07T06:53:17.000Z"
+        "lastSeen": "2025-11-07T08:38:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -26023,6 +26029,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "ImplementationNotesFix",
         "lastSeen": "2025-11-03T11:28:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/ObligationsProAdresu/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "ObligationsProAdresu",
+        "lastSeen": "2025-11-07T08:31:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -26592,7 +26604,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-11-03T21:51:46.000Z"
+        "lastSeen": "2025-11-07T07:44:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -26628,7 +26640,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-11-03T21:53:03.000Z"
+        "lastSeen": "2025-11-07T07:45:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -27067,6 +27079,12 @@
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "FHIR-51342",
         "lastSeen": "2025-11-04T13:41:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R4-mapping-multiversion/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "R4-mapping-multiversion",
+        "lastSeen": "2025-11-07T08:23:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -51888,7 +51906,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-11-05T10:06:20.000Z"
+        "lastSeen": "2025-11-07T08:17:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -52878,7 +52896,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "develop",
-        "lastSeen": "2025-09-24T11:23:47.000Z"
+        "lastSeen": "2025-11-07T08:21:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/1.8.1/package.tgz",
@@ -52927,6 +52945,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "SKS_fixversioning",
         "lastSeen": "2025-10-28T13:23:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/ECG-terminology-valuesets/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-terminology",
+        "branch": "ECG-terminology-valuesets",
+        "lastSeen": "2025-11-07T08:22:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz"
