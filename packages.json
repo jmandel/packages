@@ -27156,7 +27156,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2025-11-07T08:23:56.000Z"
+        "lastSeen": "2025-11-07T14:45:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -27229,6 +27229,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "workflow-auto-deploy",
         "lastSeen": "2025-10-31T14:59:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/R4-mapping-multiversion/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r4",
+        "branch": "R4-mapping-multiversion",
+        "lastSeen": "2025-11-07T15:03:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -27433,6 +27439,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "workflow-auto-deploy",
         "lastSeen": "2025-10-31T14:59:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/R4-mapping-multiversion/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r5",
+        "branch": "R4-mapping-multiversion",
+        "lastSeen": "2025-11-07T14:56:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -36864,7 +36876,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-QR",
         "branch": "main",
-        "lastSeen": "2025-11-07T14:07:39.000Z"
+        "lastSeen": "2025-11-07T15:36:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz"
@@ -38821,6 +38833,12 @@
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "mlt-adds",
         "lastSeen": "2025-10-30T19:09:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/moehrke-more-clear-tagging/package.tgz",
+        "repo": "https://github.com/HL7/aitransparency-ig",
+        "branch": "moehrke-more-clear-tagging",
+        "lastSeen": "2025-11-07T14:58:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz"
@@ -43164,7 +43182,7 @@
         "url": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/immunization-incubator",
         "branch": "main",
-        "lastSeen": "2025-11-06T21:19:46.000Z"
+        "lastSeen": "2025-11-07T14:57:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz"
@@ -43734,7 +43752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-order-catalog/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-order-catalog",
         "branch": "master",
-        "lastSeen": "2025-06-12T15:53:00.000Z"
+        "lastSeen": "2025-11-07T14:47:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-order-catalog/branches/jdlnolen-FHIR-40823/package.tgz",
