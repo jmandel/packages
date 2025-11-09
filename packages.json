@@ -2791,6 +2791,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "claude_fix_issue_372",
         "lastSeen": "2025-11-09T09:35:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue369_update_api_scope_note/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue369_update_api_scope_note",
+        "lastSeen": "2025-11-09T10:57:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -11946,7 +11952,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/48-fix-bundle-issue-nullpointerexception-on-fhirlab/package.tgz",
         "repo": "https://github.com/UPM-NTHC/PH-RoadSafetyIG",
         "branch": "48-fix-bundle-issue-nullpointerexception-on-fhirlab",
-        "lastSeen": "2025-11-09T07:17:31.000Z"
+        "lastSeen": "2025-11-09T10:57:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UPM-NTHC/PH-RoadSafetyIG/branches/03-draft-fsh-template/package.tgz"
@@ -21756,7 +21762,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_guidance-batch3/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_guidance-batch3",
-        "lastSeen": "2025-11-04T10:32:20.000Z"
+        "lastSeen": "2025-11-09T11:35:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-51671_52522/package.tgz",
