@@ -2784,7 +2784,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue370_clarify_epr_consent_description/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue370_clarify_epr_consent_description",
-        "lastSeen": "2025-11-09T10:31:29.000Z"
+        "lastSeen": "2025-11-10T10:44:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/claude_fix_issue_372/package.tgz",
@@ -2796,7 +2796,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue369_update_api_scope_note/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue369_update_api_scope_note",
-        "lastSeen": "2025-11-09T10:57:24.000Z"
+        "lastSeen": "2025-11-10T10:41:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue359_update_icd10_gm_url/package.tgz",
@@ -3324,7 +3324,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emed",
         "branch": "master",
-        "lastSeen": "2025-11-10T07:16:34.000Z"
+        "lastSeen": "2025-11-10T11:20:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emed/branches/goFSH/package.tgz",
@@ -4260,7 +4260,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/IUA-Issue-401/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "IUA-Issue-401",
-        "lastSeen": "2025-11-10T09:34:11.000Z"
+        "lastSeen": "2025-11-10T10:46:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -5905,6 +5905,24 @@
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "resolutionDesk",
         "lastSeen": "2025-09-23T05:41:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/172_dependencies/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "172_dependencies",
+        "lastSeen": "2025-11-10T11:29:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/175_pinCanonicals/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "175_pinCanonicals",
+        "lastSeen": "2025-11-10T11:17:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/165_extInformationRecipient/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-report",
+        "branch": "165_extInformationRecipient",
+        "lastSeen": "2025-11-10T10:45:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/lpg-tech/ch-lab-report/branches/master/package.tgz"
@@ -16524,7 +16542,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/60-verify-that-attester-is-present-only-if-author-is-not-device/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "60-verify-that-attester-is-present-only-if-author-is-not-device",
-        "lastSeen": "2025-10-17T09:23:53.000Z"
+        "lastSeen": "2025-11-10T11:16:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/53-delete-value-set-at-aps-problems/package.tgz",
@@ -16591,6 +16609,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "36-20-52---fix-dependency-on-ipscurrent",
         "lastSeen": "2025-10-17T05:46:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/38-25---replace-immunizationbasedon-extension/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "38-25---replace-immunizationbasedon-extension",
+        "lastSeen": "2025-11-10T11:28:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -20886,7 +20910,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2025-11-10T05:06:53.000Z"
+        "lastSeen": "2025-11-10T10:57:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -27282,7 +27306,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2025-11-07T14:45:41.000Z"
+        "lastSeen": "2025-11-10T10:45:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -27360,7 +27384,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2025-11-07T15:03:10.000Z"
+        "lastSeen": "2025-11-10T10:56:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -27570,7 +27594,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2025-11-07T14:56:02.000Z"
+        "lastSeen": "2025-11-10T10:56:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -27781,6 +27805,12 @@
         "repo": "https://github.com/hl7-eu/mpd",
         "branch": "r5",
         "lastSeen": "2025-05-30T09:46:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/mpd/branches/liquid-multiversion/package.tgz",
+        "repo": "https://github.com/oijauregui/mpd",
+        "branch": "liquid-multiversion",
+        "lastSeen": "2025-11-10T10:47:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz"
@@ -27816,7 +27846,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/mpd-r5/branches/liquid-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/mpd-r5",
         "branch": "liquid-multiversion",
-        "lastSeen": "2025-11-06T13:18:40.000Z"
+        "lastSeen": "2025-11-10T10:47:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r5/package.tgz"
