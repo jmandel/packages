@@ -762,7 +762,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/DescriptionMetier/package.tgz",
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "DescriptionMetier",
-        "lastSeen": "2025-11-07T17:11:01.000Z"
+        "lastSeen": "2025-11-10T13:53:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/CorrectionExemplesHAS/package.tgz"
@@ -5455,6 +5455,12 @@
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "remove-usecase-4-sepsis",
         "lastSeen": "2025-11-10T13:21:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/update-changelog-381-380/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "update-changelog-381-380",
+        "lastSeen": "2025-11-10T13:40:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -10284,7 +10290,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-11-10T12:39:15.000Z"
+        "lastSeen": "2025-11-10T14:28:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -10962,7 +10968,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-11-10T13:38:24.000Z"
+        "lastSeen": "2025-11-10T14:35:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -15060,7 +15066,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-11-10T13:11:27.000Z"
+        "lastSeen": "2025-11-10T13:37:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -16644,7 +16650,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/38-25---replace-immunizationbasedon-extension/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "38-25---replace-immunizationbasedon-extension",
-        "lastSeen": "2025-11-10T11:28:29.000Z"
+        "lastSeen": "2025-11-10T14:10:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -29862,7 +29868,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/patient-admin-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/patient-admin-ig",
         "branch": "master",
-        "lastSeen": "2025-11-07T18:47:53.000Z"
+        "lastSeen": "2025-11-10T13:54:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-pt/patient-admin-ig/branches/master/package.tgz"
@@ -40764,7 +40770,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-11-05T16:13:24.000Z"
+        "lastSeen": "2025-11-10T13:49:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -49830,7 +49836,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2025-11-10T12:43:02.000Z"
+        "lastSeen": "2025-11-10T13:51:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -55824,7 +55830,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/use-ocl-code-system/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "use-ocl-code-system",
-        "lastSeen": "2025-11-10T10:09:16.000Z"
+        "lastSeen": "2025-11-10T14:27:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
