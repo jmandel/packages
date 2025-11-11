@@ -7081,6 +7081,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "341-useCase1-impfdokumentation-sichten",
         "lastSeen": "2025-11-11T09:29:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/342-useCase2-impfung-dokumentieren/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "342-useCase2-impfung-dokumentieren",
+        "lastSeen": "2025-11-11T12:12:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -9450,7 +9456,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2025-10-30T11:32:59.000Z"
+        "lastSeen": "2025-11-11T12:03:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -10596,7 +10602,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "main",
-        "lastSeen": "2025-11-10T22:58:36.000Z"
+        "lastSeen": "2025-11-11T12:00:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/dk-ehmi-eer-config/package.tgz",
@@ -15090,7 +15096,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/persistant-url/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "persistant-url",
-        "lastSeen": "2025-11-11T10:52:50.000Z"
+        "lastSeen": "2025-11-11T12:27:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization-service-authorization/package.tgz",
@@ -15895,6 +15901,12 @@
         "repo": "https://github.com/servicewell/servicewell.fhir.flc",
         "branch": "main",
         "lastSeen": "2025-11-07T12:20:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/servicewell/flc.fhir.base/branches/main/package.tgz",
+        "repo": "https://github.com/servicewell/flc.fhir.base",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:05:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz"
@@ -16692,7 +16704,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/55-56---create-examples-for-each-at-aps-profile/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "55-56---create-examples-for-each-at-aps-profile",
-        "lastSeen": "2025-11-11T08:25:18.000Z"
+        "lastSeen": "2025-11-11T12:30:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/36-20-52---fix-dependency-on-ipscurrent/package.tgz",
@@ -17940,7 +17952,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health-ips",
         "branch": "master",
-        "lastSeen": "2025-11-04T16:45:23.000Z"
+        "lastSeen": "2025-11-11T12:50:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/jkiddo-patch-1/package.tgz",
@@ -26544,7 +26556,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/szz",
         "branch": "master",
-        "lastSeen": "2025-11-11T11:00:38.000Z"
+        "lastSeen": "2025-11-11T11:59:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
@@ -27960,7 +27972,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/mpd/branches/liquid-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/mpd",
         "branch": "liquid-multiversion",
-        "lastSeen": "2025-11-11T09:32:16.000Z"
+        "lastSeen": "2025-11-11T12:47:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz"
@@ -27996,7 +28008,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/mpd-r5/branches/liquid-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/mpd-r5",
         "branch": "liquid-multiversion",
-        "lastSeen": "2025-11-11T09:32:18.000Z"
+        "lastSeen": "2025-11-11T12:50:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r5/package.tgz"
@@ -47946,7 +47958,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/organization-type-v2.0.0/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "organization-type-v2.0.0",
-        "lastSeen": "2025-11-02T20:00:09.000Z"
+        "lastSeen": "2025-11-11T12:48:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/wg-medication/package.tgz",
@@ -49962,7 +49974,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2025-11-10T13:51:50.000Z"
+        "lastSeen": "2025-11-11T12:32:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -52620,7 +52632,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "develop",
-        "lastSeen": "2025-09-24T12:27:37.000Z"
+        "lastSeen": "2025-11-11T12:26:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.4.1-RCH-3/package.tgz",
@@ -52681,6 +52693,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "RCH-CC-dependencies",
         "lastSeen": "2025-09-24T09:30:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-core-update/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "EKG-core-update",
+        "lastSeen": "2025-11-11T12:27:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -55962,7 +55980,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/use-ocl-code-system/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "use-ocl-code-system",
-        "lastSeen": "2025-11-11T10:17:23.000Z"
+        "lastSeen": "2025-11-11T12:09:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -56869,6 +56887,84 @@
         "repo": "https://github.com/costateixeira/logicalmodelstuff",
         "branch": "main",
         "lastSeen": "2025-07-08T21:08:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/LynnNyari/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/LynnNyari/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/SimbaChap/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/SimbaChap/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cchigoriwa/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/cchigoriwa/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:12:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/GrahamMafunhiya/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/GrahamMafunhiya/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/chihwayi/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/chihwayi/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Takue05/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/Takue05/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Constance-23/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/Constance-23/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:12:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:12:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/smakuto/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/smakuto/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:13:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/haskewc/ig-template-empty/branches/main/package.tgz",
+        "repo": "https://github.com/haskewc/ig-template-empty",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:05:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/haskewc/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/haskewc/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:55:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/lyotta/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/lyotta/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/eng-monanto/labtest-ig/branches/main/package.tgz",
+        "repo": "https://github.com/eng-monanto/labtest-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-11T12:11:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
