@@ -4266,7 +4266,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/IUA-Issue-401/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "IUA-Issue-401",
-        "lastSeen": "2025-11-11T09:10:36.000Z"
+        "lastSeen": "2025-11-11T10:08:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -4704,7 +4704,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/24_nextVisit/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "24_nextVisit",
-        "lastSeen": "2025-11-11T09:05:21.000Z"
+        "lastSeen": "2025-11-11T10:23:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/46_updateIpsLink/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epreg",
+        "branch": "46_updateIpsLink",
+        "lastSeen": "2025-11-11T10:35:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -10332,7 +10338,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-11-11T08:30:48.000Z"
+        "lastSeen": "2025-11-11T10:12:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -26525,6 +26531,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
   },
+  "hl7.fhir.cz.szz": {
+    "name": "hl7.fhir.cz.szz",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
+        "repo": "https://github.com/HL7-cz/szz",
+        "branch": "master",
+        "lastSeen": "2025-11-11T10:24:41.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
+  },
   "hl7.fhir.cz.terminology": {
     "name": "hl7.fhir.cz.terminology",
     "locations": [
@@ -27427,6 +27445,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "R4-mapping-multiversion",
         "lastSeen": "2025-11-10T15:09:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ActorsAndUsecases/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "ActorsAndUsecases",
+        "lastSeen": "2025-11-11T09:58:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -47910,7 +47934,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/organization-type-1.x.y/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "organization-type-1.x.y",
-        "lastSeen": "2025-04-02T15:44:26.000Z"
+        "lastSeen": "2025-11-11T10:26:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/organization-type-v2.0.0/package.tgz",
@@ -55926,7 +55950,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/use-ocl-code-system/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "use-ocl-code-system",
-        "lastSeen": "2025-11-11T09:15:39.000Z"
+        "lastSeen": "2025-11-11T10:17:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -58356,7 +58380,7 @@
         "url": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz",
         "repo": "https://github.com/hpapa2025/pad",
         "branch": "main",
-        "lastSeen": "2025-11-11T08:00:45.000Z"
+        "lastSeen": "2025-11-11T10:09:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz"
