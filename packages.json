@@ -4266,7 +4266,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/IUA-Issue-401/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "IUA-Issue-401",
-        "lastSeen": "2025-11-11T08:09:14.000Z"
+        "lastSeen": "2025-11-11T09:10:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -4699,6 +4699,12 @@
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "21_multipleEncounters",
         "lastSeen": "2025-11-11T07:16:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/24_nextVisit/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-epreg",
+        "branch": "24_nextVisit",
+        "lastSeen": "2025-11-11T09:05:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/neues4/ch-epreg/branches/master/package.tgz"
@@ -5520,7 +5526,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-report",
         "branch": "master",
-        "lastSeen": "2025-11-10T08:57:51.000Z"
+        "lastSeen": "2025-11-11T09:20:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-report/branches/1-tvt/package.tgz",
@@ -7063,6 +7069,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "337-rest-apiresource-based-exchange-option",
         "lastSeen": "2025-11-04T06:03:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/341-useCase1-impfdokumentation-sichten/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "341-useCase1-impfdokumentation-sichten",
+        "lastSeen": "2025-11-11T09:29:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -10440,7 +10452,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-new-valueSet/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-21528-new-valueSet",
-        "lastSeen": "2025-11-07T14:11:16.000Z"
+        "lastSeen": "2025-11-11T08:51:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -27918,7 +27930,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/mpd/branches/liquid-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/mpd",
         "branch": "liquid-multiversion",
-        "lastSeen": "2025-11-10T16:13:54.000Z"
+        "lastSeen": "2025-11-11T09:32:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz"
@@ -27954,7 +27966,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/mpd-r5/branches/liquid-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/mpd-r5",
         "branch": "liquid-multiversion",
-        "lastSeen": "2025-11-10T16:18:32.000Z"
+        "lastSeen": "2025-11-11T09:32:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r5/package.tgz"
@@ -55914,7 +55926,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/use-ocl-code-system/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "use-ocl-code-system",
-        "lastSeen": "2025-11-11T08:32:33.000Z"
+        "lastSeen": "2025-11-11T09:15:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
