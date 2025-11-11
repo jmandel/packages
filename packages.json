@@ -13621,6 +13621,12 @@
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "dependency-management-docs",
         "lastSeen": "2025-10-30T15:43:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/pin-dependencies/package.tgz",
+        "repo": "https://github.com/cqframework/vsp-ig",
+        "branch": "pin-dependencies",
+        "lastSeen": "2025-11-11T22:09:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz"
@@ -45612,7 +45618,7 @@
         "url": "https://build.fhir.org/ig/cander2/src-ig/branches/main/package.tgz",
         "repo": "https://github.com/cander2/src-ig",
         "branch": "main",
-        "lastSeen": "2025-11-11T20:31:58.000Z"
+        "lastSeen": "2025-11-11T22:33:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cander2/src-ig/branches/main/package.tgz"
