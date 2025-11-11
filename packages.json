@@ -3732,7 +3732,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/main/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "main",
-        "lastSeen": "2025-11-03T07:24:53.000Z"
+        "lastSeen": "2025-11-11T07:58:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/clean_warnings/package.tgz",
@@ -3822,7 +3822,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-11-03T19:36:47.000Z"
+        "lastSeen": "2025-11-11T07:53:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -4260,13 +4260,13 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/sequence-table/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "sequence-table",
-        "lastSeen": "2025-11-10T07:37:56.000Z"
+        "lastSeen": "2025-11-11T07:30:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/IUA-Issue-401/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "IUA-Issue-401",
-        "lastSeen": "2025-11-11T06:43:22.000Z"
+        "lastSeen": "2025-11-11T08:09:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -4584,7 +4584,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-11-11T07:19:44.000Z"
+        "lastSeen": "2025-11-11T07:47:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -4680,7 +4680,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/25_narrative/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "25_narrative",
-        "lastSeen": "2025-11-03T10:55:46.000Z"
+        "lastSeen": "2025-11-11T07:53:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/29_twins/package.tgz",
@@ -10320,7 +10320,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2025_4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2025_4",
-        "lastSeen": "2025-11-10T14:28:27.000Z"
+        "lastSeen": "2025-11-11T08:30:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20825_ig_errors_on_unknown_property_idempotent/package.tgz",
@@ -10536,7 +10536,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-11-06T10:00:32.000Z"
+        "lastSeen": "2025-11-11T08:03:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -10596,7 +10596,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2025-09-18T07:40:14.000Z"
+        "lastSeen": "2025-11-11T08:02:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main_CS_update/package.tgz",
@@ -10998,7 +10998,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-11-11T07:18:39.000Z"
+        "lastSeen": "2025-11-11T07:52:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -16668,7 +16668,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/55-56---create-examples-for-each-at-aps-profile/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "55-56---create-examples-for-each-at-aps-profile",
-        "lastSeen": "2025-11-06T13:25:12.000Z"
+        "lastSeen": "2025-11-11T08:25:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/36-20-52---fix-dependency-on-ipscurrent/package.tgz",
@@ -55914,7 +55914,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/use-ocl-code-system/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "use-ocl-code-system",
-        "lastSeen": "2025-11-11T07:32:06.000Z"
+        "lastSeen": "2025-11-11T08:32:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -58344,7 +58344,7 @@
         "url": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz",
         "repo": "https://github.com/hpapa2025/pad",
         "branch": "main",
-        "lastSeen": "2025-10-30T09:54:47.000Z"
+        "lastSeen": "2025-11-11T08:00:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hpapa2025/pad/branches/main/package.tgz"
@@ -59028,7 +59028,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-11-10T13:13:15.000Z"
+        "lastSeen": "2025-11-11T07:54:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
