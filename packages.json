@@ -2238,7 +2238,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-11-12T13:35:15.000Z"
+        "lastSeen": "2025-11-12T13:49:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -2742,13 +2742,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue382_multiple_preferred_languages/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue382_multiple_preferred_languages",
-        "lastSeen": "2025-11-07T10:22:46.000Z"
+        "lastSeen": "2025-11-12T13:47:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue384_author_extension_documentation/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue384_author_extension_documentation",
-        "lastSeen": "2025-11-07T10:31:02.000Z"
+        "lastSeen": "2025-11-12T13:45:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue380_originalrepresentation_future_note/package.tgz",
@@ -11076,7 +11076,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-11-12T12:23:10.000Z"
+        "lastSeen": "2025-11-12T14:36:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -29628,7 +29628,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/terminology/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/terminology",
         "branch": "master",
-        "lastSeen": "2025-06-16T09:59:55.000Z"
+        "lastSeen": "2025-11-12T13:44:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/terminology/branches/11122023/package.tgz",
@@ -61278,7 +61278,7 @@
         "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main/package.tgz",
         "repo": "https://github.com/mohcc/fhir-zw-core-ig",
         "branch": "main",
-        "lastSeen": "2025-11-12T13:36:13.000Z"
+        "lastSeen": "2025-11-12T14:12:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main-page/package.tgz",
@@ -61290,7 +61290,31 @@
         "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/Logo-and-Colour-Theme/package.tgz",
         "repo": "https://github.com/mohcc/fhir-zw-core-ig",
         "branch": "Logo-and-Colour-Theme",
-        "lastSeen": "2025-11-12T13:44:29.000Z"
+        "lastSeen": "2025-11-12T14:00:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/gender/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "gender",
+        "lastSeen": "2025-11-12T14:14:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/GrahamMafunhiya-patch-1/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "GrahamMafunhiya-patch-1",
+        "lastSeen": "2025-11-12T13:53:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/maritalstatus/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "maritalstatus",
+        "lastSeen": "2025-11-12T14:42:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/placeofbirth-extension/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "placeofbirth-extension",
+        "lastSeen": "2025-11-12T14:27:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main/package.tgz"
