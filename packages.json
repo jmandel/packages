@@ -4584,7 +4584,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-11-12T07:29:01.000Z"
+        "lastSeen": "2025-11-12T10:23:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -10470,7 +10470,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-new-valueSet/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-21528-new-valueSet",
-        "lastSeen": "2025-11-12T08:47:27.000Z"
+        "lastSeen": "2025-11-12T09:44:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/7.0.0/package.tgz",
@@ -26262,7 +26262,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/elp/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/elp",
         "branch": "master",
-        "lastSeen": "2025-11-12T08:41:37.000Z"
+        "lastSeen": "2025-11-12T09:58:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/elp/branches/master/package.tgz"
@@ -52452,7 +52452,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-11-07T08:17:55.000Z"
+        "lastSeen": "2025-11-12T09:48:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -52477,6 +52477,18 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "opdateConversionService",
         "lastSeen": "2025-11-12T09:35:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.4-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.4-githubpages",
+        "lastSeen": "2025-11-12T09:48:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v5.0.4-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v5.0.4-githubpages",
+        "lastSeen": "2025-11-12T09:49:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -54738,7 +54750,7 @@
         "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/2025Connectathon/branches/main/package.tgz",
         "repo": "https://github.com/Nigeria-FHIR-Community/2025Connectathon",
         "branch": "main",
-        "lastSeen": "2025-11-10T16:25:13.000Z"
+        "lastSeen": "2025-11-12T09:42:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nigeria-FHIR-Community/2025Connectathon/branches/main/package.tgz"
@@ -61222,5 +61234,17 @@
       }
     ],
     "current": "https://build.fhir.org/ig/MOH-Zambia/smart-immunizations-measles/branches/main/package.tgz"
+  },
+  "zw.fhir.ig.core": {
+    "name": "zw.fhir.ig.core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-12T10:30:34.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main/package.tgz"
   }
 }
