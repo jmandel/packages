@@ -48258,7 +48258,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2025-10-17T16:46:44.000Z"
+        "lastSeen": "2025-11-12T16:56:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
@@ -61333,6 +61333,12 @@
         "repo": "https://github.com/mohcc/fhir-zw-core-ig",
         "branch": "reconcile",
         "lastSeen": "2025-11-12T16:15:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/chihwayi-patch-2/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "chihwayi-patch-2",
+        "lastSeen": "2025-11-12T17:04:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main/package.tgz"
