@@ -4602,7 +4602,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-epreg",
         "branch": "main",
-        "lastSeen": "2025-11-13T16:30:23.000Z"
+        "lastSeen": "2025-11-13T16:46:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-epreg/branches/update_example/package.tgz",
@@ -10674,7 +10674,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "main",
-        "lastSeen": "2025-11-13T16:35:32.000Z"
+        "lastSeen": "2025-11-13T17:11:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/dk-ehmi-eer-config/package.tgz",
@@ -31548,7 +31548,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-central-cancer-registry-reporting-ig",
         "branch": "master",
-        "lastSeen": "2025-11-07T20:02:32.000Z"
+        "lastSeen": "2025-11-13T17:33:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-central-cancer-registry-reporting-ig/branches/1.0.0/package.tgz",
@@ -31962,7 +31962,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2025-11-10T18:13:46.000Z"
+        "lastSeen": "2025-11-13T17:29:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
@@ -44154,7 +44154,7 @@
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "main",
-        "lastSeen": "2025-10-31T21:30:05.000Z"
+        "lastSeen": "2025-11-13T16:55:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/focus-cs-ak/package.tgz",
@@ -44766,7 +44766,7 @@
         "url": "https://build.fhir.org/ig/HL7/rtq-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/rtq-ig",
         "branch": "main",
-        "lastSeen": "2025-11-13T12:49:40.000Z"
+        "lastSeen": "2025-11-13T17:33:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/rtq-ig/branches/main/package.tgz"
@@ -45804,7 +45804,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-11-06T19:52:45.000Z"
+        "lastSeen": "2025-11-13T17:40:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
@@ -46674,7 +46674,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2025-11-13T06:34:44.000Z"
+        "lastSeen": "2025-11-13T16:27:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -47743,6 +47743,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-731-Change-non-code-concept-properties-to-type-string",
         "lastSeen": "2025-11-13T08:03:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-730-Remove--Specializes--and--Generalizes--properties-from-v3-code-systems/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-730-Remove--Specializes--and--Generalizes--properties-from-v3-code-systems",
+        "lastSeen": "2025-11-13T15:59:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
