@@ -3787,6 +3787,12 @@
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "refine_bundle_spec",
         "lastSeen": "2025-11-07T12:31:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/itcode_classification/package.tgz",
+        "repo": "https://github.com/bag-epl/bag-epl-fhir",
+        "branch": "itcode_classification",
+        "lastSeen": "2025-11-13T10:32:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -3828,7 +3834,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-11-13T08:27:53.000Z"
+        "lastSeen": "2025-11-13T10:12:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -4248,7 +4254,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-391-remove-page-count-requirement/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "issue-391-remove-page-count-requirement",
-        "lastSeen": "2025-11-06T11:27:44.000Z"
+        "lastSeen": "2025-11-13T10:11:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-385-clarify-designationtype/package.tgz",
@@ -4260,7 +4266,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/393-trace-context-katie-reynolds-epic/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "393-trace-context-katie-reynolds-epic",
-        "lastSeen": "2025-11-12T15:31:31.000Z"
+        "lastSeen": "2025-11-13T10:10:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/sequence-table/package.tgz",
@@ -10482,7 +10488,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-new-valueSet/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-21528-new-valueSet",
-        "lastSeen": "2025-11-12T13:31:10.000Z"
+        "lastSeen": "2025-11-13T10:20:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/7.0.0/package.tgz",
@@ -14226,7 +14232,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-11-13T08:05:02.000Z"
+        "lastSeen": "2025-11-13T10:27:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/immunization-ips-profile/package.tgz",
@@ -14359,6 +14365,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "jkBranding",
         "lastSeen": "2025-11-13T08:03:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/dockerfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "dockerfile",
+        "lastSeen": "2025-11-13T09:49:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/fixTypo/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "fixTypo",
+        "lastSeen": "2025-11-13T10:26:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
@@ -26874,7 +26892,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5.0",
-        "lastSeen": "2025-11-03T14:32:47.000Z"
+        "lastSeen": "2025-11-13T09:41:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0-documentreference/package.tgz",
@@ -27288,7 +27306,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2025-11-09T20:37:42.000Z"
+        "lastSeen": "2025-11-13T10:21:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
