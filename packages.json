@@ -3792,7 +3792,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/itcode_classification/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "itcode_classification",
-        "lastSeen": "2025-11-13T16:09:23.000Z"
+        "lastSeen": "2025-11-14T08:29:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -4285,6 +4285,24 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "issue-394-add-epr-architecture-link",
         "lastSeen": "2025-11-13T14:16:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/375-find-matching-care-services-iti-90-katie-reynolds-epic/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "375-find-matching-care-services-iti-90-katie-reynolds-epic",
+        "lastSeen": "2025-11-14T07:30:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/350-iti-119-audit-invalid-cardinality-for-entitypatient/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "350-iti-119-audit-invalid-cardinality-for-entitypatient",
+        "lastSeen": "2025-11-14T08:08:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/387-cardinality-of-organizationname-and-organizationtype-katie-reynolds-epic/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "387-cardinality-of-organizationname-and-organizationtype-katie-reynolds-epic",
+        "lastSeen": "2025-11-14T07:50:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -15234,7 +15252,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-11-13T08:08:55.000Z"
+        "lastSeen": "2025-11-14T07:45:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -15414,7 +15432,7 @@
         "url": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/master/package.tgz",
         "repo": "https://github.com/Kimsber/Rehab-IG",
         "branch": "master",
-        "lastSeen": "2025-11-12T02:30:47.000Z"
+        "lastSeen": "2025-11-14T08:06:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/master/package.tgz"
@@ -26376,7 +26394,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/elp/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/elp",
         "branch": "master",
-        "lastSeen": "2025-11-12T09:58:55.000Z"
+        "lastSeen": "2025-11-14T07:44:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/elp/branches/master/package.tgz"
@@ -27144,7 +27162,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-11-11T21:08:26.000Z"
+        "lastSeen": "2025-11-14T08:02:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -46692,7 +46710,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2025-11-14T06:30:20.000Z"
+        "lastSeen": "2025-11-14T07:48:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
