@@ -3880,6 +3880,14 @@
     }
   },
   {
+    "name": "hl7.fhir.pl.base.r5",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main-r5/package.tgz",
+      "repo": "https://github.com/HL7-Poland/pl-fhir-base",
+      "branch": "main-r5"
+    }
+  },
+  {
     "name": "hl7.fhir.pl.imaging",
     "current": {
       "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-imaging/branches/main/package.tgz",
