@@ -25578,7 +25578,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "release-candidate",
-        "lastSeen": "2025-11-17T10:03:26.000Z"
+        "lastSeen": "2025-11-17T12:39:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -27096,7 +27096,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/181-review-encounter-example-missing/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "181-review-encounter-example-missing",
-        "lastSeen": "2025-11-03T14:33:53.000Z"
+        "lastSeen": "2025-11-17T11:42:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -30222,7 +30222,7 @@
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz",
         "repo": "https://github.com/SSIDL/ssidl-ig",
         "branch": "main",
-        "lastSeen": "2025-11-16T14:01:42.000Z"
+        "lastSeen": "2025-11-17T12:43:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/version-0.1.1/package.tgz",
@@ -48468,7 +48468,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2025-11-06T12:00:44.000Z"
+        "lastSeen": "2025-11-17T12:34:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz"
@@ -51072,7 +51072,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2025-11-17T07:34:57.000Z"
+        "lastSeen": "2025-11-17T12:19:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -53113,6 +53113,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "EKG-core-update",
         "lastSeen": "2025-11-12T07:27:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-SGA/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "EKG-SGA",
+        "lastSeen": "2025-11-17T12:49:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
@@ -53238,7 +53244,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/2025-08-20-ECG/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "2025-08-20-ECG",
-        "lastSeen": "2025-11-17T11:17:46.000Z"
+        "lastSeen": "2025-11-17T11:54:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
