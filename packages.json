@@ -16764,7 +16764,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "main",
-        "lastSeen": "2025-11-11T14:00:17.000Z"
+        "lastSeen": "2025-11-18T08:16:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
@@ -26802,7 +26802,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-11-18T07:36:47.000Z"
+        "lastSeen": "2025-11-18T08:16:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -30258,7 +30258,7 @@
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz",
         "repo": "https://github.com/SSIDL/ssidl-ig",
         "branch": "main",
-        "lastSeen": "2025-11-17T12:43:18.000Z"
+        "lastSeen": "2025-11-18T08:38:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/version-0.1.1/package.tgz",
@@ -52507,6 +52507,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "SKS_UpdateExamples",
         "lastSeen": "2025-11-05T13:38:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_ACK_test/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
+        "branch": "SKS_ACK_test",
+        "lastSeen": "2025-11-18T08:13:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz"
@@ -52548,7 +52554,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master",
-        "lastSeen": "2025-10-29T10:03:27.000Z"
+        "lastSeen": "2025-11-18T07:46:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
@@ -53172,7 +53178,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-SGA/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "EKG-SGA",
-        "lastSeen": "2025-11-17T12:49:44.000Z"
+        "lastSeen": "2025-11-18T08:12:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
