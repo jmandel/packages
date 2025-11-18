@@ -762,7 +762,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/DescriptionMetier/package.tgz",
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "DescriptionMetier",
-        "lastSeen": "2025-11-18T14:01:12.000Z"
+        "lastSeen": "2025-11-18T16:06:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/CorrectionExemplesHAS/package.tgz"
@@ -8442,7 +8442,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2025-11-03T12:56:39.000Z"
+        "lastSeen": "2025-11-18T16:05:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -13777,6 +13777,12 @@
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "pin-dependencies",
         "lastSeen": "2025-11-11T22:09:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/ccda-release-package-vsac/package.tgz",
+        "repo": "https://github.com/cqframework/vsp-ig",
+        "branch": "ccda-release-package-vsac",
+        "lastSeen": "2025-11-18T16:42:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/master/package.tgz"
@@ -26574,13 +26580,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-11-03T12:42:21.000Z"
+        "lastSeen": "2025-11-18T16:01:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-11-07T09:28:03.000Z"
+        "lastSeen": "2025-11-18T16:03:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -26743,6 +26749,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "subsekceOpravaEntry",
         "lastSeen": "2025-11-18T14:35:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/PatientHistorySubsections/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "PatientHistorySubsections",
+        "lastSeen": "2025-11-18T15:42:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -29874,7 +29886,7 @@
         "url": "https://build.fhir.org/ig/hl7-it/lab-report/branches/master/package.tgz",
         "repo": "https://github.com/hl7-it/lab-report",
         "branch": "master",
-        "lastSeen": "2024-03-07T18:36:40.000Z"
+        "lastSeen": "2025-11-18T15:38:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-it/lab-report/branches/hl7-eu-guide/package.tgz",
@@ -37620,7 +37632,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-QR",
         "branch": "main",
-        "lastSeen": "2025-11-18T15:10:31.000Z"
+        "lastSeen": "2025-11-18T15:56:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz"
@@ -48516,7 +48528,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2025-11-18T15:34:02.000Z"
+        "lastSeen": "2025-11-18T15:53:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/changed-cardinality-for-ingredients-to-unlimited/package.tgz",
