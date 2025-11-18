@@ -16337,6 +16337,24 @@
     ],
     "current": "https://build.fhir.org/ig/erezshalom/ILCOREIG/branches/main/package.tgz"
   },
+  "hie-fhir-ig-profile": {
+    "name": "hie-fhir-ig-profile",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/assorted-fixes/package.tgz",
+        "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
+        "branch": "assorted-fixes",
+        "lastSeen": "2025-11-18T12:23:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz",
+        "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
+        "branch": "main",
+        "lastSeen": "2025-11-18T12:24:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz"
+  },
   "hl7-eu-microbiology-experiment": {
     "name": "hl7-eu-microbiology-experiment",
     "locations": [
@@ -26544,7 +26562,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2025-11-13T15:17:42.000Z"
+        "lastSeen": "2025-11-18T11:37:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz"
@@ -48534,7 +48552,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-allergy/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-allergy",
         "branch": "main",
-        "lastSeen": "2025-11-18T11:19:57.000Z"
+        "lastSeen": "2025-11-18T12:10:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-allergy/branches/working/package.tgz",
@@ -53208,7 +53226,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-SGA/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "EKG-SGA",
-        "lastSeen": "2025-11-18T08:12:32.000Z"
+        "lastSeen": "2025-11-18T11:38:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
