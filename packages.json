@@ -10763,6 +10763,18 @@
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/githubpagesmaster/package.tgz"
   },
+  "dk.fhir.ig.dk-medcom-core": {
+    "name": "dk.fhir.ig.dk-medcom-core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_PathFix/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-core",
+        "branch": "SKS_PathFix",
+        "lastSeen": "2025-11-18T09:11:33.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_PathFix/package.tgz"
+  },
   "dk.fhir.ig.dk-medcom-hospitalnotification": {
     "name": "dk.fhir.ig.dk-medcom-hospitalnotification",
     "locations": [
@@ -16986,7 +16998,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "main",
-        "lastSeen": "2025-11-06T12:40:22.000Z"
+        "lastSeen": "2025-11-18T09:24:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
@@ -17017,6 +17029,12 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "96-10---slot-freigabe-nach-statusfree",
         "lastSeen": "2025-11-05T12:57:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/116-typos/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "116-typos",
+        "lastSeen": "2025-11-18T09:25:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -24690,7 +24708,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/jct/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "jct",
-        "lastSeen": "2025-11-17T15:10:41.000Z"
+        "lastSeen": "2025-11-18T09:01:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/business/package.tgz",
@@ -25608,7 +25626,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/ec-ehealth-test/package.tgz",
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "ec-ehealth-test",
-        "lastSeen": "2025-11-18T07:24:30.000Z"
+        "lastSeen": "2025-11-18T09:30:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -27768,7 +27786,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ActorsAndUsecases/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "ActorsAndUsecases",
-        "lastSeen": "2025-11-12T15:55:15.000Z"
+        "lastSeen": "2025-11-18T09:35:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -29958,7 +29976,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2025-11-12T09:27:53.000Z"
+        "lastSeen": "2025-11-18T09:23:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -30258,7 +30276,7 @@
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/main/package.tgz",
         "repo": "https://github.com/SSIDL/ssidl-ig",
         "branch": "main",
-        "lastSeen": "2025-11-18T08:38:32.000Z"
+        "lastSeen": "2025-11-18T09:31:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SSIDL/ssidl-ig/branches/version-0.1.1/package.tgz",
