@@ -328,6 +328,14 @@
     }
   },
   {
+    "name": "au.digitalhealth.r4.healthconnect",
+    "current": {
+      "url": "https://build.fhir.org/ig/AuDigitalHealth/HealthConnect/branches/main/package.tgz",
+      "repo": "https://github.com/AuDigitalHealth/HealthConnect",
+      "branch": "main"
+    }
+  },
+  {
     "name": "au.digitalhealth.r4.mhr-fhir-gw",
     "current": {
       "url": "https://build.fhir.org/ig/AuDigitalHealth/mcv/branches/mcv-patient/package.tgz",
