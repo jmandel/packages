@@ -1003,6 +1003,12 @@
         "repo": "https://github.com/AuDigitalHealth/HealthConnect",
         "branch": "test",
         "lastSeen": "2025-11-20T05:44:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/HealthConnect/branches/release-0.1.0-preview/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/HealthConnect",
+        "branch": "release-0.1.0-preview",
+        "lastSeen": "2025-11-20T06:53:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/HealthConnect/branches/main/package.tgz"
@@ -15390,7 +15396,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-11-20T06:33:42.000Z"
+        "lastSeen": "2025-11-20T07:15:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -22411,6 +22417,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "cr_fhir-52390-52284",
         "lastSeen": "2025-11-18T03:35:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/cr_fhir-52409/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "cr_fhir-52409",
+        "lastSeen": "2025-11-20T06:45:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -23161,6 +23173,12 @@
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "draft-profiles",
         "lastSeen": "2025-08-11T07:09:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/temp-profiles/package.tgz",
+        "repo": "https://github.com/hl7-be/childrecord",
+        "branch": "temp-profiles",
+        "lastSeen": "2025-11-20T07:39:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/childrecord/branches/master/package.tgz"
