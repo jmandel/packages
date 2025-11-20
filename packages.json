@@ -4374,7 +4374,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/407-value-other-be-excluded-from-practitionergender/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "407-value-other-be-excluded-from-practitionergender",
-        "lastSeen": "2025-11-17T14:24:41.000Z"
+        "lastSeen": "2025-11-20T16:23:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-392-clarify-pdqm-provider-organization/package.tgz",
@@ -9216,7 +9216,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-11-20T12:16:11.000Z"
+        "lastSeen": "2025-11-20T16:03:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -15420,13 +15420,13 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/v0.2.0/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "v0.2.0",
-        "lastSeen": "2025-11-20T15:07:46.000Z"
+        "lastSeen": "2025-11-20T16:39:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/page-status-and-IG-version-history/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "page-status-and-IG-version-history",
-        "lastSeen": "2025-11-20T15:30:44.000Z"
+        "lastSeen": "2025-11-20T16:44:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -18528,7 +18528,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/oah",
         "branch": "master",
-        "lastSeen": "2025-11-16T14:16:42.000Z"
+        "lastSeen": "2025-11-20T16:41:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz"
@@ -26124,7 +26124,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/IPS-CL",
         "branch": "master",
-        "lastSeen": "2025-08-21T20:45:19.000Z"
+        "lastSeen": "2025-11-20T15:29:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/Tesis/package.tgz",
@@ -26628,7 +26628,7 @@
         "url": "https://build.fhir.org/ig/HL7-cr/terminology/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cr/terminology",
         "branch": "main",
-        "lastSeen": "2025-11-15T21:02:59.000Z"
+        "lastSeen": "2025-11-20T16:19:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cr/terminology/branches/main/package.tgz"
@@ -37542,7 +37542,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2025-11-14T14:52:42.000Z"
+        "lastSeen": "2025-11-20T16:04:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -41556,7 +41556,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-11-20T13:33:02.000Z"
+        "lastSeen": "2025-11-20T16:18:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -51781,6 +51781,12 @@
         "repo": "https://github.com/jembi/Starter-FHIR-IG",
         "branch": "add-maps",
         "lastSeen": "2025-05-11T13:10:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Speedykom/tz-fhir-facade-ig/branches/main/package.tgz",
+        "repo": "https://github.com/Speedykom/tz-fhir-facade-ig",
+        "branch": "main",
+        "lastSeen": "2025-11-20T15:41:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jembi/Starter-FHIR-IG/branches/master/package.tgz"
