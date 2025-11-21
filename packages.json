@@ -6558,7 +6558,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-11-05T09:39:25.000Z"
+        "lastSeen": "2025-11-21T10:41:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -6810,7 +6810,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/138-vaccinecodes-septemberoctober-2026/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "138-vaccinecodes-septemberoctober-2026",
-        "lastSeen": "2025-11-21T09:03:52.000Z"
+        "lastSeen": "2025-11-21T11:20:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/138-new-vaccinecodes-septemberoctober-2026/package.tgz",
@@ -15432,7 +15432,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/consent-nov/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "consent-nov",
-        "lastSeen": "2025-11-07T13:30:09.000Z"
+        "lastSeen": "2025-11-21T11:34:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/persistant-url/package.tgz",
@@ -16518,7 +16518,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
         "branch": "main",
-        "lastSeen": "2025-11-21T07:39:05.000Z"
+        "lastSeen": "2025-11-21T11:38:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/assorted-obs-refactors/package.tgz",
@@ -16549,6 +16549,12 @@
         "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
         "branch": "refactor-publish-command",
         "lastSeen": "2025-11-21T08:40:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/push-ig-to-shr/package.tgz",
+        "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
+        "branch": "push-ig-to-shr",
+        "lastSeen": "2025-11-21T11:24:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz"
@@ -25026,7 +25032,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/jct/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "jct",
-        "lastSeen": "2025-11-21T08:00:07.000Z"
+        "lastSeen": "2025-11-21T11:01:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/business/package.tgz",
@@ -50802,7 +50808,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2025-11-21T10:33:42.000Z"
+        "lastSeen": "2025-11-21T11:40:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
