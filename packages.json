@@ -6799,6 +6799,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "oliveregger-patch-1",
         "lastSeen": "2025-10-29T09:42:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/121-ch-vacd-vacinecode-split/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "121-ch-vacd-vacinecode-split",
+        "lastSeen": "2025-11-21T05:47:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -16939,6 +16945,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "70-Apply-Template-for-Base-IGs",
         "lastSeen": "2025-11-14T14:25:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/72-replace-austrian-extension-for-religion-with-the-international-one/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "72-replace-austrian-extension-for-religion-with-the-international-one",
+        "lastSeen": "2025-11-21T06:36:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -19770,7 +19782,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/FHIR-52016/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "FHIR-52016",
-        "lastSeen": "2025-11-20T04:22:03.000Z"
+        "lastSeen": "2025-11-21T05:34:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_body-site-laterality/package.tgz",
@@ -26640,13 +26652,13 @@
         "url": "https://build.fhir.org/ig/HL7-cr/terminology/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cr/terminology",
         "branch": "develop",
-        "lastSeen": "2025-11-21T04:33:12.000Z"
+        "lastSeen": "2025-11-21T06:43:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cr/terminology/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cr/terminology",
         "branch": "main",
-        "lastSeen": "2025-11-21T04:40:32.000Z"
+        "lastSeen": "2025-11-21T06:25:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cr/terminology/branches/main/package.tgz"
@@ -58476,7 +58488,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "main",
-        "lastSeen": "2025-10-26T07:48:59.000Z"
+        "lastSeen": "2025-11-21T06:28:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/main/package.tgz",
