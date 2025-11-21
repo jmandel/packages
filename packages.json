@@ -6805,6 +6805,18 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "121-ch-vacd-vacinecode-split",
         "lastSeen": "2025-11-21T07:27:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/138-vaccinecodes-septemberoctober-2026/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "138-vaccinecodes-septemberoctober-2026",
+        "lastSeen": "2025-11-21T07:43:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/138-new-vaccinecodes-septemberoctober-2026/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "138-new-vaccinecodes-septemberoctober-2026",
+        "lastSeen": "2025-11-21T07:38:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -7260,7 +7272,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/367-conflict-verificationstatus-and-clinicalstatus-in-pastillness/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "367-conflict-verificationstatus-and-clinicalstatus-in-pastillness",
-        "lastSeen": "2025-11-13T08:26:31.000Z"
+        "lastSeen": "2025-11-21T08:02:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -9228,7 +9240,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2025-11-20T23:30:35.000Z"
+        "lastSeen": "2025-11-21T08:18:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz",
@@ -15438,7 +15450,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/page-status-and-IG-version-history/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "page-status-and-IG-version-history",
-        "lastSeen": "2025-11-20T16:48:18.000Z"
+        "lastSeen": "2025-11-21T08:15:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -16519,6 +16531,12 @@
         "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
         "branch": "medication-resources",
         "lastSeen": "2025-11-21T07:34:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/refactor-publish-command/package.tgz",
+        "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
+        "branch": "refactor-publish-command",
+        "lastSeen": "2025-11-21T08:40:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz"
@@ -16746,7 +16764,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/149-replace-austrian-extension-for-religion-with-the-international-one/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "149-replace-austrian-extension-for-religion-with-the-international-one",
-        "lastSeen": "2025-11-21T07:12:12.000Z"
+        "lastSeen": "2025-11-21T08:08:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -16962,7 +16980,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/72-replace-austrian-extension-for-religion-with-the-international-one/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "72-replace-austrian-extension-for-religion-with-the-international-one",
-        "lastSeen": "2025-11-21T07:03:07.000Z"
+        "lastSeen": "2025-11-21T08:09:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -17094,7 +17112,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/update-general-narrative/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "update-general-narrative",
-        "lastSeen": "2025-11-20T14:09:13.000Z"
+        "lastSeen": "2025-11-21T08:37:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/55-56---create-examples-for-each-at-aps-profile/package.tgz",
@@ -24996,7 +25014,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/jct/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "jct",
-        "lastSeen": "2025-11-18T09:01:24.000Z"
+        "lastSeen": "2025-11-21T08:00:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/business/package.tgz",
@@ -27594,7 +27612,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-11-21T07:13:34.000Z"
+        "lastSeen": "2025-11-21T08:34:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -53568,7 +53586,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_PathFix/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "SKS_PathFix",
-        "lastSeen": "2025-11-21T07:20:08.000Z"
+        "lastSeen": "2025-11-21T07:50:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz"
