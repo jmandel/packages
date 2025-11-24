@@ -10759,6 +10759,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-21528-update-Valuesets",
         "lastSeen": "2025-11-24T09:43:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-20017-uddybning-ydernr-organization/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-20017-uddybning-ydernr-organization",
+        "lastSeen": "2025-11-24T14:59:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -15408,7 +15414,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
-        "lastSeen": "2025-11-24T08:51:23.000Z"
+        "lastSeen": "2025-11-24T15:28:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/4-0-x-dependency-challenge/package.tgz",
@@ -15498,7 +15504,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/localization-service-authorization/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "localization-service-authorization",
-        "lastSeen": "2025-11-10T09:18:07.000Z"
+        "lastSeen": "2025-11-24T15:07:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/persistant-url-solo/package.tgz",
@@ -15522,7 +15528,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authorization2/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authorization2",
-        "lastSeen": "2025-11-24T12:15:55.000Z"
+        "lastSeen": "2025-11-24T14:43:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -45456,7 +45462,7 @@
         "url": "https://build.fhir.org/ig/HL7/rtq-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/rtq-ig",
         "branch": "main",
-        "lastSeen": "2025-11-24T01:52:41.000Z"
+        "lastSeen": "2025-11-24T15:20:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/rtq-ig/branches/main/package.tgz"
@@ -50154,7 +50160,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/CP-ITI-MHD-homeCommunityId/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "CP-ITI-MHD-homeCommunityId",
-        "lastSeen": "2025-11-06T17:57:38.000Z"
+        "lastSeen": "2025-11-24T15:19:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
@@ -52872,7 +52878,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
         "branch": "main",
-        "lastSeen": "2025-11-14T07:18:00.000Z"
+        "lastSeen": "2025-11-24T15:35:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz"
@@ -60354,7 +60360,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHPConnectathon1/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHPConnectathon1",
         "branch": "main",
-        "lastSeen": "2025-11-24T14:44:15.000Z"
+        "lastSeen": "2025-11-24T15:31:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHPHackathon1/branches/main/package.tgz"
