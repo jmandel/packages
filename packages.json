@@ -9150,7 +9150,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2025-11-24T09:11:45.000Z"
+        "lastSeen": "2025-11-24T10:25:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -10735,6 +10735,18 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ehealth-carecommunication",
         "lastSeen": "2025-11-21T12:16:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-update-new-valuesets/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-21528-update-new-valuesets",
+        "lastSeen": "2025-11-24T09:54:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-update-Valuesets/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-21528-update-Valuesets",
+        "lastSeen": "2025-11-24T09:43:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -10819,6 +10831,12 @@
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main_qa",
         "lastSeen": "2025-09-15T07:43:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/dk-ehmi-eds-systematic-issues/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eds",
+        "branch": "dk-ehmi-eds-systematic-issues",
+        "lastSeen": "2025-11-24T10:36:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ehmi-eds/branches/main/package.tgz"
@@ -59694,7 +59712,7 @@
         "url": "https://build.fhir.org/ig/Speedykom/tz-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/Speedykom/tz-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-11-22T16:09:46.000Z"
+        "lastSeen": "2025-11-24T10:09:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Speedykom/tz-fhir-ig/branches/master/package.tgz"
@@ -60294,7 +60312,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHPHackathon1/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHPHackathon1",
         "branch": "main",
-        "lastSeen": "2025-11-24T08:23:29.000Z"
+        "lastSeen": "2025-11-24T09:58:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHPHackathon1/branches/main/package.tgz"
