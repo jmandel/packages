@@ -4423,6 +4423,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "426-iti-81-no-profile-defined-for-the-auditevents-generated-during-the-transaction",
         "lastSeen": "2025-11-25T07:27:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/ms-httpsig/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "ms-httpsig",
+        "lastSeen": "2025-11-25T12:56:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -5706,7 +5712,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/367_caseStudies/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "367_caseStudies",
-        "lastSeen": "2025-11-25T10:39:06.000Z"
+        "lastSeen": "2025-11-25T13:11:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/402_dataEnterer/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-lab-order",
+        "branch": "402_dataEnterer",
+        "lastSeen": "2025-11-25T13:38:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -16356,7 +16368,7 @@
         "url": "https://build.fhir.org/ig/servicewell/flc.fhir.base/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/flc.fhir.base",
         "branch": "main",
-        "lastSeen": "2025-11-19T15:37:29.000Z"
+        "lastSeen": "2025-11-25T13:07:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz"
@@ -16608,7 +16620,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
         "branch": "main",
-        "lastSeen": "2025-11-25T12:38:17.000Z"
+        "lastSeen": "2025-11-25T13:38:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/assorted-obs-refactors/package.tgz",
@@ -16657,6 +16669,18 @@
         "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
         "branch": "include-environments",
         "lastSeen": "2025-11-25T12:37:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/update-config/package.tgz",
+        "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
+        "branch": "update-config",
+        "lastSeen": "2025-11-25T13:15:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/resource-lang/package.tgz",
+        "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
+        "branch": "resource-lang",
+        "lastSeen": "2025-11-25T13:37:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz"
@@ -23196,7 +23220,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_examples/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_examples",
-        "lastSeen": "2025-11-23T21:07:26.000Z"
+        "lastSeen": "2025-11-25T12:50:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_ips-comparison-parameter/package.tgz",
