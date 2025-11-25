@@ -3355,6 +3355,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "185-make-small-corrections-regarding-api-text",
         "lastSeen": "2025-11-19T20:58:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/1.13.0/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "1.13.0",
+        "lastSeen": "2025-11-25T10:08:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -5700,7 +5706,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/367_caseStudies/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "367_caseStudies",
-        "lastSeen": "2025-11-24T15:43:26.000Z"
+        "lastSeen": "2025-11-25T10:39:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/develop/package.tgz"
@@ -16644,7 +16650,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/bind-patient/package.tgz",
         "repo": "https://github.com/savannahghi/hie-fhir-ig-profile",
         "branch": "bind-patient",
-        "lastSeen": "2025-11-25T09:11:50.000Z"
+        "lastSeen": "2025-11-25T10:19:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/hie-fhir-ig-profile/branches/main/package.tgz"
@@ -26077,6 +26083,12 @@
         "repo": "https://github.com/hl7-be/vaccination",
         "branch": "ec-ehealth-test",
         "lastSeen": "2025-11-21T10:34:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/vaccination/branches/issue-206/package.tgz",
+        "repo": "https://github.com/hl7-be/vaccination",
+        "branch": "issue-206",
+        "lastSeen": "2025-11-25T10:23:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/vaccination/branches/master/package.tgz"
@@ -60306,7 +60318,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-11-17T14:56:53.000Z"
+        "lastSeen": "2025-11-25T10:20:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -61944,7 +61956,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "img-202511",
-        "lastSeen": "2025-11-23T19:20:57.000Z"
+        "lastSeen": "2025-11-25T10:13:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
