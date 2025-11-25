@@ -32040,7 +32040,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/bundle-resolve/package.tgz",
         "repo": "https://github.com/HL7/carin-bb",
         "branch": "bundle-resolve",
-        "lastSeen": "2025-11-17T19:32:59.000Z"
+        "lastSeen": "2025-11-25T17:14:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-bb/branches/master/package.tgz"
@@ -56159,6 +56159,18 @@
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.flc/branches/main/package.tgz"
   },
+  "servicewell.fhir.wof-connect": {
+    "name": "servicewell.fhir.wof-connect",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz",
+        "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
+        "branch": "main",
+        "lastSeen": "2025-11-25T17:05:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
+  },
   "servtrans.sns.implementationGuide": {
     "name": "servtrans.sns.implementationGuide",
     "locations": [
@@ -58272,7 +58284,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "main",
-        "lastSeen": "2025-11-25T15:09:40.000Z"
+        "lastSeen": "2025-11-25T16:58:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/costateixeira-update-readme/package.tgz",
