@@ -2286,7 +2286,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2025-11-26T10:07:02.000Z"
+        "lastSeen": "2025-11-26T10:43:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -4429,6 +4429,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "ms-httpsig",
         "lastSeen": "2025-11-25T12:56:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/add-issue-347-to-changelog/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "add-issue-347-to-changelog",
+        "lastSeen": "2025-11-26T11:00:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -17268,7 +17274,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/55-56---create-examples-for-each-at-aps-profile/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "55-56---create-examples-for-each-at-aps-profile",
-        "lastSeen": "2025-11-25T11:01:22.000Z"
+        "lastSeen": "2025-11-26T10:59:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/36-20-52---fix-dependency-on-ipscurrent/package.tgz",
@@ -24774,7 +24780,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/main/package.tgz",
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "main",
-        "lastSeen": "2025-11-05T11:21:14.000Z"
+        "lastSeen": "2025-11-26T11:04:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/carepath/package.tgz",
@@ -26916,7 +26922,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-10-20T16:54:31.000Z"
+        "lastSeen": "2025-11-26T10:52:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -27246,7 +27252,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "master",
-        "lastSeen": "2025-11-07T06:55:38.000Z"
+        "lastSeen": "2025-11-26T10:54:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
@@ -27288,7 +27294,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "ZP-20-Uprava-dle-HL7-EU-Imaging",
-        "lastSeen": "2025-11-25T15:16:00.000Z"
+        "lastSeen": "2025-11-26T11:12:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz"
@@ -30858,7 +30864,7 @@
         "url": "https://build.fhir.org/ig/hl7-pt/patient-admin-ig/branches/master/package.tgz",
         "repo": "https://github.com/hl7-pt/patient-admin-ig",
         "branch": "master",
-        "lastSeen": "2025-11-26T10:04:35.000Z"
+        "lastSeen": "2025-11-26T10:50:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-pt/patient-admin-ig/branches/master/package.tgz"
@@ -34290,7 +34296,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2025-11-26T09:33:13.000Z"
+        "lastSeen": "2025-11-26T11:10:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
@@ -40938,13 +40944,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2025-10-15T10:29:34.000Z"
+        "lastSeen": "2025-11-26T11:24:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2025-10-15T10:33:19.000Z"
+        "lastSeen": "2025-11-26T11:27:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
