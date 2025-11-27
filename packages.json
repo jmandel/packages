@@ -5304,7 +5304,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "master",
-        "lastSeen": "2025-11-25T08:42:16.000Z"
+        "lastSeen": "2025-11-27T07:35:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/0-generic-order/package.tgz",
@@ -5718,7 +5718,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/367_caseStudies/package.tgz",
         "repo": "https://github.com/hl7ch/ch-lab-order",
         "branch": "367_caseStudies",
-        "lastSeen": "2025-11-25T13:11:15.000Z"
+        "lastSeen": "2025-11-27T07:27:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-lab-order/branches/402_dataEnterer/package.tgz",
@@ -53033,6 +53033,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz"
   },
+  "lt.hl7.fhir.lab": {
+    "name": "lt.hl7.fhir.lab",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lab/branches/main/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-lab",
+        "branch": "main",
+        "lastSeen": "2025-11-27T06:54:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7LT/ig-lt-lab/branches/main/package.tgz"
+  },
   "lt.hl7.fhir.lifestyle": {
     "name": "lt.hl7.fhir.lifestyle",
     "locations": [
@@ -56340,7 +56352,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-09-17T11:43:21.000Z"
+        "lastSeen": "2025-11-27T07:06:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -57187,6 +57199,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "use-ocl-code-system",
         "lastSeen": "2025-11-12T07:26:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/extract-vitals/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "extract-vitals",
+        "lastSeen": "2025-11-27T07:04:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -62082,7 +62100,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "img-202511",
-        "lastSeen": "2025-11-25T10:13:54.000Z"
+        "lastSeen": "2025-11-27T07:14:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
