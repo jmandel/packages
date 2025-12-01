@@ -6642,7 +6642,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-11-21T10:41:59.000Z"
+        "lastSeen": "2025-12-01T10:38:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -11016,7 +11016,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main-including-generated-sor-instances/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "main-including-generated-sor-instances",
-        "lastSeen": "2025-12-01T09:48:23.000Z"
+        "lastSeen": "2025-12-01T10:36:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz"
@@ -11118,7 +11118,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2025-11-20T09:13:45.000Z"
+        "lastSeen": "2025-12-01T11:22:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -11209,6 +11209,12 @@
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "2.14.1",
         "lastSeen": "2025-11-20T08:49:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.14.2/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "2.14.2",
+        "lastSeen": "2025-12-01T11:23:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -11664,13 +11670,13 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2025-12-01T09:41:29.000Z"
+        "lastSeen": "2025-12-01T10:43:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Modellierung-Claim-Type-und-SubType",
-        "lastSeen": "2025-12-01T10:29:24.000Z"
+        "lastSeen": "2025-12-01T10:30:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -16806,7 +16812,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2025-10-27T10:37:29.000Z"
+        "lastSeen": "2025-12-01T11:26:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -18666,7 +18672,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2025-12-01T07:28:32.000Z"
+        "lastSeen": "2025-12-01T10:58:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -18732,7 +18738,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health-ips",
         "branch": "master",
-        "lastSeen": "2025-12-01T06:41:58.000Z"
+        "lastSeen": "2025-12-01T10:57:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health-ips/branches/jkiddo-patch-1/package.tgz",
