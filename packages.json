@@ -6913,6 +6913,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "138-new-vaccinecodes-septemberoctober-2026",
         "lastSeen": "2025-11-21T07:38:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/141-add-switzerland-country-code/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "141-add-switzerland-country-code",
+        "lastSeen": "2025-12-02T15:37:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -10914,7 +10920,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-11-24T11:57:21.000Z"
+        "lastSeen": "2025-12-02T16:29:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -10956,13 +10962,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/dk-ehmi-eds-systematic-issues/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "dk-ehmi-eds-systematic-issues",
-        "lastSeen": "2025-11-24T10:36:34.000Z"
+        "lastSeen": "2025-12-02T16:28:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/BDS11-16/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "BDS11-16",
-        "lastSeen": "2025-12-02T13:55:44.000Z"
+        "lastSeen": "2025-12-02T16:33:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ehmi-eds/branches/main/package.tgz"
@@ -32976,7 +32982,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-12-02T14:54:26.000Z"
+        "lastSeen": "2025-12-02T15:08:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -36288,7 +36294,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/moehrke-remove-dead-files/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "moehrke-remove-dead-files",
-        "lastSeen": "2025-12-01T21:27:18.000Z"
+        "lastSeen": "2025-12-02T16:26:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
@@ -46914,7 +46920,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "main",
-        "lastSeen": "2025-11-26T03:09:12.000Z"
+        "lastSeen": "2025-12-02T16:40:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
