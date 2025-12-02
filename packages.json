@@ -2892,7 +2892,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2025-11-25T09:00:36.000Z"
+        "lastSeen": "2025-12-02T13:16:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -10861,6 +10861,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "7.0.7",
         "lastSeen": "2025-12-02T12:07:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/7.0.8/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "7.0.8",
+        "lastSeen": "2025-12-02T12:53:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -10956,7 +10962,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/BDS11-16/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "BDS11-16",
-        "lastSeen": "2025-12-02T12:32:34.000Z"
+        "lastSeen": "2025-12-02T13:35:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ehmi-eds/branches/main/package.tgz"
@@ -11052,7 +11058,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2025-11-11T08:02:16.000Z"
+        "lastSeen": "2025-12-02T13:42:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main_CS_update/package.tgz",
@@ -18696,7 +18702,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2025-12-01T10:58:11.000Z"
+        "lastSeen": "2025-12-02T13:01:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
@@ -23556,7 +23562,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/0.5.0-preview/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "0.5.0-preview",
-        "lastSeen": "2025-12-02T12:31:43.000Z"
+        "lastSeen": "2025-12-02T12:59:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -24876,7 +24882,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "master",
-        "lastSeen": "2025-10-02T18:20:39.000Z"
+        "lastSeen": "2025-12-02T13:20:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/stvb/patient-care/branches/master/package.tgz",
