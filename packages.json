@@ -3373,6 +3373,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "158_dependencyOverview",
         "lastSeen": "2025-12-02T12:34:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_chcoreupdate/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "oe_chcoreupdate",
+        "lastSeen": "2025-12-02T21:19:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -6919,6 +6925,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "141-add-switzerland-country-code",
         "lastSeen": "2025-12-02T15:37:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oe_122_123/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "oe_122_123",
+        "lastSeen": "2025-12-02T20:53:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -17952,7 +17964,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2025-12-02T19:54:02.000Z"
+        "lastSeen": "2025-12-02T20:18:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/addr-test/package.tgz",
@@ -30426,7 +30438,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/FL-gt-structure/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "FL-gt-structure",
-        "lastSeen": "2025-12-02T20:18:43.000Z"
+        "lastSeen": "2025-12-02T20:48:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -38118,7 +38130,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2025-12-02T17:35:31.000Z"
+        "lastSeen": "2025-12-02T21:31:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -40957,6 +40969,12 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "graham-stig-publication-request",
         "lastSeen": "2025-11-25T21:59:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/graham-FMG/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "graham-FMG",
+        "lastSeen": "2025-12-02T21:38:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -42222,7 +42240,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2025-12-02T20:28:13.000Z"
+        "lastSeen": "2025-12-02T21:37:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
