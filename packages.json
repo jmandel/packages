@@ -6660,7 +6660,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-12-01T13:32:41.000Z"
+        "lastSeen": "2025-12-03T09:23:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -6924,7 +6924,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/141-add-switzerland-country-code/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "141-add-switzerland-country-code",
-        "lastSeen": "2025-12-02T15:37:19.000Z"
+        "lastSeen": "2025-12-03T09:22:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oe_122_123/package.tgz",
@@ -11166,7 +11166,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2025-12-01T11:22:02.000Z"
+        "lastSeen": "2025-12-03T09:01:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -11263,6 +11263,12 @@
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "2.14.2",
         "lastSeen": "2025-12-01T11:23:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.15.0/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "2.15.0",
+        "lastSeen": "2025-12-03T09:04:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -11718,7 +11724,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2025-12-01T10:43:17.000Z"
+        "lastSeen": "2025-12-03T08:54:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
@@ -47407,6 +47413,12 @@
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "BP-2025-ballot-recon5",
         "lastSeen": "2025-11-20T05:18:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-FHIR-44774/package.tgz",
+        "repo": "https://github.com/HL7/FHIRPath",
+        "branch": "BP-FHIR-44774",
+        "lastSeen": "2025-12-03T09:43:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
@@ -53532,7 +53544,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_ACK_test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "SKS_ACK_test",
-        "lastSeen": "2025-11-18T08:13:55.000Z"
+        "lastSeen": "2025-12-03T08:51:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz"
@@ -60240,7 +60252,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.1.0/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.1.0",
-        "lastSeen": "2025-12-01T02:48:00.000Z"
+        "lastSeen": "2025-12-03T08:37:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
