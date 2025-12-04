@@ -27666,7 +27666,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2025-12-01T12:39:55.000Z"
+        "lastSeen": "2025-12-04T09:22:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz"
@@ -34776,7 +34776,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2025-12-03T07:55:49.000Z"
+        "lastSeen": "2025-12-04T09:23:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/1.0.0/package.tgz",
@@ -55057,6 +55057,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-terminology",
         "branch": "ECG-terminology-valuesets",
         "lastSeen": "2025-11-07T08:22:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/RCh-EKG-updates/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-terminology",
+        "branch": "RCh-EKG-updates",
+        "lastSeen": "2025-12-04T09:37:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-terminology/branches/master/package.tgz"
@@ -55110,7 +55116,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "master",
-        "lastSeen": "2025-08-11T07:27:29.000Z"
+        "lastSeen": "2025-12-04T09:31:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/v.1.0.0/package.tgz",
