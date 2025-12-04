@@ -3895,6 +3895,12 @@
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "cross_version_analysis",
         "lastSeen": "2025-11-18T11:04:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/prepare_for_pub_update/package.tgz",
+        "repo": "https://github.com/bag-epl/bag-epl-fhir",
+        "branch": "prepare_for_pub_update",
+        "lastSeen": "2025-12-04T12:26:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -11064,7 +11070,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/SOR-Org/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "SOR-Org",
-        "lastSeen": "2025-12-03T23:01:44.000Z"
+        "lastSeen": "2025-12-04T11:57:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz"
@@ -11088,7 +11094,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main-including-generated-sor-instances/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "main-including-generated-sor-instances",
-        "lastSeen": "2025-12-03T21:58:01.000Z"
+        "lastSeen": "2025-12-04T12:24:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz"
@@ -15751,6 +15757,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authorization2",
         "lastSeen": "2025-11-24T14:43:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/endpoint-payloadType-expansion/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "endpoint-payloadType-expansion",
+        "lastSeen": "2025-12-04T11:56:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -27720,7 +27732,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/szz",
         "branch": "master",
-        "lastSeen": "2025-12-04T08:22:55.000Z"
+        "lastSeen": "2025-12-04T11:53:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
@@ -33300,7 +33312,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2025-12-02T19:19:12.000Z"
+        "lastSeen": "2025-12-04T12:16:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -33469,6 +33481,12 @@
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "br-53169-questionnaire-parameter-guidance",
         "lastSeen": "2025-11-17T18:43:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/br-53574-uscore-modelinfo-fix/package.tgz",
+        "repo": "https://github.com/HL7/us-cql-ig",
+        "branch": "br-53574-uscore-modelinfo-fix",
+        "lastSeen": "2025-12-04T12:15:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz"
@@ -55164,7 +55182,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/XDS-EKG-RCH/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "XDS-EKG-RCH",
-        "lastSeen": "2025-12-04T11:05:47.000Z"
+        "lastSeen": "2025-12-04T11:52:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
