@@ -22951,6 +22951,18 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "qa-fix-example-elimbah",
         "lastSeen": "2025-12-03T03:51:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/tc_vs_oid/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "tc_vs_oid",
+        "lastSeen": "2025-12-04T00:34:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/tc_valueset_uris/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "tc_valueset_uris",
+        "lastSeen": "2025-12-04T00:17:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -34608,7 +34620,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2025-12-03T19:04:27.000Z"
+        "lastSeen": "2025-12-03T23:28:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
