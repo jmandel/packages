@@ -4476,7 +4476,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/368-incomplete-description-of-ppq-template-301/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "368-incomplete-description-of-ppq-template-301",
-        "lastSeen": "2025-11-28T14:41:18.000Z"
+        "lastSeen": "2025-12-05T08:04:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -10866,7 +10866,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ehealth-carecommunication/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ehealth-carecommunication",
-        "lastSeen": "2025-11-21T12:16:43.000Z"
+        "lastSeen": "2025-12-05T07:38:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-update-new-valuesets/package.tgz",
@@ -15756,7 +15756,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authorization2/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authorization2",
-        "lastSeen": "2025-12-04T14:35:35.000Z"
+        "lastSeen": "2025-12-05T09:29:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/endpoint-payloadType-expansion/package.tgz",
@@ -30510,7 +30510,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-collab/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-collab",
-        "lastSeen": "2025-11-18T17:19:30.000Z"
+        "lastSeen": "2025-12-05T09:27:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-jdv-j245/package.tgz",
@@ -30523,6 +30523,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "FL-gt-structure",
         "lastSeen": "2025-12-02T21:42:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-priorities/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-priorities",
+        "lastSeen": "2025-12-05T09:21:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -49674,7 +49680,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2025-12-02T18:26:32.000Z"
+        "lastSeen": "2025-12-05T08:30:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
@@ -51522,7 +51528,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2025-12-04T10:42:29.000Z"
+        "lastSeen": "2025-12-05T08:28:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -53970,7 +53976,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-11-19T11:17:31.000Z"
+        "lastSeen": "2025-12-05T08:13:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -54019,6 +54025,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.5.0.6-githubpages",
         "lastSeen": "2025-11-19T11:18:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v5.0.7-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v5.0.7-githubpages",
+        "lastSeen": "2025-12-05T08:14:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -56328,7 +56340,7 @@
         "url": "https://build.fhir.org/ig/helexlab/ig-ccm/branches/main/package.tgz",
         "repo": "https://github.com/helexlab/ig-ccm",
         "branch": "main",
-        "lastSeen": "2025-11-27T23:45:34.000Z"
+        "lastSeen": "2025-12-05T08:24:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/helexlab/bridge-ig/branches/main/package.tgz"
