@@ -10915,6 +10915,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-21575-ccr0291-enable-bulk-export",
         "lastSeen": "2025-12-05T12:26:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0162/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "feature_CCR0162",
+        "lastSeen": "2025-12-05T13:38:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -27097,6 +27103,12 @@
         "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
         "branch": "fix_pertinencia",
         "lastSeen": "2024-03-04T13:18:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/v0.2.1/package.tgz",
+        "repo": "https://github.com/Minsal-CL/SIGTEv2-IG",
+        "branch": "v0.2.1",
+        "lastSeen": "2025-12-05T13:37:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz"
@@ -27744,7 +27756,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/szz",
         "branch": "master",
-        "lastSeen": "2025-12-05T11:17:46.000Z"
+        "lastSeen": "2025-12-05T13:23:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
