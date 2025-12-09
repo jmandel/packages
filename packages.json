@@ -14268,7 +14268,7 @@
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/dependency-management-docs/package.tgz",
         "repo": "https://github.com/cqframework/vsp-ig",
         "branch": "dependency-management-docs",
-        "lastSeen": "2025-10-30T15:43:00.000Z"
+        "lastSeen": "2025-12-09T17:21:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/vsp-ig/branches/pin-dependencies/package.tgz",
@@ -16009,6 +16009,12 @@
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "promis-10",
         "lastSeen": "2025-12-08T22:09:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-january-2026/package.tgz",
+        "repo": "https://github.com/paciowg/sample-data-fsh",
+        "branch": "connectathon-january-2026",
+        "lastSeen": "2025-12-09T16:38:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -23874,7 +23880,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/draft/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "draft",
-        "lastSeen": "2025-11-26T09:38:13.000Z"
+        "lastSeen": "2025-12-09T17:31:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/draft-profiles/package.tgz",
@@ -42504,7 +42510,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2025-12-09T04:05:04.000Z"
+        "lastSeen": "2025-12-09T17:23:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -44893,6 +44899,12 @@
         "repo": "https://github.com/FHIR/ig-guidance",
         "branch": "conformance-enhancements",
         "lastSeen": "2025-11-28T22:21:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/languages/package.tgz",
+        "repo": "https://github.com/FHIR/ig-guidance",
+        "branch": "languages",
+        "lastSeen": "2025-12-09T17:28:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/ig-guidance/branches/master/package.tgz"
@@ -45912,7 +45924,7 @@
         "url": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phenomics-exchange-ig",
         "branch": "master",
-        "lastSeen": "2025-12-09T15:54:40.000Z"
+        "lastSeen": "2025-12-09T16:51:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phenomics-exchange-ig/branches/documentation_jan24/package.tgz",
