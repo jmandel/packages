@@ -5100,7 +5100,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "master",
-        "lastSeen": "2025-12-10T09:11:28.000Z"
+        "lastSeen": "2025-12-10T10:18:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/ch-emed-validatation/package.tgz",
@@ -11160,7 +11160,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "test",
-        "lastSeen": "2025-12-10T09:26:59.000Z"
+        "lastSeen": "2025-12-10T09:57:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/prod/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
+        "branch": "prod",
+        "lastSeen": "2025-12-10T09:47:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz"
@@ -11634,7 +11640,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-12-10T09:20:38.000Z"
+        "lastSeen": "2025-12-10T10:10:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -33228,7 +33234,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-12-10T08:36:41.000Z"
+        "lastSeen": "2025-12-10T09:43:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -58968,7 +58974,7 @@
         "url": "https://build.fhir.org/ig/siskidane03-droid/ETBase/branches/main/package.tgz",
         "repo": "https://github.com/siskidane03-droid/ETBase",
         "branch": "main",
-        "lastSeen": "2025-12-10T09:38:07.000Z"
+        "lastSeen": "2025-12-10T09:47:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/beruck/who-smart-ig-empty/branches/main/package.tgz",
@@ -58987,6 +58993,36 @@
         "repo": "https://github.com/costateixeira/ETBase",
         "branch": "main",
         "lastSeen": "2025-12-10T09:31:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/habibbushira/ETBase-ig/branches/main/package.tgz",
+        "repo": "https://github.com/habibbushira/ETBase-ig",
+        "branch": "main",
+        "lastSeen": "2025-12-10T09:54:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Tsegadelina/ETBase/branches/main/package.tgz",
+        "repo": "https://github.com/Tsegadelina/ETBase",
+        "branch": "main",
+        "lastSeen": "2025-12-10T09:58:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ak43/AK43-sample-ig/branches/main/package.tgz",
+        "repo": "https://github.com/ak43/AK43-sample-ig",
+        "branch": "main",
+        "lastSeen": "2025-12-10T09:59:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/legessed/myrepo/branches/main/package.tgz",
+        "repo": "https://github.com/legessed/myrepo",
+        "branch": "main",
+        "lastSeen": "2025-12-10T09:50:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/girmata/HIV4/branches/main/package.tgz",
+        "repo": "https://github.com/girmata/HIV4",
+        "branch": "main",
+        "lastSeen": "2025-12-10T09:49:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
@@ -59394,7 +59430,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-l2-hhas/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-l2-hhas",
         "branch": "main",
-        "lastSeen": "2025-11-03T10:44:08.000Z"
+        "lastSeen": "2025-12-10T09:50:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/c-corman/smart-l2-hhas-CC/branches/main/package.tgz",
@@ -60678,7 +60714,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.1.0/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.1.0",
-        "lastSeen": "2025-12-10T06:36:40.000Z"
+        "lastSeen": "2025-12-10T10:03:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
