@@ -10950,7 +10950,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0162/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0162",
-        "lastSeen": "2025-12-05T13:38:58.000Z"
+        "lastSeen": "2025-12-10T13:10:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21850_treatment_areas/package.tgz",
@@ -27384,7 +27384,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-11-28T17:58:35.000Z"
+        "lastSeen": "2025-12-10T12:59:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -35034,7 +35034,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2025-12-04T18:08:31.000Z"
+        "lastSeen": "2025-12-10T13:42:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -45144,7 +45144,7 @@
         "url": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/immunization-incubator",
         "branch": "main",
-        "lastSeen": "2025-12-03T17:36:02.000Z"
+        "lastSeen": "2025-12-10T13:24:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz"
@@ -55464,7 +55464,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/XDS-EKG-RCH/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "XDS-EKG-RCH",
-        "lastSeen": "2025-12-04T13:25:39.000Z"
+        "lastSeen": "2025-12-10T13:18:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
@@ -59035,6 +59035,18 @@
         "repo": "https://github.com/alem5202/FHIRmoh",
         "branch": "main",
         "lastSeen": "2025-12-10T12:39:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/yosephdirirsa/ETBase/branches/main/package.tgz",
+        "repo": "https://github.com/yosephdirirsa/ETBase",
+        "branch": "main",
+        "lastSeen": "2025-12-10T13:03:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bereketassefa/ETBase/branches/main/package.tgz",
+        "repo": "https://github.com/bereketassefa/ETBase",
+        "branch": "main",
+        "lastSeen": "2025-12-10T13:07:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
