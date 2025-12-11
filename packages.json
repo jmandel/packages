@@ -3919,6 +3919,12 @@
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "mz_publVersion1.0.0",
         "lastSeen": "2025-12-08T12:50:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/bag-epl/bag-epl-fhir",
+        "branch": "1.0.0",
+        "lastSeen": "2025-12-11T12:42:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/master/package.tgz"
@@ -5227,6 +5233,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "1.2.3",
         "lastSeen": "2025-12-11T10:32:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/multiLanguageSupport/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "multiLanguageSupport",
+        "lastSeen": "2025-12-11T12:48:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -11664,7 +11676,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-12-11T11:35:32.000Z"
+        "lastSeen": "2025-12-11T12:05:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -27894,7 +27906,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/szz",
         "branch": "master",
-        "lastSeen": "2025-12-09T12:57:25.000Z"
+        "lastSeen": "2025-12-11T12:45:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
@@ -42540,7 +42552,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-12-11T11:12:09.000Z"
+        "lastSeen": "2025-12-11T11:55:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -54672,7 +54684,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core-document/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core-document",
         "branch": "main",
-        "lastSeen": "2025-08-11T07:24:16.000Z"
+        "lastSeen": "2025-12-11T12:07:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-core-document/branches/main/package.tgz"
@@ -57126,7 +57138,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2025-12-11T11:29:34.000Z"
+        "lastSeen": "2025-12-11T12:55:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -57991,6 +58003,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "refactor-vital-extract",
         "lastSeen": "2025-12-11T11:24:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/create-vitals-if-available/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "create-vitals-if-available",
+        "lastSeen": "2025-12-11T12:53:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -59131,6 +59149,18 @@
         "repo": "https://github.com/ak43/working-fhir-ig",
         "branch": "main",
         "lastSeen": "2025-12-11T09:24:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/MoH-Ethiopia/MoH-Ethiopia-HIV/branches/main/package.tgz",
+        "repo": "https://github.com/MoH-Ethiopia/MoH-Ethiopia-HIV",
+        "branch": "main",
+        "lastSeen": "2025-12-11T12:43:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/asfaw-045/Asfaw-Kelbessa-MoH-DH/branches/main/package.tgz",
+        "repo": "https://github.com/asfaw-045/Asfaw-Kelbessa-MoH-DH",
+        "branch": "main",
+        "lastSeen": "2025-12-11T12:43:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
