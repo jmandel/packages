@@ -11694,7 +11694,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-12-12T06:22:44.000Z"
+        "lastSeen": "2025-12-12T08:42:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -15912,13 +15912,19 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authorization2/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authorization2",
-        "lastSeen": "2025-12-05T10:14:03.000Z"
+        "lastSeen": "2025-12-12T07:46:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/endpoint-payloadType-expansion/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "endpoint-payloadType-expansion",
         "lastSeen": "2025-12-04T11:56:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/vvt-healthcareservice-valueset/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "vvt-healthcareservice-valueset",
+        "lastSeen": "2025-12-12T08:12:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -15942,7 +15948,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2025-12-11T16:58:14.000Z"
+        "lastSeen": "2025-12-12T07:44:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -27768,7 +27774,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-11-03T13:39:43.000Z"
+        "lastSeen": "2025-12-12T08:27:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -28368,7 +28374,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2025-12-11T21:21:12.000Z"
+        "lastSeen": "2025-12-12T08:00:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -28410,7 +28416,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-12-11T21:22:03.000Z"
+        "lastSeen": "2025-12-12T08:01:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -28596,7 +28602,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "master",
-        "lastSeen": "2025-12-09T16:27:24.000Z"
+        "lastSeen": "2025-12-12T07:55:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/0.1.0/package.tgz",
@@ -28651,6 +28657,12 @@
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "0.1.1",
         "lastSeen": "2025-10-27T13:44:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/v1.2.0/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions",
+        "branch": "v1.2.0",
+        "lastSeen": "2025-12-12T08:40:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
@@ -55578,7 +55590,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/XDS-EKG-cleanup/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "XDS-EKG-cleanup",
-        "lastSeen": "2025-12-12T07:27:35.000Z"
+        "lastSeen": "2025-12-12T08:36:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
@@ -59124,7 +59136,7 @@
         "url": "https://build.fhir.org/ig/habibbushira/ETBase-ig/branches/main/package.tgz",
         "repo": "https://github.com/habibbushira/ETBase-ig",
         "branch": "main",
-        "lastSeen": "2025-12-10T09:54:46.000Z"
+        "lastSeen": "2025-12-12T07:51:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Tsegadelina/ETBase/branches/main/package.tgz",
@@ -59214,7 +59226,7 @@
         "url": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz",
         "repo": "https://github.com/MoH-Ethiopia/ETBase",
         "branch": "main",
-        "lastSeen": "2025-12-12T07:15:31.000Z"
+        "lastSeen": "2025-12-12T08:44:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
