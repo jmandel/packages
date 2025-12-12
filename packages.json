@@ -9894,7 +9894,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "master",
-        "lastSeen": "2025-12-02T12:05:46.000Z"
+        "lastSeen": "2025-12-12T13:58:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/teamcity_test/package.tgz",
@@ -27792,7 +27792,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-12-12T12:54:56.000Z"
+        "lastSeen": "2025-12-12T13:44:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -27960,7 +27960,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/szz",
         "branch": "master",
-        "lastSeen": "2025-12-12T12:44:14.000Z"
+        "lastSeen": "2025-12-12T13:52:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
@@ -33421,6 +33421,12 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "Healthedata1-patch-1",
         "lastSeen": "2025-12-04T16:14:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/9.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "9.0.0-ballot",
+        "lastSeen": "2025-12-12T13:21:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -34321,6 +34327,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "5.0.0",
         "lastSeen": "2025-05-19T17:18:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "dd-deqm-updates",
+        "lastSeen": "2025-12-12T14:27:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
