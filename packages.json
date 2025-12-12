@@ -54708,7 +54708,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-SGA/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "EKG-SGA",
-        "lastSeen": "2025-12-11T13:57:57.000Z"
+        "lastSeen": "2025-12-12T07:14:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_PathFix/package.tgz",
@@ -55573,6 +55573,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "XDS-EKG-RCH",
         "lastSeen": "2025-12-10T13:18:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/XDS-EKG-cleanup/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
+        "branch": "XDS-EKG-cleanup",
+        "lastSeen": "2025-12-12T07:27:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/master/package.tgz"
@@ -59203,6 +59209,12 @@
         "repo": "https://github.com/asfaw-045/Asfaw-Kelbessa-MoH-DH",
         "branch": "main",
         "lastSeen": "2025-12-11T12:43:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz",
+        "repo": "https://github.com/MoH-Ethiopia/ETBase",
+        "branch": "main",
+        "lastSeen": "2025-12-12T07:15:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
