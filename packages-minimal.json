@@ -1400,6 +1400,14 @@
     }
   },
   {
+    "name": "et.fhir.core",
+    "current": {
+      "url": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz",
+      "repo": "https://github.com/MoH-Ethiopia/ETBase",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ethiopia.fhir.hiv",
     "current": {
       "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz",

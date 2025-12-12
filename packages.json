@@ -11694,7 +11694,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-12-11T12:05:43.000Z"
+        "lastSeen": "2025-12-12T06:22:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -11914,6 +11914,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
+  },
+  "et.fhir.core": {
+    "name": "et.fhir.core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz",
+        "repo": "https://github.com/MoH-Ethiopia/ETBase",
+        "branch": "main",
+        "lastSeen": "2025-12-12T06:16:09.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz"
   },
   "ethiopia.fhir.hiv": {
     "name": "ethiopia.fhir.hiv",
@@ -27912,7 +27924,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2025-12-11T23:29:24.000Z"
+        "lastSeen": "2025-12-12T06:06:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
@@ -59214,7 +59226,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
         "branch": "main",
-        "lastSeen": "2025-09-09T13:28:16.000Z"
+        "lastSeen": "2025-12-12T06:36:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/br-documentation-updates/package.tgz",
@@ -60882,7 +60894,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.1.0/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.1.0",
-        "lastSeen": "2025-12-11T06:32:09.000Z"
+        "lastSeen": "2025-12-12T05:01:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -60930,7 +60942,7 @@
         "url": "https://build.fhir.org/ig/Speedykom/tz-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/Speedykom/tz-fhir-ig",
         "branch": "master",
-        "lastSeen": "2025-12-11T23:50:01.000Z"
+        "lastSeen": "2025-12-12T06:14:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Speedykom/tz-fhir-ig/branches/master/package.tgz"
