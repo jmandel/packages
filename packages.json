@@ -3984,7 +3984,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-12-15T11:44:50.000Z"
+        "lastSeen": "2025-12-15T14:07:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -4537,6 +4537,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_chatc",
         "lastSeen": "2025-12-15T13:09:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_updatechangelog/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_updatechangelog",
+        "lastSeen": "2025-12-15T14:03:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -11004,7 +11010,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21575-ccr0291-enable-bulk-export/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-21575-ccr0291-enable-bulk-export",
-        "lastSeen": "2025-12-09T07:37:41.000Z"
+        "lastSeen": "2025-12-15T13:51:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0162/package.tgz",
@@ -11544,7 +11550,7 @@
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz",
         "repo": "https://github.com/trifork/gm-fhir-ig",
         "branch": "main",
-        "lastSeen": "2025-10-24T12:30:56.000Z"
+        "lastSeen": "2025-12-15T14:15:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/cherrypick-codes/package.tgz",
@@ -11563,6 +11569,12 @@
         "repo": "https://github.com/trifork/gm-fhir-ig",
         "branch": "0.2.0",
         "lastSeen": "2025-10-14T11:38:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/0.3.0/package.tgz",
+        "repo": "https://github.com/trifork/gm-fhir-ig",
+        "branch": "0.3.0",
+        "lastSeen": "2025-12-15T14:10:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz"
@@ -11730,7 +11742,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2025-12-15T13:42:50.000Z"
+        "lastSeen": "2025-12-15T14:40:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -14970,7 +14982,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-12-15T13:03:19.000Z"
+        "lastSeen": "2025-12-15T14:41:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/claims-profile/package.tgz",
@@ -14983,6 +14995,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "claimProfileFixes",
         "lastSeen": "2025-12-15T12:55:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/additionalClaimsFields/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "additionalClaimsFields",
+        "lastSeen": "2025-12-15T14:41:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/claim-response/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "claim-response",
+        "lastSeen": "2025-12-15T14:12:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz"
@@ -27546,7 +27570,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2025-12-10T12:59:20.000Z"
+        "lastSeen": "2025-12-15T13:52:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -27643,6 +27667,12 @@
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "Rebase_url",
         "lastSeen": "2025-10-14T11:25:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/coverage-extension/package.tgz",
+        "repo": "https://github.com/HL7-cz/cz-core",
+        "branch": "coverage-extension",
+        "lastSeen": "2025-12-15T13:45:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz"
@@ -27678,13 +27708,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2025-11-18T16:01:29.000Z"
+        "lastSeen": "2025-12-15T14:09:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "develop",
-        "lastSeen": "2025-12-03T06:56:59.000Z"
+        "lastSeen": "2025-12-15T14:09:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Sarka/package.tgz",
@@ -28236,7 +28266,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.5.0",
-        "lastSeen": "2025-12-09T10:27:35.000Z"
+        "lastSeen": "2025-12-15T14:05:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.5.0-documentreference/package.tgz",
@@ -28512,7 +28542,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-12-12T08:01:31.000Z"
+        "lastSeen": "2025-12-15T14:17:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -33654,7 +33684,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2025-12-10T06:06:47.000Z"
+        "lastSeen": "2025-12-15T14:36:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -42738,7 +42768,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2025-12-15T13:22:18.000Z"
+        "lastSeen": "2025-12-15T14:20:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -52728,7 +52758,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2025-12-09T15:32:05.000Z"
+        "lastSeen": "2025-12-15T13:54:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
