@@ -7003,6 +7003,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "oe_122_123",
         "lastSeen": "2025-12-02T20:53:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/3.3.0/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "3.3.0",
+        "lastSeen": "2025-12-15T10:57:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -14944,6 +14950,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/jgsuess/psa-ig/branches/main/package.tgz"
+  },
+  "fhir.kenyaClaimsIG": {
+    "name": "fhir.kenyaClaimsIG",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/profileFixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "profileFixes",
+        "lastSeen": "2025-12-15T11:26:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2025-12-15T11:29:08.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz"
   },
   "fhir.kenyaCoreIG": {
     "name": "fhir.kenyaCoreIG",
@@ -27996,7 +28020,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/szz",
         "branch": "master",
-        "lastSeen": "2025-12-15T07:43:37.000Z"
+        "lastSeen": "2025-12-15T11:01:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/szz/branches/master/package.tgz"
@@ -30799,6 +30823,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-priorities",
         "lastSeen": "2025-12-05T09:21:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-add-numero-am/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-add-numero-am",
+        "lastSeen": "2025-12-15T10:51:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -54834,7 +54864,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-SGA/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "EKG-SGA",
-        "lastSeen": "2025-12-15T10:21:54.000Z"
+        "lastSeen": "2025-12-15T11:13:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_PathFix/package.tgz",
