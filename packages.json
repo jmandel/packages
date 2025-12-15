@@ -6732,7 +6732,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2025-12-15T08:51:34.000Z"
+        "lastSeen": "2025-12-15T10:20:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -11029,6 +11029,18 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "clarify-how-to-author-a-change-and-move-release-branch-to-CalVer",
         "lastSeen": "2025-12-12T13:13:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0198/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "feature_CCR0198",
+        "lastSeen": "2025-12-15T09:59:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/story1_CCR0198/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "story1_CCR0198",
+        "lastSeen": "2025-12-15T10:03:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -28644,7 +28656,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "master",
-        "lastSeen": "2025-12-12T07:55:43.000Z"
+        "lastSeen": "2025-12-15T10:36:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/0.1.0/package.tgz",
@@ -54822,7 +54834,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/EKG-SGA/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "EKG-SGA",
-        "lastSeen": "2025-12-12T07:14:38.000Z"
+        "lastSeen": "2025-12-15T10:21:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/SKS_PathFix/package.tgz",
