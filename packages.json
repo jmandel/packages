@@ -2088,7 +2088,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "master",
-        "lastSeen": "2024-12-18T10:28:46.000Z"
+        "lastSeen": "2025-12-16T16:42:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/updateLicense/package.tgz",
@@ -2197,6 +2197,12 @@
         "repo": "https://github.com/hl7ch/ch-allergyintolerance",
         "branch": "issue119",
         "lastSeen": "2025-03-05T12:59:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/3.0.1/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-allergyintolerance",
+        "branch": "3.0.1",
+        "lastSeen": "2025-12-16T16:32:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-allergyintolerance/branches/pjolo/package.tgz"
@@ -5046,7 +5052,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "main",
-        "lastSeen": "2025-05-12T07:16:14.000Z"
+        "lastSeen": "2025-12-16T16:11:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/workaround_sdc_problem/package.tgz",
@@ -5142,7 +5148,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/3.0.1/package.tgz",
         "repo": "https://github.com/hl7ch/ch-etoc",
         "branch": "3.0.1",
-        "lastSeen": "2025-12-16T15:28:04.000Z"
+        "lastSeen": "2025-12-16T16:00:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-etoc/branches/main/package.tgz"
@@ -28230,7 +28236,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/terminology",
         "branch": "master",
-        "lastSeen": "2025-12-09T08:49:32.000Z"
+        "lastSeen": "2025-12-16T16:36:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz"
@@ -32952,13 +32958,13 @@
         "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/main/package.tgz",
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "main",
-        "lastSeen": "2025-12-14T00:56:21.000Z"
+        "lastSeen": "2025-12-16T16:37:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "master",
-        "lastSeen": "2025-12-14T00:57:22.000Z"
+        "lastSeen": "2025-12-16T16:37:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/new-base/package.tgz"
@@ -34656,7 +34662,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2025-12-16T15:23:10.000Z"
+        "lastSeen": "2025-12-16T15:35:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -61945,6 +61951,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "sort-capability-statement-json",
         "lastSeen": "2025-12-01T08:06:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-questionnaire/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-questionnaire",
+        "lastSeen": "2025-12-16T16:22:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
