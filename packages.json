@@ -4002,7 +4002,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-12-16T09:12:38.000Z"
+        "lastSeen": "2025-12-16T13:49:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -4554,7 +4554,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_chatc/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "oe_chatc",
-        "lastSeen": "2025-12-15T15:10:27.000Z"
+        "lastSeen": "2025-12-16T13:48:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_updatechangelog/package.tgz",
@@ -6672,7 +6672,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "master",
-        "lastSeen": "2025-05-12T07:16:45.000Z"
+        "lastSeen": "2025-12-16T14:36:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/issue59_mz/package.tgz",
@@ -11142,7 +11142,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0198/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0198",
-        "lastSeen": "2025-12-16T08:31:13.000Z"
+        "lastSeen": "2025-12-16T13:48:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/story1_CCR0198/package.tgz",
@@ -11154,7 +11154,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/story2_CCR0198/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "story2_CCR0198",
-        "lastSeen": "2025-12-16T12:25:57.000Z"
+        "lastSeen": "2025-12-16T13:44:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -12061,6 +12061,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Mapping-automatisieren",
         "lastSeen": "2025-12-14T19:54:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Anwendungsfall-10/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "Anwendungsfall-10",
+        "lastSeen": "2025-12-16T13:48:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -15294,7 +15300,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/jkBranding/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "jkBranding",
-        "lastSeen": "2025-12-16T13:35:16.000Z"
+        "lastSeen": "2025-12-16T14:12:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/dockerfile/package.tgz",
@@ -28194,7 +28200,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2025-12-16T12:41:09.000Z"
+        "lastSeen": "2025-12-16T14:37:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
@@ -28692,7 +28698,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2025-12-15T15:56:22.000Z"
+        "lastSeen": "2025-12-16T14:13:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -61290,7 +61296,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.1.0/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.1.0",
-        "lastSeen": "2025-12-16T09:37:30.000Z"
+        "lastSeen": "2025-12-16T13:31:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
