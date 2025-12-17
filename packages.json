@@ -11178,7 +11178,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0198_documentation/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0198_documentation",
-        "lastSeen": "2025-12-17T08:53:31.000Z"
+        "lastSeen": "2025-12-17T12:15:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -19642,6 +19642,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz"
+  },
+  "hl7.eu.fhir.xshare-careplan": {
+    "name": "hl7.eu.fhir.xshare-careplan",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/xshare-careplan/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-eu/xshare-careplan",
+        "branch": "master",
+        "lastSeen": "2025-12-17T11:45:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-eu/xshare-careplan/branches/master/package.tgz"
   },
   "hl7.eu.fhir.xshare-ips-plus": {
     "name": "hl7.eu.fhir.xshare-ips-plus",
@@ -28224,7 +28236,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "master",
-        "lastSeen": "2025-12-11T22:57:28.000Z"
+        "lastSeen": "2025-12-17T12:09:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/example/package.tgz",
@@ -31813,6 +31825,12 @@
         "repo": "https://github.com/hl7-pt/patient-admin-ig",
         "branch": "add-exemples",
         "lastSeen": "2025-12-08T20:13:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-pt/patient-admin-ig/branches/design_fix/package.tgz",
+        "repo": "https://github.com/hl7-pt/patient-admin-ig",
+        "branch": "design_fix",
+        "lastSeen": "2025-12-17T12:40:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-pt/patient-admin-ig/branches/master/package.tgz"
@@ -53010,7 +53028,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2025-12-17T11:01:47.000Z"
+        "lastSeen": "2025-12-17T12:19:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -53059,6 +53077,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "feature-70-sequence-diagrams",
         "lastSeen": "2025-12-15T16:46:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/fix-63-rework-communication-profile/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "fix-63-rework-communication-profile",
+        "lastSeen": "2025-12-17T12:54:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
