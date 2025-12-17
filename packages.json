@@ -6684,7 +6684,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-rad-order",
         "branch": "master",
-        "lastSeen": "2025-12-16T14:49:20.000Z"
+        "lastSeen": "2025-12-17T07:37:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-rad-order/branches/issue59_mz/package.tgz",
@@ -12085,6 +12085,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Anwendungsfall-10",
         "lastSeen": "2025-12-17T07:05:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/688-ehemalige-Abteilungen-als-HealthCareService-modellieren/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "688-ehemalige-Abteilungen-als-HealthCareService-modellieren",
+        "lastSeen": "2025-12-17T07:30:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -14748,7 +14754,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2025-12-17T06:58:25.000Z"
+        "lastSeen": "2025-12-17T08:12:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/emmergencyProfiles/package.tgz",
@@ -14767,6 +14773,18 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
         "branch": "diagnosticReportProfile",
         "lastSeen": "2025-12-17T06:49:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/compositionProfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
+        "branch": "compositionProfile",
+        "lastSeen": "2025-12-17T08:06:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/caseAssessmentProfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
+        "branch": "caseAssessmentProfile",
+        "lastSeen": "2025-12-17T08:11:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -15330,7 +15348,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/jkBranding/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "jkBranding",
-        "lastSeen": "2025-12-16T14:57:30.000Z"
+        "lastSeen": "2025-12-17T07:46:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/dockerfile/package.tgz",
@@ -27858,7 +27876,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/elp/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/elp",
         "branch": "master",
-        "lastSeen": "2025-11-14T12:44:09.000Z"
+        "lastSeen": "2025-12-17T07:57:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/elp/branches/master/package.tgz"
@@ -28074,7 +28092,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-12-16T09:28:39.000Z"
+        "lastSeen": "2025-12-17T08:05:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -28878,7 +28896,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2025-11-19T10:53:53.000Z"
+        "lastSeen": "2025-12-17T08:32:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -54252,7 +54270,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
         "branch": "main",
-        "lastSeen": "2025-12-17T06:57:27.000Z"
+        "lastSeen": "2025-12-17T08:28:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/lt-ig-lifestyle-audra/package.tgz",
@@ -59586,7 +59604,7 @@
         "url": "https://build.fhir.org/ig/alem5202/FHIRmoh/branches/main/package.tgz",
         "repo": "https://github.com/alem5202/FHIRmoh",
         "branch": "main",
-        "lastSeen": "2025-12-10T12:39:59.000Z"
+        "lastSeen": "2025-12-17T07:59:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/yosephdirirsa/ETBase/branches/main/package.tgz",
@@ -61980,7 +61998,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-questionnaire/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-questionnaire",
-        "lastSeen": "2025-12-16T16:22:17.000Z"
+        "lastSeen": "2025-12-17T07:18:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
