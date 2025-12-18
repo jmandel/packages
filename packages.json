@@ -4579,6 +4579,12 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "433-signature-algos",
         "lastSeen": "2025-12-15T15:17:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_release/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "oe_release",
+        "lastSeen": "2025-12-18T10:50:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -12103,6 +12109,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "688-ehemalige-Abteilungen-als-HealthCareService-modellieren",
         "lastSeen": "2025-12-17T07:30:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/673-Slicing-mit-value-statt-Profil/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "673-Slicing-mit-value-statt-Profil",
+        "lastSeen": "2025-12-18T11:24:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -62022,7 +62034,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2025-12-16T10:09:53.000Z"
+        "lastSeen": "2025-12-18T10:35:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
