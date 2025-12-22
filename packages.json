@@ -16536,7 +16536,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-january-2026/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "connectathon-january-2026",
-        "lastSeen": "2025-12-19T22:06:48.000Z"
+        "lastSeen": "2025-12-22T21:07:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/smp-update/package.tgz",
@@ -37182,7 +37182,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2025-12-03T18:39:17.000Z"
+        "lastSeen": "2025-12-22T21:09:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -38646,7 +38646,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/ClinicalDocumentSlicingIssue/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-library",
         "branch": "ClinicalDocumentSlicingIssue",
-        "lastSeen": "2025-12-22T07:15:30.000Z"
+        "lastSeen": "2025-12-22T21:28:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz"
@@ -41460,7 +41460,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2025-11-17T21:12:18.000Z"
+        "lastSeen": "2025-12-22T21:10:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/1.0.0-ballot/package.tgz",
@@ -46819,6 +46819,18 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "pghd",
         "lastSeen": "2025-03-26T04:25:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/jami-feedback-en-4/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "jami-feedback-en-4",
+        "lastSeen": "2025-12-22T21:20:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/jami-feedback-en/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "jami-feedback-en",
+        "lastSeen": "2025-12-22T21:20:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
