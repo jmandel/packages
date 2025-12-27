@@ -12169,6 +12169,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "567-Operation-für-Abteilungs-Stammdaten",
         "lastSeen": "2025-12-27T17:04:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/586-Bei-I11Saps3Questionnaire-aeußere-group-entfernen/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "586-Bei-I11Saps3Questionnaire-aeußere-group-entfernen",
+        "lastSeen": "2025-12-27T20:04:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -46897,6 +46903,12 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "jami-feedback-en",
         "lastSeen": "2025-12-22T21:20:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/workaround-jekyll-error/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "workaround-jekyll-error",
+        "lastSeen": "2025-12-27T19:58:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
