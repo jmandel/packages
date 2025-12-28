@@ -54083,6 +54083,24 @@
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/using-fhir-core-profiles/package.tgz"
   },
+  "johnmoehrke.xacml-consent.example": {
+    "name": "johnmoehrke.xacml-consent.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/R6/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/xacml-consent",
+        "branch": "R6",
+        "lastSeen": "2025-12-28T22:31:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/xacml-consent",
+        "branch": "main",
+        "lastSeen": "2025-12-28T22:39:41.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz"
+  },
   "kenya-training-bk": {
     "name": "kenya-training-bk",
     "locations": [

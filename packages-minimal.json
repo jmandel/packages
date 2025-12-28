@@ -6904,6 +6904,14 @@
     }
   },
   {
+    "name": "johnmoehrke.xacml-consent.example",
+    "current": {
+      "url": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz",
+      "repo": "https://github.com/JohnMoehrke/xacml-consent",
+      "branch": "main"
+    }
+  },
+  {
     "name": "kenya-training-bk",
     "current": {
       "url": "https://build.fhir.org/ig/briankariuki/fhir-training/branches/master/package.tgz",
