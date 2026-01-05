@@ -29268,7 +29268,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/jwg-api/branches/jp/package.tgz",
         "repo": "https://github.com/euridice-org/jwg-api",
         "branch": "jp",
-        "lastSeen": "2026-01-05T10:33:17.000Z"
+        "lastSeen": "2026-01-05T11:59:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/jwg-api/branches/main/package.tgz"
@@ -54929,6 +54929,18 @@
     ],
     "current": "https://build.fhir.org/ig/isagithomo/maanzoni-fhir/branches/afte2709/package.tgz"
   },
+  "medcom.dk.xdsmetadata": {
+    "name": "medcom.dk.xdsmetadata",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
+        "branch": "2.0",
+        "lastSeen": "2026-01-05T12:51:10.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz"
+  },
   "medcom.ehmi.dk.balp": {
     "name": "medcom.ehmi.dk.balp",
     "locations": [
@@ -56557,6 +56569,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
         "branch": "master",
         "lastSeen": "2025-12-11T13:13:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/EKG-documentReference/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
+        "branch": "EKG-documentReference",
+        "lastSeen": "2026-01-05T12:52:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/master/package.tgz"
@@ -56616,7 +56634,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/XDS-EKG-cleanup/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "XDS-EKG-cleanup",
-        "lastSeen": "2025-12-12T10:17:31.000Z"
+        "lastSeen": "2026-01-05T12:31:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz",
