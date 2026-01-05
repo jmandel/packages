@@ -20160,7 +20160,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-01-05T04:36:01.000Z"
+        "lastSeen": "2026-01-05T06:06:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -20935,6 +20935,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-qa-600",
         "lastSeen": "2026-01-05T04:04:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_changelog-qa/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "ft_changelog-qa",
+        "lastSeen": "2026-01-05T06:18:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
