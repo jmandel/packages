@@ -46776,7 +46776,7 @@
         "url": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/livd",
         "branch": "master",
-        "lastSeen": "2026-01-09T18:33:00.000Z"
+        "lastSeen": "2026-01-09T20:34:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/livd/branches/ballot-work/package.tgz",
@@ -46795,6 +46795,12 @@
         "repo": "https://github.com/HL7/livd",
         "branch": "ygaudet-empty-toc-fixes",
         "lastSeen": "2026-01-09T14:26:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/livd/branches/ygaudet-FHIR-43982/package.tgz",
+        "repo": "https://github.com/HL7/livd",
+        "branch": "ygaudet-FHIR-43982",
+        "lastSeen": "2026-01-09T20:36:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz"
