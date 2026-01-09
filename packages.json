@@ -10050,7 +10050,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/DocRefexample/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "DocRefexample",
-        "lastSeen": "2026-01-07T21:23:32.000Z"
+        "lastSeen": "2026-01-09T09:39:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -11178,7 +11178,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0162/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0162",
-        "lastSeen": "2026-01-08T12:40:47.000Z"
+        "lastSeen": "2026-01-09T09:36:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21850_treatment_areas/package.tgz",
@@ -11262,7 +11262,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2025-12-02T07:36:37.000Z"
+        "lastSeen": "2026-01-09T09:31:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -12234,7 +12234,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/380-Modellierung-Entbindung-Teil-1/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "380-Modellierung-Entbindung-Teil-1",
-        "lastSeen": "2026-01-09T08:01:00.000Z"
+        "lastSeen": "2026-01-09T08:51:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/restrict-build-to-main/package.tgz",
@@ -25597,6 +25597,12 @@
         "repo": "https://github.com/hl7-be/medication",
         "branch": "v1.1.0",
         "lastSeen": "2025-10-10T11:12:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/medication/branches/issue-318/package.tgz",
+        "repo": "https://github.com/hl7-be/medication",
+        "branch": "issue-318",
+        "lastSeen": "2026-01-09T09:08:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -32022,7 +32028,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-01-08T11:58:11.000Z"
+        "lastSeen": "2026-01-09T09:00:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -64633,6 +64639,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "EHDSAllergyIntolerance-changes",
         "lastSeen": "2026-01-07T08:30:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSCarePlan-changes/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "EHDSCarePlan-changes",
+        "lastSeen": "2026-01-09T09:37:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
