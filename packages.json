@@ -8082,7 +8082,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-qicore-2025",
         "branch": "master",
-        "lastSeen": "2026-01-13T17:24:08.000Z"
+        "lastSeen": "2026-01-13T20:14:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/imported/package.tgz",
@@ -55278,7 +55278,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-01-13T19:19:53.000Z"
+        "lastSeen": "2026-01-13T20:36:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -58296,7 +58296,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2026-01-13T19:11:53.000Z"
+        "lastSeen": "2026-01-13T20:13:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/helm-chart/package.tgz",
@@ -58315,6 +58315,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "aks_copy_edits",
         "lastSeen": "2025-10-28T14:56:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/rename-viewdefinition-export/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "rename-viewdefinition-export",
+        "lastSeen": "2026-01-13T20:00:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
