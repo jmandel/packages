@@ -11274,7 +11274,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/prepare_ig_for_release_2026_1_systematic_part/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "prepare_ig_for_release_2026_1_systematic_part",
-        "lastSeen": "2026-01-13T13:26:52.000Z"
+        "lastSeen": "2026-01-14T08:22:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-22143_change_telma_treatment_area/package.tgz",
@@ -18304,6 +18304,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
+  },
+  "hl7.at.fhir.elga.ediag.r4": {
+    "name": "hl7.at.fhir.elga.ediag.r4",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
+        "branch": "main",
+        "lastSeen": "2026-01-14T07:50:31.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
   },
   "hl7.at.fhir.elga.ips": {
     "name": "hl7.at.fhir.elga.ips",
@@ -56388,7 +56400,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/2025-08-20-ECG/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "2025-08-20-ECG",
-        "lastSeen": "2026-01-14T04:54:22.000Z"
+        "lastSeen": "2026-01-14T08:38:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
