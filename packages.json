@@ -11250,7 +11250,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.1/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.1",
-        "lastSeen": "2026-01-14T07:33:03.000Z"
+        "lastSeen": "2026-01-14T09:08:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-22062_Patient_user_blocked_from_create_update_consent_if_policy_is_display_triage_result/package.tgz",
@@ -16759,6 +16759,12 @@
         "repo": "https://github.com/Kimsber/Rehab-IG",
         "branch": "master",
         "lastSeen": "2026-01-08T02:54:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/main/package.tgz",
+        "repo": "https://github.com/Kimsber/Rehab-IG",
+        "branch": "main",
+        "lastSeen": "2026-01-14T08:56:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/master/package.tgz"
@@ -56400,7 +56406,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/2025-08-20-ECG/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "2025-08-20-ECG",
-        "lastSeen": "2026-01-14T08:38:31.000Z"
+        "lastSeen": "2026-01-14T09:13:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -58800,7 +58806,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-01-13T12:11:29.000Z"
+        "lastSeen": "2026-01-14T09:22:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -59731,6 +59737,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "fix-item-cardinality",
         "lastSeen": "2026-01-13T12:08:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/assorted-sm-fixes/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "assorted-sm-fixes",
+        "lastSeen": "2026-01-14T09:14:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
