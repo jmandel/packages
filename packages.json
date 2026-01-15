@@ -22914,7 +22914,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ignoreWarnings/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_ignoreWarnings",
-        "lastSeen": "2026-01-15T04:31:13.000Z"
+        "lastSeen": "2026-01-15T14:15:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -29616,7 +29616,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-01-08T17:14:13.000Z"
+        "lastSeen": "2026-01-15T13:52:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -56028,7 +56028,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/5.0.0-ITB-examples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "5.0.0-ITB-examples",
-        "lastSeen": "2026-01-15T12:13:18.000Z"
+        "lastSeen": "2026-01-15T14:05:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -58422,7 +58422,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2026-01-13T20:13:58.000Z"
+        "lastSeen": "2026-01-15T14:20:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/helm-chart/package.tgz",
@@ -58447,6 +58447,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "rename-viewdefinition-export",
         "lastSeen": "2026-01-13T20:00:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/add-csv-header-param/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "add-csv-header-param",
+        "lastSeen": "2026-01-15T14:31:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
