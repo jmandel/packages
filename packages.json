@@ -11293,6 +11293,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-22143_change_telma_treatment_area",
         "lastSeen": "2026-01-13T14:26:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/trifork_add-data-scientist-role/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "trifork_add-data-scientist-role",
+        "lastSeen": "2026-01-15T14:48:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -18517,6 +18523,12 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "135-61---inconsistent-data-in-examples",
         "lastSeen": "2026-01-14T14:06:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/113-44---precise-descriprion-for-persistence-of-scheduling-servers/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "113-44---precise-descriprion-for-persistence-of-scheduling-servers",
+        "lastSeen": "2026-01-15T15:21:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
