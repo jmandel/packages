@@ -8125,6 +8125,12 @@
         "repo": "https://github.com/cqframework/dqm-content-qicore-2025",
         "branch": "task-update-discrepancy-report-connectathon-2026-Jan",
         "lastSeen": "2026-01-15T21:16:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/feature-validate-populations-used-for-comparison/package.tgz",
+        "repo": "https://github.com/cqframework/dqm-content-qicore-2025",
+        "branch": "feature-validate-populations-used-for-comparison",
+        "lastSeen": "2026-01-16T15:03:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/master/package.tgz"
@@ -43884,7 +43890,7 @@
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/dicom-sr",
         "branch": "main",
-        "lastSeen": "2026-01-09T14:22:29.000Z"
+        "lastSeen": "2026-01-16T15:08:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/dicom-sr/branches/1.0.0-ballot/package.tgz",
@@ -54810,7 +54816,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/xacml-consent",
         "branch": "main",
-        "lastSeen": "2026-01-16T01:02:49.000Z"
+        "lastSeen": "2026-01-16T15:18:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz"
