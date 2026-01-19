@@ -22794,7 +22794,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_profilingapproach/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_profilingapproach",
-        "lastSeen": "2026-01-19T00:27:45.000Z"
+        "lastSeen": "2026-01-19T03:03:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ms-datetime/package.tgz",
@@ -23058,7 +23058,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2026-01-19T01:02:22.000Z"
+        "lastSeen": "2026-01-19T02:33:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -24342,7 +24342,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-01-09T04:32:01.000Z"
+        "lastSeen": "2026-01-19T02:26:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -24847,6 +24847,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_fhir-standard-wording",
         "lastSeen": "2026-01-14T00:00:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/generation-access-update/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "generation-access-update",
+        "lastSeen": "2026-01-19T02:54:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
