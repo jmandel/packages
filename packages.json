@@ -10110,7 +10110,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/DocRefexample/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "DocRefexample",
-        "lastSeen": "2026-01-20T08:47:01.000Z"
+        "lastSeen": "2026-01-20T13:39:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -54247,6 +54247,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "integration",
         "lastSeen": "2025-12-31T14:42:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/task-92-add-title-prefix/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "task-92-add-title-prefix",
+        "lastSeen": "2026-01-20T13:35:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -56100,7 +56106,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2025-12-05T14:07:57.000Z"
+        "lastSeen": "2026-01-20T13:32:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -56184,7 +56190,19 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/SKS_Githubpages_VANSOpdatering/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "SKS_Githubpages_VANSOpdatering",
-        "lastSeen": "2026-01-20T07:04:55.000Z"
+        "lastSeen": "2026-01-20T13:26:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.8-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.8-githubpages",
+        "lastSeen": "2026-01-20T13:33:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.8.githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.8.githubpages",
+        "lastSeen": "2026-01-20T13:26:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -63468,7 +63486,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-01-20T12:14:20.000Z"
+        "lastSeen": "2026-01-20T12:58:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
