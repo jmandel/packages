@@ -16626,7 +16626,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-01-20T06:06:23.000Z"
+        "lastSeen": "2026-01-20T06:48:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -56155,6 +56155,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "5.0.0-ITB-examples",
         "lastSeen": "2026-01-15T14:05:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/SKS_Githubpages_VANSOpdatering/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "SKS_Githubpages_VANSOpdatering",
+        "lastSeen": "2026-01-20T07:04:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -63571,6 +63577,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-doc-namespace",
         "lastSeen": "2026-01-19T09:31:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/fix-capability-statement-date-check/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "fix-capability-statement-date-check",
+        "lastSeen": "2026-01-20T06:30:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
