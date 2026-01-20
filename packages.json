@@ -12336,7 +12336,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/607-Anwendungsfall-31---genehmigung-nach-ablehnung/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "607-Anwendungsfall-31---genehmigung-nach-ablehnung",
-        "lastSeen": "2025-12-30T11:00:37.000Z"
+        "lastSeen": "2026-01-20T10:42:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/621-SV-Stammdaten-um-Adressen-ergänzen/package.tgz",
@@ -32022,7 +32022,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "main",
-        "lastSeen": "2026-01-20T09:45:37.000Z"
+        "lastSeen": "2026-01-20T11:03:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/CorrectionErreur/package.tgz",
@@ -51432,7 +51432,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-allergy/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-allergy",
         "branch": "main",
-        "lastSeen": "2026-01-19T12:59:22.000Z"
+        "lastSeen": "2026-01-20T11:01:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-allergy/branches/working/package.tgz",
@@ -51450,7 +51450,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2026-01-08T13:00:20.000Z"
+        "lastSeen": "2026-01-20T11:25:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/work-in-progress/package.tgz",
@@ -55554,7 +55554,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lab/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lab",
         "branch": "main",
-        "lastSeen": "2026-01-13T13:37:32.000Z"
+        "lastSeen": "2026-01-20T11:16:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lab/branches/hl7eu-lab-ig/package.tgz",
@@ -55567,6 +55567,12 @@
         "repo": "https://github.com/HL7LT/ig-lt-lab",
         "branch": "patho1",
         "lastSeen": "2026-01-13T13:35:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lab/branches/prostate/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-lab",
+        "branch": "prostate",
+        "lastSeen": "2026-01-20T11:15:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-lab/branches/main/package.tgz"
