@@ -12912,7 +12912,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "main",
-        "lastSeen": "2026-01-15T23:15:27.000Z"
+        "lastSeen": "2026-01-21T01:29:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/5-add-the-procedure-resource-and-its-dependencies/package.tgz",
@@ -22842,7 +22842,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_profilingapproach/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_profilingapproach",
-        "lastSeen": "2026-01-21T00:48:47.000Z"
+        "lastSeen": "2026-01-21T01:30:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ms-datetime/package.tgz",
@@ -23016,7 +23016,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ignorewarnings-2.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_ignorewarnings-2.0.0",
-        "lastSeen": "2026-01-19T22:17:43.000Z"
+        "lastSeen": "2026-01-21T01:17:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_QA_changelog/package.tgz",
@@ -23040,7 +23040,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "2.0.0",
-        "lastSeen": "2026-01-20T23:37:02.000Z"
+        "lastSeen": "2026-01-21T01:57:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_2.0.0-qa-warnings/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_2.0.0-qa-warnings",
+        "lastSeen": "2026-01-21T01:21:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -34644,7 +34650,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2025-12-10T21:44:33.000Z"
+        "lastSeen": "2026-01-21T00:27:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -36408,7 +36414,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-health-care-surveys-reporting-ig",
         "branch": "master",
-        "lastSeen": "2026-01-21T00:21:23.000Z"
+        "lastSeen": "2026-01-21T01:15:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-health-care-surveys-reporting-ig/branches/1.0.0/package.tgz",
@@ -39372,7 +39378,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ph-library",
         "branch": "master",
-        "lastSeen": "2026-01-21T00:22:30.000Z"
+        "lastSeen": "2026-01-21T01:05:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ph-library/branches/2.0.0-ballot/package.tgz",
@@ -44136,7 +44142,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2026-01-20T03:51:21.000Z"
+        "lastSeen": "2026-01-21T01:06:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -47173,6 +47179,12 @@
         "repo": "https://github.com/HL7/livd",
         "branch": "ygaudet-FHIR-43982",
         "lastSeen": "2026-01-09T20:36:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/livd/branches/ygaudet-LIVD-fixes/package.tgz",
+        "repo": "https://github.com/HL7/livd",
+        "branch": "ygaudet-LIVD-fixes",
+        "lastSeen": "2026-01-21T01:02:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/livd/branches/master/package.tgz"
@@ -49440,7 +49452,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/main/package.tgz",
         "repo": "https://github.com/HL7NZ/nzf",
         "branch": "main",
-        "lastSeen": "2025-12-11T00:50:54.000Z"
+        "lastSeen": "2026-01-21T02:21:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzf/branches/Add_nzf-packs/package.tgz",
