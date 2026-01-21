@@ -16662,7 +16662,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-01-20T07:32:40.000Z"
+        "lastSeen": "2026-01-21T08:30:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -23052,7 +23052,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "2.0.0",
-        "lastSeen": "2026-01-21T05:45:35.000Z"
+        "lastSeen": "2026-01-21T07:53:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_2.0.0-qa-warnings/package.tgz",
@@ -25530,7 +25530,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/clinicalobservation/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "clinicalobservation",
-        "lastSeen": "2026-01-20T19:52:15.000Z"
+        "lastSeen": "2026-01-21T08:43:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -30115,6 +30115,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51307",
         "lastSeen": "2026-01-20T16:24:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-51581/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "FHIR-51581",
+        "lastSeen": "2026-01-21T08:22:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -51498,7 +51504,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2026-01-21T07:25:41.000Z"
+        "lastSeen": "2026-01-21T08:42:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/work-in-progress/package.tgz",
@@ -59136,7 +59142,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-01-20T21:11:44.000Z"
+        "lastSeen": "2026-01-21T08:23:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -60121,6 +60127,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "revert-code",
         "lastSeen": "2026-01-20T21:10:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/update-upload-script/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "update-upload-script",
+        "lastSeen": "2026-01-21T08:20:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
