@@ -29844,7 +29844,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-01-22T09:38:28.000Z"
+        "lastSeen": "2026-01-22T11:43:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -30078,7 +30078,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2026-01-22T11:01:32.000Z"
+        "lastSeen": "2026-01-22T12:02:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/202501wgm/package.tgz",
@@ -32076,7 +32076,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/FL-gt-structure/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "FL-gt-structure",
-        "lastSeen": "2025-12-02T21:42:34.000Z"
+        "lastSeen": "2026-01-22T11:51:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-priorities/package.tgz",
@@ -59208,7 +59208,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-01-21T08:23:36.000Z"
+        "lastSeen": "2026-01-22T12:47:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -60205,6 +60205,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "remove-appointment-specialty",
         "lastSeen": "2026-01-22T10:19:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/valueset-change/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "valueset-change",
+        "lastSeen": "2026-01-22T12:44:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
