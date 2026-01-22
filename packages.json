@@ -12894,7 +12894,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/T62-fixes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "T62-fixes",
-        "lastSeen": "2026-01-21T10:32:49.000Z"
+        "lastSeen": "2026-01-22T21:26:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -44160,7 +44160,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-01-22T18:55:16.000Z"
+        "lastSeen": "2026-01-22T21:03:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -47761,6 +47761,18 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "workaround-jekyll-error",
         "lastSeen": "2025-12-27T19:58:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/usecases/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "usecases",
+        "lastSeen": "2026-01-22T21:08:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/pghd-rendering/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "pghd-rendering",
+        "lastSeen": "2026-01-22T21:02:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
