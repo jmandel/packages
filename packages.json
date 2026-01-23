@@ -25657,6 +25657,12 @@
         "repo": "https://github.com/hl7-be/referral",
         "branch": "uhmep",
         "lastSeen": "2026-01-23T08:32:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral/branches/nursing-pilot/package.tgz",
+        "repo": "https://github.com/hl7-be/referral",
+        "branch": "nursing-pilot",
+        "lastSeen": "2026-01-23T08:57:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-qa-fix/package.tgz"
@@ -29868,7 +29874,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-01-23T08:38:20.000Z"
+        "lastSeen": "2026-01-23T08:47:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -47826,7 +47832,7 @@
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/pghd-directory/package.tgz",
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "pghd-directory",
-        "lastSeen": "2026-01-23T07:39:20.000Z"
+        "lastSeen": "2026-01-23T08:51:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
@@ -55746,7 +55752,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-base",
         "branch": "main",
-        "lastSeen": "2026-01-23T07:57:02.000Z"
+        "lastSeen": "2026-01-23T09:29:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/dr-term/package.tgz",
@@ -55765,6 +55771,18 @@
         "repo": "https://github.com/HL7LT/ig-lt-base",
         "branch": "eu2",
         "lastSeen": "2026-01-23T07:56:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/eu4/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-base",
+        "branch": "eu4",
+        "lastSeen": "2026-01-23T09:29:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/eu3/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-base",
+        "branch": "eu3",
+        "lastSeen": "2026-01-23T09:24:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz"
@@ -55776,7 +55794,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-01-15T15:52:28.000Z"
+        "lastSeen": "2026-01-23T09:33:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -56346,7 +56364,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2026-01-20T13:32:28.000Z"
+        "lastSeen": "2026-01-23T09:35:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -56443,6 +56461,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.5.0.8.githubpages",
         "lastSeen": "2026-01-20T13:26:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/x.5.0.9-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "x.5.0.9-githubpages",
+        "lastSeen": "2026-01-23T09:35:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
