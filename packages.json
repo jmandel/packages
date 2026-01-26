@@ -30246,7 +30246,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/FHIR-51307/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "FHIR-51307",
-        "lastSeen": "2026-01-26T12:51:13.000Z"
+        "lastSeen": "2026-01-26T14:28:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-51581/package.tgz",
@@ -30342,7 +30342,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-51307/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-51307",
-        "lastSeen": "2026-01-26T13:03:17.000Z"
+        "lastSeen": "2026-01-26T14:31:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -30558,7 +30558,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-51307/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-51307",
-        "lastSeen": "2026-01-26T13:03:32.000Z"
+        "lastSeen": "2026-01-26T14:32:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -37957,6 +37957,12 @@
         "repo": "https://github.com/FHIR/MADFSH",
         "branch": "main",
         "lastSeen": "2026-01-20T12:40:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/deps_012626/package.tgz",
+        "repo": "https://github.com/FHIR/MADFSH",
+        "branch": "deps_012626",
+        "lastSeen": "2026-01-26T14:25:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/MADFSH/branches/main/package.tgz"
@@ -47376,7 +47382,7 @@
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz",
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "main",
-        "lastSeen": "2025-12-26T21:08:25.000Z"
+        "lastSeen": "2026-01-26T14:36:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/focus-cs-ak/package.tgz",
@@ -52080,7 +52086,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2026-01-26T13:31:56.000Z"
+        "lastSeen": "2026-01-26T14:16:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/work-in-progress/package.tgz",
