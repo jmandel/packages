@@ -1140,7 +1140,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/bloodpressure/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/bloodpressure",
         "branch": "main",
-        "lastSeen": "2026-01-20T14:43:32.000Z"
+        "lastSeen": "2026-01-27T20:03:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/bloodpressure/branches/main/package.tgz"
@@ -51588,7 +51588,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v271/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/hl7.v2.terminology.v271",
         "branch": "main",
-        "lastSeen": "2026-01-25T17:59:53.000Z"
+        "lastSeen": "2026-01-27T19:48:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v271/branches/main/package.tgz"
@@ -51600,7 +51600,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v28/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/hl7.v2.terminology.v28",
         "branch": "main",
-        "lastSeen": "2026-01-25T18:00:01.000Z"
+        "lastSeen": "2026-01-27T19:37:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v28/branches/main/package.tgz"
@@ -51612,7 +51612,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v281/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/hl7.v2.terminology.v281",
         "branch": "main",
-        "lastSeen": "2026-01-25T18:00:31.000Z"
+        "lastSeen": "2026-01-27T19:45:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v281/branches/main/package.tgz"
@@ -51624,7 +51624,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v282/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/hl7.v2.terminology.v282",
         "branch": "main",
-        "lastSeen": "2026-01-25T18:00:17.000Z"
+        "lastSeen": "2026-01-27T19:47:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v282/branches/main/package.tgz"
@@ -51636,7 +51636,7 @@
         "url": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v29/branches/main/package.tgz",
         "repo": "https://github.com/frankoemig/hl7.v2.terminology.v29",
         "branch": "main",
-        "lastSeen": "2026-01-25T17:56:41.000Z"
+        "lastSeen": "2026-01-27T19:46:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/frankoemig/hl7.v2.terminology.v29/branches/main/package.tgz"
@@ -54270,7 +54270,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.FIIO",
         "branch": "master",
-        "lastSeen": "2026-01-27T19:36:52.000Z"
+        "lastSeen": "2026-01-27T20:21:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz"
@@ -55704,7 +55704,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/xacml-consent",
         "branch": "main",
-        "lastSeen": "2026-01-27T19:36:55.000Z"
+        "lastSeen": "2026-01-27T19:52:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz"
@@ -59485,6 +59485,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "unify-async-pattern",
         "lastSeen": "2026-01-21T03:34:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/sqlquery/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "sqlquery",
+        "lastSeen": "2026-01-27T20:08:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
