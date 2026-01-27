@@ -3450,7 +3450,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_chcoreupdate/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "oe_chcoreupdate",
-        "lastSeen": "2025-12-18T16:30:50.000Z"
+        "lastSeen": "2026-01-27T12:18:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/1_13_1/package.tgz",
@@ -11382,7 +11382,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0297/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0297",
-        "lastSeen": "2026-01-19T08:57:13.000Z"
+        "lastSeen": "2026-01-27T12:00:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0297_S1_extra_annotations_terminology/package.tgz",
@@ -11437,6 +11437,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "8.0.0",
         "lastSeen": "2026-01-27T10:53:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.2/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "release_2026.2",
+        "lastSeen": "2026-01-27T12:02:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -11604,7 +11610,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/SOR-Org/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "SOR-Org",
-        "lastSeen": "2026-01-27T10:41:29.000Z"
+        "lastSeen": "2026-01-27T12:21:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz"
@@ -24402,13 +24408,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/1.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "1.0.0",
-        "lastSeen": "2026-01-27T11:00:47.000Z"
+        "lastSeen": "2026-01-27T11:38:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/be-test-1/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "be-test-1",
-        "lastSeen": "2026-01-27T11:18:04.000Z"
+        "lastSeen": "2026-01-27T12:33:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_aubaseterm/package.tgz",
@@ -29269,6 +29275,12 @@
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "typeAndCategory",
         "lastSeen": "2026-01-15T22:22:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/chyba/package.tgz",
+        "repo": "https://github.com/HL7-cz/k-order",
+        "branch": "chyba",
+        "lastSeen": "2026-01-27T11:51:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz"
@@ -30348,7 +30360,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-51581/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "FHIR-51581",
-        "lastSeen": "2026-01-21T08:22:50.000Z"
+        "lastSeen": "2026-01-27T12:17:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-51308-Expand-on-Guidance-for-bodySite/package.tgz",
@@ -57492,13 +57504,19 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "develop",
-        "lastSeen": "2026-01-15T07:38:01.000Z"
+        "lastSeen": "2026-01-27T12:04:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "main",
-        "lastSeen": "2026-01-15T08:28:25.000Z"
+        "lastSeen": "2026-01-27T12:07:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKGv1.1_test_examples/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-ekg",
+        "branch": "EKGv1.1_test_examples",
+        "lastSeen": "2026-01-27T12:11:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/SGA-ECG-2025-11/package.tgz"
@@ -63774,7 +63792,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.1.1/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.1.1",
-        "lastSeen": "2026-01-26T07:20:13.000Z"
+        "lastSeen": "2026-01-27T11:01:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
