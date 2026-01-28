@@ -21546,7 +21546,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-01-22T22:48:36.000Z"
+        "lastSeen": "2026-01-28T22:56:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -24714,7 +24714,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-01-28T06:12:49.000Z"
+        "lastSeen": "2026-01-28T23:10:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -25837,6 +25837,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "clinicalobservation",
         "lastSeen": "2026-01-21T09:16:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "release-candidate",
+        "lastSeen": "2026-01-28T23:28:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -28896,7 +28902,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Tomas",
-        "lastSeen": "2026-01-28T21:35:48.000Z"
+        "lastSeen": "2026-01-28T23:31:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Mirek/package.tgz",
@@ -28908,7 +28914,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Develop/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Develop",
-        "lastSeen": "2026-01-27T16:26:27.000Z"
+        "lastSeen": "2026-01-28T23:32:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Sarka/package.tgz",
