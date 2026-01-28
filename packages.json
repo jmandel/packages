@@ -18408,7 +18408,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "main",
-        "lastSeen": "2026-01-15T08:46:51.000Z"
+        "lastSeen": "2026-01-28T10:05:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
@@ -18552,7 +18552,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/48-30-53-71---remove-ordered-and-closed-slicing-within-composition/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "48-30-53-71---remove-ordered-and-closed-slicing-within-composition",
-        "lastSeen": "2026-01-27T16:02:21.000Z"
+        "lastSeen": "2026-01-28T10:15:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -30126,7 +30126,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-01-23T08:47:07.000Z"
+        "lastSeen": "2026-01-28T10:37:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -30162,7 +30162,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/jwg-api/branches/jp/package.tgz",
         "repo": "https://github.com/euridice-org/jwg-api",
         "branch": "jp",
-        "lastSeen": "2026-01-26T17:19:34.000Z"
+        "lastSeen": "2026-01-28T09:46:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/euridice-org/jwg-api/branches/moehrke-document-search-category/package.tgz",
@@ -32106,7 +32106,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-01-28T09:35:25.000Z"
+        "lastSeen": "2026-01-28T10:30:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -32430,7 +32430,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-publish-ballot-2/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-publish-ballot-2",
-        "lastSeen": "2026-01-28T08:22:16.000Z"
+        "lastSeen": "2026-01-28T10:31:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -57636,7 +57636,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "main",
-        "lastSeen": "2026-01-28T07:42:38.000Z"
+        "lastSeen": "2026-01-28T09:44:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKGv1.1_test_examples/package.tgz",
@@ -64735,6 +64735,12 @@
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "add-dhp-composition",
         "lastSeen": "2026-01-19T09:42:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/add-translationinfo/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "add-translationinfo",
+        "lastSeen": "2026-01-28T09:50:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
