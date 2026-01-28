@@ -8472,7 +8472,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2026-01-28T04:01:17.000Z"
+        "lastSeen": "2026-01-28T08:52:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -18528,7 +18528,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/55-56---create-examples-for-each-at-aps-profile/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "55-56---create-examples-for-each-at-aps-profile",
-        "lastSeen": "2025-12-01T06:47:05.000Z"
+        "lastSeen": "2026-01-28T09:01:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/36-20-52---fix-dependency-on-ipscurrent/package.tgz",
@@ -18640,6 +18640,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz"
+  },
+  "hl7.at.fhir.messaging.r5": {
+    "name": "hl7.at.fhir.messaging.r5",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Messaging-R5/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Messaging-R5",
+        "branch": "main",
+        "lastSeen": "2026-01-28T09:36:54.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Messaging-R5/branches/main/package.tgz"
   },
   "hl7.at.fhir.tc.wg.scheduling.r5": {
     "name": "hl7.at.fhir.tc.wg.scheduling.r5",
@@ -19818,7 +19830,7 @@
         "url": "https://build.fhir.org/ig/HL7/ehrs-base-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ehrs-base-ig",
         "branch": "main",
-        "lastSeen": "2025-04-17T08:59:31.000Z"
+        "lastSeen": "2026-01-28T09:26:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ehrs-base-ig/branches/main/package.tgz"
@@ -32094,7 +32106,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-01-12T10:02:18.000Z"
+        "lastSeen": "2026-01-28T09:35:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -55135,6 +55147,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issue-81-organdonation",
         "lastSeen": "2026-01-27T16:08:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Updateignorewarnings/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "Updateignorewarnings",
+        "lastSeen": "2026-01-28T09:32:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -57612,7 +57630,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "develop",
-        "lastSeen": "2026-01-27T12:04:20.000Z"
+        "lastSeen": "2026-01-28T09:42:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/main/package.tgz",
