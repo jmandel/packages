@@ -15229,6 +15229,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "0.1.0",
         "lastSeen": "2026-01-13T07:11:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/gabriel0316/test-ig/branches/main/package.tgz",
+        "repo": "https://github.com/gabriel0316/test-ig",
+        "branch": "main",
+        "lastSeen": "2026-01-28T08:26:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -16746,7 +16752,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/iss352-document-careprovtype-credential/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "iss352-document-careprovtype-credential",
-        "lastSeen": "2026-01-27T21:36:36.000Z"
+        "lastSeen": "2026-01-28T08:12:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -16788,7 +16794,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-01-26T11:39:42.000Z"
+        "lastSeen": "2026-01-28T07:48:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -18642,13 +18648,13 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "main",
-        "lastSeen": "2026-01-28T07:44:09.000Z"
+        "lastSeen": "2026-01-28T08:46:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "90-5---2-skizze-patient-does-not-exist",
-        "lastSeen": "2025-11-05T09:50:31.000Z"
+        "lastSeen": "2026-01-28T08:02:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/88-3---terminerinnerung-und-notifications/package.tgz",
@@ -18726,7 +18732,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/129-80---adapt-description-for-central-scheduling-platform/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "129-80---adapt-description-for-central-scheduling-platform",
-        "lastSeen": "2026-01-12T10:30:55.000Z"
+        "lastSeen": "2026-01-28T07:46:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/126-77---adapt-description-for-scheduling-client/package.tgz",
@@ -18751,6 +18757,18 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "113-44---precise-descriprion-for-persistence-of-scheduling-servers",
         "lastSeen": "2026-01-15T15:21:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/97-89--title-should-be-visible-in-header/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "97-89--title-should-be-visible-in-header",
+        "lastSeen": "2026-01-28T08:38:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/122-54---interactions-page-chapter-arrangement/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "122-54---interactions-page-chapter-arrangement",
+        "lastSeen": "2026-01-28T08:15:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -32395,6 +32413,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-card",
         "lastSeen": "2026-01-12T09:01:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-publish-ballot-2/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-publish-ballot-2",
+        "lastSeen": "2026-01-28T08:22:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -55104,7 +55128,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-56-examples/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issue-56-examples",
-        "lastSeen": "2026-01-26T20:34:40.000Z"
+        "lastSeen": "2026-01-28T07:58:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-81-organdonation/package.tgz",
@@ -56436,7 +56460,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-01-23T09:33:17.000Z"
+        "lastSeen": "2026-01-28T08:13:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -57594,7 +57618,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "main",
-        "lastSeen": "2026-01-28T07:38:46.000Z"
+        "lastSeen": "2026-01-28T07:42:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKGv1.1_test_examples/package.tgz",

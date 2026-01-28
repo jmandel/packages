@@ -154,8 +154,8 @@
   {
     "name": "fhir.example",
     "current": {
-      "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/main/package.tgz",
-      "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
+      "url": "https://build.fhir.org/ig/gabriel0316/test-ig/branches/main/package.tgz",
+      "repo": "https://github.com/gabriel0316/test-ig",
       "branch": "main"
     }
   },
@@ -533,6 +533,14 @@
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/identifier-errors-fixed/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
       "branch": "identifier-errors-fixed"
+    }
+  },
+  {
+    "name": "medcom.fhir.dk.messaging",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-messaging/branches/SKS_acknowledgement_fix/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-messaging",
+      "branch": "SKS_acknowledgement_fix"
     }
   },
   {
