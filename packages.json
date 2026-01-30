@@ -48205,6 +48205,18 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "blockvote-clinical-trials",
         "lastSeen": "2026-01-30T01:26:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-algorithms/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-algorithms",
+        "lastSeen": "2026-01-30T03:01:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-miscellaneous-copyedits/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-miscellaneous-copyedits",
+        "lastSeen": "2026-01-30T02:25:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
