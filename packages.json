@@ -48175,6 +48175,18 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "blockvote-record-lifecycle",
         "lastSeen": "2026-01-29T23:30:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-security-section/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-security-section",
+        "lastSeen": "2026-01-30T00:04:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-data-model-scope/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-data-model-scope",
+        "lastSeen": "2026-01-29T23:46:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
