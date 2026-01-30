@@ -25272,7 +25272,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/cr-FHIR-53631/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "cr-FHIR-53631",
-        "lastSeen": "2026-01-30T12:27:07.000Z"
+        "lastSeen": "2026-01-30T13:10:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -30222,7 +30222,7 @@
         "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/bvdh-review-auth-and-other/package.tgz",
         "repo": "https://github.com/bvdh/jwg-api",
         "branch": "bvdh-review-auth-and-other",
-        "lastSeen": "2026-01-30T12:07:44.000Z"
+        "lastSeen": "2026-01-30T13:04:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/jwg-api/branches/main/package.tgz"
@@ -64818,7 +64818,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "main",
-        "lastSeen": "2026-01-28T16:10:10.000Z"
+        "lastSeen": "2026-01-30T13:12:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/syncronize-setup/package.tgz",
@@ -64854,7 +64854,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/add-forms-documentation/package.tgz",
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "add-forms-documentation",
-        "lastSeen": "2025-12-18T13:22:17.000Z"
+        "lastSeen": "2026-01-30T13:09:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/update-digital-signature-approach/package.tgz",
@@ -64891,6 +64891,12 @@
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "remove-tracked-translations",
         "lastSeen": "2026-01-28T16:03:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/cherry-pick-data-deduplication/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "cherry-pick-data-deduplication",
+        "lastSeen": "2026-01-30T13:10:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
@@ -66480,13 +66486,13 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSPrescription-changes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "EHDSPrescription-changes",
-        "lastSeen": "2026-01-30T12:46:21.000Z"
+        "lastSeen": "2026-01-30T13:27:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSMedication-changes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "EHDSMedication-changes",
-        "lastSeen": "2026-01-25T20:01:27.000Z"
+        "lastSeen": "2026-01-30T13:48:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSDataSet-changes/package.tgz",
