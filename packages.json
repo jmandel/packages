@@ -24726,7 +24726,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-01-29T22:00:05.000Z"
+        "lastSeen": "2026-01-30T01:13:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -48187,6 +48187,24 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "blockvote-data-model-scope",
         "lastSeen": "2026-01-29T23:46:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-phr-metadata/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-phr-metadata",
+        "lastSeen": "2026-01-30T01:32:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-logical-models/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-logical-models",
+        "lastSeen": "2026-01-30T02:07:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-clinical-trials/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "blockvote-clinical-trials",
+        "lastSeen": "2026-01-30T01:26:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
