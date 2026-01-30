@@ -3828,7 +3828,7 @@
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/master/package.tgz",
         "repo": "https://github.com/CARA-ch/ch-emed-epr",
         "branch": "master",
-        "lastSeen": "2026-01-29T10:46:56.000Z"
+        "lastSeen": "2026-01-30T16:34:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CARA-ch/ch-emed-epr/branches/v1.0.0/package.tgz",
@@ -4056,7 +4056,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "master",
-        "lastSeen": "2025-12-18T15:06:26.000Z"
+        "lastSeen": "2026-01-30T16:16:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/oe_mhd/package.tgz",
@@ -16753,6 +16753,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "iss352-document-careprovtype-credential",
         "lastSeen": "2026-01-28T13:41:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-deziidtoken-vc/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "add-deziidtoken-vc",
+        "lastSeen": "2026-01-30T16:04:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -17622,7 +17628,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/flute-requirements/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/flute-requirements",
         "branch": "master",
-        "lastSeen": "2024-03-04T14:13:59.000Z"
+        "lastSeen": "2026-01-30T16:42:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/flute/branches/master/package.tgz"
@@ -28926,7 +28932,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Tomas",
-        "lastSeen": "2026-01-29T21:21:35.000Z"
+        "lastSeen": "2026-01-30T15:41:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Mirek/package.tgz",
@@ -28938,7 +28944,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Develop/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Develop",
-        "lastSeen": "2026-01-29T12:53:30.000Z"
+        "lastSeen": "2026-01-30T15:52:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Sarka/package.tgz",
@@ -36210,7 +36216,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ehrx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ehrx",
         "branch": "master",
-        "lastSeen": "2026-01-30T15:02:14.000Z"
+        "lastSeen": "2026-01-30T16:09:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ehrx/branches/rhofstede-fixes/package.tgz",
@@ -40254,7 +40260,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/stu2-ballot-recon/package.tgz",
         "repo": "https://github.com/HL7/fhir-resp-net-ig",
         "branch": "stu2-ballot-recon",
-        "lastSeen": "2025-09-17T21:55:22.000Z"
+        "lastSeen": "2026-01-30T15:53:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-resp-net-ig/branches/master/package.tgz"
