@@ -11592,7 +11592,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer",
         "branch": "main",
-        "lastSeen": "2025-11-11T14:06:56.000Z"
+        "lastSeen": "2026-02-03T11:23:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/branches/POC---reserved-for-cherrypicking-later/package.tgz",
@@ -11670,7 +11670,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "test",
-        "lastSeen": "2026-02-03T10:21:07.000Z"
+        "lastSeen": "2026-02-03T11:10:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/prod/package.tgz",
@@ -16806,7 +16806,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authz-requirements/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authz-requirements",
-        "lastSeen": "2026-02-03T08:07:38.000Z"
+        "lastSeen": "2026-02-03T11:12:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -16848,7 +16848,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-03T07:47:52.000Z"
+        "lastSeen": "2026-02-03T11:11:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -32557,6 +32557,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-limit-extension-datatype",
         "lastSeen": "2026-02-03T10:17:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-valueset-ruleset/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-valueset-ruleset",
+        "lastSeen": "2026-02-03T10:51:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -64104,7 +64110,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2026-01-28T14:39:57.000Z"
+        "lastSeen": "2026-02-03T10:04:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -64944,7 +64950,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "main",
-        "lastSeen": "2026-02-03T09:19:44.000Z"
+        "lastSeen": "2026-02-03T11:46:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/syncronize-setup/package.tgz",
@@ -65035,6 +65041,12 @@
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "add-document-category-terminology",
         "lastSeen": "2026-02-03T09:16:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/document-categories/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "document-categories",
+        "lastSeen": "2026-02-03T11:45:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
@@ -66612,7 +66624,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/stakeholder-consultation-D7-1/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "stakeholder-consultation-D7-1",
-        "lastSeen": "2026-02-02T16:00:06.000Z"
+        "lastSeen": "2026-02-03T11:01:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSDevice-DeviceUse-changes/package.tgz",
