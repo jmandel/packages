@@ -11664,7 +11664,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "test",
-        "lastSeen": "2026-01-28T15:46:26.000Z"
+        "lastSeen": "2026-02-03T08:26:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/prod/package.tgz",
@@ -12151,6 +12151,12 @@
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
         "lastSeen": "2026-01-08T14:56:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
+        "branch": "work-in-progress",
+        "lastSeen": "2026-02-03T08:20:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -16794,7 +16800,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authz-requirements/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authz-requirements",
-        "lastSeen": "2026-02-02T16:02:26.000Z"
+        "lastSeen": "2026-02-03T08:07:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -16836,7 +16842,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-03T07:05:29.000Z"
+        "lastSeen": "2026-02-03T07:47:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -27144,7 +27150,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/pss",
         "branch": "release-candidate",
-        "lastSeen": "2026-01-29T09:06:45.000Z"
+        "lastSeen": "2026-02-03T08:23:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pss/branches/releasecandidate/package.tgz",
@@ -64158,7 +64164,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.1.2/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.1.2",
-        "lastSeen": "2026-02-03T05:29:09.000Z"
+        "lastSeen": "2026-02-03T07:01:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -64740,7 +64746,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-02-02T13:20:36.000Z"
+        "lastSeen": "2026-02-03T08:19:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -64999,6 +65005,12 @@
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "document-statuses",
         "lastSeen": "2026-02-02T13:01:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/add-document-category-terminology/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "add-document-category-terminology",
+        "lastSeen": "2026-02-03T08:43:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
@@ -66667,6 +66679,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "EHDSBodystrcture-changes",
         "lastSeen": "2026-02-02T15:43:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSPatientSummary-changes/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "EHDSPatientSummary-changes",
+        "lastSeen": "2026-02-03T08:18:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
