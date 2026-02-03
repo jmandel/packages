@@ -16854,7 +16854,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-03T11:39:23.000Z"
+        "lastSeen": "2026-02-03T15:28:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -29850,7 +29850,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.6.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.6.0",
-        "lastSeen": "2026-01-30T08:12:32.000Z"
+        "lastSeen": "2026-02-03T15:09:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -32568,7 +32568,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-valueset-ruleset/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-valueset-ruleset",
-        "lastSeen": "2026-02-03T10:51:58.000Z"
+        "lastSeen": "2026-02-03T14:59:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -39684,7 +39684,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "main",
-        "lastSeen": "2026-02-03T14:22:25.000Z"
+        "lastSeen": "2026-02-03T15:14:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/jp_working/package.tgz",
@@ -40368,7 +40368,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2026-02-02T22:47:12.000Z"
+        "lastSeen": "2026-02-03T15:31:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -43716,13 +43716,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-02-02T13:04:05.000Z"
+        "lastSeen": "2026-02-03T15:48:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-02-02T13:03:56.000Z"
+        "lastSeen": "2026-02-03T15:48:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -55459,6 +55459,18 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "Rewrite-texts-regarding-the-uncoupling-STU3-and-R4",
         "lastSeen": "2026-02-03T12:30:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/Rework-medical-policy-goal/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "Rework-medical-policy-goal",
+        "lastSeen": "2026-02-03T15:04:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue81-organdonation/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "issue81-organdonation",
+        "lastSeen": "2026-02-03T15:22:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -56676,7 +56688,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-base",
         "branch": "main",
-        "lastSeen": "2026-01-23T09:29:37.000Z"
+        "lastSeen": "2026-02-03T15:02:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/dr-term/package.tgz",
@@ -64794,7 +64806,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-02-03T12:13:13.000Z"
+        "lastSeen": "2026-02-03T15:04:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
