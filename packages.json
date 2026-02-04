@@ -16878,7 +16878,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-04T08:38:53.000Z"
+        "lastSeen": "2026-02-04T12:28:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -55543,6 +55543,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "task-55-and-101-add-wording-on-addressing-and-patient-context",
         "lastSeen": "2026-02-04T08:10:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/56-rework-examples-organization/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "56-rework-examples-organization",
+        "lastSeen": "2026-02-04T12:58:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -56802,7 +56808,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-02-04T08:54:13.000Z"
+        "lastSeen": "2026-02-04T12:31:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -57060,7 +57066,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_ACK_test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "SKS_ACK_test",
-        "lastSeen": "2026-02-02T07:42:29.000Z"
+        "lastSeen": "2026-02-04T11:56:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz"
@@ -58128,7 +58134,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/SKS_fejlfinding/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
         "branch": "SKS_fejlfinding",
-        "lastSeen": "2026-02-04T11:05:43.000Z"
+        "lastSeen": "2026-02-04T12:03:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/master/package.tgz"
@@ -64878,7 +64884,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-02-03T15:04:26.000Z"
+        "lastSeen": "2026-02-04T12:15:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -65029,6 +65035,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "0.4.0",
         "lastSeen": "2026-02-03T11:55:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/update-domain-to-dhp/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "update-domain-to-dhp",
+        "lastSeen": "2026-02-04T11:44:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
@@ -66588,7 +66600,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "master",
-        "lastSeen": "2026-02-01T14:04:04.000Z"
+        "lastSeen": "2026-02-04T12:49:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/test/package.tgz",
@@ -66649,6 +66661,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "jct-fix-scripts",
         "lastSeen": "2026-02-01T13:13:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/jct-restore-scripts/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
+        "branch": "jct-restore-scripts",
+        "lastSeen": "2026-02-04T12:48:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
