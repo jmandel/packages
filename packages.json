@@ -9816,7 +9816,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2026-02-04T18:24:18.000Z"
+        "lastSeen": "2026-02-04T19:19:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/v2026.0.1/package.tgz",
@@ -44407,6 +44407,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "dd-cqm-updates2",
         "lastSeen": "2026-02-03T18:59:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-51395/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "FHIR-51395",
+        "lastSeen": "2026-02-04T19:06:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -49650,7 +49656,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/rh-symptoms-fixes/package.tgz",
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "rh-symptoms-fixes",
-        "lastSeen": "2026-01-22T15:36:15.000Z"
+        "lastSeen": "2026-02-04T19:23:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/Page-updates/package.tgz",
@@ -66726,7 +66732,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-04T18:00:39.000Z"
+        "lastSeen": "2026-02-04T19:00:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
@@ -66858,7 +66864,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSProcedure-changes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "EHDSProcedure-changes",
-        "lastSeen": "2026-01-31T21:18:59.000Z"
+        "lastSeen": "2026-02-04T19:42:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSImagingReport-changes/package.tgz",
