@@ -7187,6 +7187,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
   },
+  "ch.fhir.ig.ch-umzh-connect": {
+    "name": "ch.fhir.ig.ch-umzh-connect",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "main",
+        "lastSeen": "2026-02-05T10:46:10.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
+  },
   "ch.fhir.ig.ch-vacd": {
     "name": "ch.fhir.ig.ch-vacd",
     "locations": [
@@ -12198,7 +12210,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-02-05T09:34:08.000Z"
+        "lastSeen": "2026-02-05T10:01:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -16902,7 +16914,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-05T07:46:55.000Z"
+        "lastSeen": "2026-02-05T10:35:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -18642,7 +18654,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/update-general-narrative/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "update-general-narrative",
-        "lastSeen": "2026-02-05T09:18:44.000Z"
+        "lastSeen": "2026-02-05T09:57:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/55-56---create-examples-for-each-at-aps-profile/package.tgz",
@@ -20088,7 +20100,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/flute/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/flute",
         "branch": "master",
-        "lastSeen": "2025-11-05T13:36:02.000Z"
+        "lastSeen": "2026-02-05T10:21:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/flute/branches/master/package.tgz"
@@ -30258,7 +30270,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-02-04T22:52:18.000Z"
+        "lastSeen": "2026-02-05T10:16:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -56892,7 +56904,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-02-05T08:33:41.000Z"
+        "lastSeen": "2026-02-05T10:11:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -57150,7 +57162,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_ACK_test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "SKS_ACK_test",
-        "lastSeen": "2026-02-04T11:56:47.000Z"
+        "lastSeen": "2026-02-05T10:52:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/master/package.tgz"
@@ -58218,7 +58230,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/SKS_fejlfinding/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
         "branch": "SKS_fejlfinding",
-        "lastSeen": "2026-02-05T06:48:37.000Z"
+        "lastSeen": "2026-02-05T10:48:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/master/package.tgz"
@@ -60415,6 +60427,12 @@
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "initial-setup",
         "lastSeen": "2026-01-30T09:36:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/logical-models-docs/package.tgz",
+        "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
+        "branch": "logical-models-docs",
+        "lastSeen": "2026-02-05T10:48:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz"
@@ -66822,7 +66840,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-05T07:25:53.000Z"
+        "lastSeen": "2026-02-05T10:42:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
@@ -66876,7 +66894,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/stakeholder-consultation-D7-1/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "stakeholder-consultation-D7-1",
-        "lastSeen": "2026-02-05T09:30:56.000Z"
+        "lastSeen": "2026-02-05T10:32:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSDevice-DeviceUse-changes/package.tgz",
