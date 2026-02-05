@@ -176,6 +176,14 @@
     }
   },
   {
+    "name": "SHIFT-Task-Force.sls-ri",
+    "current": {
+      "url": "https://build.fhir.org/ig/SHIFT-Task-Force/sls-ri-ig/branches/main/package.tgz",
+      "repo": "https://github.com/SHIFT-Task-Force/sls-ri-ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "SHIFT-Task-Force.slsValueSets",
     "current": {
       "url": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/main/package.tgz",
