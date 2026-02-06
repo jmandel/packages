@@ -66888,7 +66888,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-05T23:42:57.000Z"
+        "lastSeen": "2026-02-06T00:06:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
@@ -67164,7 +67164,25 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/editorial-fixes/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "editorial-fixes",
-        "lastSeen": "2026-02-05T23:40:28.000Z"
+        "lastSeen": "2026-02-05T23:53:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSDevice-changes-aagain/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "EHDSDevice-changes-aagain",
+        "lastSeen": "2026-02-06T00:05:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/IG-pages-updates/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "IG-pages-updates",
+        "lastSeen": "2026-02-06T00:32:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/observation-heading-fix/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "observation-heading-fix",
+        "lastSeen": "2026-02-06T00:01:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
