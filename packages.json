@@ -30379,6 +30379,12 @@
         "repo": "https://github.com/bvdh/jwg-api",
         "branch": "change-euridice-logo-right",
         "lastSeen": "2026-02-06T14:15:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/euridice-org/jwg-api/branches/main/package.tgz",
+        "repo": "https://github.com/euridice-org/jwg-api",
+        "branch": "main",
+        "lastSeen": "2026-02-06T17:18:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz"
@@ -39936,7 +39942,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
-        "lastSeen": "2026-02-06T02:53:39.000Z"
+        "lastSeen": "2026-02-06T17:43:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz"
@@ -67050,7 +67056,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/stakeholder-consultation-D7-1/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "stakeholder-consultation-D7-1",
-        "lastSeen": "2026-02-06T16:55:01.000Z"
+        "lastSeen": "2026-02-06T17:48:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSDevice-DeviceUse-changes/package.tgz",
@@ -67315,6 +67321,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "0.3.0",
         "lastSeen": "2026-02-06T16:38:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/T7.1-Fix/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "T7.1-Fix",
+        "lastSeen": "2026-02-06T17:01:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
