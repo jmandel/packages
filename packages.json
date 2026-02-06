@@ -468,7 +468,7 @@
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/sls-ri-ig/branches/main/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/sls-ri-ig",
         "branch": "main",
-        "lastSeen": "2026-02-05T22:17:12.000Z"
+        "lastSeen": "2026-02-06T14:17:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SHIFT-Task-Force/sls-ri-ig/branches/main/package.tgz"
@@ -30373,6 +30373,12 @@
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "main",
         "lastSeen": "2026-02-06T13:12:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/change-euridice-logo-right/package.tgz",
+        "repo": "https://github.com/bvdh/jwg-api",
+        "branch": "change-euridice-logo-right",
+        "lastSeen": "2026-02-06T14:15:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz"
@@ -30828,7 +30834,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/use_cases/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "use_cases",
-        "lastSeen": "2026-02-06T13:21:09.000Z"
+        "lastSeen": "2026-02-06T13:57:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31050,7 +31056,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/use_cases/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "use_cases",
-        "lastSeen": "2026-02-06T13:21:33.000Z"
+        "lastSeen": "2026-02-06T13:57:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -66984,7 +66990,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-06T10:48:24.000Z"
+        "lastSeen": "2026-02-06T14:48:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
