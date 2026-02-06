@@ -11551,6 +11551,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0297-dk.core-3.5.0",
         "lastSeen": "2026-02-06T11:50:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-22151-upgrade-to-hapi-fhir-8.6.1/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-22151-upgrade-to-hapi-fhir-8.6.1",
+        "lastSeen": "2026-02-06T13:09:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -30366,7 +30372,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "main",
-        "lastSeen": "2026-02-05T20:29:28.000Z"
+        "lastSeen": "2026-02-06T13:12:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz"
@@ -30732,7 +30738,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/use_cases/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "use_cases",
-        "lastSeen": "2026-02-06T09:30:05.000Z"
+        "lastSeen": "2026-02-06T13:43:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -30817,6 +30823,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-51307",
         "lastSeen": "2026-01-26T14:31:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/use_cases/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r4",
+        "branch": "use_cases",
+        "lastSeen": "2026-02-06T13:21:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31033,6 +31045,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-51307",
         "lastSeen": "2026-01-26T14:32:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/use_cases/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r5",
+        "branch": "use_cases",
+        "lastSeen": "2026-02-06T13:21:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -54774,7 +54792,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.FIIO",
         "branch": "master",
-        "lastSeen": "2026-02-05T00:30:28.000Z"
+        "lastSeen": "2026-02-06T13:17:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz"
@@ -57078,7 +57096,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-prostate",
         "branch": "main",
-        "lastSeen": "2026-02-05T23:30:42.000Z"
+        "lastSeen": "2026-02-06T13:14:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz"
@@ -67279,6 +67297,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "text-corrections",
         "lastSeen": "2026-02-06T12:37:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/0.3.0/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "0.3.0",
+        "lastSeen": "2026-02-06T13:26:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
