@@ -7218,7 +7218,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "aa_update_general_documentation",
-        "lastSeen": "2026-02-06T08:17:44.000Z"
+        "lastSeen": "2026-02-06T09:55:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -25638,7 +25638,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "master",
-        "lastSeen": "2025-11-06T09:54:55.000Z"
+        "lastSeen": "2026-02-06T10:00:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-57/package.tgz",
@@ -57828,7 +57828,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-core",
         "branch": "master",
-        "lastSeen": "2026-02-04T21:06:08.000Z"
+        "lastSeen": "2026-02-06T10:10:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-core/branches/2.2.0-rc1/package.tgz",
@@ -66918,7 +66918,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-06T09:23:23.000Z"
+        "lastSeen": "2026-02-06T10:48:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
@@ -67219,6 +67219,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "content-pages-changes",
         "lastSeen": "2026-02-06T06:59:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/meds-uml/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "meds-uml",
+        "lastSeen": "2026-02-06T10:44:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
