@@ -28296,7 +28296,7 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "master",
-        "lastSeen": "2026-02-06T20:00:35.000Z"
+        "lastSeen": "2026-02-06T20:46:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-update-template/package.tgz",
@@ -28350,7 +28350,7 @@
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-2517-add-exp-params/package.tgz",
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "es-2517-add-exp-params",
-        "lastSeen": "2025-03-10T19:06:05.000Z"
+        "lastSeen": "2026-02-06T20:45:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/es-2520-asst-narrative/package.tgz",
@@ -30385,6 +30385,12 @@
         "repo": "https://github.com/euridice-org/jwg-api",
         "branch": "main",
         "lastSeen": "2026-02-06T17:18:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/moehrke-categories/package.tgz",
+        "repo": "https://github.com/euridice-org/eu-health-data-api",
+        "branch": "moehrke-categories",
+        "lastSeen": "2026-02-06T21:14:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz"
@@ -36420,7 +36426,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2026-02-06T19:26:29.000Z"
+        "lastSeen": "2026-02-06T20:32:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -54804,7 +54810,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.FIIO",
         "branch": "master",
-        "lastSeen": "2026-02-06T19:30:07.000Z"
+        "lastSeen": "2026-02-06T20:48:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz"
