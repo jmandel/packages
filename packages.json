@@ -8502,7 +8502,7 @@
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/gpccmp-fhir-ig",
         "branch": "master",
-        "lastSeen": "2026-02-05T04:45:10.000Z"
+        "lastSeen": "2026-02-09T05:40:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/master/package.tgz"
@@ -12606,7 +12606,7 @@
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/master/package.tgz",
         "repo": "https://github.com/jembi/ethiopia-hiv",
         "branch": "master",
-        "lastSeen": "2025-01-14T08:30:31.000Z"
+        "lastSeen": "2026-02-09T05:22:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jembi/ethiopia-hiv/branches/intake-b-form/package.tgz",
@@ -24720,7 +24720,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/1.0.0/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "1.0.0",
-        "lastSeen": "2026-02-09T03:02:37.000Z"
+        "lastSeen": "2026-02-09T05:27:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/be-test-1/package.tgz",
@@ -25471,6 +25471,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_slicing",
         "lastSeen": "2026-02-05T00:42:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/AUPS-reviewchanges/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "AUPS-reviewchanges",
+        "lastSeen": "2026-02-09T05:16:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
