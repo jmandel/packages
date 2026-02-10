@@ -2993,6 +2993,24 @@
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
   },
+  "ch.fhir.ig.ch-ekm": {
+    "name": "ch.fhir.ig.ch-ekm",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "master",
+        "lastSeen": "2026-02-10T13:31:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "ys_1-add-pneumokokken-and-hepatitis-c-instances",
+        "lastSeen": "2026-02-10T13:35:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
+  },
   "ch.fhir.ig.ch-elm": {
     "name": "ch.fhir.ig.ch-elm",
     "locations": [
@@ -5425,6 +5443,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "multiLanguageSupport",
         "lastSeen": "2025-12-11T13:01:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_3-use-cases-description/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "ys_3-use-cases-description",
+        "lastSeen": "2026-02-10T13:11:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -26166,7 +26190,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/nursing-pilot/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "nursing-pilot",
-        "lastSeen": "2026-02-10T10:36:44.000Z"
+        "lastSeen": "2026-02-10T13:10:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-qa-fix/package.tgz"
@@ -30678,7 +30702,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/gc-dev/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "gc-dev",
-        "lastSeen": "2026-02-10T12:00:51.000Z"
+        "lastSeen": "2026-02-10T13:09:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/fix-examples/package.tgz",
@@ -44022,13 +44046,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-02-10T10:29:08.000Z"
+        "lastSeen": "2026-02-10T13:30:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-02-10T10:32:16.000Z"
+        "lastSeen": "2026-02-10T13:32:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
