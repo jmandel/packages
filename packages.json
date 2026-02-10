@@ -11532,7 +11532,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.2/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.2",
-        "lastSeen": "2026-01-27T12:02:46.000Z"
+        "lastSeen": "2026-02-10T12:31:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
@@ -11550,7 +11550,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0262/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0262",
-        "lastSeen": "2026-02-04T11:31:18.000Z"
+        "lastSeen": "2026-02-10T12:30:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0297-dk.core-3.5.0/package.tgz",
@@ -29664,7 +29664,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "master",
-        "lastSeen": "2026-01-16T08:21:19.000Z"
+        "lastSeen": "2026-02-10T12:39:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/example/package.tgz",
@@ -29688,7 +29688,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/chyba/package.tgz",
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "chyba",
-        "lastSeen": "2026-01-27T11:51:34.000Z"
+        "lastSeen": "2026-02-10T12:37:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz"
@@ -30678,7 +30678,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/gc-dev/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "gc-dev",
-        "lastSeen": "2026-02-09T14:47:10.000Z"
+        "lastSeen": "2026-02-10T12:00:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/fix-examples/package.tgz",
@@ -36504,7 +36504,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2026-02-09T23:36:23.000Z"
+        "lastSeen": "2026-02-10T12:32:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -55824,7 +55824,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/56-rework-examples-organization/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "56-rework-examples-organization",
-        "lastSeen": "2026-02-04T13:06:22.000Z"
+        "lastSeen": "2026-02-10T12:04:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -60702,7 +60702,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "main",
-        "lastSeen": "2026-02-10T11:10:03.000Z"
+        "lastSeen": "2026-02-10T11:59:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
@@ -67501,6 +67501,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "T7.1-Fix",
         "lastSeen": "2026-02-06T17:01:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/EHDSDosaging-notes.md-rename/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "EHDSDosaging-notes.md-rename",
+        "lastSeen": "2026-02-10T12:48:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
