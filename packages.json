@@ -3006,7 +3006,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "ys_1-add-pneumokokken-and-hepatitis-c-instances",
-        "lastSeen": "2026-02-10T15:47:42.000Z"
+        "lastSeen": "2026-02-11T10:14:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
@@ -9708,7 +9708,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2026-01-21T11:15:07.000Z"
+        "lastSeen": "2026-02-11T10:23:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -9900,7 +9900,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2026-02-04T19:19:46.000Z"
+        "lastSeen": "2026-02-11T10:22:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/v2026.0.1/package.tgz",
@@ -60762,7 +60762,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "main",
-        "lastSeen": "2026-02-11T07:11:34.000Z"
+        "lastSeen": "2026-02-11T09:57:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
@@ -67567,6 +67567,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "EHDSDosaging-notes.md-rename",
         "lastSeen": "2026-02-10T14:22:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/62-obilgations/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "62-obilgations",
+        "lastSeen": "2026-02-11T10:17:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
