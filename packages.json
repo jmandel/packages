@@ -9900,7 +9900,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2026-02-11T16:48:46.000Z"
+        "lastSeen": "2026-02-11T17:02:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/v2026.0.1/package.tgz",
@@ -36648,7 +36648,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2026-02-09T22:45:07.000Z"
+        "lastSeen": "2026-02-11T17:04:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -56220,7 +56220,13 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "main",
-        "lastSeen": "2026-02-11T16:28:53.000Z"
+        "lastSeen": "2026-02-11T17:07:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/R6/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
+        "branch": "R6",
+        "lastSeen": "2026-02-11T17:47:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz"
@@ -56502,7 +56508,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/xacml-consent",
         "branch": "main",
-        "lastSeen": "2026-02-11T16:34:12.000Z"
+        "lastSeen": "2026-02-11T17:02:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/xacml-consent/branches/main/package.tgz"
