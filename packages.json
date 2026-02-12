@@ -12306,7 +12306,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-02-05T13:32:09.000Z"
+        "lastSeen": "2026-02-12T14:04:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -26263,6 +26263,12 @@
         "repo": "https://github.com/hl7-be/referral",
         "branch": "nursing-pilot",
         "lastSeen": "2026-02-10T13:10:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/nursing-uhmep/package.tgz",
+        "repo": "https://github.com/hl7-be/referral-uhmep",
+        "branch": "nursing-uhmep",
+        "lastSeen": "2026-02-12T14:27:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-qa-fix/package.tgz"
@@ -29292,7 +29298,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Develop/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Develop",
-        "lastSeen": "2026-01-30T21:32:39.000Z"
+        "lastSeen": "2026-02-12T14:25:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Sarka/package.tgz",
@@ -53563,6 +53569,12 @@
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "86-relativity-of-anonymous-data",
         "lastSeen": "2026-01-22T04:35:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/ips-ehds2-optemized-reformat/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DeIdHandbook",
+        "branch": "ips-ehds2-optemized-reformat",
+        "lastSeen": "2026-02-12T14:17:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
@@ -58950,7 +58962,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/review-internal/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "review-internal",
-        "lastSeen": "2026-02-09T10:51:07.000Z"
+        "lastSeen": "2026-02-12T14:46:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
