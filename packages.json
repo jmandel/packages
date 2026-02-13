@@ -13182,7 +13182,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "main",
-        "lastSeen": "2026-02-02T08:54:09.000Z"
+        "lastSeen": "2026-02-13T05:10:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/5-add-the-procedure-resource-and-its-dependencies/package.tgz",
@@ -18829,6 +18829,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "18-conditioncategory-overrides-extensible-ips-value-set-binding",
         "lastSeen": "2026-02-04T15:24:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/81-provide-terminologies-on-termgitelgagvat/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "81-provide-terminologies-on-termgitelgagvat",
+        "lastSeen": "2026-02-13T05:23:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
