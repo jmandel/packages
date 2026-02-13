@@ -16764,7 +16764,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
-        "lastSeen": "2026-02-04T10:43:45.000Z"
+        "lastSeen": "2026-02-13T12:18:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/4-0-x-dependency-challenge/package.tgz",
@@ -17046,7 +17046,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-13T10:11:06.000Z"
+        "lastSeen": "2026-02-13T12:24:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -18684,7 +18684,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "main",
-        "lastSeen": "2026-02-09T07:50:03.000Z"
+        "lastSeen": "2026-02-13T12:43:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
@@ -18859,6 +18859,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "81-provide-terminologies-on-termgitelgagvat",
         "lastSeen": "2026-02-13T06:19:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/tidy-up/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
+        "branch": "tidy-up",
+        "lastSeen": "2026-02-13T12:45:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
@@ -30342,7 +30348,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "master",
-        "lastSeen": "2026-02-12T17:39:03.000Z"
+        "lastSeen": "2026-02-13T12:06:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/0.1.0-ballot/package.tgz",
@@ -30402,7 +30408,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2026-02-12T17:33:25.000Z"
+        "lastSeen": "2026-02-13T12:07:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -31075,6 +31081,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "use_cases",
         "lastSeen": "2026-02-09T09:19:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-51283---API/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "FHIR-51283---API",
+        "lastSeen": "2026-02-13T11:35:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31297,6 +31309,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "use_cases",
         "lastSeen": "2026-02-09T09:20:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-51283---API/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "FHIR-51283---API",
+        "lastSeen": "2026-02-13T11:36:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -55920,7 +55938,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Renaming-medical-policy-ID/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "Renaming-medical-policy-ID",
-        "lastSeen": "2026-02-12T13:10:45.000Z"
+        "lastSeen": "2026-02-13T12:52:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-95-role-questionnaire/package.tgz",
@@ -57348,7 +57366,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-cervical",
         "branch": "main",
-        "lastSeen": "2026-02-09T16:04:59.000Z"
+        "lastSeen": "2026-02-13T12:10:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz"
@@ -57690,7 +57708,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master",
-        "lastSeen": "2025-11-18T07:46:33.000Z"
+        "lastSeen": "2026-02-13T11:44:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
@@ -60948,7 +60966,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "main",
-        "lastSeen": "2026-02-11T12:21:17.000Z"
+        "lastSeen": "2026-02-13T12:44:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
