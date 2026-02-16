@@ -3007,6 +3007,12 @@
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "ys_1-add-pneumokokken-and-hepatitis-c-instances",
         "lastSeen": "2026-02-11T13:08:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/7-pneumokokken-and-hepatitis-c-refinement/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "7-pneumokokken-and-hepatitis-c-refinement",
+        "lastSeen": "2026-02-16T07:55:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
@@ -12343,6 +12349,12 @@
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "UPTIS-3752",
         "lastSeen": "2026-02-05T09:24:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/UPTIS-4795/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
+        "branch": "UPTIS-4795",
+        "lastSeen": "2026-02-16T08:27:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -18738,7 +18750,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-AustrianPatientSummary-R4",
         "branch": "main",
-        "lastSeen": "2026-02-13T12:43:34.000Z"
+        "lastSeen": "2026-02-16T08:31:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/minion_dev/package.tgz",
@@ -25722,7 +25734,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/1.0.0-ballot/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "1.0.0-ballot",
-        "lastSeen": "2026-02-16T07:42:28.000Z"
+        "lastSeen": "2026-02-16T08:33:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -33408,7 +33420,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "fhir-ig-setup",
-        "lastSeen": "2026-02-16T07:33:07.000Z"
+        "lastSeen": "2026-02-16T08:02:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/nl-gf-localization-profiles/package.tgz",
@@ -44382,7 +44394,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2025-11-21T17:41:40.000Z"
+        "lastSeen": "2026-02-16T08:03:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -44622,7 +44634,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/jct-55628/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "jct-55628",
-        "lastSeen": "2026-02-13T17:57:51.000Z"
+        "lastSeen": "2026-02-16T08:09:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/jct-55625/package.tgz",
@@ -58243,6 +58255,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.5.0.10-githubpages",
         "lastSeen": "2026-02-03T06:27:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/5.0.2/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "5.0.2",
+        "lastSeen": "2026-02-16T07:53:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
