@@ -7266,7 +7266,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/mr_ortho_uc/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "mr_ortho_uc",
-        "lastSeen": "2026-02-13T18:31:54.000Z"
+        "lastSeen": "2026-02-17T10:33:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -31231,6 +31231,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "FHIR-51283---API",
         "lastSeen": "2026-02-13T11:35:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-51308-Expand-on-Guidance-for-bodySite/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "FHIR-51308-Expand-on-Guidance-for-bodySite",
+        "lastSeen": "2026-02-17T09:49:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31459,6 +31465,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "FHIR-51283---API",
         "lastSeen": "2026-02-13T11:36:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-51308-Expand-on-Guidance-for-bodySite/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "FHIR-51308-Expand-on-Guidance-for-bodySite",
+        "lastSeen": "2026-02-17T09:49:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -32790,7 +32802,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-02-11T16:15:50.000Z"
+        "lastSeen": "2026-02-17T10:02:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -32904,7 +32916,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nriss-patch-1/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nriss-patch-1",
-        "lastSeen": "2025-01-14T16:11:26.000Z"
+        "lastSeen": "2026-02-17T09:57:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-fix-vs-marital-status/package.tgz",
@@ -33270,7 +33282,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/AnalysePharma/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "AnalysePharma",
-        "lastSeen": "2026-02-17T09:05:14.000Z"
+        "lastSeen": "2026-02-17T10:24:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -56022,7 +56034,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-02-09T09:08:55.000Z"
+        "lastSeen": "2026-02-17T10:19:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -56184,7 +56196,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "develop",
-        "lastSeen": "2026-02-12T10:26:45.000Z"
+        "lastSeen": "2026-02-17T10:29:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/14-QA/package.tgz",
@@ -56280,7 +56292,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/questionnaire-role-issue-95/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "questionnaire-role-issue-95",
-        "lastSeen": "2026-02-16T13:42:09.000Z"
+        "lastSeen": "2026-02-17T10:41:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/Update-updatePublisher-and-genonce-scripts/package.tgz",
