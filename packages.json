@@ -14617,6 +14617,12 @@
         "repo": "https://github.com/cqframework/opioid-cds-r4",
         "branch": "improve-ci-tests",
         "lastSeen": "2026-01-29T19:53:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/security-rs/opioid-cds-r4/branches/edits-for-fcp/package.tgz",
+        "repo": "https://github.com/security-rs/opioid-cds-r4",
+        "branch": "edits-for-fcp",
+        "lastSeen": "2026-02-17T21:34:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -40464,7 +40470,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
-        "lastSeen": "2026-02-16T21:46:32.000Z"
+        "lastSeen": "2026-02-17T21:38:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz"
@@ -44742,7 +44748,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/jct-55629/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "jct-55629",
-        "lastSeen": "2026-02-13T16:54:33.000Z"
+        "lastSeen": "2026-02-17T21:08:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/jct-55628/package.tgz",
@@ -67752,7 +67758,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-14T18:18:52.000Z"
+        "lastSeen": "2026-02-17T21:41:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
