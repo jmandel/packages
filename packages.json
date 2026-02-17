@@ -720,7 +720,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "main",
-        "lastSeen": "2026-02-07T16:24:30.000Z"
+        "lastSeen": "2026-02-17T15:43:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-smart-card/package.tgz",
@@ -786,7 +786,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-sp-period/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-add-sp-period",
-        "lastSeen": "2025-11-27T17:07:52.000Z"
+        "lastSeen": "2026-02-17T15:02:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-missing-data-dr/package.tgz",
@@ -805,6 +805,18 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-test-identifier",
         "lastSeen": "2026-02-02T12:39:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nriss-patch-1/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nriss-patch-1",
+        "lastSeen": "2026-02-17T14:52:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nriss-patch-2/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nriss-patch-2",
+        "lastSeen": "2026-02-17T14:53:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -12342,7 +12354,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-02-17T08:46:14.000Z"
+        "lastSeen": "2026-02-17T15:24:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -17118,7 +17130,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-17T11:47:15.000Z"
+        "lastSeen": "2026-02-17T15:07:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -44304,7 +44316,7 @@
         "url": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cg-incubator",
         "branch": "main",
-        "lastSeen": "2026-02-17T14:43:55.000Z"
+        "lastSeen": "2026-02-17T15:29:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz"
