@@ -30840,13 +30840,19 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-02-18T10:58:47.000Z"
+        "lastSeen": "2026-02-23T14:57:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "update-dependencies",
         "lastSeen": "2025-03-24T13:32:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/1.0.0-xtehr/package.tgz",
+        "repo": "https://github.com/hl7-eu/eps",
+        "branch": "1.0.0-xtehr",
+        "lastSeen": "2026-02-23T15:01:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz"
@@ -31218,7 +31224,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2026-02-23T14:56:23.000Z"
+        "lastSeen": "2026-02-23T15:45:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ActorsAndUsecases/package.tgz",
