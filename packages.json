@@ -834,7 +834,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "main",
-        "lastSeen": "2026-02-09T09:37:32.000Z"
+        "lastSeen": "2026-02-23T11:13:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/DescriptionMetier/package.tgz",
@@ -3012,7 +3012,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-02-11T13:19:55.000Z"
+        "lastSeen": "2026-02-23T11:45:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -3031,6 +3031,12 @@
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "8-patient-resource-profiling",
         "lastSeen": "2026-02-23T06:52:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/9-adapt-readme/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "9-adapt-readme",
+        "lastSeen": "2026-02-23T11:44:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
@@ -33325,6 +33331,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-system-nss",
         "lastSeen": "2026-02-23T07:44:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-fr-core-1/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-fr-core-1",
+        "lastSeen": "2026-02-23T11:02:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -49326,7 +49338,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2023-08-07T17:14:16.000Z"
+        "lastSeen": "2026-02-23T11:48:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
