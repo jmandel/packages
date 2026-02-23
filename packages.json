@@ -31224,7 +31224,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2026-02-23T15:45:40.000Z"
+        "lastSeen": "2026-02-23T16:14:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ActorsAndUsecases/package.tgz",
@@ -31356,7 +31356,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2026-02-20T10:35:26.000Z"
+        "lastSeen": "2026-02-23T16:32:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-51307/package.tgz",
@@ -31596,7 +31596,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2026-02-20T10:35:10.000Z"
+        "lastSeen": "2026-02-23T16:31:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-51307/package.tgz",
@@ -50587,6 +50587,12 @@
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "Page-updates",
         "lastSeen": "2026-02-18T21:29:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/joint-commission-fixes/package.tgz",
+        "repo": "https://github.com/HL7/fhir-symptoms-ig",
+        "branch": "joint-commission-fixes",
+        "lastSeen": "2026-02-23T16:25:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
@@ -53275,6 +53281,12 @@
         "repo": "https://github.com/HL7/terminology-fundamentals-ig",
         "branch": "jbota-20251105",
         "lastSeen": "2026-01-27T14:03:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/jbota-20260202/package.tgz",
+        "repo": "https://github.com/HL7/terminology-fundamentals-ig",
+        "branch": "jbota-20260202",
+        "lastSeen": "2026-02-23T16:43:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/master/package.tgz"
