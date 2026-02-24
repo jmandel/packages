@@ -7290,7 +7290,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "aa_update_general_documentation",
-        "lastSeen": "2026-02-06T09:55:58.000Z"
+        "lastSeen": "2026-02-24T14:11:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/mr_ortho_uc/package.tgz",
@@ -19104,7 +19104,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-02-10T14:11:15.000Z"
+        "lastSeen": "2026-02-24T14:48:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -31435,6 +31435,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "ballot-0.2.0",
         "lastSeen": "2026-02-19T13:01:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r4",
+        "branch": "fix_examples",
+        "lastSeen": "2026-02-24T14:10:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -35382,7 +35388,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/STU2.2_rc/package.tgz",
         "repo": "https://github.com/HL7/carin-bb",
         "branch": "STU2.2_rc",
-        "lastSeen": "2026-02-24T04:54:10.000Z"
+        "lastSeen": "2026-02-24T14:35:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-bb/branches/master/package.tgz"
@@ -40866,7 +40872,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-bulk/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-bulk",
         "branch": "main",
-        "lastSeen": "2025-12-10T19:23:25.000Z"
+        "lastSeen": "2026-02-24T14:47:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-bulk/branches/main/package.tgz"
@@ -40950,7 +40956,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-QR",
         "branch": "main",
-        "lastSeen": "2025-12-19T13:42:07.000Z"
+        "lastSeen": "2026-02-24T14:45:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz"
@@ -48348,7 +48354,7 @@
         "url": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/immunization-incubator",
         "branch": "main",
-        "lastSeen": "2026-02-05T20:00:22.000Z"
+        "lastSeen": "2026-02-24T14:48:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz"
@@ -55644,7 +55650,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2026-02-24T06:42:23.000Z"
+        "lastSeen": "2026-02-24T14:06:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -56490,7 +56496,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Rewrite-text-regarding-the-uncoupling-of-STU3-and-R4/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "Rewrite-text-regarding-the-uncoupling-of-STU3-and-R4",
-        "lastSeen": "2026-02-03T12:32:14.000Z"
+        "lastSeen": "2026-02-24T14:44:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/93-improve-obligations/package.tgz",
@@ -56616,7 +56622,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/Rewrite-texts-regarding-the-uncoupling-STU3-and-R4/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "Rewrite-texts-regarding-the-uncoupling-STU3-and-R4",
-        "lastSeen": "2026-02-03T12:30:20.000Z"
+        "lastSeen": "2026-02-24T14:51:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/Rework-medical-policy-goal/package.tgz",
@@ -57138,7 +57144,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBinary",
         "branch": "main",
-        "lastSeen": "2025-09-11T12:50:35.000Z"
+        "lastSeen": "2026-02-24T14:39:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
@@ -68430,7 +68436,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/71-obligations/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "71-obligations",
-        "lastSeen": "2026-02-12T11:55:17.000Z"
+        "lastSeen": "2026-02-24T14:39:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/new-pages/package.tgz",
