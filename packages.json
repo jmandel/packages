@@ -7290,7 +7290,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "aa_update_general_documentation",
-        "lastSeen": "2026-02-24T14:11:11.000Z"
+        "lastSeen": "2026-02-24T17:57:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/mr_ortho_uc/package.tgz",
@@ -14701,6 +14701,12 @@
         "repo": "https://github.com/security-rs/opioid-cds-r4",
         "branch": "master",
         "lastSeen": "2026-02-19T15:49:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/security-rs/opioid-cds-r4/branches/config-documentation/package.tgz",
+        "repo": "https://github.com/security-rs/opioid-cds-r4",
+        "branch": "config-documentation",
+        "lastSeen": "2026-02-24T18:20:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -19200,7 +19206,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "main",
-        "lastSeen": "2026-01-28T08:46:28.000Z"
+        "lastSeen": "2026-02-24T18:22:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
@@ -19248,7 +19254,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/94-8---namen-der-interactions-wiederfinden/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "94-8---namen-der-interactions-wiederfinden",
-        "lastSeen": "2026-01-13T09:35:51.000Z"
+        "lastSeen": "2026-02-24T18:31:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/125-62---book-examples-have-inconsistent-data/package.tgz",
@@ -19327,6 +19333,12 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "134-57---add-definition-for-slot-resource-to-introduction-of-slot-profile",
         "lastSeen": "2026-02-24T16:22:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/131-85---logicalid-reference-vs-referencing-via-identifier/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "131-85---logicalid-reference-vs-referencing-via-identifier",
+        "lastSeen": "2026-02-24T18:48:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -35358,7 +35370,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-bb",
         "branch": "master",
-        "lastSeen": "2026-02-24T15:05:56.000Z"
+        "lastSeen": "2026-02-24T18:23:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-bb/branches/non-financial/package.tgz",
@@ -43806,7 +43818,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2026-02-24T02:04:42.000Z"
+        "lastSeen": "2026-02-24T18:10:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/1.0.0-ballot/package.tgz",
@@ -52687,6 +52699,18 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-780-Clarify-strict-vs-metadata-version-policy",
         "lastSeen": "2026-02-20T16:51:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-762-Request-to-add-ISRCTN-Identifier-System/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-762-Request-to-add-ISRCTN-Identifier-System",
+        "lastSeen": "2026-02-24T17:18:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-763-Request-to-add-CTIS-Identifier-System/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-763-Request-to-add-CTIS-Identifier-System",
+        "lastSeen": "2026-02-24T17:15:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
