@@ -30204,7 +30204,13 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2026-02-24T13:30:41.000Z"
+        "lastSeen": "2026-02-24T21:21:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/develop/package.tgz",
+        "repo": "https://github.com/HL7-cz/ps",
+        "branch": "develop",
+        "lastSeen": "2026-02-24T21:03:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
@@ -31356,7 +31362,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-24T13:46:18.000Z"
+        "lastSeen": "2026-02-24T21:44:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -37254,7 +37260,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2026-02-24T16:48:28.000Z"
+        "lastSeen": "2026-02-24T20:59:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -61236,7 +61242,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2026-02-23T22:05:39.000Z"
+        "lastSeen": "2026-02-24T21:00:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/helm-chart/package.tgz",
