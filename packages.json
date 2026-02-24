@@ -13511,6 +13511,24 @@
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/1-add-the-patient-resource-and-its-dependencies/package.tgz"
   },
+  "example.fhir.ph.ereferral": {
+    "name": "example.fhir.ph.ereferral",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/jgsuess/ph-ereferral/branches/v0.1.0/package.tgz",
+        "repo": "https://github.com/jgsuess/ph-ereferral",
+        "branch": "v0.1.0",
+        "lastSeen": "2026-02-24T01:41:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jgsuess/ph-ereferral/branches/main/package.tgz",
+        "repo": "https://github.com/jgsuess/ph-ereferral",
+        "branch": "main",
+        "lastSeen": "2026-02-24T02:01:47.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/jgsuess/ph-ereferral/branches/main/package.tgz"
+  },
   "example.fhir.ph.roadsafety": {
     "name": "example.fhir.ph.roadsafety",
     "locations": [
@@ -29586,7 +29604,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "main",
-        "lastSeen": "2026-02-13T11:04:31.000Z"
+        "lastSeen": "2026-02-24T00:47:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
@@ -43752,7 +43770,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2026-02-23T23:20:24.000Z"
+        "lastSeen": "2026-02-24T02:04:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/1.0.0-ballot/package.tgz",
@@ -54169,6 +54187,12 @@
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "ips-ehds2-optemized-reformat",
         "lastSeen": "2026-02-19T14:27:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/89-f2f-review-feb-2026/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DeIdHandbook",
+        "branch": "89-f2f-review-feb-2026",
+        "lastSeen": "2026-02-24T01:49:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
