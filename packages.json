@@ -30973,6 +30973,12 @@
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "Patient-Lookup-Clarifications",
         "lastSeen": "2026-02-25T10:59:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/jp-patient-lookup-rationale/package.tgz",
+        "repo": "https://github.com/euridice-org/eu-health-data-api",
+        "branch": "jp-patient-lookup-rationale",
+        "lastSeen": "2026-02-25T12:16:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz"
@@ -31362,7 +31368,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T10:29:22.000Z"
+        "lastSeen": "2026-02-25T12:00:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -31476,7 +31482,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-24T21:40:18.000Z"
+        "lastSeen": "2026-02-25T12:19:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31717,6 +31723,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "ballot-0.2.0",
         "lastSeen": "2026-02-19T12:37:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/fix_examples/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r5",
+        "branch": "fix_examples",
+        "lastSeen": "2026-02-25T12:28:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -31872,7 +31884,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/mpd",
         "branch": "master",
-        "lastSeen": "2026-02-24T23:16:57.000Z"
+        "lastSeen": "2026-02-25T11:51:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r4-giorgio/package.tgz",
@@ -32010,7 +32022,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/mpd-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/mpd-r5",
         "branch": "master",
-        "lastSeen": "2026-02-24T23:21:03.000Z"
+        "lastSeen": "2026-02-25T11:56:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/mpd-r5/branches/liquid-multiversion/package.tgz",
@@ -66336,7 +66348,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-02-24T16:11:03.000Z"
+        "lastSeen": "2026-02-25T11:43:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -68574,13 +68586,13 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/62-consumer-obligations/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "62-consumer-obligations",
-        "lastSeen": "2026-02-25T10:39:43.000Z"
+        "lastSeen": "2026-02-25T12:18:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/62-search-parameters/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "62-search-parameters",
-        "lastSeen": "2026-02-25T11:47:13.000Z"
+        "lastSeen": "2026-02-25T12:22:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
