@@ -9966,7 +9966,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2026-02-13T10:08:03.000Z"
+        "lastSeen": "2026-02-25T16:02:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/v2026.0.1/package.tgz",
@@ -11898,7 +11898,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "test",
-        "lastSeen": "2026-02-25T15:32:08.000Z"
+        "lastSeen": "2026-02-25T16:14:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/prod/package.tgz",
@@ -29682,7 +29682,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Develop/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Develop",
-        "lastSeen": "2026-02-24T00:18:04.000Z"
+        "lastSeen": "2026-02-25T16:16:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Sarka/package.tgz",
@@ -31386,7 +31386,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T14:43:40.000Z"
+        "lastSeen": "2026-02-25T16:50:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -31500,7 +31500,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T15:32:21.000Z"
+        "lastSeen": "2026-02-25T16:33:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31746,7 +31746,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T14:57:09.000Z"
+        "lastSeen": "2026-02-25T16:29:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -52789,6 +52789,18 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-763-Request-to-add-CTIS-Identifier-System",
         "lastSeen": "2026-02-24T17:15:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-767-create-an-url-for-DCMUID-DICOM-Unique-Identifiers/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-767-create-an-url-for-DCMUID-DICOM-Unique-Identifiers",
+        "lastSeen": "2026-02-25T16:06:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-764-Request-to-Change-ClinicalTrials-to-an-Identifier-System/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-764-Request-to-Change-ClinicalTrials-to-an-Identifier-System",
+        "lastSeen": "2026-02-25T16:02:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -56496,7 +56508,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-02-25T15:57:15.000Z"
+        "lastSeen": "2026-02-25T16:23:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -56610,7 +56622,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Rewrite-text-regarding-the-uncoupling-of-STU3-and-R4/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "Rewrite-text-regarding-the-uncoupling-of-STU3-and-R4",
-        "lastSeen": "2026-02-24T14:44:52.000Z"
+        "lastSeen": "2026-02-25T16:38:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/93-improve-obligations/package.tgz",
@@ -56664,13 +56676,13 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/114-qa-fixes/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "114-qa-fixes",
-        "lastSeen": "2026-02-25T15:31:08.000Z"
+        "lastSeen": "2026-02-25T16:39:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/QA/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "QA",
-        "lastSeen": "2026-02-25T13:01:50.000Z"
+        "lastSeen": "2026-02-25T16:41:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -68256,7 +68268,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-02-22T08:17:12.000Z"
+        "lastSeen": "2026-02-25T16:47:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
