@@ -19350,7 +19350,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/127-78---adapt-description-for-scheduling-server/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "127-78---adapt-description-for-scheduling-server",
-        "lastSeen": "2026-02-25T08:56:22.000Z"
+        "lastSeen": "2026-02-25T09:54:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -30732,7 +30732,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base/branches/xtehr/package.tgz",
         "repo": "https://github.com/hl7-eu/base",
         "branch": "xtehr",
-        "lastSeen": "2026-02-25T08:44:01.000Z"
+        "lastSeen": "2026-02-25T09:25:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz"
@@ -53659,6 +53659,12 @@
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "PoC",
         "lastSeen": "2025-03-25T09:13:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/umcterminologies/package.tgz",
+        "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
+        "branch": "umcterminologies",
+        "lastSeen": "2026-02-25T09:52:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz"
@@ -56460,7 +56466,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Changelog/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "Changelog",
-        "lastSeen": "2025-10-29T13:43:45.000Z"
+        "lastSeen": "2026-02-25T09:10:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/v1.0.0-rc1/package.tgz",
@@ -66505,6 +66511,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-transaction-bundle-example",
         "lastSeen": "2026-02-24T16:04:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/update-uzbek-translation-transactions/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "update-uzbek-translation-transactions",
+        "lastSeen": "2026-02-25T08:58:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
@@ -68544,7 +68556,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/62-consumer-obligations/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "62-consumer-obligations",
-        "lastSeen": "2026-02-25T07:22:34.000Z"
+        "lastSeen": "2026-02-25T09:25:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
