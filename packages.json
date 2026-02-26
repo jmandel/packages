@@ -7284,7 +7284,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "main",
-        "lastSeen": "2026-02-05T14:50:55.000Z"
+        "lastSeen": "2026-02-26T08:33:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
@@ -16944,7 +16944,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
-        "lastSeen": "2026-02-23T08:06:28.000Z"
+        "lastSeen": "2026-02-26T07:59:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/4-0-x-dependency-challenge/package.tgz",
@@ -17058,7 +17058,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/authorization2/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "authorization2",
-        "lastSeen": "2026-02-24T07:28:16.000Z"
+        "lastSeen": "2026-02-26T07:58:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/endpoint-payloadType-expansion/package.tgz",
@@ -17244,7 +17244,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-25T08:30:40.000Z"
+        "lastSeen": "2026-02-26T08:36:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -17449,6 +17449,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "150-fr-u-change-naming-convention-of-examples",
         "lastSeen": "2026-02-26T05:46:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/157-fr-u-update-encounter-profile-in-ph-core/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "157-fr-u-update-encounter-profile-in-ph-core",
+        "lastSeen": "2026-02-26T08:14:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -19212,7 +19218,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "main",
-        "lastSeen": "2026-02-24T18:22:21.000Z"
+        "lastSeen": "2026-02-26T08:56:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
@@ -19590,7 +19596,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/be-safeshare/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "be-safeshare",
-        "lastSeen": "2026-02-20T21:17:45.000Z"
+        "lastSeen": "2026-02-26T08:41:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template.ehealth/branches/be-safeshare/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template.ehealth",
+        "branch": "be-safeshare",
+        "lastSeen": "2026-02-26T08:23:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -29682,7 +29694,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "main",
-        "lastSeen": "2026-02-24T00:47:07.000Z"
+        "lastSeen": "2026-02-26T07:56:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
@@ -31404,7 +31416,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T17:12:00.000Z"
+        "lastSeen": "2026-02-26T08:52:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -33505,6 +33517,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-fr-core-1",
         "lastSeen": "2026-02-23T12:49:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-rm-multiplebirth-extension/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-rm-multiplebirth-extension",
+        "lastSeen": "2026-02-26T08:44:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -53862,7 +53880,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS.mappings/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS.mappings",
         "branch": "main",
-        "lastSeen": "2025-09-24T16:01:31.000Z"
+        "lastSeen": "2026-02-26T08:37:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS.mappings/branches/main/package.tgz"
