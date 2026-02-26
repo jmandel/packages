@@ -13728,7 +13728,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2025-12-10T03:14:19.000Z"
+        "lastSeen": "2026-02-26T11:14:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -20706,7 +20706,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2026-01-19T11:40:47.000Z"
+        "lastSeen": "2026-02-26T11:25:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/puml-subdir/package.tgz",
@@ -31417,6 +31417,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_examples",
         "lastSeen": "2026-02-26T09:20:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/change_ig_version/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging",
+        "branch": "change_ig_version",
+        "lastSeen": "2026-02-26T11:26:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -31470,7 +31476,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "master",
-        "lastSeen": "2026-02-23T12:08:31.000Z"
+        "lastSeen": "2026-02-26T11:03:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-53075-rename-title/package.tgz",
@@ -31716,7 +31722,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "master",
-        "lastSeen": "2026-02-23T12:08:04.000Z"
+        "lastSeen": "2026-02-26T11:03:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-53075-rename-title/package.tgz",
@@ -45828,7 +45834,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ebm-incubator",
         "branch": "main",
-        "lastSeen": "2026-02-25T15:47:32.000Z"
+        "lastSeen": "2026-02-26T11:45:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz"
