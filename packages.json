@@ -7284,13 +7284,13 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "main",
-        "lastSeen": "2026-02-26T08:33:55.000Z"
+        "lastSeen": "2026-02-26T09:50:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "aa_update_general_documentation",
-        "lastSeen": "2026-02-25T17:32:24.000Z"
+        "lastSeen": "2026-02-26T09:44:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/mr_ortho_uc/package.tgz",
@@ -17244,7 +17244,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-26T08:36:40.000Z"
+        "lastSeen": "2026-02-26T08:52:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -17454,7 +17454,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/157-fr-u-update-encounter-profile-in-ph-core/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "157-fr-u-update-encounter-profile-in-ph-core",
-        "lastSeen": "2026-02-26T08:14:34.000Z"
+        "lastSeen": "2026-02-26T09:09:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -31416,7 +31416,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-26T08:52:20.000Z"
+        "lastSeen": "2026-02-26T09:20:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -31530,7 +31530,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T17:12:41.000Z"
+        "lastSeen": "2026-02-26T09:34:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31776,7 +31776,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/fix_examples/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "fix_examples",
-        "lastSeen": "2026-02-25T17:25:22.000Z"
+        "lastSeen": "2026-02-26T09:34:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -66655,6 +66655,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "split-observation-profiles",
         "lastSeen": "2026-02-25T11:16:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/optimize-fsh-time/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "optimize-fsh-time",
+        "lastSeen": "2026-02-26T08:58:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
