@@ -7297,6 +7297,12 @@
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "mr_ortho_uc",
         "lastSeen": "2026-02-25T14:06:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/mr_branding/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "mr_branding",
+        "lastSeen": "2026-02-26T11:54:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -19374,7 +19380,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/HL7Austria/at-fhir-ig-template",
         "branch": "master",
-        "lastSeen": "2025-11-27T11:36:59.000Z"
+        "lastSeen": "2026-02-26T12:32:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/branches/remove-feedback-form/package.tgz",
@@ -31278,7 +31284,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "master",
-        "lastSeen": "2026-02-26T10:27:42.000Z"
+        "lastSeen": "2026-02-26T12:04:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/202501wgm/package.tgz",
@@ -31362,7 +31368,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R4-mapping-multiversion/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "R4-mapping-multiversion",
-        "lastSeen": "2026-02-23T16:14:02.000Z"
+        "lastSeen": "2026-02-26T12:29:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ActorsAndUsecases/package.tgz",
@@ -31476,7 +31482,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "master",
-        "lastSeen": "2026-02-26T11:03:52.000Z"
+        "lastSeen": "2026-02-26T12:18:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-53075-rename-title/package.tgz",
@@ -31537,6 +31543,18 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "fix_examples",
         "lastSeen": "2026-02-26T09:34:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/change_ig_version/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r4",
+        "branch": "change_ig_version",
+        "lastSeen": "2026-02-26T12:03:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/xtehr/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "xtehr",
+        "lastSeen": "2026-02-26T12:41:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -31722,7 +31740,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "master",
-        "lastSeen": "2026-02-26T11:03:11.000Z"
+        "lastSeen": "2026-02-26T12:18:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-53075-rename-title/package.tgz",
@@ -31783,6 +31801,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "fix_examples",
         "lastSeen": "2026-02-26T09:34:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/change_ig_version/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r5",
+        "branch": "change_ig_version",
+        "lastSeen": "2026-02-26T12:03:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -37260,7 +37284,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2026-02-25T23:27:39.000Z"
+        "lastSeen": "2026-02-26T11:50:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -56580,7 +56604,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-02-25T16:23:33.000Z"
+        "lastSeen": "2026-02-26T12:36:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -56772,7 +56796,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "develop",
-        "lastSeen": "2026-02-23T13:44:16.000Z"
+        "lastSeen": "2026-02-26T12:42:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/14-QA/package.tgz",
@@ -56880,25 +56904,25 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/107-fix-contactperson-relationship/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "107-fix-contactperson-relationship",
-        "lastSeen": "2026-02-24T15:31:06.000Z"
+        "lastSeen": "2026-02-26T12:57:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/99-fix-icd-terminology/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "99-fix-icd-terminology",
-        "lastSeen": "2026-02-24T16:29:57.000Z"
+        "lastSeen": "2026-02-26T12:55:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/113-fix-questionnaire-item-code/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "113-fix-questionnaire-item-code",
-        "lastSeen": "2026-02-24T16:38:29.000Z"
+        "lastSeen": "2026-02-26T12:56:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/QA/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "QA",
-        "lastSeen": "2026-02-26T10:01:12.000Z"
+        "lastSeen": "2026-02-26T12:54:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -68706,7 +68730,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/obligations/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "obligations",
-        "lastSeen": "2026-02-24T19:51:48.000Z"
+        "lastSeen": "2026-02-26T12:59:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/62-consumer-obligations/package.tgz",
