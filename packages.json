@@ -17256,7 +17256,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-27T07:38:58.000Z"
+        "lastSeen": "2026-02-27T15:32:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -26617,6 +26617,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "procedure-profile",
         "lastSeen": "2026-02-27T11:45:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/v1.1.0/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "v1.1.0",
+        "lastSeen": "2026-02-27T15:32:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -27973,6 +27979,12 @@
         "repo": "https://github.com/hl7-be/pss",
         "branch": "release-candidate-qa-fix",
         "lastSeen": "2026-02-27T08:44:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pss/branches/v1.1.0/package.tgz",
+        "repo": "https://github.com/hl7-be/pss",
+        "branch": "v1.1.0",
+        "lastSeen": "2026-02-27T15:38:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pss/branches/master/package.tgz"
@@ -41742,7 +41754,7 @@
         "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/smp-ig",
         "branch": "master",
-        "lastSeen": "2026-02-20T02:40:23.000Z"
+        "lastSeen": "2026-02-27T15:07:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/v1.0.0-ballot/package.tgz",
@@ -55980,7 +55992,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/PCC.FIIO",
         "branch": "master",
-        "lastSeen": "2026-02-27T03:15:13.000Z"
+        "lastSeen": "2026-02-27T15:31:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/PCC.FIIO/branches/mlj_PCC_IPS_prepub_edits_1-0-0/package.tgz",
