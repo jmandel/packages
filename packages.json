@@ -8244,7 +8244,7 @@
         "url": "https://build.fhir.org/ig/cqframework/mct-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/mct-ig",
         "branch": "master",
-        "lastSeen": "2023-09-09T04:29:02.000Z"
+        "lastSeen": "2026-02-27T18:11:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/mct-ig/branches/master/package.tgz"
@@ -17256,7 +17256,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-02-27T17:31:52.000Z"
+        "lastSeen": "2026-02-27T17:59:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -37303,6 +37303,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates",
         "lastSeen": "2025-12-12T19:45:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-55408/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-55408",
+        "lastSeen": "2026-02-27T18:25:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -37344,7 +37350,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2026-02-27T16:04:04.000Z"
+        "lastSeen": "2026-02-27T17:49:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -40818,7 +40824,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "main",
-        "lastSeen": "2026-02-26T05:27:16.000Z"
+        "lastSeen": "2026-02-27T18:36:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/jp_working/package.tgz",
@@ -40878,7 +40884,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/mlt-qa-cleanup/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "mlt-qa-cleanup",
-        "lastSeen": "2026-02-26T05:21:29.000Z"
+        "lastSeen": "2026-02-27T18:14:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz"
@@ -43992,7 +43998,7 @@
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
         "repo": "https://github.com/HL7/APIX---API-Exchange-for-Medicinal-Products",
         "branch": "main",
-        "lastSeen": "2026-02-26T19:59:23.000Z"
+        "lastSeen": "2026-02-27T18:36:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/draft-of-Developer-notes/package.tgz",
@@ -45606,7 +45612,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-55408/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "FHIR-55408",
-        "lastSeen": "2026-02-27T16:26:31.000Z"
+        "lastSeen": "2026-02-27T18:23:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
