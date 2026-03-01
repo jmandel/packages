@@ -15625,6 +15625,12 @@
         "repo": "https://github.com/jkiddo/fhir-ig-sample",
         "branch": "main",
         "lastSeen": "2026-02-20T16:46:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/tx-test/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/tx-test",
+        "branch": "main",
+        "lastSeen": "2026-03-01T20:34:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -30648,7 +30654,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.6.0/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.6.0",
-        "lastSeen": "2026-03-01T19:31:24.000Z"
+        "lastSeen": "2026-03-01T20:19:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -51084,7 +51090,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-02-27T12:53:42.000Z"
+        "lastSeen": "2026-03-01T19:53:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
