@@ -31566,7 +31566,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-02T13:18:40.000Z"
+        "lastSeen": "2026-03-02T14:47:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/fix_examples/package.tgz",
@@ -31596,7 +31596,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/ballot-fixes/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "ballot-fixes",
-        "lastSeen": "2026-03-02T10:57:13.000Z"
+        "lastSeen": "2026-03-02T14:42:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -31704,7 +31704,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-02T13:35:33.000Z"
+        "lastSeen": "2026-03-02T14:33:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
@@ -31968,7 +31968,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-02T13:36:03.000Z"
+        "lastSeen": "2026-03-02T14:33:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/fix_examples/package.tgz",
@@ -39582,7 +39582,7 @@
         "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/main/package.tgz",
         "repo": "https://github.com/FHIR/MADFSH",
         "branch": "main",
-        "lastSeen": "2026-02-27T14:37:23.000Z"
+        "lastSeen": "2026-03-02T14:15:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/deps_012626/package.tgz",
@@ -56988,7 +56988,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/update-questionnaire/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "update-questionnaire",
-        "lastSeen": "2026-03-02T13:09:10.000Z"
+        "lastSeen": "2026-03-02T14:09:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -57006,7 +57006,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "develop",
-        "lastSeen": "2026-03-02T13:50:06.000Z"
+        "lastSeen": "2026-03-02T14:19:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/14-QA/package.tgz",
@@ -57144,7 +57144,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/update-questionnaire/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "update-questionnaire",
-        "lastSeen": "2026-03-02T13:51:51.000Z"
+        "lastSeen": "2026-03-02T14:22:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -60144,7 +60144,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/review-internal/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "review-internal",
-        "lastSeen": "2026-03-02T12:45:21.000Z"
+        "lastSeen": "2026-03-02T14:08:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
@@ -67008,7 +67008,7 @@
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "main",
-        "lastSeen": "2026-02-03T13:52:44.000Z"
+        "lastSeen": "2026-03-02T14:09:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/syncronize-setup/package.tgz",
@@ -67111,6 +67111,12 @@
         "repo": "https://github.com/vadi2/DHP-integrations-temp",
         "branch": "add-form-011-example",
         "lastSeen": "2026-02-03T13:46:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/add-signing-rules/package.tgz",
+        "repo": "https://github.com/vadi2/DHP-integrations-temp",
+        "branch": "add-signing-rules",
+        "lastSeen": "2026-03-02T14:02:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
