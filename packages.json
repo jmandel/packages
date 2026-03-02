@@ -3024,7 +3024,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/425-add-nuva-codesystem-vaccinecode/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "425-add-nuva-codesystem-vaccinecode",
-        "lastSeen": "2026-03-02T07:19:13.000Z"
+        "lastSeen": "2026-03-02T09:40:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -7302,7 +7302,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/150-ch-vacd--fix-mikro-zeichen-in-vaccines-vs/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "150-ch-vacd--fix-mikro-zeichen-in-vaccines-vs",
-        "lastSeen": "2026-03-02T07:42:53.000Z"
+        "lastSeen": "2026-03-02T08:56:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/148-ch-vacd-add-nuva-swissmedic-CM/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "148-ch-vacd-add-nuva-swissmedic-CM",
+        "lastSeen": "2026-03-02T09:10:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -11737,6 +11743,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-15919_add_fob_program",
         "lastSeen": "2026-02-18T10:40:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ccr0291-patient-bulk-export-capability/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "ccr0291-patient-bulk-export-capability",
+        "lastSeen": "2026-03-02T09:46:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -11940,7 +11952,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "test",
-        "lastSeen": "2026-02-25T16:14:11.000Z"
+        "lastSeen": "2026-03-02T09:24:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/prod/package.tgz",
@@ -17257,6 +17269,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "update-license-headers",
         "lastSeen": "2026-02-18T16:59:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/dezi-proof-version/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "dezi-proof-version",
+        "lastSeen": "2026-03-02T09:47:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -17508,7 +17526,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/157-fr-u-update-encounter-profile-in-ph-core/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "157-fr-u-update-encounter-profile-in-ph-core",
-        "lastSeen": "2026-03-02T07:55:30.000Z"
+        "lastSeen": "2026-03-02T09:38:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -49470,7 +49488,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2026-03-02T08:16:20.000Z"
+        "lastSeen": "2026-03-02T09:09:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -56790,7 +56808,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Changelog/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "Changelog",
-        "lastSeen": "2026-02-27T10:29:55.000Z"
+        "lastSeen": "2026-03-02T09:02:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/v1.0.0-rc1/package.tgz",
@@ -66276,13 +66294,13 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/umcterminologies/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "umcterminologies",
-        "lastSeen": "2026-02-27T14:02:48.000Z"
+        "lastSeen": "2026-03-02T09:34:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/260226-additional-changes/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "260226-additional-changes",
-        "lastSeen": "2026-02-27T13:05:08.000Z"
+        "lastSeen": "2026-03-02T09:32:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/update-to-umcterminologies/package.tgz"
