@@ -8634,7 +8634,7 @@
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/gpccmp-fhir-ig",
         "branch": "master",
-        "lastSeen": "2026-03-04T02:52:23.000Z"
+        "lastSeen": "2026-03-04T06:32:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/collapsible-form-version-2/package.tgz",
@@ -17358,7 +17358,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-03-04T05:40:42.000Z"
+        "lastSeen": "2026-03-04T06:10:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -22290,7 +22290,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-02-22T23:32:18.000Z"
+        "lastSeen": "2026-03-04T05:56:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -36474,7 +36474,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-03-03T06:41:27.000Z"
+        "lastSeen": "2026-03-04T05:16:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -37507,6 +37507,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-51401",
         "lastSeen": "2026-02-27T21:56:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-51535-invited-pull/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "br-51535-invited-pull",
+        "lastSeen": "2026-03-04T05:51:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -54744,7 +54750,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/89-f2f-review-feb-2026/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "89-f2f-review-feb-2026",
-        "lastSeen": "2026-03-04T03:28:27.000Z"
+        "lastSeen": "2026-03-04T06:36:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
