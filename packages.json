@@ -12096,7 +12096,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-03-03T11:34:35.000Z"
+        "lastSeen": "2026-03-04T14:10:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -12235,6 +12235,12 @@
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "2.19.1",
         "lastSeen": "2026-03-03T14:04:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.19.2/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "2.19.2",
+        "lastSeen": "2026-03-04T14:33:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -19866,7 +19872,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-adi",
         "branch": "main",
-        "lastSeen": "2026-02-01T13:38:24.000Z"
+        "lastSeen": "2026-03-04T14:18:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz"
@@ -31194,7 +31200,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "main",
-        "lastSeen": "2026-03-04T13:35:25.000Z"
+        "lastSeen": "2026-03-04T14:35:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/change-euridice-logo-right/package.tgz",
@@ -31212,7 +31218,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/moehrke-categories/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "moehrke-categories",
-        "lastSeen": "2026-03-04T13:33:31.000Z"
+        "lastSeen": "2026-03-04T14:08:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/Patient-Lookup-Clarifications/package.tgz",
@@ -31231,6 +31237,12 @@
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "ipa-dependency",
         "lastSeen": "2026-02-26T16:51:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/jp/package.tgz",
+        "repo": "https://github.com/euridice-org/eu-health-data-api",
+        "branch": "jp",
+        "lastSeen": "2026-03-04T14:38:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz"
@@ -34206,7 +34218,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-03-03T09:29:14.000Z"
+        "lastSeen": "2026-03-04T14:38:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -36720,7 +36732,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2026-03-04T13:32:15.000Z"
+        "lastSeen": "2026-03-04T14:10:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -51144,7 +51156,7 @@
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/termchangeset-ig",
         "branch": "master",
-        "lastSeen": "2026-02-26T20:37:45.000Z"
+        "lastSeen": "2026-03-04T14:42:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/termchangeset-ig/branches/1.0.0-ballot/package.tgz",
@@ -56904,7 +56916,7 @@
         "url": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz",
         "repo": "https://github.com/bvdh/bvdh-ihe-mado",
         "branch": "main",
-        "lastSeen": "2026-03-03T18:27:59.000Z"
+        "lastSeen": "2026-03-04T14:24:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
@@ -66498,7 +66510,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/umcterminologies/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "umcterminologies",
-        "lastSeen": "2026-03-04T12:47:54.000Z"
+        "lastSeen": "2026-03-04T13:59:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/260226-additional-changes/package.tgz",
