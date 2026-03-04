@@ -30499,6 +30499,12 @@
         "repo": "https://github.com/HL7-cz/terminology",
         "branch": "master",
         "lastSeen": "2025-12-23T17:10:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/terminology/branches/0.2.0/package.tgz",
+        "repo": "https://github.com/HL7-cz/terminology",
+        "branch": "0.2.0",
+        "lastSeen": "2026-03-04T15:53:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/terminology/branches/master/package.tgz"
@@ -31782,7 +31788,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-03T10:57:50.000Z"
+        "lastSeen": "2026-03-04T16:23:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
@@ -32046,7 +32052,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-03T10:58:58.000Z"
+        "lastSeen": "2026-03-04T16:24:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/fix_examples/package.tgz",
@@ -32076,7 +32082,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-03T10:44:17.000Z"
+        "lastSeen": "2026-03-04T16:08:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -37549,6 +37555,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "br-51535-invited-pull",
         "lastSeen": "2026-03-04T05:51:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-51433/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-51433",
+        "lastSeen": "2026-03-04T16:47:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -37674,7 +37686,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2026-03-04T05:14:51.000Z"
+        "lastSeen": "2026-03-04T16:22:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
@@ -42282,7 +42294,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-vdor/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-vdor",
         "branch": "main",
-        "lastSeen": "2026-02-18T21:17:20.000Z"
+        "lastSeen": "2026-03-04T16:21:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-vdor/branches/testevent_april_2025/package.tgz",
@@ -56934,7 +56946,7 @@
         "url": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz",
         "repo": "https://github.com/bvdh/bvdh-ihe-mado",
         "branch": "main",
-        "lastSeen": "2026-03-04T14:24:15.000Z"
+        "lastSeen": "2026-03-04T16:09:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
