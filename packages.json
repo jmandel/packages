@@ -1230,7 +1230,7 @@
         "url": "https://build.fhir.org/ig/RatioPBC/bha-test-ig/branches/main/package.tgz",
         "repo": "https://github.com/RatioPBC/bha-test-ig",
         "branch": "main",
-        "lastSeen": "2026-03-04T23:00:03.000Z"
+        "lastSeen": "2026-03-06T19:31:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RatioPBC/bha-test-ig/branches/main/package.tgz"
@@ -37656,7 +37656,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates",
-        "lastSeen": "2026-03-06T18:16:22.000Z"
+        "lastSeen": "2026-03-06T19:17:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-55408/package.tgz",
@@ -37693,6 +37693,24 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-52856",
         "lastSeen": "2026-03-06T16:46:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-51575/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-51575",
+        "lastSeen": "2026-03-06T19:28:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-47402/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-47402",
+        "lastSeen": "2026-03-06T19:29:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-40798/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-40798",
+        "lastSeen": "2026-03-06T19:29:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz"
@@ -41934,7 +41952,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2026-03-06T18:27:11.000Z"
+        "lastSeen": "2026-03-06T19:04:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -52260,7 +52278,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2026-03-06T03:02:43.000Z"
+        "lastSeen": "2026-03-06T19:06:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -53401,6 +53419,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "fixing-v2-versions",
         "lastSeen": "2026-03-06T05:51:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-789-Removing-include-system-version-from-v2-valuesets/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-789-Removing-include-system-version-from-v2-valuesets",
+        "lastSeen": "2026-03-06T18:53:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -63750,7 +63774,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "main",
-        "lastSeen": "2026-03-06T17:54:43.000Z"
+        "lastSeen": "2026-03-06T19:41:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz"
