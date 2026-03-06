@@ -19621,6 +19621,12 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "105-16---grafik-ergänzen",
         "lastSeen": "2026-03-06T11:19:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/Appointment-CancellationPolicy/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "Appointment-CancellationPolicy",
+        "lastSeen": "2026-03-06T15:25:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -19861,6 +19867,12 @@
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template.ehealth",
         "branch": "be-safeshare",
         "lastSeen": "2026-02-26T08:23:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/update-template/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+        "branch": "update-template",
+        "lastSeen": "2026-03-06T15:04:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -37644,7 +37656,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates",
-        "lastSeen": "2026-03-05T20:37:44.000Z"
+        "lastSeen": "2026-03-06T15:29:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-55408/package.tgz",
@@ -63726,7 +63738,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "main",
-        "lastSeen": "2026-03-06T14:34:05.000Z"
+        "lastSeen": "2026-03-06T15:29:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz"
