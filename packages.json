@@ -9870,7 +9870,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-dokument/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-dokument",
         "branch": "dev",
-        "lastSeen": "2025-12-09T20:11:54.000Z"
+        "lastSeen": "2026-03-06T20:24:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-dokument/branches/master/package.tgz",
@@ -14904,7 +14904,7 @@
         "url": "https://build.fhir.org/ig/security-rs/opioid-cds-r4/branches/master/package.tgz",
         "repo": "https://github.com/security-rs/opioid-cds-r4",
         "branch": "master",
-        "lastSeen": "2026-02-25T19:41:18.000Z"
+        "lastSeen": "2026-03-06T19:52:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/security-rs/opioid-cds-r4/branches/config-documentation/package.tgz",
@@ -29287,6 +29287,12 @@
         "repo": "https://github.com/HL7-Canada/ca-baseline",
         "branch": "sc-allergyprocedurechanges",
         "lastSeen": "2026-02-27T20:04:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/terminologycleanup/package.tgz",
+        "repo": "https://github.com/HL7-Canada/ca-baseline",
+        "branch": "terminologycleanup",
+        "lastSeen": "2026-03-06T20:00:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Canada/ca-baseline/branches/master/package.tgz"
@@ -37656,7 +37662,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates",
-        "lastSeen": "2026-03-06T19:17:16.000Z"
+        "lastSeen": "2026-03-06T20:05:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-55408/package.tgz",
@@ -41952,7 +41958,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2026-03-06T19:04:02.000Z"
+        "lastSeen": "2026-03-06T19:38:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -63774,7 +63780,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "main",
-        "lastSeen": "2026-03-06T19:41:22.000Z"
+        "lastSeen": "2026-03-06T20:02:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz"
