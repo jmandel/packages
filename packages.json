@@ -33979,6 +33979,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-rm-multiplebirth-extension",
         "lastSeen": "2026-02-26T08:44:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/FL-corrections-structure/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "FL-corrections-structure",
+        "lastSeen": "2026-03-08T19:19:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -50286,7 +50292,7 @@
         "url": "https://build.fhir.org/ig/HL7/rtq-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/rtq-ig",
         "branch": "main",
-        "lastSeen": "2025-12-30T14:23:41.000Z"
+        "lastSeen": "2026-03-08T18:52:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
@@ -52308,7 +52314,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2026-03-08T08:07:05.000Z"
+        "lastSeen": "2026-03-08T18:58:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
