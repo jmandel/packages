@@ -7891,6 +7891,12 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "cibuildversion",
         "lastSeen": "2025-12-16T10:18:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/rlu_mandate_issues_2026/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "rlu_mandate_issues_2026",
+        "lastSeen": "2026-03-09T07:50:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -11892,7 +11898,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "main",
-        "lastSeen": "2025-12-03T13:07:17.000Z"
+        "lastSeen": "2026-03-09T08:27:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/1.1/package.tgz",
@@ -11941,6 +11947,12 @@
         "repo": "https://github.com/medcomdk/dk-ehmi-eds",
         "branch": "BDS11-16",
         "lastSeen": "2025-12-03T13:00:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eds/branches/olw-forgot-version/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-eds",
+        "branch": "olw-forgot-version",
+        "lastSeen": "2026-03-09T08:47:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ehmi-eds/branches/main/package.tgz"
@@ -50142,7 +50154,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-03-04T13:07:02.000Z"
+        "lastSeen": "2026-03-09T08:49:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
