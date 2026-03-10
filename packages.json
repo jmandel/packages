@@ -7357,6 +7357,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "148-ch-vacd-add-nuva-swissmedic-CM",
         "lastSeen": "2026-03-10T10:27:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/oe_144/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "oe_144",
+        "lastSeen": "2026-03-10T22:04:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -30762,7 +30768,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "master",
-        "lastSeen": "2025-12-19T19:29:54.000Z"
+        "lastSeen": "2026-03-10T22:02:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/2.2.0/package.tgz",
@@ -36822,7 +36828,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-03-10T20:07:57.000Z"
+        "lastSeen": "2026-03-10T21:34:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -50028,7 +50034,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2026-03-10T11:38:16.000Z"
+        "lastSeen": "2026-03-10T22:05:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -58180,6 +58186,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/correction/branches/main/package.tgz"
+  },
+  "johnmoehrke.disableSearches.example": {
+    "name": "johnmoehrke.disableSearches.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/disableSearches/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/disableSearches",
+        "branch": "main",
+        "lastSeen": "2026-03-10T22:01:42.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/disableSearches/branches/main/package.tgz"
   },
   "johnmoehrke.phr": {
     "name": "johnmoehrke.phr",
