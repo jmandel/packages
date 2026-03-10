@@ -17496,7 +17496,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-03-10T08:10:40.000Z"
+        "lastSeen": "2026-03-10T12:05:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -26808,7 +26808,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "master",
-        "lastSeen": "2026-02-27T12:41:34.000Z"
+        "lastSeen": "2026-03-10T12:25:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-14/package.tgz",
@@ -26922,7 +26922,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "release-candidate",
-        "lastSeen": "2026-03-05T13:54:00.000Z"
+        "lastSeen": "2026-03-10T12:12:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/release-candidate-ec/package.tgz",
@@ -60774,7 +60774,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/review-internal/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "review-internal",
-        "lastSeen": "2026-03-10T08:04:54.000Z"
+        "lastSeen": "2026-03-10T12:45:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
@@ -62365,6 +62365,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "intro-update",
         "lastSeen": "2026-03-09T15:34:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/sqlquery-run-fhir-format/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "sqlquery-run-fhir-format",
+        "lastSeen": "2026-03-10T12:16:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
