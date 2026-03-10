@@ -20040,7 +20040,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-adi",
         "branch": "main",
-        "lastSeen": "2026-03-04T14:18:51.000Z"
+        "lastSeen": "2026-03-10T15:09:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz"
@@ -32022,7 +32022,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-10T10:19:48.000Z"
+        "lastSeen": "2026-03-10T14:52:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/fix_examples/package.tgz",
@@ -32053,6 +32053,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "R5_fixes",
         "lastSeen": "2026-03-09T16:35:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/ballot_fixes/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r4",
+        "branch": "ballot_fixes",
+        "lastSeen": "2026-03-10T15:13:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz"
@@ -32292,7 +32298,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-10T09:41:24.000Z"
+        "lastSeen": "2026-03-10T14:51:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/fix_examples/package.tgz",
@@ -32323,6 +32329,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "R5-DRresult-issue",
         "lastSeen": "2026-03-09T16:50:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/ballot_fixes/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r5",
+        "branch": "ballot_fixes",
+        "lastSeen": "2026-03-10T15:12:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -32352,7 +32364,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/ballot_fixes/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "ballot_fixes",
-        "lastSeen": "2026-03-10T14:24:56.000Z"
+        "lastSeen": "2026-03-10T15:44:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -62292,7 +62304,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2026-03-03T11:40:07.000Z"
+        "lastSeen": "2026-03-10T15:37:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/helm-chart/package.tgz",
@@ -69787,6 +69799,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "substitution-obligation",
         "lastSeen": "2026-03-10T07:22:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/obligations-refactor/package.tgz",
+        "repo": "https://github.com/Xt-EHR/xt-ehr-common",
+        "branch": "obligations-refactor",
+        "lastSeen": "2026-03-10T15:29:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
