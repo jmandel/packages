@@ -368,14 +368,6 @@
     }
   },
   {
-    "name": "hl7.fhir.eu.imaging-redirect",
-    "current": {
-      "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/ballot_fixes/package.tgz",
-      "repo": "https://github.com/oijauregui/ehdsimaging",
-      "branch": "ballot_fixes"
-    }
-  },
-  {
     "name": "hl7.fhir.eu.mpd",
     "current": {
       "url": "https://build.fhir.org/ig/Colliandor/mpd/branches/master/package.tgz",
