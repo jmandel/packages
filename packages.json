@@ -17496,7 +17496,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-03-10T06:23:30.000Z"
+        "lastSeen": "2026-03-10T07:14:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -27769,6 +27769,12 @@
         "repo": "https://github.com/hl7-be/nihdi-terminology",
         "branch": "v1.0.0",
         "lastSeen": "2025-02-17T18:33:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/issue-10/package.tgz",
+        "repo": "https://github.com/hl7-be/nihdi-terminology",
+        "branch": "issue-10",
+        "lastSeen": "2026-03-10T07:44:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/master/package.tgz"
@@ -29053,6 +29059,12 @@
         "repo": "https://github.com/hl7-be/terminology",
         "branch": "gh-pages",
         "lastSeen": "2025-10-09T18:12:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/issue-21/package.tgz",
+        "repo": "https://github.com/hl7-be/terminology",
+        "branch": "issue-21",
+        "lastSeen": "2026-03-10T06:58:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/terminology/branches/draft/package.tgz"
@@ -32322,7 +32334,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "ballot-0.2.0",
-        "lastSeen": "2026-03-09T21:43:34.000Z"
+        "lastSeen": "2026-03-10T07:49:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/R5_fixes/package.tgz",
@@ -60240,7 +60252,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/2.0.1-notes/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "2.0.1-notes",
-        "lastSeen": "2026-03-04T07:51:10.000Z"
+        "lastSeen": "2026-03-10T07:07:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -69738,7 +69750,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/substitution-obligation/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "substitution-obligation",
-        "lastSeen": "2026-03-10T05:30:15.000Z"
+        "lastSeen": "2026-03-10T07:22:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
