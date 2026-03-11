@@ -11869,6 +11869,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0262.1",
         "lastSeen": "2026-03-04T07:39:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-22361_missing_total_in_search_bundles_for_episodeOfCare/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-22361_missing_total_in_search_bundles_for_episodeOfCare",
+        "lastSeen": "2026-03-11T12:32:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -31308,7 +31314,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "master",
-        "lastSeen": "2026-03-11T11:23:20.000Z"
+        "lastSeen": "2026-03-11T11:47:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/0.1.0-ballot/package.tgz",
@@ -44670,7 +44676,7 @@
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
         "repo": "https://github.com/HL7/APIX---API-Exchange-for-Medicinal-Products",
         "branch": "main",
-        "lastSeen": "2026-03-03T23:09:24.000Z"
+        "lastSeen": "2026-03-11T12:31:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/draft-of-Developer-notes/package.tgz",
@@ -44994,7 +45000,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "main",
-        "lastSeen": "2026-03-05T14:47:27.000Z"
+        "lastSeen": "2026-03-11T13:01:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/dependency-updates/package.tgz",
@@ -45319,6 +45325,18 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "cards-are-transient",
         "lastSeen": "2026-03-05T16:41:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/remove-stu-text/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "remove-stu-text",
+        "lastSeen": "2026-03-11T13:01:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/link-hooks-library/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "link-hooks-library",
+        "lastSeen": "2026-03-11T12:52:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -67572,7 +67590,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-03-11T11:22:28.000Z"
+        "lastSeen": "2026-03-11T11:47:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
