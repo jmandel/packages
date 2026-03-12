@@ -12102,7 +12102,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/test/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "test",
-        "lastSeen": "2026-03-12T07:06:17.000Z"
+        "lastSeen": "2026-03-12T07:44:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/prod/package.tgz",
@@ -17514,7 +17514,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/dezi-proof-version/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "dezi-proof-version",
-        "lastSeen": "2026-03-02T09:47:07.000Z"
+        "lastSeen": "2026-03-12T08:52:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/care-services-soft-delete/package.tgz",
@@ -56832,7 +56832,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2026-03-12T07:50:05.000Z"
+        "lastSeen": "2026-03-12T07:56:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -61027,6 +61027,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "1.0.0-trial-use",
         "lastSeen": "2026-03-10T14:04:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/1.0.0-rc1/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-notes",
+        "branch": "1.0.0-rc1",
+        "lastSeen": "2026-03-12T08:03:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
