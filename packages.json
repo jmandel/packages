@@ -32027,6 +32027,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
   },
+  "hl7.fhir.eu.imaging-manifest": {
+    "name": "hl7.fhir.eu.imaging-manifest",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/ihe-trial-prep/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-manifest",
+        "branch": "ihe-trial-prep",
+        "lastSeen": "2026-03-12T12:07:47.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/ihe-trial-prep/package.tgz"
+  },
   "hl7.fhir.eu.imaging-manifest-r5": {
     "name": "hl7.fhir.eu.imaging-manifest-r5",
     "locations": [
@@ -34590,7 +34602,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
-        "lastSeen": "2026-03-05T09:56:20.000Z"
+        "lastSeen": "2026-03-12T12:46:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/v0.1.0/package.tgz",
@@ -34614,7 +34626,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/poc10-review/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "poc10-review",
-        "lastSeen": "2026-03-12T11:22:32.000Z"
+        "lastSeen": "2026-03-12T12:50:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -37391,6 +37403,18 @@
     ],
     "current": "https://build.fhir.org/ig/standardhealth/fsh-ae/branches/master/package.tgz"
   },
+  "hl7.fhir.us.dapl": {
+    "name": "hl7.fhir.us.dapl",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/fhir-darts",
+        "branch": "main",
+        "lastSeen": "2026-03-12T11:44:44.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz"
+  },
   "hl7.fhir.us.davinci-alerts": {
     "name": "hl7.fhir.us.davinci-alerts",
     "locations": [
@@ -37524,7 +37548,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-03-11T16:17:52.000Z"
+        "lastSeen": "2026-03-12T12:32:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/4.0.0/package.tgz",
@@ -50214,7 +50238,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2026-03-11T09:10:57.000Z"
+        "lastSeen": "2026-03-12T12:38:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -56856,7 +56880,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/nov2025/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "nov2025",
-        "lastSeen": "2026-03-12T07:56:34.000Z"
+        "lastSeen": "2026-03-12T12:40:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -63018,7 +63042,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.base.template/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.base.template",
         "branch": "main",
-        "lastSeen": "2026-02-10T11:18:01.000Z"
+        "lastSeen": "2026-03-12T12:56:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.base.template/branches/main/package.tgz"
@@ -63066,7 +63090,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup-refinement/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "initial-setup-refinement",
-        "lastSeen": "2026-03-05T14:56:57.000Z"
+        "lastSeen": "2026-03-12T12:34:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/main/package.tgz",
