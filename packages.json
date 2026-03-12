@@ -1248,7 +1248,7 @@
         "url": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-maturity/package.tgz",
         "repo": "https://github.com/RatioPBC/bha-ig",
         "branch": "moehrke-maturity",
-        "lastSeen": "2026-03-12T18:06:36.000Z"
+        "lastSeen": "2026-03-12T19:40:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RatioPBC/bha-test-ig/branches/main/package.tgz"
@@ -44796,7 +44796,7 @@
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
         "repo": "https://github.com/HL7/APIX---API-Exchange-for-Medicinal-Products",
         "branch": "main",
-        "lastSeen": "2026-03-12T18:49:35.000Z"
+        "lastSeen": "2026-03-12T19:00:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/draft-of-Developer-notes/package.tgz",
@@ -45660,7 +45660,7 @@
         "url": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cg-incubator",
         "branch": "main",
-        "lastSeen": "2026-03-11T22:34:04.000Z"
+        "lastSeen": "2026-03-12T19:31:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz"
@@ -46087,6 +46087,12 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "jct-backlog",
         "lastSeen": "2026-02-13T17:01:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/FHIR-50311/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "FHIR-50311",
+        "lastSeen": "2026-03-12T19:36:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -46998,7 +47004,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2026-03-12T17:13:20.000Z"
+        "lastSeen": "2026-03-12T18:56:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -48019,6 +48025,18 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "dbarwin-FHIR-52987",
         "lastSeen": "2026-03-12T18:05:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/br-53587-fix-context-expression/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "br-53587-fix-context-expression",
+        "lastSeen": "2026-03-12T18:57:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/br-53081-clarified-criteriaReference/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "br-53081-clarified-criteriaReference",
+        "lastSeen": "2026-03-12T19:36:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
