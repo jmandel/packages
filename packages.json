@@ -1242,13 +1242,13 @@
         "url": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/main/package.tgz",
         "repo": "https://github.com/RatioPBC/bha-ig",
         "branch": "main",
-        "lastSeen": "2026-03-11T19:01:25.000Z"
+        "lastSeen": "2026-03-13T13:47:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-maturity/package.tgz",
         "repo": "https://github.com/RatioPBC/bha-ig",
         "branch": "moehrke-maturity",
-        "lastSeen": "2026-03-12T19:40:35.000Z"
+        "lastSeen": "2026-03-13T12:51:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RatioPBC/bha-test-ig/branches/main/package.tgz"
@@ -7932,7 +7932,13 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/379-use-case-14-impfcheck-ausfuehren-erweitern/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "379-use-case-14-impfcheck-ausfuehren-erweitern",
-        "lastSeen": "2026-03-13T12:29:34.000Z"
+        "lastSeen": "2026-03-13T13:00:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/380-terminology-add-links-to-ch-term-cs-vs/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "380-terminology-add-links-to-ch-term-cs-vs",
+        "lastSeen": "2026-03-13T12:59:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -17539,6 +17545,12 @@
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "main",
         "lastSeen": "2026-02-01T12:06:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/to-do-WIP/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "to-do-WIP",
+        "lastSeen": "2026-03-13T13:41:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz"
@@ -29190,7 +29202,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/template2/package.tgz",
         "repo": "https://github.com/hl7-be/terminology",
         "branch": "template2",
-        "lastSeen": "2026-03-13T07:58:01.000Z"
+        "lastSeen": "2026-03-13T13:22:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/terminology/branches/draft/package.tgz"
@@ -45840,13 +45852,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-03-12T22:10:55.000Z"
+        "lastSeen": "2026-03-13T13:33:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-03-12T22:11:52.000Z"
+        "lastSeen": "2026-03-13T13:34:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -45888,7 +45900,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2026-02-16T09:08:12.000Z"
+        "lastSeen": "2026-03-13T13:43:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -46146,13 +46158,19 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/FHIR-50311/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "FHIR-50311",
-        "lastSeen": "2026-03-12T19:55:08.000Z"
+        "lastSeen": "2026-03-13T13:46:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/FHIR-50278/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "FHIR-50278",
         "lastSeen": "2026-03-12T20:21:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/FHIR-50813-additional/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "FHIR-50813-additional",
+        "lastSeen": "2026-03-13T13:56:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -51378,7 +51396,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz",
         "repo": "https://github.com/HL7/smart-scheduling-links",
         "branch": "main",
-        "lastSeen": "2026-03-12T17:29:34.000Z"
+        "lastSeen": "2026-03-13T13:52:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz"
@@ -57768,7 +57786,7 @@
         "url": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz",
         "repo": "https://github.com/bvdh/bvdh-ihe-mado",
         "branch": "main",
-        "lastSeen": "2026-03-13T09:41:30.000Z"
+        "lastSeen": "2026-03-13T13:50:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
