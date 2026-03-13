@@ -17562,7 +17562,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-03-13T07:28:31.000Z"
+        "lastSeen": "2026-03-13T07:45:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -27846,7 +27846,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "release-candidate",
-        "lastSeen": "2026-03-13T07:46:12.000Z"
+        "lastSeen": "2026-03-13T07:49:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/master/package.tgz"
@@ -29185,6 +29185,12 @@
         "repo": "https://github.com/hl7-be/terminology",
         "branch": "issue-21",
         "lastSeen": "2026-03-10T06:58:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/template2/package.tgz",
+        "repo": "https://github.com/hl7-be/terminology",
+        "branch": "template2",
+        "lastSeen": "2026-03-13T07:58:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/terminology/branches/draft/package.tgz"
@@ -31363,6 +31369,12 @@
         "repo": "https://github.com/hl7-eu/base",
         "branch": "2.0.0-gamma",
         "lastSeen": "2026-02-27T10:10:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/base/branches/bodystructure-cleanup/package.tgz",
+        "repo": "https://github.com/hl7-eu/base",
+        "branch": "bodystructure-cleanup",
+        "lastSeen": "2026-03-13T08:40:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz"
@@ -52296,7 +52308,7 @@
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/draft-alpha/package.tgz",
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "draft-alpha",
-        "lastSeen": "2026-03-11T15:16:11.000Z"
+        "lastSeen": "2026-03-13T08:46:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz"
@@ -69882,7 +69894,7 @@
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "main",
-        "lastSeen": "2026-03-11T09:17:10.000Z"
+        "lastSeen": "2026-03-13T07:55:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/img-202511/package.tgz",
