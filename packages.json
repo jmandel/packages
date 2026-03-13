@@ -1217,6 +1217,18 @@
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/test/package.tgz"
   },
+  "bha-ig": {
+    "name": "bha-ig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-remove-test/package.tgz",
+        "repo": "https://github.com/RatioPBC/bha-ig",
+        "branch": "moehrke-remove-test",
+        "lastSeen": "2026-03-13T20:06:36.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-remove-test/package.tgz"
+  },
   "bha-test-ig": {
     "name": "bha-test-ig",
     "locations": [
@@ -42396,7 +42408,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2026-03-12T16:36:25.000Z"
+        "lastSeen": "2026-03-13T19:38:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -46621,6 +46633,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "dd-cqm-updated-03122026",
         "lastSeen": "2026-03-13T19:23:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-55969/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "FHIR-55969",
+        "lastSeen": "2026-03-13T20:11:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -63100,6 +63118,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pipeline-test/branches/master/package.tgz"
+  },
+  "poc.umcterminologies.org": {
+    "name": "poc.umcterminologies.org",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/PoC/package.tgz",
+        "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
+        "branch": "PoC",
+        "lastSeen": "2026-03-13T20:43:39.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/PoC/package.tgz"
   },
   "portal.wof.purified.link": {
     "name": "portal.wof.purified.link",
