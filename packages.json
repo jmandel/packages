@@ -58961,6 +58961,18 @@
     ],
     "current": "https://build.fhir.org/ig/AMuellerDVMD/KDLgoesOntology/branches/main/package.tgz"
   },
+  "kdlgoessct": {
+    "name": "kdlgoessct",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/AMuellerDVMD/KDLgoesSCT/branches/main/package.tgz",
+        "repo": "https://github.com/AMuellerDVMD/KDLgoesSCT",
+        "branch": "main",
+        "lastSeen": "2026-03-15T15:21:19.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/AMuellerDVMD/KDLgoesSCT/branches/main/package.tgz"
+  },
   "kenya-training-bk": {
     "name": "kenya-training-bk",
     "locations": [
@@ -59682,7 +59694,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-eu-ehds/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-eu-ehds",
         "branch": "main",
-        "lastSeen": "2026-03-15T13:02:38.000Z"
+        "lastSeen": "2026-03-15T15:15:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-eu-ehds/branches/main/package.tgz"
