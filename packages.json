@@ -36420,13 +36420,13 @@
         "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/main/package.tgz",
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "main",
-        "lastSeen": "2026-03-06T16:21:26.000Z"
+        "lastSeen": "2026-03-16T19:54:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "master",
-        "lastSeen": "2026-03-06T16:22:21.000Z"
+        "lastSeen": "2026-03-16T20:03:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/new-base/package.tgz"
@@ -44928,7 +44928,7 @@
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
         "repo": "https://github.com/HL7/APIX---API-Exchange-for-Medicinal-Products",
         "branch": "main",
-        "lastSeen": "2026-03-12T19:00:39.000Z"
+        "lastSeen": "2026-03-16T19:55:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/draft-of-Developer-notes/package.tgz",
@@ -45918,13 +45918,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-03-16T19:17:18.000Z"
+        "lastSeen": "2026-03-16T19:58:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-03-13T13:34:08.000Z"
+        "lastSeen": "2026-03-16T20:01:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -46896,13 +46896,19 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-56028",
-        "lastSeen": "2026-03-16T18:23:35.000Z"
+        "lastSeen": "2026-03-16T20:12:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-qa-cleanup/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-qa-cleanup",
         "lastSeen": "2026-03-16T18:49:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-55970/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-55970",
+        "lastSeen": "2026-03-16T20:32:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
@@ -50322,7 +50328,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-03-16T19:24:31.000Z"
+        "lastSeen": "2026-03-16T20:40:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
@@ -54876,7 +54882,7 @@
         "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/terminology-fundamentals-ig",
         "branch": "master",
-        "lastSeen": "2026-03-02T23:44:22.000Z"
+        "lastSeen": "2026-03-16T20:08:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/jbota-20251105/package.tgz",
@@ -59670,7 +59676,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-base",
         "branch": "main",
-        "lastSeen": "2026-03-16T16:42:11.000Z"
+        "lastSeen": "2026-03-16T20:01:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/dr-term/package.tgz",
@@ -59718,7 +59724,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/kati/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-base",
         "branch": "kati",
-        "lastSeen": "2026-03-16T19:49:30.000Z"
+        "lastSeen": "2026-03-16T19:51:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz"
@@ -59730,7 +59736,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-03-04T13:39:55.000Z"
+        "lastSeen": "2026-03-16T19:52:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -59790,7 +59796,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-eu-ehds/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-eu-ehds",
         "branch": "main",
-        "lastSeen": "2026-03-16T19:20:05.000Z"
+        "lastSeen": "2026-03-16T20:01:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-eu-ehds/branches/main/package.tgz"
@@ -59844,7 +59850,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
         "branch": "main",
-        "lastSeen": "2026-03-16T19:14:22.000Z"
+        "lastSeen": "2026-03-16T20:00:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/lt-ig-lifestyle-audra/package.tgz",
@@ -59910,7 +59916,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
         "branch": "main",
-        "lastSeen": "2026-03-16T17:13:12.000Z"
+        "lastSeen": "2026-03-16T20:05:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/vitalsigns-kati/package.tgz",
@@ -59923,6 +59929,12 @@
         "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
         "branch": "WaistCircumferenceInterpretation",
         "lastSeen": "2026-03-16T06:02:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/kati/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
+        "branch": "kati",
+        "lastSeen": "2026-03-16T19:56:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/main/package.tgz"
