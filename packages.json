@@ -3120,7 +3120,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-03-17T11:22:29.000Z"
+        "lastSeen": "2026-03-17T13:18:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -7980,7 +7980,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/384-extension-verificationstatus-extend-scopeusage/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "384-extension-verificationstatus-extend-scopeusage",
-        "lastSeen": "2026-03-17T10:39:43.000Z"
+        "lastSeen": "2026-03-17T13:32:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -11941,6 +11941,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-22361_missing_total_in_search_bundles_for_episodeOfCare",
         "lastSeen": "2026-03-12T10:38:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.2-SNAPSHOT/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "release_2026.2-SNAPSHOT",
+        "lastSeen": "2026-03-17T13:45:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -19584,7 +19590,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-02-24T14:48:36.000Z"
+        "lastSeen": "2026-03-17T13:55:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -34800,7 +34806,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/mCSD-identifier-search/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "mCSD-identifier-search",
-        "lastSeen": "2026-03-17T07:44:59.000Z"
+        "lastSeen": "2026-03-17T13:28:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -36558,7 +36564,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/de-profile/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "de-profile",
-        "lastSeen": "2026-03-10T21:12:13.000Z"
+        "lastSeen": "2026-03-17T13:01:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz"
@@ -45828,7 +45834,7 @@
         "url": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cg-incubator",
         "branch": "main",
-        "lastSeen": "2026-03-16T22:58:35.000Z"
+        "lastSeen": "2026-03-17T14:01:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz"
@@ -59820,7 +59826,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-colorectal",
         "branch": "main",
-        "lastSeen": "2026-03-17T11:45:39.000Z"
+        "lastSeen": "2026-03-17T13:42:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/main/package.tgz"
@@ -63630,7 +63636,13 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/CapabillityStatementClient/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "CapabillityStatementClient",
-        "lastSeen": "2026-03-17T12:29:13.000Z"
+        "lastSeen": "2026-03-17T13:49:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/13-lägg-tillanpassa-iti-anropet-för-find/package.tgz",
+        "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
+        "branch": "13-lägg-tillanpassa-iti-anropet-för-find",
+        "lastSeen": "2026-03-17T13:00:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz"
