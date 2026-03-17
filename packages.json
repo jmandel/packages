@@ -11947,6 +11947,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.2-SNAPSHOT",
         "lastSeen": "2026-03-17T13:45:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224-power-of-attorney/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "CCR0224-power-of-attorney",
+        "lastSeen": "2026-03-17T14:25:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -12474,7 +12480,7 @@
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/main/package.tgz",
         "repo": "https://github.com/trifork/gm-fhir-ig",
         "branch": "main",
-        "lastSeen": "2025-12-15T14:15:29.000Z"
+        "lastSeen": "2026-03-17T14:05:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/gm-fhir-ig/branches/cherrypick-codes/package.tgz",
@@ -19855,6 +19861,12 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "98-11---ausloeser-und-berechtigung-des-cancellation-by-scheduling-server",
         "lastSeen": "2026-03-11T10:14:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/EncounterClass-QA-errors/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "EncounterClass-QA-errors",
+        "lastSeen": "2026-03-17T14:40:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -38653,6 +38665,12 @@
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "stu2.1.1-eob610",
         "lastSeen": "2026-03-04T13:01:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/2.2-resolved/package.tgz",
+        "repo": "https://github.com/HL7/davinci-epdx",
+        "branch": "2.2-resolved",
+        "lastSeen": "2026-03-17T14:20:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz"
@@ -41881,6 +41899,12 @@
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
         "lastSeen": "2026-03-11T20:46:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/QA-2026/package.tgz",
+        "repo": "https://github.com/HL7/us-fhir-ps",
+        "branch": "QA-2026",
+        "lastSeen": "2026-03-17T14:18:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz"
@@ -58032,7 +58056,7 @@
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "master",
-        "lastSeen": "2026-03-17T09:07:08.000Z"
+        "lastSeen": "2026-03-17T14:54:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
@@ -63600,7 +63624,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "initial-setup",
-        "lastSeen": "2026-02-05T11:52:45.000Z"
+        "lastSeen": "2026-03-17T14:28:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/logical-models-docs/package.tgz",
@@ -63612,7 +63636,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup-refinement/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "initial-setup-refinement",
-        "lastSeen": "2026-03-17T09:10:59.000Z"
+        "lastSeen": "2026-03-17T14:23:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/main/package.tgz",
