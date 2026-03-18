@@ -17886,7 +17886,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "main",
-        "lastSeen": "2026-03-18T03:18:02.000Z"
+        "lastSeen": "2026-03-18T09:54:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/150-fr-u-change-naming-convention-of-examples/package.tgz",
@@ -31909,6 +31909,12 @@
         "repo": "https://github.com/hl7-eu/extensions",
         "branch": "1.2.0",
         "lastSeen": "2025-12-19T13:31:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/extensions/branches/v1.2.1/package.tgz",
+        "repo": "https://github.com/hl7-eu/extensions",
+        "branch": "v1.2.1",
+        "lastSeen": "2026-03-18T09:40:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/extensions/branches/master/package.tgz"
@@ -52572,7 +52578,7 @@
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "master",
-        "lastSeen": "2026-03-17T21:14:47.000Z"
+        "lastSeen": "2026-03-18T09:00:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/phoenix/package.tgz",
@@ -52597,6 +52603,12 @@
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "qa-fixes",
         "lastSeen": "2026-03-17T21:14:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/draft-beta/package.tgz",
+        "repo": "https://github.com/HL7/Vulcan-schedule-ig",
+        "branch": "draft-beta",
+        "lastSeen": "2026-03-18T09:02:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz"
