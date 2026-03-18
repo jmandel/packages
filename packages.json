@@ -1237,6 +1237,12 @@
         "repo": "https://github.com/RatioPBC/bha-ig",
         "branch": "moehrke-update-UDM",
         "lastSeen": "2026-03-17T20:06:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2026-03-18T14:36:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-remove-test/package.tgz"
@@ -3126,7 +3132,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-03-17T13:18:42.000Z"
+        "lastSeen": "2026-03-18T14:16:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -3156,7 +3162,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/19-practitionerrole-practitioner-organization-and-servicerequest-profiling/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "19-practitionerrole-practitioner-organization-and-servicerequest-profiling",
-        "lastSeen": "2026-03-17T16:09:36.000Z"
+        "lastSeen": "2026-03-18T14:15:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
@@ -26664,13 +26670,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "master",
-        "lastSeen": "2025-11-26T09:49:13.000Z"
+        "lastSeen": "2026-03-18T14:28:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/draft/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "draft",
-        "lastSeen": "2025-12-09T17:31:13.000Z"
+        "lastSeen": "2026-03-18T14:31:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/draft-profiles/package.tgz",
@@ -32052,7 +32058,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "main",
-        "lastSeen": "2026-03-18T13:24:23.000Z"
+        "lastSeen": "2026-03-18T14:22:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -34104,7 +34110,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-03-18T11:07:14.000Z"
+        "lastSeen": "2026-03-18T14:44:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -34434,7 +34440,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-rppsrang-type/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-rppsrang-type",
-        "lastSeen": "2026-02-03T10:06:38.000Z"
+        "lastSeen": "2026-03-18T14:39:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-limit-extension-datatype/package.tgz",
@@ -36618,7 +36624,7 @@
         "url": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/de-profile/package.tgz",
         "repo": "https://github.com/HL7/ccda-on-fhir",
         "branch": "de-profile",
-        "lastSeen": "2026-03-18T13:43:45.000Z"
+        "lastSeen": "2026-03-18T14:21:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ccda-on-fhir/branches/master/package.tgz"
@@ -38580,7 +38586,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2026-03-18T04:01:27.000Z"
+        "lastSeen": "2026-03-18T14:05:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -46032,7 +46038,7 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-03-18T13:29:13.000Z"
+        "lastSeen": "2026-03-18T14:47:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -55014,7 +55020,7 @@
         "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/terminology-fundamentals-ig",
         "branch": "master",
-        "lastSeen": "2026-03-18T05:45:02.000Z"
+        "lastSeen": "2026-03-18T14:50:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/jbota-20251105/package.tgz",
@@ -59040,7 +59046,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBinary",
         "branch": "main",
-        "lastSeen": "2026-03-13T17:34:28.000Z"
+        "lastSeen": "2026-03-18T15:01:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
@@ -59052,7 +59058,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBundle/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBundle",
         "branch": "main",
-        "lastSeen": "2026-03-10T21:45:17.000Z"
+        "lastSeen": "2026-03-18T14:45:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBundle/branches/main/package.tgz"
@@ -60708,7 +60714,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "master",
-        "lastSeen": "2025-11-06T10:46:28.000Z"
+        "lastSeen": "2026-03-18T14:16:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/v.4.0.1-rc1/package.tgz",
