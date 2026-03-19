@@ -176,14 +176,6 @@
     }
   },
   {
-    "name": "fhir.kenyaClaimsIG",
-    "current": {
-      "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/jkBaseClaimsValueSets/package.tgz",
-      "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
-      "branch": "jkBaseClaimsValueSets"
-    }
-  },
-  {
     "name": "fhir.nl.gf",
     "current": {
       "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
