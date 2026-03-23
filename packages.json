@@ -8034,7 +8034,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/383-fhir-api-capabilitystatement/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "383-fhir-api-capabilitystatement",
-        "lastSeen": "2026-03-23T07:53:53.000Z"
+        "lastSeen": "2026-03-23T12:48:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -13140,7 +13140,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Elementebene-ambulant-stationaer-intensiv/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Elementebene-ambulant-stationaer-intensiv",
-        "lastSeen": "2026-03-21T20:13:45.000Z"
+        "lastSeen": "2026-03-23T12:15:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/629-Anwendungsfall-03/package.tgz",
@@ -51414,7 +51414,7 @@
         "url": "https://build.fhir.org/ig/HL7/rtq-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/rtq-ig",
         "branch": "main",
-        "lastSeen": "2026-03-14T15:39:26.000Z"
+        "lastSeen": "2026-03-23T12:45:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
@@ -65711,6 +65711,18 @@
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-SMBP/branches/main/package.tgz"
   },
+  "smart.who.int.dak-srv": {
+    "name": "smart.who.int.dak-srv",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-srv/branches/v1.0.0_releaseCandidate/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-dak-srv",
+        "branch": "v1.0.0_releaseCandidate",
+        "lastSeen": "2026-03-23T12:26:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-srv/branches/v1.0.0_releaseCandidate/package.tgz"
+  },
   "smart.who.int.dak-tb": {
     "name": "smart.who.int.dak-tb",
     "locations": [
@@ -66846,7 +66858,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
         "branch": "main",
-        "lastSeen": "2025-09-16T11:26:43.000Z"
+        "lastSeen": "2026-03-23T12:14:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/release-candidate/package.tgz",
@@ -70590,7 +70602,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "master",
-        "lastSeen": "2026-03-09T15:49:16.000Z"
+        "lastSeen": "2026-03-23T12:00:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/test/package.tgz",
@@ -70681,6 +70693,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "costateixeira-patch-5",
         "lastSeen": "2026-03-06T12:24:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/costateixeira-patch-6/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
+        "branch": "costateixeira-patch-6",
+        "lastSeen": "2026-03-23T11:56:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
