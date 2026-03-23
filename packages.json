@@ -8010,7 +8010,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/379-use-case-14-impfcheck-ausfuehren-erweitern/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "379-use-case-14-impfcheck-ausfuehren-erweitern",
-        "lastSeen": "2026-03-17T10:36:54.000Z"
+        "lastSeen": "2026-03-23T07:48:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/380-terminology-add-links-to-ch-term-cs-vs/package.tgz",
@@ -8034,7 +8034,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/383-fhir-api-capabilitystatement/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "383-fhir-api-capabilitystatement",
-        "lastSeen": "2026-03-18T07:28:57.000Z"
+        "lastSeen": "2026-03-23T07:11:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -13147,6 +13147,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "763-puzzleteil-vae",
         "lastSeen": "2026-03-22T22:44:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Anwendungsfaelle-umstrukturieren/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "Anwendungsfaelle-umstrukturieren",
+        "lastSeen": "2026-03-23T07:30:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -30930,7 +30936,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/HIE",
         "branch": "master",
-        "lastSeen": "2025-12-19T11:35:05.000Z"
+        "lastSeen": "2026-03-23T07:33:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/HIE/branches/master/package.tgz"
@@ -31447,6 +31453,12 @@
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "lab-feature",
         "lastSeen": "2026-03-09T11:57:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.7.0/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "3.7.0",
+        "lastSeen": "2026-03-23T07:47:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -60967,6 +60979,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "5.0.2",
         "lastSeen": "2026-02-16T07:53:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.12-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.12-githubpages",
+        "lastSeen": "2026-03-23T07:20:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
