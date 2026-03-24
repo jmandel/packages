@@ -24619,6 +24619,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "cr_FHIR-55738_remove-au-core-org-01",
         "lastSeen": "2026-03-19T06:25:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_tdg-links/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_tdg-links",
+        "lastSeen": "2026-03-24T03:58:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -26707,6 +26713,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_qa-batch1",
         "lastSeen": "2026-03-23T23:41:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_readme-links/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_readme-links",
+        "lastSeen": "2026-03-24T03:40:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -37944,7 +37956,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2026-03-24T02:57:43.000Z"
+        "lastSeen": "2026-03-24T03:35:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -43009,6 +43021,12 @@
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "FHIR-54912",
         "lastSeen": "2026-03-24T00:03:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/FHIR-54584/package.tgz",
+        "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
+        "branch": "FHIR-54584",
+        "lastSeen": "2026-03-24T03:20:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
