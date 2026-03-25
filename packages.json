@@ -13176,13 +13176,19 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/763-puzzleteil-vae/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "763-puzzleteil-vae",
-        "lastSeen": "2026-03-25T10:15:46.000Z"
+        "lastSeen": "2026-03-25T19:22:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Anwendungsfaelle-umstrukturieren/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Anwendungsfaelle-umstrukturieren",
         "lastSeen": "2026-03-24T08:35:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/770-aufnehmen-puzzleteil/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "770-aufnehmen-puzzleteil",
+        "lastSeen": "2026-03-25T19:23:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -36798,13 +36804,13 @@
         "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/main/package.tgz",
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "main",
-        "lastSeen": "2026-03-25T00:16:25.000Z"
+        "lastSeen": "2026-03-25T19:38:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "master",
-        "lastSeen": "2026-03-25T00:14:41.000Z"
+        "lastSeen": "2026-03-25T19:34:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/new-base/package.tgz"
@@ -42882,7 +42888,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2026-03-25T15:08:22.000Z"
+        "lastSeen": "2026-03-25T18:56:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -60348,7 +60354,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-03-25T18:44:38.000Z"
+        "lastSeen": "2026-03-25T19:15:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz"
@@ -60510,7 +60516,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lung/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lung",
         "branch": "main",
-        "lastSeen": "2026-03-16T07:59:48.000Z"
+        "lastSeen": "2026-03-25T19:44:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-lung/branches/main/package.tgz"
