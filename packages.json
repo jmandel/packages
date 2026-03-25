@@ -27720,7 +27720,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/lab",
         "branch": "master",
-        "lastSeen": "2026-02-09T12:54:11.000Z"
+        "lastSeen": "2026-03-25T13:56:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/lab/branches/issue-195/package.tgz",
@@ -31902,7 +31902,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-03-17T11:36:12.000Z"
+        "lastSeen": "2026-03-25T13:40:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -60492,7 +60492,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-prostate",
         "branch": "main",
-        "lastSeen": "2026-03-25T10:07:23.000Z"
+        "lastSeen": "2026-03-25T13:14:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz"
@@ -64302,7 +64302,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-03-24T07:18:49.000Z"
+        "lastSeen": "2026-03-25T13:38:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -65377,6 +65377,18 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "medication-dispense-fix",
         "lastSeen": "2026-03-24T07:06:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/fail-fast/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "fail-fast",
+        "lastSeen": "2026-03-25T13:37:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/fix-coding-issue/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "fix-coding-issue",
+        "lastSeen": "2026-03-25T13:12:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -67050,7 +67062,7 @@
         "url": "https://build.fhir.org/ig/litlfred/smart-pcmt-vaxprequal/branches/main/package.tgz",
         "repo": "https://github.com/litlfred/smart-pcmt-vaxprequal",
         "branch": "main",
-        "lastSeen": "2026-03-24T15:02:28.000Z"
+        "lastSeen": "2026-03-25T13:07:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/main/package.tgz",
