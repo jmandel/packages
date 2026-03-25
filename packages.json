@@ -744,7 +744,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "main",
-        "lastSeen": "2026-03-06T06:12:06.000Z"
+        "lastSeen": "2026-03-25T16:53:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-smart-card/package.tgz",
@@ -847,6 +847,12 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-293-obsolescence-remplacement-jdv",
         "lastSeen": "2026-03-05T14:31:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-sp-bal-type/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nr-add-sp-bal-type",
+        "lastSeen": "2026-03-25T16:49:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -37452,7 +37458,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-03-24T23:31:44.000Z"
+        "lastSeen": "2026-03-25T15:44:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -53041,6 +53047,12 @@
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "draft-beta",
         "lastSeen": "2026-03-24T13:33:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/draft-delta/package.tgz",
+        "repo": "https://github.com/HL7/Vulcan-schedule-ig",
+        "branch": "draft-delta",
+        "lastSeen": "2026-03-25T16:32:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz"
@@ -64218,7 +64230,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/refine-init-doc/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "refine-init-doc",
-        "lastSeen": "2026-03-25T09:55:19.000Z"
+        "lastSeen": "2026-03-25T16:31:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz"
