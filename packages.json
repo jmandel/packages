@@ -13122,7 +13122,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/733-funktionscode-ein-element/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "733-funktionscode-ein-element",
-        "lastSeen": "2026-03-06T09:04:33.000Z"
+        "lastSeen": "2026-03-25T07:43:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/503-simple-extensions-required-value/package.tgz",
@@ -37920,7 +37920,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-dapl/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-dapl",
         "branch": "main",
-        "lastSeen": "2026-03-16T10:54:28.000Z"
+        "lastSeen": "2026-03-25T07:42:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz"
@@ -60564,7 +60564,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "2.0",
-        "lastSeen": "2026-03-11T15:09:48.000Z"
+        "lastSeen": "2026-03-25T07:34:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz"
@@ -68976,7 +68976,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-03-24T13:56:31.000Z"
+        "lastSeen": "2026-03-25T07:13:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -69235,6 +69235,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "fix-example",
         "lastSeen": "2026-03-24T13:04:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-coverage-area-to-organization/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-coverage-area-to-organization",
+        "lastSeen": "2026-03-25T07:02:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
