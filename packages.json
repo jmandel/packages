@@ -12030,7 +12030,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224-poa-privilege-codesystem/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0224-poa-privilege-codesystem",
-        "lastSeen": "2026-03-25T08:19:50.000Z"
+        "lastSeen": "2026-03-25T09:25:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13170,7 +13170,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/763-puzzleteil-vae/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "763-puzzleteil-vae",
-        "lastSeen": "2026-03-22T22:44:22.000Z"
+        "lastSeen": "2026-03-25T09:43:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Anwendungsfaelle-umstrukturieren/package.tgz",
@@ -38628,7 +38628,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2026-03-25T02:34:41.000Z"
+        "lastSeen": "2026-03-25T08:39:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -52093,6 +52093,12 @@
         "repo": "https://github.com/HL7/smart-scheduling-links",
         "branch": "main",
         "lastSeen": "2026-03-15T22:43:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/FMG-QA-Review-1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/smart-scheduling-links",
+        "branch": "FMG-QA-Review-1.0.0",
+        "lastSeen": "2026-03-25T09:04:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz"
@@ -64200,7 +64206,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/refine-init-doc/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "refine-init-doc",
-        "lastSeen": "2026-03-25T08:45:16.000Z"
+        "lastSeen": "2026-03-25T09:55:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz"
@@ -69241,6 +69247,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-coverage-area-to-organization",
         "lastSeen": "2026-03-25T07:02:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-snomed-to-observation/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-snomed-to-observation",
+        "lastSeen": "2026-03-25T09:31:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
