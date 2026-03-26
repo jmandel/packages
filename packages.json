@@ -11856,7 +11856,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0297_S1_extra_annotations_terminology/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0297_S1_extra_annotations_terminology",
-        "lastSeen": "2026-03-23T15:34:56.000Z"
+        "lastSeen": "2026-03-26T14:44:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/trifork__add_assited_login_role/package.tgz",
@@ -12037,6 +12037,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0224-poa-privilege-codesystem",
         "lastSeen": "2026-03-25T09:25:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19959_wound-types/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-19959_wound-types",
+        "lastSeen": "2026-03-26T14:28:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -17802,7 +17808,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-03-26T06:46:15.000Z"
+        "lastSeen": "2026-03-26T14:07:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -18114,7 +18120,13 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-resolve-issue-226/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "fix-resolve-issue-226",
-        "lastSeen": "2026-03-26T14:00:54.000Z"
+        "lastSeen": "2026-03-26T14:40:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/pr-terminology-core/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "pr-terminology-core",
+        "lastSeen": "2026-03-26T14:48:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -19818,7 +19830,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-03-26T13:09:20.000Z"
+        "lastSeen": "2026-03-26T14:40:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -28428,7 +28440,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/patient-dossier",
         "branch": "release-candidate",
-        "lastSeen": "2026-03-26T12:49:00.000Z"
+        "lastSeen": "2026-03-26T14:55:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/main/package.tgz"
@@ -37968,7 +37980,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-dapl/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-dapl",
         "branch": "main",
-        "lastSeen": "2026-03-25T11:31:14.000Z"
+        "lastSeen": "2026-03-26T14:18:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz"
@@ -37980,7 +37992,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-darts",
         "branch": "main",
-        "lastSeen": "2026-03-25T11:30:00.000Z"
+        "lastSeen": "2026-03-26T14:45:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz"
@@ -38676,7 +38688,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-dtr",
         "branch": "master",
-        "lastSeen": "2026-03-26T10:58:27.000Z"
+        "lastSeen": "2026-03-26T13:45:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-dtr/branches/1.1.0-snapshot1/package.tgz",
@@ -38827,6 +38839,12 @@
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "FHIR-55675",
         "lastSeen": "2026-02-13T20:12:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2.2.0/package.tgz",
+        "repo": "https://github.com/HL7/davinci-pas",
+        "branch": "2.2.0",
+        "lastSeen": "2026-03-26T14:14:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz"
@@ -38893,6 +38911,12 @@
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "dom-6",
         "lastSeen": "2026-02-09T22:09:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/2.0.1/package.tgz",
+        "repo": "https://github.com/HL7/davinci-pct",
+        "branch": "2.0.1",
+        "lastSeen": "2026-03-26T13:47:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz"
@@ -51480,7 +51504,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/version-1.1.0/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "version-1.1.0",
-        "lastSeen": "2026-03-26T13:56:00.000Z"
+        "lastSeen": "2026-03-26T14:40:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/FHIR-39507/package.tgz",
@@ -60438,7 +60462,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-colorectal",
         "branch": "main",
-        "lastSeen": "2026-03-26T13:55:55.000Z"
+        "lastSeen": "2026-03-26T14:55:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/main/package.tgz"
@@ -68544,7 +68568,7 @@
         "url": "https://build.fhir.org/ig/HL7-UK/UK-Core-Access/branches/master/package.tgz",
         "repo": "https://github.com/HL7-UK/UK-Core-Access",
         "branch": "master",
-        "lastSeen": "2025-12-12T16:27:31.000Z"
+        "lastSeen": "2026-03-26T14:41:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-UK/UK-Core-Access/branches/rik-change/package.tgz",
