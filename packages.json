@@ -8844,7 +8844,7 @@
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/gpccmp-fhir-ig",
         "branch": "master",
-        "lastSeen": "2026-03-25T01:10:21.000Z"
+        "lastSeen": "2026-03-25T23:46:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/collapsible-form-version-2/package.tgz",
@@ -37476,7 +37476,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-03-25T15:44:37.000Z"
+        "lastSeen": "2026-03-25T23:11:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -38034,7 +38034,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "master",
-        "lastSeen": "2026-03-25T20:49:18.000Z"
+        "lastSeen": "2026-03-25T23:36:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2023-05-Connectathon/package.tgz",
@@ -66829,6 +66829,18 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "v0.2.0.1",
         "lastSeen": "2026-03-24T11:32:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/v0.2.0.4/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "v0.2.0.4",
+        "lastSeen": "2026-03-25T23:52:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/v0.2.0.3/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "v0.2.0.3",
+        "lastSeen": "2026-03-25T23:46:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
