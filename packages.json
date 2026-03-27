@@ -12043,6 +12043,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-19959_wound-types",
         "lastSeen": "2026-03-26T14:28:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-22439_CCR0297S03_FHIR_Condition_changes/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-22439_CCR0297S03_FHIR_Condition_changes",
+        "lastSeen": "2026-03-27T13:42:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -26988,7 +26994,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "release-candidate",
-        "lastSeen": "2026-03-27T12:53:26.000Z"
+        "lastSeen": "2026-03-27T13:34:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz"
@@ -31128,7 +31134,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2026-03-25T13:57:40.000Z"
+        "lastSeen": "2026-03-27T13:45:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
@@ -38149,6 +38155,12 @@
         "repo": "https://github.com/HL7/davinci-crd",
         "branch": "2.2.0",
         "lastSeen": "2026-03-26T15:54:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-crd/branches/2.2.1/package.tgz",
+        "repo": "https://github.com/HL7/davinci-crd",
+        "branch": "2.2.1",
+        "lastSeen": "2026-03-27T13:38:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-crd/branches/master/package.tgz"
@@ -40860,7 +40872,7 @@
         "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/main/package.tgz",
         "repo": "https://github.com/FHIR/MADFSH",
         "branch": "main",
-        "lastSeen": "2026-03-26T13:52:53.000Z"
+        "lastSeen": "2026-03-27T13:22:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/deps_012626/package.tgz",
@@ -42252,7 +42264,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "main",
-        "lastSeen": "2026-03-26T18:01:47.000Z"
+        "lastSeen": "2026-03-27T13:21:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/jp_working/package.tgz",
@@ -42325,6 +42337,12 @@
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "mlt-composition-required-sections",
         "lastSeen": "2026-03-20T23:01:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/mlt-narrative-changes/package.tgz",
+        "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
+        "branch": "mlt-narrative-changes",
+        "lastSeen": "2026-03-27T13:19:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz"
@@ -59628,7 +59646,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBinary",
         "branch": "main",
-        "lastSeen": "2026-03-27T00:28:31.000Z"
+        "lastSeen": "2026-03-27T13:09:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
