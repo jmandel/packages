@@ -11850,7 +11850,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0297/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0297",
-        "lastSeen": "2026-03-27T09:57:18.000Z"
+        "lastSeen": "2026-03-27T11:41:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0297_S1_extra_annotations_terminology/package.tgz",
@@ -12036,7 +12036,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224-poa-privilege-codesystem/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0224-poa-privilege-codesystem",
-        "lastSeen": "2026-03-25T09:25:10.000Z"
+        "lastSeen": "2026-03-27T11:33:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-19959_wound-types/package.tgz",
@@ -19842,7 +19842,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-03-26T14:40:03.000Z"
+        "lastSeen": "2026-03-27T11:24:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -31980,7 +31980,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-03-26T17:45:33.000Z"
+        "lastSeen": "2026-03-27T11:13:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -35208,7 +35208,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/attachments-for-consultation/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "attachments-for-consultation",
-        "lastSeen": "2026-03-27T09:05:08.000Z"
+        "lastSeen": "2026-03-27T11:00:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -60498,7 +60498,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-cervical",
         "branch": "main",
-        "lastSeen": "2026-03-26T06:03:34.000Z"
+        "lastSeen": "2026-03-27T11:22:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz"
@@ -69463,6 +69463,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-snomed-to-observation",
         "lastSeen": "2026-03-25T09:31:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/reduce-allowed-errors/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "reduce-allowed-errors",
+        "lastSeen": "2026-03-27T10:53:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
