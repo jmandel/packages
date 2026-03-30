@@ -27060,7 +27060,7 @@
         "url": "https://build.fhir.org/ig/ec-ehealth/childrecord/branches/release-candidate/package.tgz",
         "repo": "https://github.com/ec-ehealth/childrecord",
         "branch": "release-candidate",
-        "lastSeen": "2026-03-30T12:41:03.000Z"
+        "lastSeen": "2026-03-30T14:01:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz"
@@ -35322,7 +35322,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2026-01-12T14:23:23.000Z"
+        "lastSeen": "2026-03-30T13:28:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -35334,7 +35334,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-03-30T12:53:06.000Z"
+        "lastSeen": "2026-03-30T13:40:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -35593,6 +35593,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "1.22.0",
         "lastSeen": "2026-01-12T14:21:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/1.23.0/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "1.23.0",
+        "lastSeen": "2026-03-30T13:23:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
@@ -42636,7 +42642,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-bulk/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-bulk",
         "branch": "main",
-        "lastSeen": "2026-03-30T12:51:07.000Z"
+        "lastSeen": "2026-03-30T13:59:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-bulk/branches/main/package.tgz"
@@ -64476,7 +64482,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "main",
-        "lastSeen": "2026-03-27T09:31:38.000Z"
+        "lastSeen": "2026-03-30T13:42:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
@@ -64632,7 +64638,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-03-30T12:31:02.000Z"
+        "lastSeen": "2026-03-30T13:27:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -67848,7 +67854,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust-phw/branches/LMupdates/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust-phw",
         "branch": "LMupdates",
-        "lastSeen": "2026-03-25T12:20:39.000Z"
+        "lastSeen": "2026-03-30T13:26:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-trust-phw/branches/main/package.tgz"
@@ -69372,7 +69378,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-03-26T15:56:49.000Z"
+        "lastSeen": "2026-03-30T12:52:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
