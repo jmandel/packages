@@ -24816,7 +24816,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_cl-aubasejira/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_cl-aubasejira",
-        "lastSeen": "2026-03-30T05:14:26.000Z"
+        "lastSeen": "2026-03-31T03:55:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -26238,7 +26238,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-03-31T03:24:41.000Z"
+        "lastSeen": "2026-03-31T04:12:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -26935,6 +26935,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "tc_FHIR-56175",
         "lastSeen": "2026-03-31T02:59:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/tc_fhir-55934/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "tc_fhir-55934",
+        "lastSeen": "2026-03-31T03:58:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -37668,7 +37674,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-03-30T06:37:42.000Z"
+        "lastSeen": "2026-03-31T03:06:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -68604,7 +68610,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/base",
         "branch": "main",
-        "lastSeen": "2026-03-31T02:28:00.000Z"
+        "lastSeen": "2026-03-31T03:09:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz"
