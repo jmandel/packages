@@ -24847,6 +24847,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_cl-aubasejira",
         "lastSeen": "2026-03-31T03:55:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/tc_fhir-56143/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "tc_fhir-56143",
+        "lastSeen": "2026-03-31T11:14:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -26977,6 +26983,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_image-tdg",
         "lastSeen": "2026-03-31T10:43:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/qa_fix-51440/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "qa_fix-51440",
+        "lastSeen": "2026-03-31T11:01:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -31284,7 +31296,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2026-03-27T13:45:54.000Z"
+        "lastSeen": "2026-03-31T11:04:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
@@ -46680,13 +46692,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-03-30T16:31:09.000Z"
+        "lastSeen": "2026-03-31T11:07:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-03-30T16:32:09.000Z"
+        "lastSeen": "2026-03-31T11:07:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
