@@ -8088,7 +8088,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/390-gendering-in-diagrams/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "390-gendering-in-diagrams",
-        "lastSeen": "2026-03-31T09:48:01.000Z"
+        "lastSeen": "2026-03-31T13:52:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -35436,7 +35436,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-03-31T11:52:42.000Z"
+        "lastSeen": "2026-03-31T13:53:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -43200,7 +43200,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-safr",
         "branch": "main",
-        "lastSeen": "2026-03-25T18:56:12.000Z"
+        "lastSeen": "2026-03-31T13:23:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-safr/branches/1.0.0-ballot/package.tgz",
@@ -45918,7 +45918,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CardX-CIED",
         "branch": "main",
-        "lastSeen": "2026-03-27T20:39:31.000Z"
+        "lastSeen": "2026-03-31T13:39:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/updates_2/package.tgz",
@@ -51462,7 +51462,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "master",
-        "lastSeen": "2026-03-23T08:57:15.000Z"
+        "lastSeen": "2026-03-31T13:40:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/update-r4-tooling/package.tgz",
@@ -64092,7 +64092,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2026-03-18T00:07:48.000Z"
+        "lastSeen": "2026-03-31T13:58:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/helm-chart/package.tgz",
@@ -64164,7 +64164,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/align-sqlquery-params-with-cql/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "align-sqlquery-params-with-cql",
-        "lastSeen": "2026-03-03T14:35:41.000Z"
+        "lastSeen": "2026-03-31T13:54:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/sqlquery-export/package.tgz",
@@ -64590,7 +64590,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.se.frenda-wof-connect-flc",
         "branch": "main",
-        "lastSeen": "2026-03-31T09:49:57.000Z"
+        "lastSeen": "2026-03-31T13:46:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/main/package.tgz"
@@ -64602,7 +64602,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "main",
-        "lastSeen": "2026-03-31T10:44:33.000Z"
+        "lastSeen": "2026-03-31T13:16:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
@@ -67261,6 +67261,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "v0.2.0.6",
         "lastSeen": "2026-03-29T17:45:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/br-2026-03-31/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "br-2026-03-31",
+        "lastSeen": "2026-03-31T13:43:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
