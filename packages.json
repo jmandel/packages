@@ -8058,7 +8058,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/384-extension-verificationstatus-extend-scopeusage/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "384-extension-verificationstatus-extend-scopeusage",
-        "lastSeen": "2026-03-17T13:32:13.000Z"
+        "lastSeen": "2026-03-31T07:54:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/383-fhir-api-capabilitystatement/package.tgz",
@@ -9937,6 +9937,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "fix-invariant-bugs",
         "lastSeen": "2026-03-31T06:21:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-invariant-bug-suggestions/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "fix-invariant-bug-suggestions",
+        "lastSeen": "2026-03-31T08:35:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -60708,7 +60714,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-cervical",
         "branch": "main",
-        "lastSeen": "2026-03-29T17:11:10.000Z"
+        "lastSeen": "2026-03-31T08:00:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz"
@@ -60720,7 +60726,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-colorectal",
         "branch": "main",
-        "lastSeen": "2026-03-29T14:00:12.000Z"
+        "lastSeen": "2026-03-31T08:53:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/ADP-review/package.tgz",
@@ -60738,7 +60744,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cvd/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-cvd",
         "branch": "main",
-        "lastSeen": "2026-03-29T14:04:42.000Z"
+        "lastSeen": "2026-03-31T08:29:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-cvd/branches/main/package.tgz"
@@ -60864,7 +60870,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-prostate",
         "branch": "main",
-        "lastSeen": "2026-03-29T13:59:49.000Z"
+        "lastSeen": "2026-03-31T08:54:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz"
