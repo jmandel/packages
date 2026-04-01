@@ -30499,6 +30499,12 @@
         "repo": "https://github.com/Minsal-CL/eis",
         "branch": "PruebaRama",
         "lastSeen": "2026-04-01T17:47:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/eis/branches/modeloslogicos/package.tgz",
+        "repo": "https://github.com/Minsal-CL/eis",
+        "branch": "modeloslogicos",
+        "lastSeen": "2026-04-01T18:58:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/eis/branches/master/package.tgz"
@@ -35490,7 +35496,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-03-31T13:53:08.000Z"
+        "lastSeen": "2026-04-01T18:22:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -53125,6 +53131,12 @@
         "repo": "https://github.com/HL7/fhir-symptoms-ig",
         "branch": "joint-commission-fixes",
         "lastSeen": "2026-02-25T20:21:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-symptoms-ig",
+        "branch": "1.0.0",
+        "lastSeen": "2026-04-01T18:45:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-symptoms-ig/branches/main/package.tgz"
