@@ -853,6 +853,12 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-add-sp-bal-type",
         "lastSeen": "2026-03-25T16:49:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-balmss-spec/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "nr-add-balmss-spec",
+        "lastSeen": "2026-04-01T09:56:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -8161,6 +8167,12 @@
         "repo": "https://github.com/hl7ch/ig-template",
         "branch": "oe_ping",
         "lastSeen": "2026-01-05T15:34:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ig-template/branches/23-rlu_fix_base_template_dep/package.tgz",
+        "repo": "https://github.com/hl7ch/ig-template",
+        "branch": "23-rlu_fix_base_template_dep",
+        "lastSeen": "2026-04-01T09:21:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ig-template/branches/master/package.tgz"
@@ -18264,7 +18276,7 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-remove-middlename/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "feat-remove-middlename",
-        "lastSeen": "2026-04-01T05:12:25.000Z"
+        "lastSeen": "2026-04-01T09:57:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -46734,13 +46746,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-03-31T11:07:12.000Z"
+        "lastSeen": "2026-04-01T09:17:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-03-31T11:07:40.000Z"
+        "lastSeen": "2026-04-01T09:18:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -64656,7 +64668,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.se.frenda-wof-connect-flc",
         "branch": "main",
-        "lastSeen": "2026-04-01T08:46:13.000Z"
+        "lastSeen": "2026-04-01T09:47:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/main/package.tgz"
