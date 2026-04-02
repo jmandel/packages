@@ -30541,6 +30541,12 @@
         "repo": "https://github.com/Minsal-CL/eis",
         "branch": "modeloslogicos",
         "lastSeen": "2026-04-01T18:58:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/eis/branches/Mapping/package.tgz",
+        "repo": "https://github.com/Minsal-CL/eis",
+        "branch": "Mapping",
+        "lastSeen": "2026-04-02T11:23:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/eis/branches/master/package.tgz"
@@ -35442,7 +35448,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
-        "lastSeen": "2026-04-02T09:05:13.000Z"
+        "lastSeen": "2026-04-02T11:10:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/v0.1.0/package.tgz",
@@ -35491,6 +35497,12 @@
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "update-fo-pdf",
         "lastSeen": "2026-04-02T10:41:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/0.9.0-ballot/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "0.9.0-ballot",
+        "lastSeen": "2026-04-02T11:15:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -64758,7 +64770,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.se.frenda-wof-connect-flc",
         "branch": "main",
-        "lastSeen": "2026-04-02T09:12:56.000Z"
+        "lastSeen": "2026-04-02T11:02:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/libfix/package.tgz",
