@@ -66319,6 +66319,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-base",
         "branch": "mar2026",
         "lastSeen": "2026-04-01T14:11:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/jct-debug/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-base",
+        "branch": "jct-debug",
+        "lastSeen": "2026-04-02T16:38:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-base/branches/main/package.tgz"
@@ -67794,7 +67800,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
         "branch": "main",
-        "lastSeen": "2026-04-02T09:59:42.000Z"
+        "lastSeen": "2026-04-02T16:33:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/release-candidate/package.tgz",
@@ -67807,6 +67813,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
         "branch": "LMUpdates",
         "lastSeen": "2026-03-24T11:49:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt-vaxprequal/branches/jct-debug/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-pcmt-vaxprequal",
+        "branch": "jct-debug",
+        "lastSeen": "2026-04-02T16:41:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/litlfred/smart-pcmt-vaxprequal/branches/main/package.tgz"
