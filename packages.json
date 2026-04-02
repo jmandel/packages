@@ -27780,7 +27780,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/business/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "business",
-        "lastSeen": "2026-03-29T19:46:42.000Z"
+        "lastSeen": "2026-04-02T21:31:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz",
@@ -43693,6 +43693,12 @@
         "repo": "https://github.com/HL7/smp-ig",
         "branch": "mlt-med-action-plan-changes",
         "lastSeen": "2026-03-09T19:53:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/smp-ig/branches/fixCap/package.tgz",
+        "repo": "https://github.com/HL7/smp-ig",
+        "branch": "fixCap",
+        "lastSeen": "2026-04-02T21:20:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smp-ig/branches/master/package.tgz"
@@ -51420,7 +51426,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-03-20T16:54:42.000Z"
+        "lastSeen": "2026-04-02T20:51:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
