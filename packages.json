@@ -8910,7 +8910,7 @@
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/gpccmp-fhir-ig",
         "branch": "master",
-        "lastSeen": "2026-03-25T23:46:32.000Z"
+        "lastSeen": "2026-04-02T03:36:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/collapsible-form-version-2/package.tgz",
@@ -18654,7 +18654,7 @@
         "url": "https://build.fhir.org/ig/Lorex/TWLongTermCare_IG_Build/branches/dev/package.tgz",
         "repo": "https://github.com/Lorex/TWLongTermCare_IG_Build",
         "branch": "dev",
-        "lastSeen": "2026-04-02T01:08:54.000Z"
+        "lastSeen": "2026-04-02T04:19:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Lorex/TWLongTermCare_IG_Build/branches/dev/package.tgz"
@@ -24907,6 +24907,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_image-tdg",
         "lastSeen": "2026-04-01T02:43:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ignorewarnings-202603/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_ignorewarnings-202603",
+        "lastSeen": "2026-04-02T03:57:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -27048,7 +27054,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_ignoreWarnings-202603/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_ignoreWarnings-202603",
-        "lastSeen": "2026-04-02T03:09:15.000Z"
+        "lastSeen": "2026-04-02T03:49:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -63691,6 +63697,12 @@
         "repo": "https://github.com/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG",
         "branch": "Scope-update",
         "lastSeen": "2025-08-28T17:48:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG/branches/EmekaC-patch-1-cdc-comments/package.tgz",
+        "repo": "https://github.com/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG",
+        "branch": "EmekaC-patch-1-cdc-comments",
+        "lastSeen": "2026-04-02T04:13:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nigeria-FHIR-Community/ImmunizationIG/branches/main/package.tgz"
