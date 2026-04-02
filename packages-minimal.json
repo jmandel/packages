@@ -2024,6 +2024,14 @@
     }
   },
   {
+    "name": "fhir.onc.us-quality-core",
+    "current": {
+      "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/onc/package.tgz",
+      "repo": "https://github.com/FHIR/us-quality-core",
+      "branch": "onc"
+    }
+  },
+  {
     "name": "fhir.ops-esavi",
     "current": {
       "url": "https://build.fhir.org/ig/cens-chile/OPS-Esavi-IG/branches/main/package.tgz",
