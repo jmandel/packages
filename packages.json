@@ -18349,6 +18349,12 @@
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "fix-duplicate-alias-request-priority",
         "lastSeen": "2026-04-06T14:27:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-issue-240-terminology-parser/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "feat-issue-240-terminology-parser",
+        "lastSeen": "2026-04-06T17:03:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -46194,7 +46200,7 @@
         "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/main/package.tgz",
         "repo": "https://github.com/HL7/CardX-CIED",
         "branch": "main",
-        "lastSeen": "2026-03-31T13:39:32.000Z"
+        "lastSeen": "2026-04-06T17:43:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/updates_2/package.tgz",
@@ -47700,7 +47706,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-04-06T14:01:15.000Z"
+        "lastSeen": "2026-04-06T17:05:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -47994,7 +48000,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-04-05T17:16:54.000Z"
+        "lastSeen": "2026-04-06T17:24:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -58855,6 +58861,12 @@
         "repo": "https://github.com/IHE/pharm-meow",
         "branch": "history",
         "lastSeen": "2023-08-03T13:24:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/jct-draft/package.tgz",
+        "repo": "https://github.com/IHE/pharm-meow",
+        "branch": "jct-draft",
+        "lastSeen": "2026-04-06T17:42:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-meow/branches/main/package.tgz"
