@@ -18264,7 +18264,7 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-obligations-ruleset/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "feat-obligations-ruleset",
-        "lastSeen": "2026-04-01T01:37:46.000Z"
+        "lastSeen": "2026-04-06T14:30:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-issue-212/package.tgz",
@@ -18331,6 +18331,24 @@
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "feat-remove-middlename",
         "lastSeen": "2026-04-01T09:57:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/fix-duplicate-alias-request-priority/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "fix-duplicate-alias-request-priority",
+        "lastSeen": "2026-04-06T14:28:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-add-codeowners-file/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "feat-add-codeowners-file",
+        "lastSeen": "2026-04-06T14:52:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-duplicate-alias-request-priority/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "fix-duplicate-alias-request-priority",
+        "lastSeen": "2026-04-06T14:27:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -37938,7 +37956,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-04-02T16:16:31.000Z"
+        "lastSeen": "2026-04-06T13:54:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -47664,7 +47682,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-04-03T19:39:48.000Z"
+        "lastSeen": "2026-04-06T14:01:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -56124,7 +56142,7 @@
         "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/terminology-fundamentals-ig",
         "branch": "master",
-        "lastSeen": "2026-04-03T20:57:20.000Z"
+        "lastSeen": "2026-04-06T14:08:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/terminology-fundamentals-ig/branches/jbota-20251105/package.tgz",
