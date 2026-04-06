@@ -8622,7 +8622,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2026/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-qicore-2026",
         "branch": "main",
-        "lastSeen": "2026-03-31T18:18:47.000Z"
+        "lastSeen": "2026-04-06T15:48:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/task-update-discrepancy-report-connectathon-2026-Jan/package.tgz",
@@ -37291,6 +37291,12 @@
         "repo": "https://github.com/HL7/carin-rtpbc",
         "branch": "master",
         "lastSeen": "2026-04-03T20:09:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/carin-rtpbc",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2026-04-06T16:20:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-rtpbc/branches/new-base/package.tgz"
@@ -42823,6 +42829,12 @@
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "QA-2026",
         "lastSeen": "2026-03-18T13:48:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/us-fhir-ps",
+        "branch": "1.0.0-ballot",
+        "lastSeen": "2026-04-06T16:09:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz"
@@ -42985,6 +42997,12 @@
         "repo": "https://github.com/HL7/us-helios-bulk",
         "branch": "main",
         "lastSeen": "2026-03-30T13:59:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/us-helios-bulk/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/us-helios-bulk",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2026-04-06T16:10:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-bulk/branches/main/package.tgz"
@@ -46146,7 +46164,7 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/argo25/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "argo25",
-        "lastSeen": "2026-04-06T15:36:25.000Z"
+        "lastSeen": "2026-04-06T16:37:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -47767,6 +47785,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "br-2026-03-22-changes",
         "lastSeen": "2026-03-24T20:09:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2026-04-06T16:12:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -48222,7 +48246,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2026-04-06T15:32:16.000Z"
+        "lastSeen": "2026-04-06T16:41:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -53712,7 +53736,7 @@
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "master",
-        "lastSeen": "2026-04-06T15:01:51.000Z"
+        "lastSeen": "2026-04-06T16:45:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/phoenix/package.tgz",
