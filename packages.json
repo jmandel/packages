@@ -13116,7 +13116,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2026-03-29T16:14:19.000Z"
+        "lastSeen": "2026-04-07T06:38:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
@@ -13290,7 +13290,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/629-Anwendungsfall-03/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "629-Anwendungsfall-03",
-        "lastSeen": "2026-04-06T09:30:32.000Z"
+        "lastSeen": "2026-04-07T06:44:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/763-puzzleteil-vae/package.tgz",
@@ -13302,13 +13302,13 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Anwendungsfaelle-umstrukturieren/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Anwendungsfaelle-umstrukturieren",
-        "lastSeen": "2026-04-06T09:17:54.000Z"
+        "lastSeen": "2026-04-07T06:33:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/770-aufnehmen-puzzleteil/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "770-aufnehmen-puzzleteil",
-        "lastSeen": "2026-03-29T22:06:34.000Z"
+        "lastSeen": "2026-04-07T06:41:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/revert-747-695-procedure-performer-actor-kardinalität/package.tgz",
@@ -13332,7 +13332,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/787-Abrechnung-Puzzleteile/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "787-Abrechnung-Puzzleteile",
-        "lastSeen": "2026-04-06T13:31:28.000Z"
+        "lastSeen": "2026-04-07T06:41:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -56478,7 +56478,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-allergy/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-allergy",
         "branch": "main",
-        "lastSeen": "2026-03-31T07:56:32.000Z"
+        "lastSeen": "2026-04-07T06:52:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-allergy/branches/working/package.tgz",
@@ -62953,6 +62953,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "1.0.0-rc1",
         "lastSeen": "2026-03-12T08:03:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/Notes_testexamples/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-notes",
+        "branch": "Notes_testexamples",
+        "lastSeen": "2026-04-07T06:30:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
