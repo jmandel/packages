@@ -31116,7 +31116,7 @@
         "url": "https://build.fhir.org/ig/meddyg/lab-report-poc/branches/main/package.tgz",
         "repo": "https://github.com/meddyg/lab-report-poc",
         "branch": "main",
-        "lastSeen": "2026-04-07T07:39:03.000Z"
+        "lastSeen": "2026-04-07T18:11:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/meddyg/lab-report-poc/branches/main/package.tgz"
@@ -38040,7 +38040,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-04-07T16:30:38.000Z"
+        "lastSeen": "2026-04-07T17:49:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -43759,6 +43759,12 @@
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "FHIR-54584",
         "lastSeen": "2026-03-24T03:20:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/FHIR-53804/package.tgz",
+        "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
+        "branch": "FHIR-53804",
+        "lastSeen": "2026-04-07T18:33:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -46297,6 +46303,12 @@
         "repo": "https://github.com/HL7/CardX-CIED",
         "branch": "IDCO",
         "lastSeen": "2026-03-12T14:12:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/CardX-CIED",
+        "branch": "1.0.0",
+        "lastSeen": "2026-04-07T18:13:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CardX-CIED/branches/main/package.tgz"
@@ -47052,13 +47064,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-04-07T15:45:59.000Z"
+        "lastSeen": "2026-04-07T18:47:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-04-07T15:47:13.000Z"
+        "lastSeen": "2026-04-07T18:50:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -53412,7 +53424,7 @@
         "url": "https://build.fhir.org/ig/jkiddo/fhir-subscription-backport-ig/branches/update-xver/package.tgz",
         "repo": "https://github.com/jkiddo/fhir-subscription-backport-ig",
         "branch": "update-xver",
-        "lastSeen": "2026-02-27T09:09:56.000Z"
+        "lastSeen": "2026-04-07T18:56:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-subscription-backport-ig/branches/master/package.tgz"
@@ -53863,6 +53875,12 @@
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "draft-delta",
         "lastSeen": "2026-04-01T15:54:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/Vulcan-schedule-ig",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2026-04-07T18:52:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz"
