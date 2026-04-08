@@ -858,7 +858,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-balmss-spec/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-add-balmss-spec",
-        "lastSeen": "2026-04-08T14:48:53.000Z"
+        "lastSeen": "2026-04-08T16:15:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -66564,7 +66564,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "main",
-        "lastSeen": "2026-04-08T03:00:32.000Z"
+        "lastSeen": "2026-04-08T16:47:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/token-exchange/package.tgz",
@@ -67693,6 +67693,12 @@
         "repo": "https://github.com/MoH-Ethiopia/ETBase",
         "branch": "main",
         "lastSeen": "2025-12-12T09:02:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/testable-ig/branches/main/package.tgz",
+        "repo": "https://github.com/costateixeira/testable-ig",
+        "branch": "main",
+        "lastSeen": "2026-04-08T16:21:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-empty/branches/br-fix-includes/package.tgz"
