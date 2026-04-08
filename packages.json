@@ -8773,6 +8773,12 @@
         "repo": "https://github.com/cqframework/aphl-chronic-ig",
         "branch": "cor-add-reports",
         "lastSeen": "2025-12-11T23:32:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/aphl-chronic-ig/branches/cor-updates/package.tgz",
+        "repo": "https://github.com/cqframework/aphl-chronic-ig",
+        "branch": "cor-updates",
+        "lastSeen": "2026-04-08T23:34:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/aphl-chronic-ig/branches/main/package.tgz"
@@ -18462,13 +18468,13 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-iso3166-philippines-display-name/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "fix-iso3166-philippines-display-name",
-        "lastSeen": "2026-04-06T18:59:03.000Z"
+        "lastSeen": "2026-04-08T23:09:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-ci-cd-terminology-server/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "fix-ci-cd-terminology-server",
-        "lastSeen": "2026-04-08T14:46:00.000Z"
+        "lastSeen": "2026-04-08T23:30:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -23346,7 +23352,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-04-08T04:14:26.000Z"
+        "lastSeen": "2026-04-08T23:03:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -26580,7 +26586,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-04-08T04:23:13.000Z"
+        "lastSeen": "2026-04-08T23:02:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -38148,7 +38154,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-04-08T17:30:21.000Z"
+        "lastSeen": "2026-04-08T22:33:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -38634,7 +38640,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-darts",
         "branch": "main",
-        "lastSeen": "2026-04-08T19:44:34.000Z"
+        "lastSeen": "2026-04-08T22:55:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-darts/branches/main/package.tgz"
@@ -68910,7 +68916,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/v2-update/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-nzps",
         "branch": "v2-update",
-        "lastSeen": "2026-04-08T21:10:52.000Z"
+        "lastSeen": "2026-04-08T23:36:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/main/package.tgz"
