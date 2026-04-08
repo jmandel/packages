@@ -7530,7 +7530,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/158-split-CM-swissmedic-and-oldswiss-vacccode/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "158-split-CM-swissmedic-and-oldswiss-vacccode",
-        "lastSeen": "2026-04-08T07:01:50.000Z"
+        "lastSeen": "2026-04-08T08:26:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -13134,7 +13134,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2026-04-08T06:34:19.000Z"
+        "lastSeen": "2026-04-08T08:39:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
@@ -13344,7 +13344,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/master/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "master",
-        "lastSeen": "2026-04-08T07:22:33.000Z"
+        "lastSeen": "2026-04-08T08:33:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/787-Abrechnung-Puzzleteile/package.tgz",
@@ -13363,6 +13363,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "Puzzleteil-Akteur-Reihenfolge",
         "lastSeen": "2026-04-08T07:09:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/802-entlassen-puzzleteile/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "802-entlassen-puzzleteile",
+        "lastSeen": "2026-04-08T08:41:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -17995,6 +18001,12 @@
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "vol1",
         "lastSeen": "2026-04-07T13:10:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/authentication-identification/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "authentication-identification",
+        "lastSeen": "2026-04-08T08:29:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz"
@@ -18412,6 +18424,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
+  },
+  "fhir.ph.ereferral": {
+    "name": "fhir.ph.ereferral",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz",
+        "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
+        "branch": "issue-11-jld-rename-ig-id",
+        "lastSeen": "2026-04-08T08:13:05.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
   },
   "fhir.qpath4ms": {
     "name": "fhir.qpath4ms",
@@ -35766,7 +35790,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-04-08T07:02:38.000Z"
+        "lastSeen": "2026-04-08T08:55:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -49668,7 +49692,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "main",
-        "lastSeen": "2026-03-25T21:10:02.000Z"
+        "lastSeen": "2026-04-08T08:43:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz"
