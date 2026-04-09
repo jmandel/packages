@@ -10188,7 +10188,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2026-02-12T10:10:27.000Z"
+        "lastSeen": "2026-04-09T13:08:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -10560,7 +10560,7 @@
         "url": "https://build.fhir.org/ig/dhis2/dhis2-cancer-registry-ig/branches/main/package.tgz",
         "repo": "https://github.com/dhis2/dhis2-cancer-registry-ig",
         "branch": "main",
-        "lastSeen": "2026-04-09T11:59:15.000Z"
+        "lastSeen": "2026-04-09T13:32:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/dhis2/dhis2-cancer-registry-ig/branches/main/package.tgz"
@@ -12060,7 +12060,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.2/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.2",
-        "lastSeen": "2026-03-24T15:03:05.000Z"
+        "lastSeen": "2026-04-09T12:57:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
@@ -27504,7 +27504,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "release-candidate",
-        "lastSeen": "2026-04-03T10:11:50.000Z"
+        "lastSeen": "2026-04-09T13:18:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ec-ehealth/childrecord/branches/release-candidate/package.tgz",
@@ -31590,7 +31590,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/TOU/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "TOU",
-        "lastSeen": "2026-04-08T07:33:37.000Z"
+        "lastSeen": "2026-04-09T13:51:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/signedBundle/package.tgz",
@@ -42936,7 +42936,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "main",
-        "lastSeen": "2026-04-08T04:31:05.000Z"
+        "lastSeen": "2026-04-09T13:05:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/jp_working/package.tgz",
@@ -57360,7 +57360,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/ips-ehds2-optemized-reformat/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "ips-ehds2-optemized-reformat",
-        "lastSeen": "2026-04-08T05:52:35.000Z"
+        "lastSeen": "2026-04-09T12:56:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/89-f2f-review-feb-2026/package.tgz",
@@ -68005,6 +68005,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
         "branch": "v0.2.0.7",
         "lastSeen": "2026-03-31T13:57:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+        "branch": "release-candidate",
+        "lastSeen": "2026-04-09T13:50:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/sop/package.tgz"
