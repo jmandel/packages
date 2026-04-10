@@ -10566,7 +10566,7 @@
         "url": "https://build.fhir.org/ig/dhis2/dhis2-cancer-registry-ig/branches/main/package.tgz",
         "repo": "https://github.com/dhis2/dhis2-cancer-registry-ig",
         "branch": "main",
-        "lastSeen": "2026-04-10T10:40:26.000Z"
+        "lastSeen": "2026-04-10T11:51:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/dhis2/dhis2-cancer-registry-ig/branches/main/package.tgz"
@@ -18144,7 +18144,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-04-07T09:26:03.000Z"
+        "lastSeen": "2026-04-10T11:11:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -27553,6 +27553,18 @@
         "repo": "https://github.com/ec-ehealth/childrecord",
         "branch": "release-candidate",
         "lastSeen": "2026-03-30T14:01:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/hl7-be/childrecord",
+        "branch": "1.0.0",
+        "lastSeen": "2026-04-10T11:38:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/master/package.tgz",
+        "repo": "https://github.com/hl7-be/childrecord",
+        "branch": "master",
+        "lastSeen": "2026-04-10T11:42:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz"
@@ -28039,6 +28051,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "problem",
         "lastSeen": "2026-03-31T17:12:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/device/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "device",
+        "lastSeen": "2026-04-10T11:50:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -56832,7 +56850,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/ITI.XDS.VS",
         "branch": "main",
-        "lastSeen": "2026-03-30T09:59:49.000Z"
+        "lastSeen": "2026-04-10T11:44:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/ITI.XDS.VS/branches/main/package.tgz"
