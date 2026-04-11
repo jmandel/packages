@@ -15905,6 +15905,18 @@
     ],
     "current": "https://build.fhir.org/ig/trimoz-technologies/hl7-fhir-ig/branches/master/package.tgz"
   },
+  "fhir.clinical.datatypes": {
+    "name": "fhir.clinical.datatypes",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/FHIR/fhir.clinical.datatypes/branches/master/package.tgz",
+        "repo": "https://github.com/FHIR/fhir.clinical.datatypes",
+        "branch": "master",
+        "lastSeen": "2026-04-11T12:15:07.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/FHIR/fhir.clinical.datatypes/branches/master/package.tgz"
+  },
   "fhir.colonoscopyPolyp": {
     "name": "fhir.colonoscopyPolyp",
     "locations": [
@@ -64626,7 +64638,7 @@
         "url": "https://build.fhir.org/ig/openehr-fhir/base-spec/branches/master/package.tgz",
         "repo": "https://github.com/openehr-fhir/base-spec",
         "branch": "master",
-        "lastSeen": "2025-10-16T11:57:16.000Z"
+        "lastSeen": "2026-04-11T12:05:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/openehr-base-ig/branches/master/package.tgz"
