@@ -23413,6 +23413,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "tc_FHIR-56104_correct-inv-hspo-1",
         "lastSeen": "2026-03-19T06:53:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/FHIR-47163/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "FHIR-47163",
+        "lastSeen": "2026-04-12T12:33:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
