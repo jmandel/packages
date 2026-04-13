@@ -20778,7 +20778,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "master",
-        "lastSeen": "2026-04-13T13:53:38.000Z"
+        "lastSeen": "2026-04-13T17:47:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-1/package.tgz",
@@ -20893,6 +20893,12 @@
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "costateixeira-patch-5",
         "lastSeen": "2026-04-13T13:52:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/costateixeira-patch-6/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+        "branch": "costateixeira-patch-6",
+        "lastSeen": "2026-04-13T17:56:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -46536,7 +46542,7 @@
         "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/argo25/package.tgz",
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "argo25",
-        "lastSeen": "2026-04-10T21:13:09.000Z"
+        "lastSeen": "2026-04-13T17:31:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -50766,7 +50772,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/syncComplete/package.tgz",
         "repo": "https://github.com/HL7/fhircast-docs",
         "branch": "syncComplete",
-        "lastSeen": "2026-04-10T19:02:18.000Z"
+        "lastSeen": "2026-04-13T17:57:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhircast-docs/branches/master/package.tgz"
@@ -65376,7 +65382,7 @@
         "url": "https://build.fhir.org/ig/vadi2/vitalis-hackathon-2026-ig/branches/main/package.tgz",
         "repo": "https://github.com/vadi2/vitalis-hackathon-2026-ig",
         "branch": "main",
-        "lastSeen": "2026-04-13T16:53:38.000Z"
+        "lastSeen": "2026-04-13T17:25:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/vitalis-hackathon-2026-ig/branches/add-signup-link/package.tgz",
@@ -66816,7 +66822,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "main",
-        "lastSeen": "2026-04-09T15:30:00.000Z"
+        "lastSeen": "2026-04-13T17:05:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/token-exchange/package.tgz",
