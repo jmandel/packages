@@ -12288,7 +12288,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eas",
         "branch": "main",
-        "lastSeen": "2026-01-09T09:31:41.000Z"
+        "lastSeen": "2026-04-16T11:08:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eas/branches/security-translation/package.tgz",
@@ -18216,7 +18216,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-04-16T07:19:32.000Z"
+        "lastSeen": "2026-04-16T11:05:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -18636,7 +18636,7 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-simplify-qa-gate/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "fix-simplify-qa-gate",
-        "lastSeen": "2026-04-16T10:54:08.000Z"
+        "lastSeen": "2026-04-16T11:22:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -31992,7 +31992,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2026-04-14T12:13:00.000Z"
+        "lastSeen": "2026-04-16T11:40:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
@@ -61825,6 +61825,12 @@
         "repo": "https://github.com/HL7LT/ig-lt-cvd",
         "branch": "kati",
         "lastSeen": "2026-04-09T16:46:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cvd/branches/audra/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-cvd",
+        "branch": "audra",
+        "lastSeen": "2026-04-16T11:44:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-cvd/branches/main/package.tgz"
@@ -63882,7 +63888,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/XdsDocs-2.0.0-HomeCareObservation/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
         "branch": "XdsDocs-2.0.0-HomeCareObservation",
-        "lastSeen": "2026-04-16T08:52:13.000Z"
+        "lastSeen": "2026-04-16T11:14:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/master/package.tgz"
@@ -65706,7 +65712,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "initial-setup",
-        "lastSeen": "2026-04-16T09:42:58.000Z"
+        "lastSeen": "2026-04-16T11:05:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/logical-models-docs/package.tgz",
