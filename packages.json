@@ -12276,7 +12276,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23057-publish-for-release-2026.2/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23057-publish-for-release-2026.2",
-        "lastSeen": "2026-04-16T06:05:11.000Z"
+        "lastSeen": "2026-04-16T13:33:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -32136,7 +32136,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2026-02-24T21:21:50.000Z"
+        "lastSeen": "2026-04-16T13:25:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/develop/package.tgz",
@@ -40842,7 +40842,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/stu3/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "stu3",
-        "lastSeen": "2026-04-15T21:40:27.000Z"
+        "lastSeen": "2026-04-16T13:58:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
@@ -57528,7 +57528,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "main",
-        "lastSeen": "2026-03-19T12:43:22.000Z"
+        "lastSeen": "2026-04-16T13:33:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/feature_concepts/package.tgz",
@@ -57720,7 +57720,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/ips-ehds2-optemized-reformat/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "ips-ehds2-optemized-reformat",
-        "lastSeen": "2026-04-15T22:10:04.000Z"
+        "lastSeen": "2026-04-16T13:33:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/89-f2f-review-feb-2026/package.tgz",
@@ -59965,6 +59965,12 @@
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "call20260409",
         "lastSeen": "2026-04-13T15:16:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/kin-representation/package.tgz",
+        "repo": "https://github.com/IHE/RAD.MADO",
+        "branch": "kin-representation",
+        "lastSeen": "2026-04-16T13:25:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
@@ -62041,6 +62047,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "2.0",
         "lastSeen": "2026-03-25T07:34:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0-rc.1.0.0/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
+        "branch": "2.0-rc.1.0.0",
+        "lastSeen": "2026-04-16T13:48:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz"
@@ -67800,7 +67812,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/LMupdates/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "LMupdates",
-        "lastSeen": "2026-04-16T12:31:17.000Z"
+        "lastSeen": "2026-04-16T13:24:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
