@@ -12210,7 +12210,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.2-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.2-SNAPSHOT",
-        "lastSeen": "2026-04-15T07:28:44.000Z"
+        "lastSeen": "2026-04-16T12:05:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224-power-of-attorney/package.tgz",
@@ -29094,7 +29094,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/mycarenet",
         "branch": "release-candidate",
-        "lastSeen": "2026-04-02T13:31:08.000Z"
+        "lastSeen": "2026-04-16T12:33:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/mycarenet/branches/terminology-update/package.tgz",
@@ -31992,7 +31992,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2026-04-16T11:40:06.000Z"
+        "lastSeen": "2026-04-16T12:42:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
@@ -52668,7 +52668,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-03-19T14:37:07.000Z"
+        "lastSeen": "2026-04-16T12:44:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
@@ -52728,7 +52728,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/version-1.1.0/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "version-1.1.0",
-        "lastSeen": "2026-04-15T12:59:47.000Z"
+        "lastSeen": "2026-04-16T12:39:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/FHIR-39507/package.tgz",
@@ -59946,7 +59946,7 @@
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "master",
-        "lastSeen": "2026-04-13T15:27:37.000Z"
+        "lastSeen": "2026-04-16T12:32:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/call20260402/package.tgz",
@@ -63156,7 +63156,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2026-02-09T09:46:55.000Z"
+        "lastSeen": "2026-04-16T12:37:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
@@ -63229,6 +63229,12 @@
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "documentReference_instance",
         "lastSeen": "2026-03-24T07:34:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/Updated-testexamples/package.tgz",
+        "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
+        "branch": "Updated-testexamples",
+        "lastSeen": "2026-04-16T12:37:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
@@ -64963,6 +64969,12 @@
         "repo": "https://github.com/freshehr/EHDS-openEHR-FHIR-IG",
         "branch": "main",
         "lastSeen": "2026-04-15T21:53:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/freshehr/EHDS-openEHR-FHIR-IG/branches/openehr-html/package.tgz",
+        "repo": "https://github.com/freshehr/EHDS-openEHR-FHIR-IG",
+        "branch": "openehr-html",
+        "lastSeen": "2026-04-16T12:54:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/freshehr/EHDS-openEHR-FHIR-IG/branches/main/package.tgz"
@@ -65712,7 +65724,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "initial-setup",
-        "lastSeen": "2026-04-16T11:05:29.000Z"
+        "lastSeen": "2026-04-16T12:11:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/logical-models-docs/package.tgz",
@@ -67788,7 +67800,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/LMupdates/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "LMupdates",
-        "lastSeen": "2026-04-16T10:30:36.000Z"
+        "lastSeen": "2026-04-16T12:31:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz"
