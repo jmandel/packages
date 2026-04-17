@@ -12288,7 +12288,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23057-publish-for-release-2026.2/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23057-publish-for-release-2026.2",
-        "lastSeen": "2026-04-17T07:32:26.000Z"
+        "lastSeen": "2026-04-17T08:13:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/revert-243-FUT1-22361_missing_total_in_search_bundles_for_episodeOfCare/package.tgz",
@@ -13507,6 +13507,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "add-custom-artifacts-page",
         "lastSeen": "2026-04-15T15:04:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/736-Diagramme-reparieren/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "736-Diagramme-reparieren",
+        "lastSeen": "2026-04-17T08:30:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -18234,7 +18240,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-04-17T07:01:10.000Z"
+        "lastSeen": "2026-04-17T08:20:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -28290,7 +28296,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "release-candidate",
-        "lastSeen": "2026-03-10T12:12:01.000Z"
+        "lastSeen": "2026-04-17T08:34:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/release-candidate-ec/package.tgz",
@@ -63708,7 +63714,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/1.0.0-rc1/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "1.0.0-rc1",
-        "lastSeen": "2026-04-17T06:58:50.000Z"
+        "lastSeen": "2026-04-17T08:17:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/Notes_testexamples/package.tgz",
