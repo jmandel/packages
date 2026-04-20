@@ -11916,7 +11916,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ehealth-carecommunication/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ehealth-carecommunication",
-        "lastSeen": "2026-03-11T09:49:48.000Z"
+        "lastSeen": "2026-04-20T12:19:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-update-new-valuesets/package.tgz",
@@ -18702,13 +18702,19 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/265-fr-a-allergyintolerance-profile/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "265-fr-a-allergyintolerance-profile",
-        "lastSeen": "2026-04-20T10:13:13.000Z"
+        "lastSeen": "2026-04-20T12:42:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-observation-profile-examples/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "feat-observation-profile-examples",
         "lastSeen": "2026-04-20T10:13:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/267-fr-u-relatedperson-profile/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "267-fr-u-relatedperson-profile",
+        "lastSeen": "2026-04-20T12:42:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -18817,6 +18823,12 @@
         "repo": "https://github.com/eabuenaventura/eab-ph-ereferral",
         "branch": "37-create-erefimmunization-profile",
         "lastSeen": "2026-04-20T04:46:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-ereferral/branches/36-create-erefencounter-profile/package.tgz",
+        "repo": "https://github.com/eabuenaventura/eab-ph-ereferral",
+        "branch": "36-create-erefencounter-profile",
+        "lastSeen": "2026-04-20T12:42:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -27702,7 +27714,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/cr_fhir-56128/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "cr_fhir-56128",
-        "lastSeen": "2026-04-15T04:16:58.000Z"
+        "lastSeen": "2026-04-20T12:42:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -57294,7 +57306,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-encounter-episode/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-encounter-episode",
         "branch": "main",
-        "lastSeen": "2026-04-10T05:19:14.000Z"
+        "lastSeen": "2026-04-20T12:42:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-encounter-episode/branches/main/package.tgz"
@@ -63300,7 +63312,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "develop",
-        "lastSeen": "2026-02-02T07:30:35.000Z"
+        "lastSeen": "2026-04-20T12:42:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/main/package.tgz",
@@ -63331,6 +63343,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "EKG-v1.0-test-examples",
         "lastSeen": "2026-03-25T18:47:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKG-v1.0.3-patch-release/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-ekg",
+        "branch": "EKG-v1.0.3-patch-release",
+        "lastSeen": "2026-04-20T12:42:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/SGA-ECG-2025-11/package.tgz"
@@ -63810,7 +63828,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/Notes_testexamples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "Notes_testexamples",
-        "lastSeen": "2026-04-15T07:55:32.000Z"
+        "lastSeen": "2026-04-20T12:42:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-Notes/branches/githubpages/package.tgz"
@@ -65940,7 +65958,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "main",
-        "lastSeen": "2026-04-20T08:34:52.000Z"
+        "lastSeen": "2026-04-20T12:42:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/9-när-får-jag-nytta-av-ign/package.tgz",
@@ -70926,7 +70944,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-03-30T12:52:51.000Z"
+        "lastSeen": "2026-04-20T12:27:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
