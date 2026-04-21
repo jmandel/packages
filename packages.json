@@ -20592,7 +20592,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-04-21T10:26:40.000Z"
+        "lastSeen": "2026-04-21T12:24:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -22506,7 +22506,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xshare-careplan/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xshare-careplan",
         "branch": "master",
-        "lastSeen": "2026-04-21T09:44:39.000Z"
+        "lastSeen": "2026-04-21T12:32:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xshare-careplan/branches/master/package.tgz"
@@ -29316,7 +29316,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/nihdi-terminology",
         "branch": "release-candidate",
-        "lastSeen": "2026-04-14T11:41:58.000Z"
+        "lastSeen": "2026-04-21T12:33:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/nihdi-terminology/branches/master/package.tgz"
@@ -32160,7 +32160,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2026-04-17T09:12:58.000Z"
+        "lastSeen": "2026-04-21T12:33:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
@@ -35923,6 +35923,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "2.2.0",
         "lastSeen": "2026-03-19T12:34:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-ajout-participants/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-ajout-participants",
+        "lastSeen": "2026-04-21T12:37:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -36324,7 +36330,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/pseudonymisation-function/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "pseudonymisation-function",
-        "lastSeen": "2026-04-21T10:21:38.000Z"
+        "lastSeen": "2026-04-21T12:32:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -57576,7 +57582,7 @@
         "url": "https://build.fhir.org/ig/IHE/ihe-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ihe-ig-template",
         "branch": "master",
-        "lastSeen": "2025-10-01T04:04:04.000Z"
+        "lastSeen": "2026-04-21T12:27:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ihe-ig-template/branches/mlj_update_domain_name_images/package.tgz",
@@ -58705,6 +58711,12 @@
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "slagesse-255",
         "lastSeen": "2026-01-13T00:00:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/Relaxed_Search_ProfilingR5/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "Relaxed_Search_ProfilingR5",
+        "lastSeen": "2026-04-21T12:45:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
@@ -63462,13 +63474,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/develop/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "develop",
-        "lastSeen": "2026-04-20T12:42:27.000Z"
+        "lastSeen": "2026-04-21T12:20:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "main",
-        "lastSeen": "2026-02-02T07:27:36.000Z"
+        "lastSeen": "2026-04-21T12:48:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKGv1.1_test_examples/package.tgz",
@@ -66114,7 +66126,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "main",
-        "lastSeen": "2026-04-20T12:42:40.000Z"
+        "lastSeen": "2026-04-21T12:49:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/9-när-får-jag-nytta-av-ign/package.tgz",
