@@ -18744,7 +18744,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/259-t-change-canonical-url-to-httpsfhirdohgovphphcore/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "259-t-change-canonical-url-to-httpsfhirdohgovphphcore",
-        "lastSeen": "2026-04-20T09:02:19.000Z"
+        "lastSeen": "2026-04-22T01:59:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/265-fr-a-allergyintolerance-profile/package.tgz",
@@ -18762,7 +18762,13 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/267-fr-u-relatedperson-profile/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "267-fr-u-relatedperson-profile",
-        "lastSeen": "2026-04-20T12:42:53.000Z"
+        "lastSeen": "2026-04-22T02:16:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/269-fr-a-claim-profile/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "269-fr-a-claim-profile",
+        "lastSeen": "2026-04-22T02:26:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -48618,7 +48624,7 @@
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "master",
-        "lastSeen": "2026-04-22T00:48:57.000Z"
+        "lastSeen": "2026-04-22T02:03:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/main/package.tgz",
@@ -50406,7 +50412,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/br-50991-targetConstraint-on-library-parameter/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "br-50991-targetConstraint-on-library-parameter",
-        "lastSeen": "2026-04-21T09:45:10.000Z"
+        "lastSeen": "2026-04-22T01:06:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -58093,6 +58099,18 @@
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "109-spelling-errors",
         "lastSeen": "2026-04-17T13:11:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/EHDS2-page-renderIssue/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DeIdHandbook",
+        "branch": "EHDS2-page-renderIssue",
+        "lastSeen": "2026-04-22T01:45:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/F2F-April-2026/package.tgz",
+        "repo": "https://github.com/IHE/ITI.DeIdHandbook",
+        "branch": "F2F-April-2026",
+        "lastSeen": "2026-04-22T01:49:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
