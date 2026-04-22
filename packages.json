@@ -19548,7 +19548,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-04-08T20:36:21.000Z"
+        "lastSeen": "2026-04-22T17:02:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz"
@@ -43548,7 +43548,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "main",
-        "lastSeen": "2026-04-21T02:46:37.000Z"
+        "lastSeen": "2026-04-22T16:27:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/jp_working/package.tgz",
@@ -43608,7 +43608,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/mlt-qa-cleanup/package.tgz",
         "repo": "https://github.com/HL7/fhir-transitions-of-care-ig",
         "branch": "mlt-qa-cleanup",
-        "lastSeen": "2026-04-21T02:45:47.000Z"
+        "lastSeen": "2026-04-22T15:42:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-transitions-of-care-ig/branches/mlt-add-toc-docref/package.tgz",
@@ -48270,7 +48270,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "master",
-        "lastSeen": "2024-11-26T06:42:34.000Z"
+        "lastSeen": "2026-04-22T15:57:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/migrate-to-sushi/package.tgz",
@@ -53814,7 +53814,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz",
         "repo": "https://github.com/HL7/smart-scheduling-links",
         "branch": "main",
-        "lastSeen": "2026-04-21T14:33:17.000Z"
+        "lastSeen": "2026-04-22T16:02:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/FMG-QA-Review-1.0.0/package.tgz",
@@ -53839,6 +53839,12 @@
         "repo": "https://github.com/HL7/smart-scheduling-links",
         "branch": "lynnlaakso-patch-1",
         "lastSeen": "2026-04-22T15:47:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/smart-scheduling-links",
+        "branch": "1.0.0-ballot",
+        "lastSeen": "2026-04-22T16:21:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz"
@@ -58176,7 +58182,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/F2F-April-2026/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "F2F-April-2026",
-        "lastSeen": "2026-04-22T13:28:12.000Z"
+        "lastSeen": "2026-04-22T16:30:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
@@ -60054,7 +60060,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/101-pc-pharm-9-copy-paste-error/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "101-pc-pharm-9-copy-paste-error",
-        "lastSeen": "2026-04-22T15:49:30.000Z"
+        "lastSeen": "2026-04-22T16:06:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz"
