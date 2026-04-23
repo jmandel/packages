@@ -18391,6 +18391,12 @@
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "main",
         "lastSeen": "2026-04-23T20:40:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/cql-informational-note/package.tgz",
+        "repo": "https://github.com/FHIR/us-quality-core",
+        "branch": "cql-informational-note",
+        "lastSeen": "2026-04-23T22:30:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/onc/package.tgz"
@@ -18468,7 +18474,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/feature-NZHTS-Terminology/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "feature-NZHTS-Terminology",
-        "lastSeen": "2026-04-21T22:43:20.000Z"
+        "lastSeen": "2026-04-23T22:26:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/encounter-profile/package.tgz",
@@ -42642,7 +42648,7 @@
         "url": "https://build.fhir.org/ig/OHSUCMP/htnu18ig/branches/master/package.tgz",
         "repo": "https://github.com/OHSUCMP/htnu18ig",
         "branch": "master",
-        "lastSeen": "2026-04-07T19:27:52.000Z"
+        "lastSeen": "2026-04-23T22:19:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/OHSUCMP/htnu18ig/branches/documentation-updates/package.tgz",
@@ -53106,7 +53112,7 @@
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-record-lifecycle/package.tgz",
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "blockvote-record-lifecycle",
-        "lastSeen": "2026-01-29T23:30:53.000Z"
+        "lastSeen": "2026-04-23T22:22:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-security-section/package.tgz",
@@ -53130,7 +53136,7 @@
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-logical-models/package.tgz",
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "blockvote-logical-models",
-        "lastSeen": "2026-03-27T00:35:59.000Z"
+        "lastSeen": "2026-04-23T22:02:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/blockvote-clinical-trials/package.tgz",
@@ -58290,7 +58296,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/F2F-April-2026/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "F2F-April-2026",
-        "lastSeen": "2026-04-23T21:08:54.000Z"
+        "lastSeen": "2026-04-23T22:30:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
