@@ -28614,7 +28614,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/radiology-pss/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "radiology-pss",
-        "lastSeen": "2026-04-18T07:50:58.000Z"
+        "lastSeen": "2026-04-23T13:49:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/radiology-pss/package.tgz",
@@ -31854,7 +31854,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Tomas",
-        "lastSeen": "2026-04-23T11:14:18.000Z"
+        "lastSeen": "2026-04-23T13:06:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Mirek/package.tgz",
@@ -31866,7 +31866,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Develop/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "Develop",
-        "lastSeen": "2026-02-25T16:16:29.000Z"
+        "lastSeen": "2026-04-23T13:09:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Sarka/package.tgz",
@@ -48738,7 +48738,7 @@
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "master",
-        "lastSeen": "2026-04-23T03:07:39.000Z"
+        "lastSeen": "2026-04-23T14:03:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/main/package.tgz",
@@ -58236,7 +58236,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/F2F-April-2026/package.tgz",
         "repo": "https://github.com/IHE/ITI.DeIdHandbook",
         "branch": "F2F-April-2026",
-        "lastSeen": "2026-04-23T04:03:26.000Z"
+        "lastSeen": "2026-04-23T13:27:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
@@ -59676,7 +59676,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/April26/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "April26",
-        "lastSeen": "2026-04-23T12:46:51.000Z"
+        "lastSeen": "2026-04-23T13:36:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -60145,6 +60145,12 @@
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "96-pc-order-changes-add-non-prescribing-health-professional-as-an-order-changer",
         "lastSeen": "2026-04-23T11:54:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/106-pc-logical-models-occasionally-refer-to-fhir-resources-instead-of-models/package.tgz",
+        "repo": "https://github.com/IHE/pharm-mpd",
+        "branch": "106-pc-logical-models-occasionally-refer-to-fhir-resources-instead-of-models",
+        "lastSeen": "2026-04-23T13:35:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz"
@@ -60516,7 +60522,7 @@
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "master",
-        "lastSeen": "2026-04-23T09:20:51.000Z"
+        "lastSeen": "2026-04-23T13:21:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/call20260402/package.tgz",
