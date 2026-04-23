@@ -21235,6 +21235,12 @@
         "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
         "branch": "issue-41",
         "lastSeen": "2026-04-23T07:54:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/fix-footer/package.tgz",
+        "repo": "https://github.com/hl7-be/hl7.be.fhir.template",
+        "branch": "fix-footer",
+        "lastSeen": "2026-04-23T12:22:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/hl7.be.fhir.template/branches/master/package.tgz"
@@ -31842,7 +31848,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "main",
-        "lastSeen": "2026-02-26T07:56:57.000Z"
+        "lastSeen": "2026-04-23T12:29:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
@@ -49188,7 +49194,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2026-04-11T01:25:27.000Z"
+        "lastSeen": "2026-04-23T12:33:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -59670,7 +59676,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/April26/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "April26",
-        "lastSeen": "2026-04-23T10:38:50.000Z"
+        "lastSeen": "2026-04-23T12:46:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -61542,13 +61548,13 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testMermaid/branches/bad/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testMermaid",
         "branch": "bad",
-        "lastSeen": "2026-04-21T22:01:04.000Z"
+        "lastSeen": "2026-04-23T12:20:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/testMermaid/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testMermaid",
         "branch": "main",
-        "lastSeen": "2026-04-21T21:59:46.000Z"
+        "lastSeen": "2026-04-23T12:35:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testMermaid/branches/main/package.tgz"
@@ -66372,7 +66378,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/gh-development/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "gh-development",
-        "lastSeen": "2026-04-23T11:32:18.000Z"
+        "lastSeen": "2026-04-23T12:45:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/development/package.tgz",
