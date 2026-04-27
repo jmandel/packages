@@ -12678,7 +12678,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-04-27T05:53:45.000Z"
+        "lastSeen": "2026-04-27T09:11:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -18888,7 +18888,13 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/296-fr-u-pracitioner-profile/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "296-fr-u-pracitioner-profile",
-        "lastSeen": "2026-04-27T07:47:24.000Z"
+        "lastSeen": "2026-04-27T08:50:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/298-fr-a-create-healthcareservice-profile/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "298-fr-a-create-healthcareservice-profile",
+        "lastSeen": "2026-04-27T08:55:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -33276,7 +33282,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-04-10T13:36:23.000Z"
+        "lastSeen": "2026-04-27T08:40:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -57768,7 +57774,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-encounter-episode/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-encounter-episode",
         "branch": "main",
-        "lastSeen": "2026-04-24T05:43:00.000Z"
+        "lastSeen": "2026-04-27T09:01:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-encounter-episode/branches/main/package.tgz"
@@ -63954,7 +63960,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKGv2.0.0/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "EKGv2.0.0",
-        "lastSeen": "2026-04-24T11:29:56.000Z"
+        "lastSeen": "2026-04-27T08:44:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/SGA-ECG-2025-11/package.tgz"
@@ -67873,6 +67879,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "visit-type-valueset",
         "lastSeen": "2026-04-24T14:08:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/general-results/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "general-results",
+        "lastSeen": "2026-04-27T09:21:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
