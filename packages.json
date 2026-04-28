@@ -925,6 +925,12 @@
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "nr-add-cip",
         "lastSeen": "2026-02-23T08:38:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/nr-fix-editorial/package.tgz",
+        "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
+        "branch": "nr-fix-editorial",
+        "lastSeen": "2026-04-28T09:01:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/CorrectionExemplesHAS/package.tgz"
@@ -28182,7 +28188,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "release-candidate",
-        "lastSeen": "2026-04-10T08:36:37.000Z"
+        "lastSeen": "2026-04-28T09:00:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ec-ehealth/childrecord/branches/release-candidate/package.tgz",
@@ -66822,7 +66828,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/ChickenHarmony/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "ChickenHarmony",
-        "lastSeen": "2026-04-27T12:42:55.000Z"
+        "lastSeen": "2026-04-28T09:20:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz"
