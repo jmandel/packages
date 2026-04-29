@@ -8172,7 +8172,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/383-fhir-api-capabilitystatement/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "383-fhir-api-capabilitystatement",
-        "lastSeen": "2026-04-29T09:49:56.000Z"
+        "lastSeen": "2026-04-29T13:24:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/390-gendering-in-diagrams/package.tgz",
@@ -16662,7 +16662,7 @@
         "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/master/package.tgz",
         "repo": "https://github.com/vadi2/snomed-procedure-ichi",
         "branch": "master",
-        "lastSeen": "2026-04-29T12:53:27.000Z"
+        "lastSeen": "2026-04-29T13:35:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/fix-index-link/package.tgz",
@@ -16681,6 +16681,12 @@
         "repo": "https://github.com/vadi2/snomed-procedure-ichi",
         "branch": "update-tsv",
         "lastSeen": "2026-04-29T12:52:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/regenerate-conceptmap/package.tgz",
+        "repo": "https://github.com/vadi2/snomed-procedure-ichi",
+        "branch": "regenerate-conceptmap",
+        "lastSeen": "2026-04-29T13:35:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -20879,6 +20885,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-AustrianPatientSummary-R4/branches/main/package.tgz"
   },
+  "hl7.at.fhir.elga.core.r4": {
+    "name": "hl7.at.fhir.elga.core.r4",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-Core-R4/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-Core-R4",
+        "branch": "main",
+        "lastSeen": "2026-04-29T13:08:13.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Austria/ELGA-Core-R4/branches/main/package.tgz"
+  },
   "hl7.at.fhir.elga.ediag.r4": {
     "name": "hl7.at.fhir.elga.ediag.r4",
     "locations": [
@@ -20886,7 +20904,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-04-23T05:42:05.000Z"
+        "lastSeen": "2026-04-29T14:08:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -28248,7 +28266,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "release-candidate",
-        "lastSeen": "2026-04-28T09:57:03.000Z"
+        "lastSeen": "2026-04-29T13:10:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ec-ehealth/childrecord/branches/release-candidate/package.tgz",
@@ -43674,7 +43692,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2026-04-23T15:19:56.000Z"
+        "lastSeen": "2026-04-29T13:42:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -43885,6 +43903,12 @@
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "add-devicerequest",
         "lastSeen": "2026-04-10T15:50:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/device-request/package.tgz",
+        "repo": "https://github.com/HL7/fhir-pacio-pfe",
+        "branch": "device-request",
+        "lastSeen": "2026-04-29T13:41:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -60541,6 +60565,12 @@
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "106-pc-logical-models-occasionally-refer-to-fhir-resources-instead-of-models",
         "lastSeen": "2026-04-23T13:35:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/108-pc-is-pharm-5-already-defined/package.tgz",
+        "repo": "https://github.com/IHE/pharm-mpd",
+        "branch": "108-pc-is-pharm-5-already-defined",
+        "lastSeen": "2026-04-29T13:35:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz"
