@@ -12174,7 +12174,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-04-28T07:20:03.000Z"
+        "lastSeen": "2026-04-29T07:26:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -12366,7 +12366,13 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3-SNAPSHOT",
-        "lastSeen": "2026-04-28T07:21:13.000Z"
+        "lastSeen": "2026-04-29T07:27:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/poa-privilege/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "poa-privilege",
+        "lastSeen": "2026-04-29T07:51:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13356,7 +13362,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2026-04-29T07:12:07.000Z"
+        "lastSeen": "2026-04-29T07:28:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
@@ -13596,13 +13602,13 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/add-custom-artifacts-page/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "add-custom-artifacts-page",
-        "lastSeen": "2026-04-15T15:04:15.000Z"
+        "lastSeen": "2026-04-29T07:51:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/736-Diagramme-reparieren/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "736-Diagramme-reparieren",
-        "lastSeen": "2026-04-27T13:01:37.000Z"
+        "lastSeen": "2026-04-29T07:25:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/377-Definiere-Alias-für-systems-von-Identifiers/package.tgz",
@@ -13626,7 +13632,13 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/833Aenderung-Modellierung-Statusmaschine-bei-abrechnen/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "833Aenderung-Modellierung-Statusmaschine-bei-abrechnen",
-        "lastSeen": "2026-04-27T13:45:11.000Z"
+        "lastSeen": "2026-04-29T07:32:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/815-KH-soll-KA-genannt-werden/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "815-KH-soll-KA-genannt-werden",
+        "lastSeen": "2026-04-29T07:41:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -16650,13 +16662,19 @@
         "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/master/package.tgz",
         "repo": "https://github.com/vadi2/snomed-procedure-ichi",
         "branch": "master",
-        "lastSeen": "2026-04-29T06:51:53.000Z"
+        "lastSeen": "2026-04-29T07:31:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/fix-index-link/package.tgz",
         "repo": "https://github.com/vadi2/snomed-procedure-ichi",
         "branch": "fix-index-link",
         "lastSeen": "2026-04-29T06:50:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/help-wanted/package.tgz",
+        "repo": "https://github.com/vadi2/snomed-procedure-ichi",
+        "branch": "help-wanted",
+        "lastSeen": "2026-04-29T07:30:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -61176,7 +61194,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-131-questionnaire-specialty/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issue-131-questionnaire-specialty",
-        "lastSeen": "2026-04-27T15:59:16.000Z"
+        "lastSeen": "2026-04-29T07:39:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -64087,6 +64105,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "EKG_formatCode",
         "lastSeen": "2026-04-29T06:59:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/2.0.2/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-document",
+        "branch": "2.0.2",
+        "lastSeen": "2026-04-29T08:19:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
