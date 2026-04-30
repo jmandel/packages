@@ -16674,7 +16674,7 @@
         "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/master/package.tgz",
         "repo": "https://github.com/vadi2/snomed-procedure-ichi",
         "branch": "master",
-        "lastSeen": "2026-04-30T05:11:03.000Z"
+        "lastSeen": "2026-04-30T05:40:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/vadi2/snomed-procedure-ichi/branches/fix-index-link/package.tgz",
@@ -18462,7 +18462,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-04-30T05:12:58.000Z"
+        "lastSeen": "2026-04-30T05:33:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -19032,7 +19032,7 @@
         "url": "https://build.fhir.org/ig/ph-ereferral-organization/ph-ereferral/branches/main/package.tgz",
         "repo": "https://github.com/ph-ereferral-organization/ph-ereferral",
         "branch": "main",
-        "lastSeen": "2026-04-28T07:04:48.000Z"
+        "lastSeen": "2026-04-30T07:25:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/feature-14-sushi-ci-validation/package.tgz",
@@ -19183,6 +19183,12 @@
         "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
         "branch": "issue-35-eref-condition-profile",
         "lastSeen": "2026-04-30T04:25:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/lesterbatayan/ph-ereferral/branches/ci-pr-77/package.tgz",
+        "repo": "https://github.com/lesterbatayan/ph-ereferral",
+        "branch": "ci-pr-77",
+        "lastSeen": "2026-04-30T07:01:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -20455,6 +20461,24 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "149-replace-austrian-extension-for-religion-with-the-international-one",
         "lastSeen": "2025-11-21T08:08:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/157-add-vbpk-as-patientidentifier/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "157-add-vbpk-as-patientidentifier",
+        "lastSeen": "2026-04-30T06:57:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/152-change-canonical-url-of-ig/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "152-change-canonical-url-of-ig",
+        "lastSeen": "2026-04-30T06:47:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/128-dead-link---landing-page/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "128-dead-link---landing-page",
+        "lastSeen": "2026-04-30T06:36:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -20683,6 +20707,24 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "815-kh-zu-ka",
         "lastSeen": "2026-04-22T07:18:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/75-change-canonical-url-of-ig/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "75-change-canonical-url-of-ig",
+        "lastSeen": "2026-04-30T06:52:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/82-dead-link---landing-page/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "82-dead-link---landing-page",
+        "lastSeen": "2026-04-30T06:38:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/81-add-vbpk-as-patientidentifier/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "81-add-vbpk-as-patientidentifier",
+        "lastSeen": "2026-04-30T06:58:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -66888,7 +66930,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/ChickenHarmony/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-connect",
         "branch": "ChickenHarmony",
-        "lastSeen": "2026-04-29T12:53:20.000Z"
+        "lastSeen": "2026-04-30T07:14:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-connect/branches/main/package.tgz"
@@ -71976,7 +72018,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-04-27T12:06:32.000Z"
+        "lastSeen": "2026-04-30T06:52:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -72259,6 +72301,24 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "expand-observation-codes-snomed",
         "lastSeen": "2026-04-13T14:44:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/0.5.0/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "0.5.0",
+        "lastSeen": "2026-04-30T06:30:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/release-0.5.0/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "release-0.5.0",
+        "lastSeen": "2026-04-30T06:05:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-0.5.0-to-package-feed/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-0.5.0-to-package-feed",
+        "lastSeen": "2026-04-30T06:32:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
