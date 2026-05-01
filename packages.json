@@ -15714,7 +15714,7 @@
         "url": "https://build.fhir.org/ig/security-rs/opioid-cds-r4/branches/valueset-qa/package.tgz",
         "repo": "https://github.com/security-rs/opioid-cds-r4",
         "branch": "valueset-qa",
-        "lastSeen": "2026-04-30T20:00:42.000Z"
+        "lastSeen": "2026-05-01T17:25:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/opioid-cds-r4/branches/master/package.tgz"
@@ -44755,6 +44755,12 @@
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "FHIR-52428-dd-changes",
         "lastSeen": "2025-12-26T17:07:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/dd-8.0.0-publication-updates-1/package.tgz",
+        "repo": "https://github.com/HL7/fhir-qi-core",
+        "branch": "dd-8.0.0-publication-updates-1",
+        "lastSeen": "2026-05-01T16:43:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
@@ -49590,7 +49596,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-04-30T18:30:56.000Z"
+        "lastSeen": "2026-05-01T16:45:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
