@@ -37476,7 +37476,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.r4.sv/branches/main/package.tgz",
         "repo": "https://github.com/HL7Sweden/hl7.fhir.r4.sv",
         "branch": "main",
-        "lastSeen": "2025-02-24T17:25:41.000Z"
+        "lastSeen": "2026-05-03T13:38:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.r4.sv/branches/1-add-se_template/package.tgz",
@@ -58045,6 +58045,12 @@
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "r5-test",
         "lastSeen": "2025-10-16T11:54:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/r5/package.tgz",
+        "repo": "https://github.com/HL7Sweden/basprofiler-r4",
+        "branch": "r5",
+        "lastSeen": "2026-05-03T14:02:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
