@@ -18541,6 +18541,12 @@
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "cql-informational-note",
         "lastSeen": "2026-04-23T22:30:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/fqm-294-qa-warning/package.tgz",
+        "repo": "https://github.com/FHIR/us-quality-core",
+        "branch": "fqm-294-qa-warning",
+        "lastSeen": "2026-05-04T22:15:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/onc/package.tgz"
@@ -21822,7 +21828,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2026-04-14T23:22:11.000Z"
+        "lastSeen": "2026-05-04T21:46:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/addr-test/package.tgz",
@@ -34962,7 +34968,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/mpd",
         "branch": "master",
-        "lastSeen": "2026-05-04T17:28:45.000Z"
+        "lastSeen": "2026-05-04T22:17:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/mpd/branches/r4-giorgio/package.tgz",
@@ -35100,7 +35106,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/mpd-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/mpd-r5",
         "branch": "master",
-        "lastSeen": "2026-05-04T17:33:48.000Z"
+        "lastSeen": "2026-05-04T22:23:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/mpd-r5/branches/liquid-multiversion/package.tgz",
@@ -68866,6 +68872,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-emcare/branches/main/package.tgz"
+  },
+  "smart.who.int.cxca": {
+    "name": "smart.who.int.cxca",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/dhes/smart-dak-cxca/branches/main/package.tgz",
+        "repo": "https://github.com/dhes/smart-dak-cxca",
+        "branch": "main",
+        "lastSeen": "2026-05-04T22:39:40.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/dhes/smart-dak-cxca/branches/main/package.tgz"
   },
   "smart.who.int.dak-SMBP": {
     "name": "smart.who.int.dak-SMBP",
