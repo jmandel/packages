@@ -937,6 +937,12 @@
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "nr-fix-editorial",
         "lastSeen": "2026-04-28T09:01:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/nr-has-posologie-link/package.tgz",
+        "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
+        "branch": "nr-has-posologie-link",
+        "lastSeen": "2026-05-04T11:56:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/CorrectionExemplesHAS/package.tgz"
@@ -3234,7 +3240,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-04-29T15:50:44.000Z"
+        "lastSeen": "2026-05-04T11:24:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -12378,13 +12384,19 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3-SNAPSHOT",
-        "lastSeen": "2026-05-04T09:13:23.000Z"
+        "lastSeen": "2026-05-04T11:48:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/poa-privilege/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "poa-privilege",
         "lastSeen": "2026-04-29T07:51:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/update-capability-statement-page/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "update-capability-statement-page",
+        "lastSeen": "2026-05-04T11:46:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -55626,7 +55638,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-2026-03-quantity-preview/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "BP-2026-03-quantity-preview",
-        "lastSeen": "2026-05-04T09:05:37.000Z"
+        "lastSeen": "2026-05-04T11:40:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
@@ -60342,7 +60354,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/April26/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "April26",
-        "lastSeen": "2026-05-04T11:11:10.000Z"
+        "lastSeen": "2026-05-04T12:08:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
