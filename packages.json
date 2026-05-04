@@ -11970,7 +11970,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ehealth-carecommunication/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ehealth-carecommunication",
-        "lastSeen": "2026-05-04T07:46:22.000Z"
+        "lastSeen": "2026-05-04T09:07:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21528-update-new-valuesets/package.tgz",
@@ -23242,6 +23242,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-affiliate/branches/master/package.tgz"
+  },
+  "hl7.fhir.at.elga-labor": {
+    "name": "hl7.fhir.at.elga-labor",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/gabriel0316/test-laboratory/branches/master/package.tgz",
+        "repo": "https://github.com/gabriel0316/test-laboratory",
+        "branch": "master",
+        "lastSeen": "2026-05-04T08:38:39.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/gabriel0316/test-laboratory/branches/master/package.tgz"
   },
   "hl7.fhir.au.base": {
     "name": "hl7.fhir.au.base",
@@ -34908,7 +34920,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "2.0.0",
-        "lastSeen": "2026-05-04T06:53:16.000Z"
+        "lastSeen": "2026-05-04T09:07:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -55614,7 +55626,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-2026-03-quantity-preview/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "BP-2026-03-quantity-preview",
-        "lastSeen": "2026-05-04T06:49:57.000Z"
+        "lastSeen": "2026-05-04T09:05:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
@@ -67225,6 +67237,12 @@
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "ChickenHarmony",
         "lastSeen": "2026-04-28T09:20:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/appointmentIdentifiers/package.tgz",
+        "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
+        "branch": "appointmentIdentifiers",
+        "lastSeen": "2026-05-04T08:59:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/initial-setup/package.tgz"
