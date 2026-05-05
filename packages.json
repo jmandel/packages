@@ -7698,7 +7698,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "master",
-        "lastSeen": "2026-04-29T11:26:44.000Z"
+        "lastSeen": "2026-05-05T07:56:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/ballot_310_stu4_issues/package.tgz",
@@ -8226,7 +8226,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/396-typo-in-use-case-14/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "396-typo-in-use-case-14",
-        "lastSeen": "2026-05-04T06:36:41.000Z"
+        "lastSeen": "2026-05-05T07:56:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -13398,7 +13398,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2026-04-29T09:14:10.000Z"
+        "lastSeen": "2026-05-05T07:21:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
@@ -18391,6 +18391,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "align-deziusercredential-with-impl",
         "lastSeen": "2026-04-30T08:47:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/split-notification-and-workflow-page/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "split-notification-and-workflow-page",
+        "lastSeen": "2026-05-05T07:44:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -19267,6 +19273,12 @@
         "repo": "https://github.com/lesterbatayan/ph-ereferral",
         "branch": "test-d88cf26",
         "lastSeen": "2026-05-04T07:27:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/resolve-pr77-qa-errors/package.tgz",
+        "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
+        "branch": "resolve-pr77-qa-errors",
+        "lastSeen": "2026-05-05T08:19:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -28345,6 +28357,12 @@
         "repo": "https://github.com/hl7-be/allergy",
         "branch": "issue-127",
         "lastSeen": "2025-07-02T12:11:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/allergy/branches/may-updates/package.tgz",
+        "repo": "https://github.com/hl7-be/allergy",
+        "branch": "may-updates",
+        "lastSeen": "2026-05-05T07:57:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/allergy/branches/issue-100/package.tgz"
@@ -33660,7 +33678,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-05-04T09:29:52.000Z"
+        "lastSeen": "2026-05-05T07:17:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -58182,7 +58200,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.r4.ig.medicalalertinformation/branches/develop/package.tgz",
         "repo": "https://github.com/HL7Sweden/hl7.fhir.r4.ig.medicalalertinformation",
         "branch": "develop",
-        "lastSeen": "2026-05-02T11:16:21.000Z"
+        "lastSeen": "2026-05-05T08:14:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.r4.ig.medicalalertinformation/branches/develop/package.tgz"

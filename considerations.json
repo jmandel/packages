@@ -312,6 +312,14 @@
     }
   },
   {
+    "name": "hl7.fhir.be.allergy",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/allergy/branches/may-updates/package.tgz",
+      "repo": "https://github.com/hl7-be/allergy",
+      "branch": "may-updates"
+    }
+  },
+  {
     "name": "hl7.fhir.be.childreport",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/master/package.tgz",
