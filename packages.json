@@ -12414,7 +12414,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0281/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0281",
-        "lastSeen": "2026-05-05T11:27:14.000Z"
+        "lastSeen": "2026-05-05T12:01:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -12660,7 +12660,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/ehmiTerm/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "ehmiTerm",
-        "lastSeen": "2026-05-05T11:52:25.000Z"
+        "lastSeen": "2026-05-05T12:12:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -34878,7 +34878,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2026-05-04T10:56:10.000Z"
+        "lastSeen": "2026-05-05T12:30:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -35022,7 +35022,13 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "2.0.0",
-        "lastSeen": "2026-05-04T10:51:52.000Z"
+        "lastSeen": "2026-05-05T12:32:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/fix-invariant/package.tgz",
+        "repo": "https://github.com/hl7-eu/laboratory",
+        "branch": "fix-invariant",
+        "lastSeen": "2026-05-05T12:23:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -37128,7 +37134,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-04-22T08:21:37.000Z"
+        "lastSeen": "2026-05-05T12:11:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
