@@ -13211,6 +13211,18 @@
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/TerminologyServices/branches/master/package.tgz"
   },
+  "ee.fhir.vris": {
+    "name": "ee.fhir.vris",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
+        "branch": "main",
+        "lastSeen": "2026-05-05T09:07:01.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
+  },
   "ehalsomyndigheten.se.katalog": {
     "name": "ehalsomyndigheten.se.katalog",
     "locations": [
@@ -13681,6 +13693,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "698AnzahlBeurlaubungen-und-AnzahlVerlegungen-entfernen",
         "lastSeen": "2026-04-29T14:34:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/563-Moped-Profil-für-Patient-bPKs-einfuegen/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "563-Moped-Profil-für-Patient-bPKs-einfuegen",
+        "lastSeen": "2026-05-05T08:49:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -17465,6 +17483,24 @@
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-LabOrder-IG/branches/main/package.tgz"
   },
+  "fhir.kh.camdheaig": {
+    "name": "fhir.kh.camdheaig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/daviemukungi/CambodiaFHIRIG/branches/nonTechnicalPages/package.tgz",
+        "repo": "https://github.com/daviemukungi/CambodiaFHIRIG",
+        "branch": "nonTechnicalPages",
+        "lastSeen": "2026-05-05T08:50:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/daviemukungi/CambodiaFHIRIG/branches/main/package.tgz",
+        "repo": "https://github.com/daviemukungi/CambodiaFHIRIG",
+        "branch": "main",
+        "lastSeen": "2026-05-05T08:50:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/daviemukungi/CambodiaFHIRIG/branches/main/package.tgz"
+  },
   "fhir.kisumuhie": {
     "name": "fhir.kisumuhie",
     "locations": [
@@ -19170,7 +19206,7 @@
         "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/main/package.tgz",
         "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
         "branch": "main",
-        "lastSeen": "2026-04-22T02:33:19.000Z"
+        "lastSeen": "2026-05-05T08:22:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/codex-issue-33-eref-related-person/package.tgz",
@@ -21078,7 +21114,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-04-29T14:08:49.000Z"
+        "lastSeen": "2026-05-05T08:50:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -28998,7 +29034,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/device/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "device",
-        "lastSeen": "2026-04-29T10:42:10.000Z"
+        "lastSeen": "2026-05-05T08:39:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -71910,7 +71946,7 @@
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/main/package.tgz",
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "main",
-        "lastSeen": "2026-04-02T06:34:31.000Z"
+        "lastSeen": "2026-05-05T08:29:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/poc-extensions/package.tgz",
@@ -71941,6 +71977,12 @@
         "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
         "branch": "260323-update-examples",
         "lastSeen": "2026-03-24T11:46:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/removeRatioForReferenceStrength/package.tgz",
+        "repo": "https://github.com/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service",
+        "branch": "removeRatioForReferenceStrength",
+        "lastSeen": "2026-05-05T08:23:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Uppsala-Monitoring-Centre/WHO-UMC-IDMP-Service/branches/update-to-umcterminologies/package.tgz"
