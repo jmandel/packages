@@ -3246,7 +3246,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/432-foph-indicationcode/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "432-foph-indicationcode",
-        "lastSeen": "2026-05-06T08:42:06.000Z"
+        "lastSeen": "2026-05-06T12:17:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -27618,7 +27618,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-04-29T06:04:59.000Z"
+        "lastSeen": "2026-05-06T12:25:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -28381,6 +28381,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_suppress-qa",
         "lastSeen": "2026-04-28T23:02:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_FHIR-53114/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_FHIR-53114",
+        "lastSeen": "2026-05-06T12:24:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -29172,7 +29178,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/radiology-pss/package.tgz",
         "repo": "https://github.com/hl7-be/referral-uhmep",
         "branch": "radiology-pss",
-        "lastSeen": "2026-04-18T07:38:21.000Z"
+        "lastSeen": "2026-05-06T13:08:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-qa-fix/package.tgz"
@@ -54000,13 +54006,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "master",
-        "lastSeen": "2026-04-14T12:14:22.000Z"
+        "lastSeen": "2026-05-06T13:02:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "main",
-        "lastSeen": "2025-10-29T17:37:08.000Z"
+        "lastSeen": "2026-05-06T13:03:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/FHIR-35713/package.tgz",
@@ -61410,7 +61416,7 @@
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "master",
-        "lastSeen": "2026-04-30T08:57:29.000Z"
+        "lastSeen": "2026-05-06T12:56:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/call20260402/package.tgz",
