@@ -480,13 +480,13 @@
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/main/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/demo-fhir-data",
         "branch": "main",
-        "lastSeen": "2026-05-06T14:17:51.000Z"
+        "lastSeen": "2026-05-06T14:57:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/encounters/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/demo-fhir-data",
         "branch": "encounters",
-        "lastSeen": "2026-05-01T21:48:47.000Z"
+        "lastSeen": "2026-05-06T15:04:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/consents/package.tgz",
@@ -53718,7 +53718,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/FHIR-R6/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "FHIR-R6",
-        "lastSeen": "2026-05-06T11:49:33.000Z"
+        "lastSeen": "2026-05-06T14:42:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/2.0.0/package.tgz",
@@ -54018,13 +54018,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "master",
-        "lastSeen": "2026-05-06T14:08:22.000Z"
+        "lastSeen": "2026-05-06T14:34:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "main",
-        "lastSeen": "2026-05-06T14:21:05.000Z"
+        "lastSeen": "2026-05-06T14:39:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/FHIR-35713/package.tgz",
@@ -54049,6 +54049,12 @@
         "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
         "branch": "stu1-publication",
         "lastSeen": "2025-04-15T14:00:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-radiation-dose-summary-ig",
+        "branch": "1.0.0",
+        "lastSeen": "2026-05-06T14:57:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-radiation-dose-summary-ig/branches/master/package.tgz"
