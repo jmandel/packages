@@ -18696,7 +18696,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/feature-NZHTS-Terminology/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "feature-NZHTS-Terminology",
-        "lastSeen": "2026-04-23T22:26:41.000Z"
+        "lastSeen": "2026-05-06T01:11:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/encounter-profile/package.tgz",
@@ -19345,6 +19345,12 @@
         "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
         "branch": "resolve-pr77-qa-errors",
         "lastSeen": "2026-05-05T08:19:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-93-logical-information-model/package.tgz",
+        "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
+        "branch": "issue-93-logical-information-model",
+        "lastSeen": "2026-05-06T02:23:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -69018,7 +69024,7 @@
         "url": "https://build.fhir.org/ig/dhes/smart-dak-cxca/branches/main/package.tgz",
         "repo": "https://github.com/dhes/smart-dak-cxca",
         "branch": "main",
-        "lastSeen": "2026-05-06T00:50:26.000Z"
+        "lastSeen": "2026-05-06T01:09:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/dhes/smart-dak-cxca/branches/main/package.tgz"
