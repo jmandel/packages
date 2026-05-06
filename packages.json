@@ -18654,7 +18654,7 @@
         "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/fqm-271-improve-examples/package.tgz",
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "fqm-271-improve-examples",
-        "lastSeen": "2026-05-06T19:22:23.000Z"
+        "lastSeen": "2026-05-06T20:46:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/onc/package.tgz"
@@ -24367,6 +24367,12 @@
         "repo": "https://github.com/AuDigitalHealth/au-fhir-base",
         "branch": "cr_FHIR-56101_new-Identifier-type-code-for-HSP-O",
         "lastSeen": "2026-04-23T01:11:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_MedStat-binding/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "ft_MedStat-binding",
+        "lastSeen": "2026-05-06T21:01:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -26221,6 +26227,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "r3-composition",
         "lastSeen": "2026-04-17T03:05:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_no-known-meds/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_no-known-meds",
+        "lastSeen": "2026-05-06T21:38:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -28068,7 +28080,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_no-known-meds/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_no-known-meds",
-        "lastSeen": "2025-11-17T05:18:46.000Z"
+        "lastSeen": "2026-05-06T21:41:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_suppressed-data/package.tgz",
@@ -40848,7 +40860,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pas",
         "branch": "master",
-        "lastSeen": "2026-05-06T17:33:18.000Z"
+        "lastSeen": "2026-05-06T20:24:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pas/branches/2023-Connectathon/package.tgz",
