@@ -3241,6 +3241,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "430-ch-core-immunization-immunsera-codes",
         "lastSeen": "2026-05-06T04:39:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/432-foph-indicationcode/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "432-foph-indicationcode",
+        "lastSeen": "2026-05-06T08:42:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -13254,7 +13260,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-05-06T07:06:18.000Z"
+        "lastSeen": "2026-05-06T08:58:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -32850,7 +32856,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "Fix-issues",
-        "lastSeen": "2026-05-06T06:38:18.000Z"
+        "lastSeen": "2026-05-06T08:15:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/ZP-20-Uprava-dle-HL7-EU-Imaging/package.tgz",
@@ -32904,7 +32910,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-04-09T10:05:46.000Z"
+        "lastSeen": "2026-05-06T08:44:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -33756,7 +33762,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-05-06T07:11:13.000Z"
+        "lastSeen": "2026-05-06T07:58:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz"
@@ -63582,7 +63588,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0-rc.2.0.0/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "2.0-rc.2.0.0",
-        "lastSeen": "2026-05-06T07:25:27.000Z"
+        "lastSeen": "2026-05-06T08:45:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz"
