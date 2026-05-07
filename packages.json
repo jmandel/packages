@@ -41946,7 +41946,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/stu3/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "stu3",
-        "lastSeen": "2026-04-17T18:35:37.000Z"
+        "lastSeen": "2026-05-07T17:41:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz"
@@ -57030,7 +57030,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-584-Change-the-StateChangeReason-CodeSystem-terms-for-ResearchSubject",
-        "lastSeen": "2025-08-18T20:48:38.000Z"
+        "lastSeen": "2026-05-07T16:43:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-585-Change-the-ResearchSubjectState-CodeSystem-terms-for-ResearchSubject/package.tgz",
@@ -57529,6 +57529,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-792-Add-ResearchStudyPurposeType-CodeSystem-and-ValueSet",
         "lastSeen": "2026-04-27T14:46:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-797-Create-evidence-variable-constraint-CodeSystem-and-ValueSet/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-797-Create-evidence-variable-constraint-CodeSystem-and-ValueSet",
+        "lastSeen": "2026-05-07T16:47:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
