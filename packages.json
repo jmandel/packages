@@ -10344,7 +10344,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "master",
-        "lastSeen": "2026-04-20T15:37:09.000Z"
+        "lastSeen": "2026-05-07T11:58:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/fix-med-search-param-part-of/package.tgz",
@@ -10483,6 +10483,12 @@
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
         "branch": "search-param-tests",
         "lastSeen": "2026-04-20T15:33:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/simplifier-link-script/package.tgz",
+        "repo": "https://github.com/medizininformatik-initiative/kerndatensatz-meta",
+        "branch": "simplifier-link-script",
+        "lastSeen": "2026-05-07T11:49:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatz-meta/branches/master/package.tgz"
@@ -12457,6 +12463,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-22806-ccr0303-s1-extend-device",
         "lastSeen": "2026-05-06T15:24:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0303-S1/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "CCR0303-S1",
+        "lastSeen": "2026-05-07T11:37:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -32736,7 +32748,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2026-05-07T10:24:32.000Z"
+        "lastSeen": "2026-05-07T11:22:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -64830,7 +64842,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKG-v.2.0-test-examples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "EKG-v.2.0-test-examples",
-        "lastSeen": "2026-05-04T10:43:19.000Z"
+        "lastSeen": "2026-05-07T11:42:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/SGA-ECG-2025-11/package.tgz"
@@ -72588,7 +72600,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-05-07T07:47:25.000Z"
+        "lastSeen": "2026-05-07T11:43:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
