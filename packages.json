@@ -1320,7 +1320,7 @@
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-03-24T16:01:58.000Z"
+        "lastSeen": "2026-05-07T14:57:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/clarify-ig-scope/package.tgz",
@@ -1356,7 +1356,7 @@
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/workflow/package.tgz",
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "workflow",
-        "lastSeen": "2026-04-16T17:35:28.000Z"
+        "lastSeen": "2026-05-07T15:07:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-remove-test/package.tgz"
@@ -33870,7 +33870,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-05-07T13:45:04.000Z"
+        "lastSeen": "2026-05-07T14:21:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -33883,6 +33883,12 @@
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "1.0.0-xtehr",
         "lastSeen": "2026-02-23T15:01:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/gestational-age-in-days/package.tgz",
+        "repo": "https://github.com/hl7-eu/eps",
+        "branch": "gestational-age-in-days",
+        "lastSeen": "2026-05-07T14:19:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz"
@@ -37242,7 +37248,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-05-07T13:40:51.000Z"
+        "lastSeen": "2026-05-07T15:04:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -50142,7 +50148,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2026-05-06T15:13:20.000Z"
+        "lastSeen": "2026-05-07T14:20:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -61008,7 +61014,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/master/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "master",
-        "lastSeen": "2026-05-04T20:06:25.000Z"
+        "lastSeen": "2026-05-07T14:47:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/models/package.tgz",
@@ -61104,7 +61110,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/100-pc-pharm-7-copy-paste-error-in-text/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "100-pc-pharm-7-copy-paste-error-in-text",
-        "lastSeen": "2026-04-22T17:03:54.000Z"
+        "lastSeen": "2026-05-07T15:20:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/98-pc-clarify-the-transaction-pharm-5/package.tgz",
@@ -61116,7 +61122,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/96-pc-order-changes-add-non-prescribing-health-professional-as-an-order-changer/package.tgz",
         "repo": "https://github.com/IHE/pharm-mpd",
         "branch": "96-pc-order-changes-add-non-prescribing-health-professional-as-an-order-changer",
-        "lastSeen": "2026-04-23T11:54:01.000Z"
+        "lastSeen": "2026-05-07T14:47:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-mpd/branches/106-pc-logical-models-occasionally-refer-to-fhir-resources-instead-of-models/package.tgz",
@@ -75067,6 +75073,12 @@
         "repo": "https://github.com/Xt-EHR/xt-ehr-common",
         "branch": "calibrator-fix",
         "lastSeen": "2026-03-29T16:46:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/main/package.tgz",
+        "repo": "https://github.com/EEHRxF/logical-model",
+        "branch": "main",
+        "lastSeen": "2026-05-07T15:23:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
