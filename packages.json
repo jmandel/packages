@@ -12486,7 +12486,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0303/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0303",
-        "lastSeen": "2026-05-08T07:48:02.000Z"
+        "lastSeen": "2026-05-08T09:00:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -18637,6 +18637,18 @@
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "edwin-consent",
         "lastSeen": "2026-05-08T08:36:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/pliot-releases/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "pliot-releases",
+        "lastSeen": "2026-05-08T09:50:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/volume3_match/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "volume3_match",
+        "lastSeen": "2026-05-08T09:52:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz"
@@ -33912,7 +33924,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-05-08T08:09:42.000Z"
+        "lastSeen": "2026-05-08T09:24:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -34980,7 +34992,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/lmm-test/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "lmm-test",
-        "lastSeen": "2026-05-08T09:03:55.000Z"
+        "lastSeen": "2026-05-08T09:31:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -75144,7 +75156,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/main/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "main",
-        "lastSeen": "2026-05-07T16:03:29.000Z"
+        "lastSeen": "2026-05-08T09:43:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
