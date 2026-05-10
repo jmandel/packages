@@ -29275,6 +29275,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "device",
         "lastSeen": "2026-05-10T08:40:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/diabetes2/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "diabetes2",
+        "lastSeen": "2026-05-10T20:57:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -53826,7 +53832,7 @@
         "url": "https://build.fhir.org/ig/HL7/PDDI-CDS/branches/master/package.tgz",
         "repo": "https://github.com/HL7/PDDI-CDS",
         "branch": "master",
-        "lastSeen": "2026-05-08T22:42:41.000Z"
+        "lastSeen": "2026-05-10T21:33:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/PDDI-CDS/branches/master/package.tgz"
