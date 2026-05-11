@@ -7675,6 +7675,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "153-new-vaccinecodes-designations",
         "lastSeen": "2026-05-08T06:00:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/167-remove-designations-ch-vacd-vs/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "167-remove-designations-ch-vacd-vs",
+        "lastSeen": "2026-05-11T12:39:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -11298,7 +11304,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/jkiddo-patch-1/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "jkiddo-patch-1",
-        "lastSeen": "2026-05-11T10:02:25.000Z"
+        "lastSeen": "2026-05-11T12:32:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-17457_CCR0232_feature/package.tgz",
@@ -12474,7 +12480,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3-SNAPSHOT",
-        "lastSeen": "2026-05-11T06:06:46.000Z"
+        "lastSeen": "2026-05-11T13:03:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/poa-privilege/package.tgz",
@@ -12523,6 +12529,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "fix-carecommunication-profile",
         "lastSeen": "2026-05-11T06:05:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/various-fixes-for-carecommunication/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "various-fixes-for-carecommunication",
+        "lastSeen": "2026-05-11T13:02:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13182,7 +13194,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-pet/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-pet",
         "branch": "main",
-        "lastSeen": "2026-05-05T11:04:03.000Z"
+        "lastSeen": "2026-05-11T11:41:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-pet/branches/main/package.tgz"
@@ -13338,7 +13350,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-05-11T10:47:35.000Z"
+        "lastSeen": "2026-05-11T13:07:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -14334,7 +14346,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/main/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "main",
-        "lastSeen": "2026-05-08T15:49:22.000Z"
+        "lastSeen": "2026-05-11T12:28:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/add-tables/package.tgz",
@@ -14346,7 +14358,7 @@
         "url": "https://build.fhir.org/ig/danka74/logical-model/branches/main/package.tgz",
         "repo": "https://github.com/danka74/logical-model",
         "branch": "main",
-        "lastSeen": "2026-05-10T20:48:04.000Z"
+        "lastSeen": "2026-05-11T13:27:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -32874,7 +32886,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2026-04-16T09:29:29.000Z"
+        "lastSeen": "2026-05-11T11:27:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
@@ -32946,7 +32958,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2026-05-11T10:24:31.000Z"
+        "lastSeen": "2026-05-11T12:55:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -33132,7 +33144,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "master",
-        "lastSeen": "2026-05-07T06:12:55.000Z"
+        "lastSeen": "2026-05-11T11:42:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
@@ -33270,7 +33282,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/develop/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "develop",
-        "lastSeen": "2026-05-10T22:06:10.000Z"
+        "lastSeen": "2026-05-11T11:59:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz"
@@ -34627,6 +34639,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "new_master",
         "lastSeen": "2026-04-02T15:23:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/lmm-test/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "lmm-test",
+        "lastSeen": "2026-05-11T12:14:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -35083,6 +35101,18 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "new_master",
         "lastSeen": "2026-04-02T15:23:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-56306/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "FHIR-56306",
+        "lastSeen": "2026-05-11T13:23:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/lmm-test/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "lmm-test",
+        "lastSeen": "2026-05-11T12:15:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -35142,7 +35172,19 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/lmm-test/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "lmm-test",
-        "lastSeen": "2026-05-11T11:17:46.000Z"
+        "lastSeen": "2026-05-11T12:06:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/FHIR-56306/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "FHIR-56306",
+        "lastSeen": "2026-05-11T13:18:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-1.0.0-resolution/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging",
+        "branch": "ballot-1.0.0-resolution",
+        "lastSeen": "2026-05-11T13:21:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -67932,7 +67974,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-04-29T11:16:52.000Z"
+        "lastSeen": "2026-05-11T13:08:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -69067,6 +69109,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "cervical-screening-method",
         "lastSeen": "2026-04-28T10:04:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/additional-vs-performer/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "additional-vs-performer",
+        "lastSeen": "2026-05-11T13:06:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
@@ -75336,13 +75384,19 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "comitology-wg",
-        "lastSeen": "2026-05-07T16:04:14.000Z"
+        "lastSeen": "2026-05-11T13:02:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/danka74/xt-ehr-common/branches/main/package.tgz",
         "repo": "https://github.com/danka74/xt-ehr-common",
         "branch": "main",
         "lastSeen": "2026-05-08T08:21:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/0.3.0/package.tgz",
+        "repo": "https://github.com/EEHRxF/logical-model",
+        "branch": "0.3.0",
+        "lastSeen": "2026-05-11T12:06:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
