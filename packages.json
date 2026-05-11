@@ -894,7 +894,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-add-balmss-spec/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-add-balmss-spec",
-        "lastSeen": "2026-04-30T15:49:06.000Z"
+        "lastSeen": "2026-05-11T06:08:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/nr-update-ms-slices/package.tgz",
@@ -924,7 +924,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-ig-fhir-ePrescription",
         "branch": "main",
-        "lastSeen": "2026-05-10T16:38:53.000Z"
+        "lastSeen": "2026-05-11T06:02:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-ePrescription/branches/DescriptionMetier/package.tgz",
@@ -7344,7 +7344,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2026-04-28T10:19:28.000Z"
+        "lastSeen": "2026-05-11T06:21:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -8292,7 +8292,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/396-typo-in-use-case-14/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "396-typo-in-use-case-14",
-        "lastSeen": "2026-05-05T07:56:05.000Z"
+        "lastSeen": "2026-05-11T06:20:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -12474,7 +12474,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3-SNAPSHOT",
-        "lastSeen": "2026-05-04T11:48:03.000Z"
+        "lastSeen": "2026-05-11T06:06:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/poa-privilege/package.tgz",
@@ -12517,6 +12517,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0303",
         "lastSeen": "2026-05-08T09:00:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/fix-carecommunication-profile/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "fix-carecommunication-profile",
+        "lastSeen": "2026-05-11T06:05:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13332,7 +13338,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-05-07T11:09:47.000Z"
+        "lastSeen": "2026-05-11T06:38:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -28614,7 +28620,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/1.0.0-preview/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "1.0.0-preview",
-        "lastSeen": "2026-05-11T04:58:32.000Z"
+        "lastSeen": "2026-05-11T07:07:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/brettesler-ext-patch-2/package.tgz",
@@ -28626,7 +28632,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/release-1.0.0-preview/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "release-1.0.0-preview",
-        "lastSeen": "2026-05-11T05:41:42.000Z"
+        "lastSeen": "2026-05-11T07:09:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -32940,7 +32946,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2026-05-08T12:13:51.000Z"
+        "lastSeen": "2026-05-11T06:53:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -35130,7 +35136,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/lmm-test/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "lmm-test",
-        "lastSeen": "2026-05-08T13:51:15.000Z"
+        "lastSeen": "2026-05-11T07:35:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -56064,7 +56070,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "master",
-        "lastSeen": "2026-05-11T00:45:09.000Z"
+        "lastSeen": "2026-05-11T07:26:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-2025-ballot-recon/package.tgz",
@@ -72840,7 +72846,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-05-08T10:54:17.000Z"
+        "lastSeen": "2026-05-11T07:10:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -73141,6 +73147,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-0.5.0-to-package-feed",
         "lastSeen": "2026-04-30T06:32:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-procedure/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-procedure",
+        "lastSeen": "2026-05-11T06:13:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
