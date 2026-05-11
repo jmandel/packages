@@ -12498,7 +12498,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0281/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0281",
-        "lastSeen": "2026-05-05T12:01:52.000Z"
+        "lastSeen": "2026-05-11T13:39:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0303/package.tgz",
@@ -12535,6 +12535,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "various-fixes-for-carecommunication",
         "lastSeen": "2026-05-11T13:02:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0281_update_provenance_policy/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "CCR0281_update_provenance_policy",
+        "lastSeen": "2026-05-11T13:37:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -34645,6 +34651,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "lmm-test",
         "lastSeen": "2026-05-11T12:14:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/FHIR-56306/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "FHIR-56306",
+        "lastSeen": "2026-05-11T13:23:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -35184,7 +35196,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-1.0.0-resolution/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "ballot-1.0.0-resolution",
-        "lastSeen": "2026-05-11T13:21:49.000Z"
+        "lastSeen": "2026-05-11T14:04:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -65058,7 +65070,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/EKG_documentReferences/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "EKG_documentReferences",
-        "lastSeen": "2026-05-11T09:19:49.000Z"
+        "lastSeen": "2026-05-11T14:13:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -67974,7 +67986,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-05-11T13:08:58.000Z"
+        "lastSeen": "2026-05-11T14:06:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -69115,6 +69127,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "additional-vs-performer",
         "lastSeen": "2026-05-11T13:06:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/rename-special-clinic-cs/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "rename-special-clinic-cs",
+        "lastSeen": "2026-05-11T14:04:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
