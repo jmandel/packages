@@ -45102,7 +45102,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-QR",
         "branch": "main",
-        "lastSeen": "2026-05-13T02:16:53.000Z"
+        "lastSeen": "2026-05-13T13:05:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz"
@@ -54144,7 +54144,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/FHIR-R6/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "FHIR-R6",
-        "lastSeen": "2026-05-06T15:27:27.000Z"
+        "lastSeen": "2026-05-13T12:38:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/2.0.0/package.tgz",
@@ -62191,6 +62191,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issue132-procedurecode",
         "lastSeen": "2026-05-13T06:46:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue148-Dutch-display/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "issue148-Dutch-display",
+        "lastSeen": "2026-05-13T12:24:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -65160,7 +65166,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/EKG_documentReferences/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "EKG_documentReferences",
-        "lastSeen": "2026-05-13T11:30:21.000Z"
+        "lastSeen": "2026-05-13T12:53:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -65244,7 +65250,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKG-v.2.0-test-examples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "EKG-v.2.0-test-examples",
-        "lastSeen": "2026-05-13T11:59:21.000Z"
+        "lastSeen": "2026-05-13T12:54:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/SGA-ECG-2025-11/package.tgz"
@@ -73345,6 +73351,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "add-procedure",
         "lastSeen": "2026-05-11T06:13:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/rename-services-to-components/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "rename-services-to-components",
+        "lastSeen": "2026-05-13T12:50:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
