@@ -18846,7 +18846,7 @@
         "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-05-11T17:46:44.000Z"
+        "lastSeen": "2026-05-13T20:55:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/cql-informational-note/package.tgz",
@@ -18889,6 +18889,18 @@
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "fqm-304-cs",
         "lastSeen": "2026-05-13T19:38:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/minor-qdm-edit-previous-versions/package.tgz",
+        "repo": "https://github.com/FHIR/us-quality-core",
+        "branch": "minor-qdm-edit-previous-versions",
+        "lastSeen": "2026-05-13T21:32:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/fqm-320-stu-note/package.tgz",
+        "repo": "https://github.com/FHIR/us-quality-core",
+        "branch": "fqm-320-stu-note",
+        "lastSeen": "2026-05-13T21:09:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/onc/package.tgz"
@@ -23730,7 +23742,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-05-11T01:36:50.000Z"
+        "lastSeen": "2026-05-13T21:43:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -45132,7 +45144,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-helios-QR",
         "branch": "main",
-        "lastSeen": "2026-05-13T13:05:46.000Z"
+        "lastSeen": "2026-05-13T21:24:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/us-helios-QR/branches/main/package.tgz"
@@ -60234,7 +60246,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/CP-ITI-MHD-homeCommunityId/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "CP-ITI-MHD-homeCommunityId",
-        "lastSeen": "2026-05-13T20:20:38.000Z"
+        "lastSeen": "2026-05-13T21:14:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/Full-Text-Search/package.tgz",
@@ -60271,6 +60283,12 @@
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "Relaxed_Search_ProfilingR5",
         "lastSeen": "2026-04-21T12:45:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/CP-ITI-MHD-homeCommunityIdR5/package.tgz",
+        "repo": "https://github.com/IHE/ITI.MHD",
+        "branch": "CP-ITI-MHD-homeCommunityIdR5",
+        "lastSeen": "2026-05-13T21:54:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
