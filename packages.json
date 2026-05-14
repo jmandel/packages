@@ -13218,7 +13218,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-pet/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-pet",
         "branch": "main",
-        "lastSeen": "2026-05-11T11:41:29.000Z"
+        "lastSeen": "2026-05-14T07:10:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-pet/branches/main/package.tgz"
@@ -18816,7 +18816,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-05-13T11:27:50.000Z"
+        "lastSeen": "2026-05-14T06:40:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -32808,7 +32808,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "main",
-        "lastSeen": "2026-05-13T10:54:45.000Z"
+        "lastSeen": "2026-05-14T06:55:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
@@ -57973,6 +57973,18 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-797-Create-evidence-variable-constraint-CodeSystem-and-ValueSet",
         "lastSeen": "2026-05-07T16:47:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/recreating-UP-746/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "recreating-UP-746",
+        "lastSeen": "2026-05-14T05:16:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-746-Move-several-terminology-artifacts-related-to-the-DeviceAlert-and-DeviceMetric-resources-from-FHIR-core-to-THO-/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-746-Move-several-terminology-artifacts-related-to-the-DeviceAlert-and-DeviceMetric-resources-from-FHIR-core-to-THO-",
+        "lastSeen": "2026-05-14T06:34:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -61440,7 +61452,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/main/package.tgz",
         "repo": "https://github.com/IHE/pharm-meow",
         "branch": "main",
-        "lastSeen": "2025-06-17T18:37:19.000Z"
+        "lastSeen": "2026-05-14T05:49:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/history/package.tgz",
