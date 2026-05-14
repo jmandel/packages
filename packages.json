@@ -13235,6 +13235,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7EE/ig-ee-base/branches/master/package.tgz"
   },
+  "ee.fhir.encounterepisode": {
+    "name": "ee.fhir.encounterepisode",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-encounter-episode/branches/main/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-encounter-episode",
+        "branch": "main",
+        "lastSeen": "2026-05-14T07:57:54.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-encounter-episode/branches/main/package.tgz"
+  },
   "ee.fhir.hcert": {
     "name": "ee.fhir.hcert",
     "locations": [
@@ -14370,7 +14382,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/main/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "main",
-        "lastSeen": "2026-05-11T21:22:33.000Z"
+        "lastSeen": "2026-05-14T08:10:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/add-tables/package.tgz",
@@ -14388,13 +14400,13 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "comitology-wg",
-        "lastSeen": "2026-05-12T13:54:08.000Z"
+        "lastSeen": "2026-05-14T08:12:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/gh-pages/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "gh-pages",
-        "lastSeen": "2026-05-12T13:57:55.000Z"
+        "lastSeen": "2026-05-14T08:21:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -25980,7 +25992,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-04-29T05:17:41.000Z"
+        "lastSeen": "2026-05-14T07:11:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft-healthcareservice/package.tgz",
@@ -26527,6 +26539,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_no-known-meds",
         "lastSeen": "2026-05-07T05:57:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-core/branches/cr_FHIR-55738_remove-au-core-org-01/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/au-fhir-core",
+        "branch": "cr_FHIR-55738_remove-au-core-org-01",
+        "lastSeen": "2026-05-14T07:10:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -33384,7 +33402,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/ps",
         "branch": "master",
-        "lastSeen": "2026-05-13T07:07:27.000Z"
+        "lastSeen": "2026-05-14T07:49:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/ps/branches/develop/package.tgz",
@@ -57984,7 +58002,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-746-Move-several-terminology-artifacts-related-to-the-DeviceAlert-and-DeviceMetric-resources-from-FHIR-core-to-THO-/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-746-Move-several-terminology-artifacts-related-to-the-DeviceAlert-and-DeviceMetric-resources-from-FHIR-core-to-THO-",
-        "lastSeen": "2026-05-14T06:34:14.000Z"
+        "lastSeen": "2026-05-14T07:37:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -69349,6 +69367,12 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "add-cwc-danger-none",
         "lastSeen": "2026-05-13T12:15:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/medication-valuesets/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "medication-valuesets",
+        "lastSeen": "2026-05-14T08:06:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
