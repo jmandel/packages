@@ -3283,6 +3283,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "432-foph-indicationcode",
         "lastSeen": "2026-05-13T15:38:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/update-deps-terminology-extensions/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "update-deps-terminology-extensions",
+        "lastSeen": "2026-05-18T08:11:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -14424,13 +14430,13 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "comitology-wg",
-        "lastSeen": "2026-05-18T07:58:43.000Z"
+        "lastSeen": "2026-05-18T08:01:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/gh-pages/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "gh-pages",
-        "lastSeen": "2026-05-18T07:46:39.000Z"
+        "lastSeen": "2026-05-18T09:41:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -19482,7 +19488,7 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-qa-errors-303/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "fix-qa-errors-303",
-        "lastSeen": "2026-05-14T10:56:19.000Z"
+        "lastSeen": "2026-05-18T09:32:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -26586,7 +26592,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/r3-composition/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "r3-composition",
-        "lastSeen": "2026-05-13T03:00:03.000Z"
+        "lastSeen": "2026-05-18T08:40:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_no-known-meds/package.tgz",
@@ -30691,6 +30697,12 @@
         "repo": "https://github.com/hl7-be/patient-monitoring",
         "branch": "holter-identifier",
         "lastSeen": "2025-08-11T12:44:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/update-pipelines/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-monitoring",
+        "branch": "update-pipelines",
+        "lastSeen": "2026-05-18T09:40:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/master/package.tgz"
@@ -64993,6 +65005,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.5.0.13-githubpages",
         "lastSeen": "2026-04-21T06:56:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/SKS_updateTestExamples/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "SKS_updateTestExamples",
+        "lastSeen": "2026-05-18T08:26:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -65047,6 +65065,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "SKS_kvaliteteskontrol",
         "lastSeen": "2026-03-18T12:37:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/examplexhanges_SKS/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
+        "branch": "examplexhanges_SKS",
+        "lastSeen": "2026-05-18T08:36:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz"
@@ -67698,7 +67722,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/sqlquery-export/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "sqlquery-export",
-        "lastSeen": "2026-05-17T08:38:57.000Z"
+        "lastSeen": "2026-05-18T08:49:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/intro-update/package.tgz",
@@ -68424,7 +68448,7 @@
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz",
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "main",
-        "lastSeen": "2026-05-13T12:15:59.000Z"
+        "lastSeen": "2026-05-18T09:37:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/refactor-episod-of-care-IG/package.tgz",
@@ -69589,6 +69613,18 @@
         "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
         "branch": "medication-valuesets",
         "lastSeen": "2026-05-14T08:06:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/relax-medication-dispense-destination/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "relax-medication-dispense-destination",
+        "lastSeen": "2026-05-18T09:33:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/prescription-formulations/package.tgz",
+        "repo": "https://github.com/savannahghi/sil_fhir_profile_ig",
+        "branch": "prescription-formulations",
+        "lastSeen": "2026-05-18T08:42:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/savannahghi/sil_fhir_profile_ig/branches/main/package.tgz"
