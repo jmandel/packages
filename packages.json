@@ -7699,6 +7699,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "167-remove-designations-ch-vacd-vs",
         "lastSeen": "2026-05-11T12:39:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/governance-flagging-additions/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "governance-flagging-additions",
+        "lastSeen": "2026-05-19T08:31:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -12595,6 +12601,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ccr0316-paaroerende-videomoede",
         "lastSeen": "2026-05-18T13:54:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/fix-dk-core-3x-inherited-slices/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "fix-dk-core-3x-inherited-slices",
+        "lastSeen": "2026-05-19T09:01:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -22602,7 +22614,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/5.0.0-qa/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "5.0.0-qa",
-        "lastSeen": "2026-03-12T17:24:47.000Z"
+        "lastSeen": "2026-05-19T09:03:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -23016,7 +23028,7 @@
         "url": "https://build.fhir.org/ig/mvdzel/ehrsfm-fhir-r5/branches/master/package.tgz",
         "repo": "https://github.com/mvdzel/ehrsfm-fhir-r5",
         "branch": "master",
-        "lastSeen": "2026-01-29T18:38:40.000Z"
+        "lastSeen": "2026-05-19T09:55:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ehrsfm-ig/branches/master/package.tgz",
@@ -33553,6 +33565,12 @@
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "master",
         "lastSeen": "2026-05-15T09:20:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/FixyProEmaples/package.tgz",
+        "repo": "https://github.com/HL7-cz/k-order",
+        "branch": "FixyProEmaples",
+        "lastSeen": "2026-05-19T08:40:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz"
@@ -37356,7 +37374,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "main",
-        "lastSeen": "2026-01-20T11:03:34.000Z"
+        "lastSeen": "2026-05-19T09:13:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/CorrectionErreur/package.tgz",
@@ -50544,7 +50562,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-05-12T21:21:32.000Z"
+        "lastSeen": "2026-05-19T08:32:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -67752,7 +67770,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "master",
-        "lastSeen": "2026-05-19T05:16:52.000Z"
+        "lastSeen": "2026-05-19T09:35:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/helm-chart/package.tgz",
@@ -67879,6 +67897,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "repeat-updates",
         "lastSeen": "2026-05-19T07:38:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/fix-boundary-datetime-type/package.tgz",
+        "repo": "https://github.com/FHIR/sql-on-fhir-v2",
+        "branch": "fix-boundary-datetime-type",
+        "lastSeen": "2026-05-19T07:54:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
