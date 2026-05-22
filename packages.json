@@ -1338,7 +1338,7 @@
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-05-14T21:10:40.000Z"
+        "lastSeen": "2026-05-22T15:16:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/clarify-ig-scope/package.tgz",
@@ -13945,6 +13945,18 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "fix-patient-reference-bug",
         "lastSeen": "2026-05-15T10:04:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/863-Terminologie-der-Entbindung-durch-KaOrg-Codes-ersetzen/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "863-Terminologie-der-Entbindung-durch-KaOrg-Codes-ersetzen",
+        "lastSeen": "2026-05-22T14:50:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/HL7Austria-naming-conventions/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "HL7Austria-naming-conventions",
+        "lastSeen": "2026-05-22T14:49:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -40236,7 +40248,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2026-05-21T12:11:32.000Z"
+        "lastSeen": "2026-05-22T15:02:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
@@ -63546,7 +63558,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testExclusion/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testExclusion",
         "branch": "main",
-        "lastSeen": "2026-05-22T14:26:11.000Z"
+        "lastSeen": "2026-05-22T14:32:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testExclusion/branches/main/package.tgz"
