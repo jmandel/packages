@@ -46014,7 +46014,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2026-05-15T19:41:17.000Z"
+        "lastSeen": "2026-05-22T13:39:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -63539,6 +63539,18 @@
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testDicom/branches/master/package.tgz"
   },
+  "johnmoehrke.testexclusion.example": {
+    "name": "johnmoehrke.testexclusion.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/testExclusion/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/testExclusion",
+        "branch": "main",
+        "lastSeen": "2026-05-22T14:26:11.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/testExclusion/branches/main/package.tgz"
+  },
   "johnmoehrke.testmed.example": {
     "name": "johnmoehrke.testmed.example",
     "locations": [
@@ -63606,7 +63618,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testVital",
         "branch": "main",
-        "lastSeen": "2026-03-26T16:45:57.000Z"
+        "lastSeen": "2026-05-22T14:10:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/testVital/branches/using-no-profiles/package.tgz",
