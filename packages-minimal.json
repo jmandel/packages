@@ -8512,6 +8512,14 @@
     }
   },
   {
+    "name": "medlistfp-ig",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/medlistfp-ig/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/medlistfp-ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "mh.fhir.smart-immunizations-measles",
     "current": {
       "url": "https://build.fhir.org/ig/mimohuss/mh-smart-immunizations-measles/branches/main/package.tgz",
