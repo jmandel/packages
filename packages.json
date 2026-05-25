@@ -19374,7 +19374,7 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "main",
-        "lastSeen": "2026-05-12T16:42:24.000Z"
+        "lastSeen": "2026-05-25T04:36:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-create-medication-series/package.tgz",
@@ -19627,6 +19627,12 @@
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "308-fr-u-philhealth-id-sample",
         "lastSeen": "2026-05-20T05:50:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-docs-canonical-plantuml-302-309-311/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "fix-docs-canonical-plantuml-302-309-311",
+        "lastSeen": "2026-05-25T04:37:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -19776,7 +19782,7 @@
         "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-80-referral-workflow-state-model/package.tgz",
         "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
         "branch": "issue-80-referral-workflow-state-model",
-        "lastSeen": "2026-05-11T01:24:09.000Z"
+        "lastSeen": "2026-05-25T03:56:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/feature-65-update-fhir2-template/package.tgz",
@@ -26760,7 +26766,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/r3-composition/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "r3-composition",
-        "lastSeen": "2026-05-25T03:42:55.000Z"
+        "lastSeen": "2026-05-25T04:00:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_no-known-meds/package.tgz",
