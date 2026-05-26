@@ -7807,6 +7807,12 @@
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "mr_cs",
         "lastSeen": "2026-05-26T05:44:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/issue46_task_code_remove_clinical_category/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "issue46_task_code_remove_clinical_category",
+        "lastSeen": "2026-05-26T18:51:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -22788,7 +22794,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/5.0.0-qa/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "5.0.0-qa",
-        "lastSeen": "2026-05-19T09:03:14.000Z"
+        "lastSeen": "2026-05-26T17:47:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/CDA-ccda-2.1-sd/branches/master/package.tgz"
@@ -23322,7 +23328,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/gravitate-health",
         "branch": "master",
-        "lastSeen": "2026-01-14T15:21:52.000Z"
+        "lastSeen": "2026-05-26T18:10:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/gravitate-health/branches/op-rework/package.tgz",
