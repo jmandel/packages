@@ -3354,7 +3354,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2026-05-12T15:32:06.000Z"
+        "lastSeen": "2026-05-26T07:52:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -13428,7 +13428,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-03-17T09:13:49.000Z"
+        "lastSeen": "2026-05-26T08:03:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -18943,6 +18943,12 @@
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "volume3_match",
         "lastSeen": "2026-05-08T09:52:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/volume2b-tabel/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "volume2b-tabel",
+        "lastSeen": "2026-05-26T09:25:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz"
@@ -18966,7 +18972,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-05-21T15:38:58.000Z"
+        "lastSeen": "2026-05-26T09:08:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -33546,7 +33552,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img",
         "branch": "master",
-        "lastSeen": "2026-05-07T06:08:42.000Z"
+        "lastSeen": "2026-05-26T08:31:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img/branches/new-menu-and-fix-mapping/package.tgz",
@@ -33600,7 +33606,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "master",
-        "lastSeen": "2026-05-11T11:42:21.000Z"
+        "lastSeen": "2026-05-26T08:30:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
@@ -33696,7 +33702,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-lab",
         "branch": "master",
-        "lastSeen": "2026-05-15T07:10:36.000Z"
+        "lastSeen": "2026-05-26T08:34:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/master/package.tgz"
@@ -33708,7 +33714,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/lab-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/lab-order",
         "branch": "master",
-        "lastSeen": "2026-05-19T07:44:45.000Z"
+        "lastSeen": "2026-05-26T08:31:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/lab-order/branches/master/package.tgz"
@@ -72204,7 +72210,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/tng-additional-context-jsonld/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "tng-additional-context-jsonld",
-        "lastSeen": "2026-05-25T13:26:20.000Z"
+        "lastSeen": "2026-05-26T07:46:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/revert-80-did-context-extension-links-FHIR-spec/package.tgz",
