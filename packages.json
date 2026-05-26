@@ -12631,6 +12631,18 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "adding-multitenancy-docs",
         "lastSeen": "2026-05-21T07:45:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23535_questionnaire-que-7-fix/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-23535_questionnaire-que-7-fix",
+        "lastSeen": "2026-05-26T12:36:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23413-bestilling-af-terminologi/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-23413-bestilling-af-terminologi",
+        "lastSeen": "2026-05-26T13:07:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13470,7 +13482,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-05-25T13:47:41.000Z"
+        "lastSeen": "2026-05-26T12:02:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -13662,7 +13674,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "main",
-        "lastSeen": "2026-05-22T08:08:37.000Z"
+        "lastSeen": "2026-05-26T12:28:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-Claim-Type-und-SubType/package.tgz",
@@ -13968,7 +13980,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/HL7Austria-naming-conventions/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "HL7Austria-naming-conventions",
-        "lastSeen": "2026-05-22T14:49:49.000Z"
+        "lastSeen": "2026-05-26T11:42:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/LKFRequest-slice-korrigieren/package.tgz",
@@ -17575,6 +17587,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "removedWarning",
         "lastSeen": "2026-05-19T11:23:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/QAFixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "QAFixes",
+        "lastSeen": "2026-05-26T11:14:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz"
@@ -18949,6 +18967,30 @@
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "volume2b-tabel",
         "lastSeen": "2026-05-26T09:25:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/vol1-fixexs/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "vol1-fixexs",
+        "lastSeen": "2026-05-26T11:48:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/vol3_kill_match/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "vol3_kill_match",
+        "lastSeen": "2026-05-26T13:37:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/addressing-next/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "addressing-next",
+        "lastSeen": "2026-05-26T12:53:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/seq-diagram-update/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "seq-diagram-update",
+        "lastSeen": "2026-05-26T12:46:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz"
@@ -37242,7 +37284,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nriss-patch-1/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nriss-patch-1",
-        "lastSeen": "2026-02-24T08:55:40.000Z"
+        "lastSeen": "2026-05-26T10:28:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-fix-vs-marital-status/package.tgz",
@@ -48522,7 +48564,7 @@
         "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/block-vote-2/package.tgz",
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "block-vote-2",
-        "lastSeen": "2026-05-25T17:39:51.000Z"
+        "lastSeen": "2026-05-26T11:27:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz"
@@ -68730,7 +68772,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/v1.0.0/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "v1.0.0",
-        "lastSeen": "2026-05-25T18:19:49.000Z"
+        "lastSeen": "2026-05-26T13:25:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/ChickenHarmony/package.tgz",
