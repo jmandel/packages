@@ -7728,7 +7728,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "main",
-        "lastSeen": "2026-05-26T20:01:37.000Z"
+        "lastSeen": "2026-05-27T06:32:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
@@ -7813,6 +7813,12 @@
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "issue46_task_code_remove_clinical_category",
         "lastSeen": "2026-05-26T18:51:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/issue50_index_changelog_note/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "issue50_index_changelog_note",
+        "lastSeen": "2026-05-27T07:33:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -18894,7 +18900,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "main",
-        "lastSeen": "2026-05-08T14:20:57.000Z"
+        "lastSeen": "2026-05-27T07:34:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/to-do-WIP/package.tgz",
@@ -19038,7 +19044,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-05-27T05:20:51.000Z"
+        "lastSeen": "2026-05-27T07:18:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -22536,7 +22542,7 @@
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/master/package.tgz",
         "repo": "https://github.com/HL7/CDA-ccda",
         "branch": "master",
-        "lastSeen": "2026-05-27T02:46:07.000Z"
+        "lastSeen": "2026-05-27T05:53:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/CDA-ccda/branches/addr-test/package.tgz",
@@ -29688,7 +29694,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "master",
-        "lastSeen": "2026-04-08T07:30:37.000Z"
+        "lastSeen": "2026-05-27T07:08:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/issue-14/package.tgz",
@@ -37603,6 +37609,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-add-more-examples",
         "lastSeen": "2026-04-30T13:23:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-eu-dep/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-eu-dep",
+        "lastSeen": "2026-05-27T07:22:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -37729,6 +37741,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "AnalysePharma",
         "lastSeen": "2026-05-18T17:34:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/SupprPrescAnaPhar/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
+        "branch": "SupprPrescAnaPhar",
+        "lastSeen": "2026-05-27T07:21:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz"
@@ -38070,7 +38088,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-05-17T08:33:37.000Z"
+        "lastSeen": "2026-05-27T07:36:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -64842,7 +64860,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
         "branch": "2.0",
-        "lastSeen": "2026-03-25T07:34:10.000Z"
+        "lastSeen": "2026-05-27T07:26:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0-rc.1.0.0/package.tgz",
@@ -68808,7 +68826,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/v1.0.0/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "v1.0.0",
-        "lastSeen": "2026-05-26T14:30:36.000Z"
+        "lastSeen": "2026-05-27T07:10:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/ChickenHarmony/package.tgz",

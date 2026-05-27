@@ -704,11 +704,11 @@
     }
   },
   {
-    "name": "medcom.dk.xdsmetadata",
+    "name": "medcom.fhir.dk.carecommunication",
     "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/branches/2.0-rc.2.0.0/package.tgz",
-      "repo": "https://github.com/medcomdk/dk-medcom-xds-metadata",
-      "branch": "2.0-rc.2.0.0"
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.14-githubpages/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+      "branch": "v.5.0.14-githubpages"
     }
   },
   {
