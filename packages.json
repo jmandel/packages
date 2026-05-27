@@ -4296,7 +4296,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-emr/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-emr",
         "branch": "master",
-        "lastSeen": "2026-05-26T14:06:26.000Z"
+        "lastSeen": "2026-05-27T13:09:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-emr/branches/main/package.tgz",
@@ -21798,7 +21798,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-05-05T08:50:43.000Z"
+        "lastSeen": "2026-05-27T12:03:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -33516,7 +33516,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2026-05-12T13:04:10.000Z"
+        "lastSeen": "2026-05-27T13:12:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -35040,7 +35040,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/jp-deployment/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "jp-deployment",
-        "lastSeen": "2026-05-19T21:54:07.000Z"
+        "lastSeen": "2026-05-27T12:32:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -37638,7 +37638,13 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-eu-dep/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-update-eu-dep",
-        "lastSeen": "2026-05-27T07:22:01.000Z"
+        "lastSeen": "2026-05-27T11:54:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-update-mode-validation/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-update-mode-validation",
+        "lastSeen": "2026-05-27T11:54:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -37650,7 +37656,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.medication",
         "branch": "main",
-        "lastSeen": "2026-05-19T09:13:09.000Z"
+        "lastSeen": "2026-05-27T13:08:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.medication/branches/CorrectionErreur/package.tgz",
@@ -38100,7 +38106,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/snapshot/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "snapshot",
-        "lastSeen": "2026-03-30T13:28:09.000Z"
+        "lastSeen": "2026-05-27T12:40:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.2.0-sprint3/package.tgz",
@@ -38112,7 +38118,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-05-27T07:36:21.000Z"
+        "lastSeen": "2026-05-27T12:47:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -38383,6 +38389,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "example-pseudonimization",
         "lastSeen": "2026-05-11T14:39:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/1.24.0/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "1.24.0",
+        "lastSeen": "2026-05-27T12:36:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
@@ -59472,7 +59484,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/organization-type-v2.0.0/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "organization-type-v2.0.0",
-        "lastSeen": "2026-05-20T14:53:33.000Z"
+        "lastSeen": "2026-05-27T12:45:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/wg-medication/package.tgz",
@@ -62742,7 +62754,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-05-27T08:05:16.000Z"
+        "lastSeen": "2026-05-27T12:31:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -63205,6 +63217,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "Legallycapableobservation",
         "lastSeen": "2026-05-27T10:11:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/VAluesetprocedureandupdatequery/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "VAluesetprocedureandupdatequery",
+        "lastSeen": "2026-05-27T13:26:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -68892,7 +68910,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/v1.0.1/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "v1.0.1",
-        "lastSeen": "2026-05-27T11:29:57.000Z"
+        "lastSeen": "2026-05-27T12:16:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/v1.0.0-TC/package.tgz",
