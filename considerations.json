@@ -280,6 +280,14 @@
     }
   },
   {
+    "name": "hl7.eu.fhir.xshare-yb",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-eu/xshare-yb/branches/master/package.tgz",
+      "repo": "https://github.com/hl7-eu/xshare-yb",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.au.base",
     "current": {
       "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
@@ -658,9 +666,9 @@
   {
     "name": "iknl.fhir.nl.r4.ncr-ehr",
     "current": {
-      "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/develop/package.tgz",
+      "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/container-for-igbuilder/package.tgz",
       "repo": "https://github.com/IKNL/NkrIG",
-      "branch": "develop"
+      "branch": "container-for-igbuilder"
     }
   },
   {
