@@ -22590,7 +22590,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-adi",
         "branch": "main",
-        "lastSeen": "2026-03-14T11:47:55.000Z"
+        "lastSeen": "2026-05-28T20:14:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz"
@@ -30511,6 +30511,12 @@
         "repo": "https://github.com/hl7-be/medication",
         "branch": "april-updates",
         "lastSeen": "2026-04-28T10:46:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v1.1.1/package.tgz",
+        "repo": "https://github.com/hl7-be/medication",
+        "branch": "v1.1.1",
+        "lastSeen": "2026-05-28T19:25:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz"
@@ -46740,7 +46746,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-vdor/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-vdor",
         "branch": "main",
-        "lastSeen": "2026-05-19T19:48:41.000Z"
+        "lastSeen": "2026-05-28T19:34:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-vdor/branches/testevent_april_2025/package.tgz",
@@ -66186,7 +66192,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/EKG_documentReferences/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-document",
         "branch": "EKG_documentReferences",
-        "lastSeen": "2026-05-28T12:18:29.000Z"
+        "lastSeen": "2026-05-28T19:56:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-document/branches/main/package.tgz"
@@ -66270,7 +66276,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/EKG-v.2.0-test-examples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-ekg",
         "branch": "EKG-v.2.0-test-examples",
-        "lastSeen": "2026-05-28T12:04:28.000Z"
+        "lastSeen": "2026-05-28T20:00:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-ekg/branches/SGA-ECG-2025-11/package.tgz"
