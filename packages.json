@@ -17844,7 +17844,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/profileValidation/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
         "branch": "profileValidation",
-        "lastSeen": "2026-05-29T06:13:08.000Z"
+        "lastSeen": "2026-05-29T09:45:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/profileValidation/package.tgz"
@@ -19158,7 +19158,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-05-29T06:40:41.000Z"
+        "lastSeen": "2026-05-29T08:23:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -62928,7 +62928,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-05-29T07:10:32.000Z"
+        "lastSeen": "2026-05-29T09:27:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -63222,7 +63222,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "develop",
-        "lastSeen": "2026-05-27T08:06:13.000Z"
+        "lastSeen": "2026-05-29T09:32:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/14-QA/package.tgz",
@@ -63240,7 +63240,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/main/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "main",
-        "lastSeen": "2026-03-03T13:15:33.000Z"
+        "lastSeen": "2026-05-29T09:49:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/v1.0.0-rc1/package.tgz",
@@ -63396,25 +63396,37 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/Legallycapableobservation/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "Legallycapableobservation",
-        "lastSeen": "2026-05-27T10:11:37.000Z"
+        "lastSeen": "2026-05-29T09:52:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/VAluesetprocedureandupdatequery/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "VAluesetprocedureandupdatequery",
-        "lastSeen": "2026-05-28T11:12:16.000Z"
+        "lastSeen": "2026-05-29T08:54:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/HarmkeKoning-patch-1/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "HarmkeKoning-patch-1",
-        "lastSeen": "2026-05-28T11:09:36.000Z"
+        "lastSeen": "2026-05-29T09:51:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/updatefhirbasetemplate/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "updatefhirbasetemplate",
         "lastSeen": "2026-05-29T07:21:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue-148-update-display/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "issue-148-update-display",
+        "lastSeen": "2026-05-29T09:42:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/fix-example-references/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "fix-example-references",
+        "lastSeen": "2026-05-29T09:47:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -69036,7 +69048,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-portal",
         "branch": "main",
-        "lastSeen": "2026-04-21T14:14:11.000Z"
+        "lastSeen": "2026-05-29T08:39:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-portal/branches/9-när-får-jag-nytta-av-ign/package.tgz",
