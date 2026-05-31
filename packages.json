@@ -17586,7 +17586,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-05-31T12:28:08.000Z"
+        "lastSeen": "2026-05-31T13:46:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/claims-profile/package.tgz",
@@ -17683,6 +17683,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "warningFixes",
         "lastSeen": "2026-05-31T12:27:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/fixWarnings/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "fixWarnings",
+        "lastSeen": "2026-05-31T13:45:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz"
