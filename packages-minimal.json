@@ -3976,6 +3976,14 @@
     }
   },
   {
+    "name": "hl7.fhir.dk.hackathon",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/dk-hackathon/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/dk-hackathon",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.fhir.dk.hackathon.2022",
     "current": {
       "url": "https://build.fhir.org/ig/hl7dk/hackathon-sep-2022/branches/master/package.tgz",
