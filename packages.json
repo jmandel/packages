@@ -4392,7 +4392,7 @@
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/main/package.tgz",
         "repo": "https://github.com/bag-epl/bag-epl-fhir",
         "branch": "main",
-        "lastSeen": "2026-04-02T07:36:53.000Z"
+        "lastSeen": "2026-06-02T09:31:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/bag-epl/bag-epl-fhir/branches/clean_warnings/package.tgz",
@@ -13566,7 +13566,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-05-29T07:47:26.000Z"
+        "lastSeen": "2026-06-02T08:16:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -18090,7 +18090,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-04-21T22:17:21.000Z"
+        "lastSeen": "2026-06-02T09:33:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/managingOrganizationProfile/package.tgz",
@@ -18163,6 +18163,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
         "branch": "mnchprofiles",
         "lastSeen": "2026-04-21T22:12:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG/branches/consentProfile/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kisumu-County-HIE-FHIR-IG",
+        "branch": "consentProfile",
+        "lastSeen": "2026-06-02T09:32:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kisumu-HIE-FHIR-IG/branches/main/package.tgz"
@@ -18672,7 +18678,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
-        "lastSeen": "2026-05-01T11:33:09.000Z"
+        "lastSeen": "2026-06-02T08:42:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/4-0-x-dependency-challenge/package.tgz",
@@ -35599,6 +35605,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "FHIR-56306",
         "lastSeen": "2026-05-11T13:23:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/radiationdose/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "radiationdose",
+        "lastSeen": "2026-06-02T08:08:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -36067,6 +36079,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "lmm-test",
         "lastSeen": "2026-05-11T12:15:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/radiationdose/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "radiationdose",
+        "lastSeen": "2026-06-02T08:08:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -63216,7 +63234,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-05-29T11:29:55.000Z"
+        "lastSeen": "2026-06-02T09:44:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -63498,7 +63516,13 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issues-126-131-135-questionnaire/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issues-126-131-135-questionnaire",
-        "lastSeen": "2026-06-01T17:06:27.000Z"
+        "lastSeen": "2026-06-02T09:35:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/qa-fix/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "qa-fix",
+        "lastSeen": "2026-06-02T09:57:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -69138,7 +69162,7 @@
         "url": "https://build.fhir.org/ig/fhir-ru/RuCoreIG/branches/main/package.tgz",
         "repo": "https://github.com/fhir-ru/RuCoreIG",
         "branch": "main",
-        "lastSeen": "2026-05-25T13:20:14.000Z"
+        "lastSeen": "2026-06-02T08:44:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fhir-ru/RuCoreIG/branches/main/package.tgz"
@@ -73728,7 +73752,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/cql",
         "branch": "main",
-        "lastSeen": "2026-05-22T03:32:18.000Z"
+        "lastSeen": "2026-06-02T08:25:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz"
@@ -74544,7 +74568,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-02T06:38:06.000Z"
+        "lastSeen": "2026-06-02T08:41:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
