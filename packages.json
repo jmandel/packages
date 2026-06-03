@@ -10393,6 +10393,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "bedarfsmedikation",
         "lastSeen": "2026-05-26T14:49:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "develop",
+        "lastSeen": "2026-06-03T07:55:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -13536,7 +13542,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-05-26T08:03:28.000Z"
+        "lastSeen": "2026-06-03T08:09:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -23862,7 +23868,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/oah",
         "branch": "master",
-        "lastSeen": "2026-02-03T06:29:00.000Z"
+        "lastSeen": "2026-06-03T07:30:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/oah/branches/master/package.tgz"
@@ -35725,6 +35731,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "radiationdose",
         "lastSeen": "2026-06-02T08:08:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-5/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r4",
+        "branch": "block-vote-5",
+        "lastSeen": "2026-06-03T07:56:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -36199,6 +36211,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "radiationdose",
         "lastSeen": "2026-06-02T08:08:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-5/package.tgz",
+        "repo": "https://github.com/oijauregui/ehdsimaging-r5",
+        "branch": "block-vote-5",
+        "lastSeen": "2026-06-03T07:56:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -36282,7 +36300,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/block-vote-5/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "block-vote-5",
-        "lastSeen": "2026-06-02T14:42:42.000Z"
+        "lastSeen": "2026-06-03T08:24:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -63672,7 +63690,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "develop",
-        "lastSeen": "2026-06-02T14:19:07.000Z"
+        "lastSeen": "2026-06-03T07:49:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/14-QA/package.tgz",
@@ -65802,7 +65820,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master",
-        "lastSeen": "2026-02-25T07:14:08.000Z"
+        "lastSeen": "2026-06-03T07:36:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
@@ -66822,7 +66840,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "master",
-        "lastSeen": "2026-04-16T12:37:40.000Z"
+        "lastSeen": "2026-06-03T08:02:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/0.0.1-alpha1/package.tgz",
@@ -66900,7 +66918,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/Updated-testexamples/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "Updated-testexamples",
-        "lastSeen": "2026-05-06T13:08:25.000Z"
+        "lastSeen": "2026-06-03T07:52:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/extra-test-examples/package.tgz",
+        "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
+        "branch": "extra-test-examples",
+        "lastSeen": "2026-06-03T07:46:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
