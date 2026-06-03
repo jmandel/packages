@@ -5248,6 +5248,14 @@
     }
   },
   {
+    "name": "hl7.fhir.us.ohde",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7/ohde/branches/main/package.tgz",
+      "repo": "https://github.com/HL7/ohde",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.fhir.us.ohsuhypertensionig",
     "current": {
       "url": "https://build.fhir.org/ig/OHSUCMP/htnu18ig/branches/master/package.tgz",

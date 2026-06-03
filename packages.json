@@ -3330,7 +3330,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-06-03T11:27:00.000Z"
+        "lastSeen": "2026-06-03T15:48:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -10944,7 +10944,7 @@
         "url": "https://build.fhir.org/ig/JohanGHole/dhis2-empty-ig/branches/main/package.tgz",
         "repo": "https://github.com/JohanGHole/dhis2-empty-ig",
         "branch": "main",
-        "lastSeen": "2023-08-21T12:39:33.000Z"
+        "lastSeen": "2026-06-03T14:24:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohanGHole/dhis2-empty-ig/branches/main/package.tgz"
@@ -18690,7 +18690,13 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "main",
-        "lastSeen": "2026-06-03T14:02:13.000Z"
+        "lastSeen": "2026-06-03T15:30:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol3-table-syntax/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-360-ig",
+        "branch": "vol3-table-syntax",
+        "lastSeen": "2026-06-03T15:29:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz"
@@ -19044,7 +19050,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-authorization-information-model/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "add-authorization-information-model",
-        "lastSeen": "2026-05-21T07:47:43.000Z"
+        "lastSeen": "2026-06-03T15:01:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -19555,6 +19561,12 @@
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "context-diagram",
         "lastSeen": "2026-06-02T20:16:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/enc-prio/package.tgz",
+        "repo": "https://github.com/FHIR/us-quality-core",
+        "branch": "enc-prio",
+        "lastSeen": "2026-06-03T15:32:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/onc/package.tgz"
@@ -44861,6 +44873,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/us-odh/branches/master/package.tgz"
   },
+  "hl7.fhir.us.ohde": {
+    "name": "hl7.fhir.us.ohde",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/ohde/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/ohde",
+        "branch": "main",
+        "lastSeen": "2026-06-03T14:57:22.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/ohde/branches/main/package.tgz"
+  },
   "hl7.fhir.us.ohsuhypertensionig": {
     "name": "hl7.fhir.us.ohsuhypertensionig",
     "locations": [
@@ -45666,7 +45690,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2026-05-21T18:58:21.000Z"
+        "lastSeen": "2026-06-03T15:19:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -45888,7 +45912,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/pfe-stu3/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "pfe-stu3",
-        "lastSeen": "2026-06-01T19:25:34.000Z"
+        "lastSeen": "2026-06-03T15:29:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -49284,7 +49308,7 @@
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/main/package.tgz",
         "repo": "https://github.com/HL7/APIX---API-Exchange-for-Medicinal-Products",
         "branch": "main",
-        "lastSeen": "2026-05-20T14:17:45.000Z"
+        "lastSeen": "2026-06-03T14:26:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/APIX---API-Exchange-for-Medicinal-Products/branches/draft-of-Developer-notes/package.tgz",
@@ -49302,7 +49326,7 @@
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/main/package.tgz",
         "repo": "https://github.com/HL7/capstmt",
         "branch": "main",
-        "lastSeen": "2026-05-22T06:43:38.000Z"
+        "lastSeen": "2026-06-03T15:38:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/capstmt/branches/1.0.0-ballot/package.tgz",
@@ -49999,6 +50023,36 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "fhirAuthorization-to-STU",
         "lastSeen": "2026-06-03T13:43:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/fhir-54815-embedded-fhir-json/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "fhir-54815-embedded-fhir-json",
+        "lastSeen": "2026-06-03T15:51:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/fhir-54487-html-in-card-detail/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "fhir-54487-html-in-card-detail",
+        "lastSeen": "2026-06-03T15:34:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/FHIR-54819-markdown-fields/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "FHIR-54819-markdown-fields",
+        "lastSeen": "2026-06-03T14:15:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/fhir-53847-conformance-shall/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "fhir-53847-conformance-shall",
+        "lastSeen": "2026-06-03T14:43:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/fhir-53840-fhir-version-callout/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "fhir-53840-fhir-version-callout",
+        "lastSeen": "2026-06-03T15:45:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -51048,7 +51102,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-06-02T14:53:44.000Z"
+        "lastSeen": "2026-06-03T14:51:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -55206,7 +55260,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-order-catalog/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-order-catalog",
         "branch": "master",
-        "lastSeen": "2026-04-29T18:26:26.000Z"
+        "lastSeen": "2026-06-03T15:08:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-order-catalog/branches/jdlnolen-FHIR-40823/package.tgz",
