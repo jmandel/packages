@@ -3301,6 +3301,18 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "consent_r5",
         "lastSeen": "2026-06-02T15:54:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/Issue398_BfsMsEncounterType/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "Issue398_BfsMsEncounterType",
+        "lastSeen": "2026-06-03T10:00:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/Issue398_BfsMsEncounterTypeNew/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "Issue398_BfsMsEncounterTypeNew",
+        "lastSeen": "2026-06-03T10:08:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -13584,7 +13596,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-02T11:51:04.000Z"
+        "lastSeen": "2026-06-03T09:49:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -17610,7 +17622,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-05-31T13:46:45.000Z"
+        "lastSeen": "2026-06-03T08:33:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/claims-profile/package.tgz",
@@ -17713,6 +17725,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
         "branch": "fixWarnings",
         "lastSeen": "2026-05-31T13:45:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/fixCodesystems/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "fixCodesystems",
+        "lastSeen": "2026-06-03T08:32:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz"
@@ -19242,7 +19260,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-06-02T10:31:56.000Z"
+        "lastSeen": "2026-06-03T09:59:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -22146,7 +22164,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-02T15:07:58.000Z"
+        "lastSeen": "2026-06-03T09:58:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -35736,7 +35754,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-5/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "block-vote-5",
-        "lastSeen": "2026-06-03T07:56:28.000Z"
+        "lastSeen": "2026-06-03T08:35:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -36216,7 +36234,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-5/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "block-vote-5",
-        "lastSeen": "2026-06-03T07:56:25.000Z"
+        "lastSeen": "2026-06-03T08:35:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -50226,13 +50244,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-04-08T21:08:29.000Z"
+        "lastSeen": "2026-06-03T10:06:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-04-08T21:09:32.000Z"
+        "lastSeen": "2026-06-03T10:09:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -63378,7 +63396,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-06-02T15:36:41.000Z"
+        "lastSeen": "2026-06-03T08:33:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -65820,7 +65838,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "master",
-        "lastSeen": "2026-06-03T07:36:45.000Z"
+        "lastSeen": "2026-06-03T09:23:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.2.1.1-rc/package.tgz",
@@ -66924,7 +66942,13 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/extra-test-examples/package.tgz",
         "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
         "branch": "extra-test-examples",
-        "lastSeen": "2026-06-03T07:46:50.000Z"
+        "lastSeen": "2026-06-03T09:06:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/1.2.2/package.tgz",
+        "repo": "https://github.com/medcomdk/dk_HomeCareObservations",
+        "branch": "1.2.2",
+        "lastSeen": "2026-06-03T08:34:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_HomeCareObservations/branches/master/package.tgz"
