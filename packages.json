@@ -913,6 +913,12 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "nr-remove-digitization",
         "lastSeen": "2026-05-28T16:23:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/balmss-swagger/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "balmss-swagger",
+        "lastSeen": "2026-06-04T08:45:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -12756,7 +12762,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23413-bestilling-af-terminologi/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23413-bestilling-af-terminologi",
-        "lastSeen": "2026-05-26T13:57:49.000Z"
+        "lastSeen": "2026-06-04T09:11:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23452_correct_useContext_descriptions/package.tgz",
@@ -34674,7 +34680,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/feature-sks-cleanup/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "feature-sks-cleanup",
-        "lastSeen": "2026-06-03T22:00:07.000Z"
+        "lastSeen": "2026-06-04T09:20:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -35628,7 +35634,13 @@
         "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/ballot-recon-framing/package.tgz",
         "repo": "https://github.com/bvdh/jwg-api",
         "branch": "ballot-recon-framing",
-        "lastSeen": "2026-06-03T13:55:36.000Z"
+        "lastSeen": "2026-06-04T08:44:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/ballot-recond-authorization/package.tgz",
+        "repo": "https://github.com/bvdh/jwg-api",
+        "branch": "ballot-recond-authorization",
+        "lastSeen": "2026-06-04T08:48:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
