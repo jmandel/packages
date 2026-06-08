@@ -2424,7 +2424,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "main",
-        "lastSeen": "2026-06-06T13:33:27.000Z"
+        "lastSeen": "2026-06-08T07:38:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz"
@@ -12835,6 +12835,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ccr0316-fix-relatedperson-telecom-system-sms",
         "lastSeen": "2026-06-01T13:12:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ccr0316-send-message-operation-return-type/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "ccr0316-send-message-operation-return-type",
+        "lastSeen": "2026-06-08T07:51:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13632,7 +13638,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-03T08:09:42.000Z"
+        "lastSeen": "2026-06-08T07:51:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -14724,7 +14730,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "comitology-wg",
-        "lastSeen": "2026-06-06T20:34:44.000Z"
+        "lastSeen": "2026-06-08T06:14:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/gh-pages/package.tgz",
@@ -19398,7 +19404,7 @@
         "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/FHIR/us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-06-07T04:20:44.000Z"
+        "lastSeen": "2026-06-08T06:19:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/us-quality-core/branches/cql-informational-note/package.tgz",
@@ -57510,7 +57516,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-06-08T04:34:27.000Z"
+        "lastSeen": "2026-06-08T07:04:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -69982,6 +69988,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc/branches/main/package.tgz"
+  },
+  "servicewell.fhir.wof-base": {
+    "name": "servicewell.fhir.wof-base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-base/branches/main/package.tgz",
+        "repo": "https://github.com/servicewell/servicewell.fhir.wof-base",
+        "branch": "main",
+        "lastSeen": "2026-06-08T08:16:21.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-base/branches/main/package.tgz"
   },
   "servicewell.fhir.wof-connect": {
     "name": "servicewell.fhir.wof-connect",
