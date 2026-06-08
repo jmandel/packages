@@ -400,6 +400,14 @@
     }
   },
   {
+    "name": "hl7.fhir.dk.hackathons",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7dk/dk-hackathons/branches/main/package.tgz",
+      "repo": "https://github.com/hl7dk/dk-hackathons",
+      "branch": "main"
+    }
+  },
+  {
     "name": "hl7.fhir.eu.health-data-api",
     "current": {
       "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/main/package.tgz",
@@ -410,9 +418,9 @@
   {
     "name": "hl7.fhir.eu.imaging",
     "current": {
-      "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-6/package.tgz",
+      "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/master/package.tgz",
       "repo": "https://github.com/oijauregui/ehdsimaging-r4",
-      "branch": "block-vote-6"
+      "branch": "master"
     }
   },
   {
@@ -426,16 +434,16 @@
   {
     "name": "hl7.fhir.eu.imaging-r5",
     "current": {
-      "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-6/package.tgz",
+      "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/master/package.tgz",
       "repo": "https://github.com/oijauregui/ehdsimaging-r5",
-      "branch": "block-vote-6"
+      "branch": "master"
     }
   },
   {
     "name": "hl7.fhir.eu.imaging-redirect",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/master/package.tgz",
-      "repo": "https://github.com/hl7-eu/imaging",
+      "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/master/package.tgz",
+      "repo": "https://github.com/oijauregui/ehdsimaging",
       "branch": "master"
     }
   },
