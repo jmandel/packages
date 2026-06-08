@@ -13656,7 +13656,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-08T09:02:21.000Z"
+        "lastSeen": "2026-06-08T12:08:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -14748,7 +14748,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "comitology-wg",
-        "lastSeen": "2026-06-08T06:14:57.000Z"
+        "lastSeen": "2026-06-08T10:55:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/gh-pages/package.tgz",
@@ -17688,7 +17688,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/nccpFHIRIG",
         "branch": "main",
-        "lastSeen": "2026-06-04T14:50:44.000Z"
+        "lastSeen": "2026-06-08T10:30:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/logoUpdate/package.tgz",
@@ -17713,6 +17713,12 @@
         "repo": "https://github.com/IntelliSOFT-Consulting/nccpFHIRIG",
         "branch": "fixedWarnings",
         "lastSeen": "2026-06-04T14:49:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/fixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/nccpFHIRIG",
+        "branch": "fixes",
+        "lastSeen": "2026-06-08T10:29:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/main/package.tgz"
@@ -20274,7 +20280,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/319-fr-u-practitioner-examples-alignment/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "319-fr-u-practitioner-examples-alignment",
-        "lastSeen": "2026-06-08T09:32:44.000Z"
+        "lastSeen": "2026-06-08T11:37:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/rebase-test/package.tgz",
@@ -20287,6 +20293,18 @@
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "alt-333",
         "lastSeen": "2026-06-08T09:58:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/324-fr-u-observation-examples-alignment/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "324-fr-u-observation-examples-alignment",
+        "lastSeen": "2026-06-08T10:57:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/319-fr-u-practitioner-example-alignment/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "319-fr-u-practitioner-example-alignment",
+        "lastSeen": "2026-06-08T11:44:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -22380,7 +22398,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-03T11:31:28.000Z"
+        "lastSeen": "2026-06-08T10:38:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -34074,7 +34092,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2026-06-08T08:46:29.000Z"
+        "lastSeen": "2026-06-08T11:05:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
@@ -34255,6 +34273,12 @@
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "OBLproL3",
         "lastSeen": "2025-12-15T14:08:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/TUrban/package.tgz",
+        "repo": "https://github.com/HL7-cz/hdr",
+        "branch": "TUrban",
+        "lastSeen": "2026-06-08T11:03:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz"
@@ -36030,7 +36054,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-6/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "block-vote-6",
-        "lastSeen": "2026-06-03T13:43:18.000Z"
+        "lastSeen": "2026-06-08T11:43:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -36516,7 +36540,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-6/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "block-vote-6",
-        "lastSeen": "2026-06-03T13:42:41.000Z"
+        "lastSeen": "2026-06-08T11:43:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -36606,7 +36630,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/block-vote-6/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "block-vote-6",
-        "lastSeen": "2026-06-08T09:47:30.000Z"
+        "lastSeen": "2026-06-08T11:33:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -68095,6 +68119,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
         "branch": "1.0.0-trial-use-1",
         "lastSeen": "2026-06-01T10:18:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/2.0.0-xdsdoc-tms/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
+        "branch": "2.0.0-xdsdoc-tms",
+        "lastSeen": "2026-06-08T10:35:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/master/package.tgz"
@@ -70032,7 +70062,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-base/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.wof-base",
         "branch": "main",
-        "lastSeen": "2026-06-08T08:16:21.000Z"
+        "lastSeen": "2026-06-08T11:19:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-base/branches/main/package.tgz"
