@@ -5185,6 +5185,12 @@
         "repo": "https://github.com/trifork/ch-epr-fhir",
         "branch": "hpd-mapping",
         "lastSeen": "2026-04-13T08:32:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/Technical-Change-01/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "Technical-Change-01",
+        "lastSeen": "2026-06-08T09:46:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -11178,7 +11184,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "main",
-        "lastSeen": "2026-02-18T22:22:54.000Z"
+        "lastSeen": "2026-06-08T08:39:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/v0.9.0-beta.1/package.tgz",
@@ -11239,6 +11245,12 @@
         "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
         "branch": "DocRefexample",
         "lastSeen": "2026-04-15T09:46:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/ovi-medcom-patch-2/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-sbdh",
+        "branch": "ovi-medcom-patch-2",
+        "lastSeen": "2026-06-08T08:38:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh/branches/main/package.tgz"
@@ -13074,7 +13086,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "main",
-        "lastSeen": "2026-01-27T10:27:29.000Z"
+        "lastSeen": "2026-06-08T08:29:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main_CS_update/package.tgz",
@@ -13087,6 +13099,12 @@
         "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
         "branch": "ehmiTerm",
         "lastSeen": "2026-05-05T13:38:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/ovi-medcom-patch-1/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-ehmi-terminology",
+        "branch": "ovi-medcom-patch-1",
+        "lastSeen": "2026-06-08T08:28:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-terminology/branches/main/package.tgz"
@@ -13638,7 +13656,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-08T07:51:10.000Z"
+        "lastSeen": "2026-06-08T09:02:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -20251,6 +20269,24 @@
         "repo": "https://github.com/jldalisay95/ph-core-jld",
         "branch": "issue-325-medication-examples-alignment",
         "lastSeen": "2026-06-05T07:09:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/319-fr-u-practitioner-examples-alignment/package.tgz",
+        "repo": "https://github.com/UP-Manila-SILab/ph-core",
+        "branch": "319-fr-u-practitioner-examples-alignment",
+        "lastSeen": "2026-06-08T09:32:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/rebase-test/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "rebase-test",
+        "lastSeen": "2026-06-08T09:19:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/alt-333/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "alt-333",
+        "lastSeen": "2026-06-08T09:58:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -34038,7 +34074,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2026-06-02T09:44:41.000Z"
+        "lastSeen": "2026-06-08T08:46:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
@@ -36570,7 +36606,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/block-vote-6/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging",
         "branch": "block-vote-6",
-        "lastSeen": "2026-06-03T13:31:48.000Z"
+        "lastSeen": "2026-06-08T09:47:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-0.2.0/package.tgz"
@@ -51828,7 +51864,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-06-07T16:46:24.000Z"
+        "lastSeen": "2026-06-08T09:34:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -75246,7 +75282,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-05T13:34:41.000Z"
+        "lastSeen": "2026-06-08T09:16:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
