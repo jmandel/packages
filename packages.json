@@ -636,7 +636,7 @@
         "url": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz",
         "repo": "https://github.com/davidhay25/actnow",
         "branch": "main",
-        "lastSeen": "2025-03-18T21:54:16.000Z"
+        "lastSeen": "2026-06-08T03:59:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz"
@@ -13164,7 +13164,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-05-25T08:15:07.000Z"
+        "lastSeen": "2026-06-08T04:51:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -57510,7 +57510,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-06-05T04:41:31.000Z"
+        "lastSeen": "2026-06-08T04:34:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -74542,6 +74542,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
+  },
+  "tw.gov.mohw.sfaa.base": {
+    "name": "tw.gov.mohw.sfaa.base",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz",
+        "repo": "https://github.com/sfaassn2025-source/base",
+        "branch": "main",
+        "lastSeen": "2026-06-08T05:51:20.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz"
   },
   "tw.gov.mohw.twcore": {
     "name": "tw.gov.mohw.twcore",
