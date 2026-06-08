@@ -20605,6 +20605,12 @@
         "repo": "https://github.com/jgsuess/ph-ereferral",
         "branch": "feat-105-agents-fhirpatterns-integration",
         "lastSeen": "2026-06-07T23:58:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/feat-19-cleanup-utils/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-ereferral",
+        "branch": "feat-19-cleanup-utils",
+        "lastSeen": "2026-06-08T18:23:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -24378,7 +24384,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xshare-careplan/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xshare-careplan",
         "branch": "master",
-        "lastSeen": "2026-05-28T12:38:57.000Z"
+        "lastSeen": "2026-06-08T17:37:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xshare-careplan/branches/master/package.tgz"
@@ -51828,7 +51834,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates-06082026/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates-06082026",
-        "lastSeen": "2026-06-08T17:14:21.000Z"
+        "lastSeen": "2026-06-08T17:58:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
