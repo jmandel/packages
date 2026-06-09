@@ -22482,7 +22482,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-09T09:53:02.000Z"
+        "lastSeen": "2026-06-09T15:02:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -23796,7 +23796,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "master",
-        "lastSeen": "2025-10-24T16:48:19.000Z"
+        "lastSeen": "2026-06-09T15:35:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
@@ -23815,6 +23815,12 @@
         "repo": "https://github.com/HL7/cql",
         "branch": "v1.5.3",
         "lastSeen": "2025-03-12T13:17:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cql/branches/v2.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/cql",
+        "branch": "v2.0-ballot",
+        "lastSeen": "2026-06-09T14:41:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz"
@@ -63984,7 +63990,7 @@
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/document-bundle/package.tgz",
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "document-bundle",
-        "lastSeen": "2026-05-29T14:53:45.000Z"
+        "lastSeen": "2026-06-09T14:43:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
@@ -69119,6 +69125,18 @@
     ],
     "current": "https://build.fhir.org/ig/FHIR-MFT/FHIRGenomics/branches/main/package.tgz"
   },
+  "nictiz.fhir.nl.r4.acutezorg-ambulanceverwijzing": {
+    "name": "nictiz.fhir.nl.r4.acutezorg-ambulanceverwijzing",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
+        "repo": "https://github.com/Nictiz/AZ-IG",
+        "branch": "0.1.0",
+        "lastSeen": "2026-06-09T14:37:38.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
+  },
   "nictiz.nl.gbb": {
     "name": "nictiz.nl.gbb",
     "locations": [
@@ -73542,7 +73560,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/MeOW/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ph4h",
         "branch": "MeOW",
-        "lastSeen": "2026-05-21T11:09:11.000Z"
+        "lastSeen": "2026-06-09T14:21:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/main/package.tgz"
