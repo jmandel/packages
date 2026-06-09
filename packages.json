@@ -14251,6 +14251,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
         "branch": "cleanup-repo",
         "lastSeen": "2026-05-27T19:45:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/Modellierung-der-Jahresstatistikmeldung/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-MOPED-R5",
+        "branch": "Modellierung-der-Jahresstatistikmeldung",
+        "lastSeen": "2026-06-09T11:52:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-MOPED-R5/branches/IG-fuer-auto-ig-builder-vorbereiten/package.tgz"
@@ -22770,7 +22776,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/119-34---inconsistent-casing-of-resource-names/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "119-34---inconsistent-casing-of-resource-names",
-        "lastSeen": "2026-06-09T10:18:02.000Z"
+        "lastSeen": "2026-06-09T12:27:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -36720,13 +36726,13 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/ballot-1.0.0-resolution/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "ballot-1.0.0-resolution",
-        "lastSeen": "2026-06-09T11:21:58.000Z"
+        "lastSeen": "2026-06-09T12:29:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging/branches/radiationdose/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging",
         "branch": "radiationdose",
-        "lastSeen": "2026-06-09T11:38:08.000Z"
+        "lastSeen": "2026-06-09T11:53:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/block-vote-5/package.tgz",
@@ -70140,7 +70146,7 @@
         "url": "https://build.fhir.org/ig/servicewell/servicewell.fhir.base.template/branches/main/package.tgz",
         "repo": "https://github.com/servicewell/servicewell.fhir.base.template",
         "branch": "main",
-        "lastSeen": "2026-03-22T14:24:14.000Z"
+        "lastSeen": "2026-06-09T12:21:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/servicewell/servicewell.fhir.base.template/branches/main/package.tgz"
@@ -75474,7 +75480,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-09T09:30:56.000Z"
+        "lastSeen": "2026-06-09T11:30:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
