@@ -10506,7 +10506,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "develop",
-        "lastSeen": "2026-06-03T11:01:10.000Z"
+        "lastSeen": "2026-06-10T06:57:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/startenddatum/package.tgz",
@@ -13734,7 +13734,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-09T09:55:42.000Z"
+        "lastSeen": "2026-06-10T07:11:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -20010,7 +20010,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "main",
-        "lastSeen": "2026-06-10T02:24:42.000Z"
+        "lastSeen": "2026-06-10T07:32:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/150-fr-u-change-naming-convention-of-examples/package.tgz",
@@ -22506,7 +22506,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-09T15:02:51.000Z"
+        "lastSeen": "2026-06-10T07:29:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -23826,7 +23826,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "master",
-        "lastSeen": "2026-06-10T05:59:11.000Z"
+        "lastSeen": "2026-06-10T06:17:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
@@ -28926,7 +28926,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft-bundle-support/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-bundle-support",
-        "lastSeen": "2026-05-15T07:15:34.000Z"
+        "lastSeen": "2026-06-10T06:49:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -29850,7 +29850,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_patient-story/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_patient-story",
-        "lastSeen": "2026-06-09T21:13:21.000Z"
+        "lastSeen": "2026-06-10T06:52:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_examples-page/package.tgz",
@@ -42096,7 +42096,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ecdx",
         "branch": "master",
-        "lastSeen": "2026-06-04T07:45:31.000Z"
+        "lastSeen": "2026-06-10T07:16:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/2.1.0-snapshot/package.tgz",
@@ -75564,7 +75564,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-09T11:30:50.000Z"
+        "lastSeen": "2026-06-10T06:53:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -78559,6 +78559,12 @@
         "repo": "https://github.com/mohcc/fhir-zw-core-ig",
         "branch": "QA-update",
         "lastSeen": "2025-11-13T06:54:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-core-ig",
+        "branch": "release-candidate",
+        "lastSeen": "2026-06-10T07:38:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mohcc/fhir-zw-core-ig/branches/main/package.tgz"
