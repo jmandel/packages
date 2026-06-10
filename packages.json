@@ -3343,6 +3343,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "oe_fixalias",
         "lastSeen": "2026-06-08T16:04:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/prepare-ballot-7.0.0/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "prepare-ballot-7.0.0",
+        "lastSeen": "2026-06-10T11:35:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -3354,7 +3360,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-06-03T16:15:20.000Z"
+        "lastSeen": "2026-06-10T10:04:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -7819,6 +7825,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "340",
         "lastSeen": "2026-06-10T09:24:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/3.4.0/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "3.4.0",
+        "lastSeen": "2026-06-10T10:10:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -22518,7 +22530,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-10T09:34:01.000Z"
+        "lastSeen": "2026-06-10T10:48:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -36186,7 +36198,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "master",
-        "lastSeen": "2026-03-03T09:33:31.000Z"
+        "lastSeen": "2026-06-10T10:01:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/ballot-fixes/package.tgz",
@@ -36588,7 +36600,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "master",
-        "lastSeen": "2026-03-03T09:32:28.000Z"
+        "lastSeen": "2026-06-10T10:02:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-53075-rename-title/package.tgz",
