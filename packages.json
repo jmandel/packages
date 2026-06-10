@@ -7464,7 +7464,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "master",
-        "lastSeen": "2026-05-19T15:18:39.000Z"
+        "lastSeen": "2026-06-10T09:33:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/38-monthly-check-of-csvs-for-swissmedic-vaccines/package.tgz",
@@ -7813,6 +7813,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "oe_artdecor_update_2026stable1",
         "lastSeen": "2026-05-19T14:10:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/340/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "340",
+        "lastSeen": "2026-06-10T09:24:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -10506,13 +10512,19 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "develop",
-        "lastSeen": "2026-06-10T06:57:56.000Z"
+        "lastSeen": "2026-06-10T09:24:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/startenddatum/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "startenddatum",
         "lastSeen": "2026-06-05T06:51:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/patient-instructions/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "patient-instructions",
+        "lastSeen": "2026-06-10T09:10:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -13734,7 +13746,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-10T07:11:36.000Z"
+        "lastSeen": "2026-06-10T09:04:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -22506,7 +22518,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-10T07:29:22.000Z"
+        "lastSeen": "2026-06-10T09:34:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -22602,7 +22614,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "main",
-        "lastSeen": "2026-06-09T19:48:08.000Z"
+        "lastSeen": "2026-06-10T09:07:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/90-5---2-skizze-patient-does-not-exist/package.tgz",
@@ -22825,6 +22837,12 @@
         "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
         "branch": "132-55---resolve-todo-for-description-of-updatable-fields-in-update-appointment-interaction",
         "lastSeen": "2026-06-09T19:25:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/157-change-menu-structure-to-hl7-austria-reference-ig-framework/package.tgz",
+        "repo": "https://github.com/HL7Austria/TC-FHIR-AG-Scheduling-R5",
+        "branch": "157-change-menu-structure-to-hl7-austria-reference-ig-framework",
+        "lastSeen": "2026-06-10T09:04:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/TC-FHIR-AG-Scheduling-R5/branches/main/package.tgz"
@@ -30997,6 +31015,12 @@
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "v1.2.0",
         "lastSeen": "2024-11-12T08:59:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/issue-24/package.tgz",
+        "repo": "https://github.com/hl7-be/infsec",
+        "branch": "issue-24",
+        "lastSeen": "2026-06-10T09:31:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/infsec/branches/issue-1/package.tgz"
@@ -36709,6 +36733,12 @@
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "master",
         "lastSeen": "2026-06-08T12:44:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/ballot-1.0.0-resolution/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "ballot-1.0.0-resolution",
+        "lastSeen": "2026-06-10T08:53:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -75564,7 +75594,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-10T06:53:03.000Z"
+        "lastSeen": "2026-06-10T09:18:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -75913,6 +75943,18 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "remove-orphaned-practitioner-role-vs",
         "lastSeen": "2026-06-09T10:52:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/fix-api-access-terminology-pkce/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "fix-api-access-terminology-pkce",
+        "lastSeen": "2026-06-10T07:43:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/worktree-encounter-reason-immunization-rec/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "worktree-encounter-reason-immunization-rec",
+        "lastSeen": "2026-06-10T08:07:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
