@@ -20778,13 +20778,19 @@
         "url": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/master/package.tgz",
         "repo": "https://github.com/Kimsber/Rehab-IG",
         "branch": "master",
-        "lastSeen": "2026-06-08T03:33:36.000Z"
+        "lastSeen": "2026-06-11T02:45:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/main/package.tgz",
         "repo": "https://github.com/Kimsber/Rehab-IG",
         "branch": "main",
         "lastSeen": "2026-01-14T08:56:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Rehabotics-Medical-Techology-Co/RTS-IG/branches/master/package.tgz",
+        "repo": "https://github.com/Rehabotics-Medical-Techology-Co/RTS-IG",
+        "branch": "master",
+        "lastSeen": "2026-06-11T02:26:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Kimsber/Rehab-IG/branches/master/package.tgz"
@@ -28992,7 +28998,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft-bundle-support/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-bundle-support",
-        "lastSeen": "2026-06-10T06:49:34.000Z"
+        "lastSeen": "2026-06-11T03:53:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -62454,7 +62460,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/release_424/package.tgz",
         "repo": "https://github.com/IHE/ITI.MHD",
         "branch": "release_424",
-        "lastSeen": "2026-06-09T09:28:23.000Z"
+        "lastSeen": "2026-06-11T02:46:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.MHD/branches/master/package.tgz"
@@ -71976,7 +71982,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/modular-access-constraints/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "modular-access-constraints",
-        "lastSeen": "2026-06-11T02:20:04.000Z"
+        "lastSeen": "2026-06-11T03:47:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz"
