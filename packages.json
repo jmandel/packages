@@ -2424,13 +2424,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "main",
-        "lastSeen": "2026-06-12T15:14:57.000Z"
+        "lastSeen": "2026-06-12T18:32:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/prepare-ballot-1.0.0/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "prepare-ballot-1.0.0",
         "lastSeen": "2026-06-12T15:09:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "1.0.0-ballot",
+        "lastSeen": "2026-06-12T18:38:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz"
@@ -23982,7 +23988,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cql",
         "branch": "master",
-        "lastSeen": "2026-06-11T23:14:36.000Z"
+        "lastSeen": "2026-06-12T18:27:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql/branches/ig-template-update/package.tgz",
@@ -46380,7 +46386,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2026-06-05T17:59:26.000Z"
+        "lastSeen": "2026-06-12T18:41:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -46608,7 +46614,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/pfe-stu3-ballot/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "pfe-stu3-ballot",
-        "lastSeen": "2026-06-05T18:28:29.000Z"
+        "lastSeen": "2026-06-12T18:39:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -52344,7 +52350,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-06-12T12:53:30.000Z"
+        "lastSeen": "2026-06-12T18:01:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -63426,7 +63432,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/April26/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "April26",
-        "lastSeen": "2026-06-12T17:36:17.000Z"
+        "lastSeen": "2026-06-12T18:25:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
