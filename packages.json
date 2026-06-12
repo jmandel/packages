@@ -10578,7 +10578,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/1.0.5/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "1.0.5",
-        "lastSeen": "2026-06-10T20:33:01.000Z"
+        "lastSeen": "2026-06-12T09:19:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -13806,7 +13806,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-11T13:36:04.000Z"
+        "lastSeen": "2026-06-12T09:00:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -20779,6 +20779,12 @@
         "repo": "https://github.com/niccoreyes/ph-ereferral",
         "branch": "feat-17-references-page",
         "lastSeen": "2026-06-11T18:01:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-110-EReferralDiagnosticReport/package.tgz",
+        "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
+        "branch": "issue-110-EReferralDiagnosticReport",
+        "lastSeen": "2026-06-12T08:54:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -27775,6 +27781,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-prof",
         "lastSeen": "2026-06-09T03:10:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_documentreference",
+        "lastSeen": "2026-06-12T08:57:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -35550,7 +35562,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-06-12T06:39:40.000Z"
+        "lastSeen": "2026-06-12T09:49:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/1.0.0-ballot/package.tgz",
@@ -52272,7 +52284,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-06-11T16:12:49.000Z"
+        "lastSeen": "2026-06-12T08:24:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -69462,13 +69474,13 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-06-12T07:39:28.000Z"
+        "lastSeen": "2026-06-12T08:29:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_PractitionerRole",
-        "lastSeen": "2026-06-12T07:36:58.000Z"
+        "lastSeen": "2026-06-12T08:28:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -75858,7 +75870,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-11T14:16:55.000Z"
+        "lastSeen": "2026-06-12T08:51:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -78931,6 +78943,12 @@
         "repo": "https://github.com/costateixeira/fhir-zw-lab-ig",
         "branch": "testing",
         "lastSeen": "2026-06-12T06:47:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/mohcc/fhir-zw-lab-ig/branches/actor-test-kit/package.tgz",
+        "repo": "https://github.com/mohcc/fhir-zw-lab-ig",
+        "branch": "actor-test-kit",
+        "lastSeen": "2026-06-12T09:29:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mohcc/fhir-zw-lab-ig/branches/main/package.tgz"
