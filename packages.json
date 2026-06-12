@@ -20382,7 +20382,7 @@
         "url": "https://build.fhir.org/ig/jldalisay95/ph-core-jld/branches/issue-325-medication-examples-alignment/package.tgz",
         "repo": "https://github.com/jldalisay95/ph-core-jld",
         "branch": "issue-325-medication-examples-alignment",
-        "lastSeen": "2026-06-09T05:31:10.000Z"
+        "lastSeen": "2026-06-12T04:47:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/319-fr-u-practitioner-examples-alignment/package.tgz",
@@ -57972,7 +57972,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-06-09T06:20:53.000Z"
+        "lastSeen": "2026-06-12T05:44:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -58878,7 +58878,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2026-04-07T20:45:57.000Z"
+        "lastSeen": "2026-06-12T04:09:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -60163,6 +60163,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-811-Move-OO-CodeSystems-to-THO",
         "lastSeen": "2026-06-02T02:50:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-810-Move-CS-and-VS-for-color-to-THO-from-FHIR-core/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-810-Move-CS-and-VS-for-color-to-THO-from-FHIR-core",
+        "lastSeen": "2026-06-12T03:50:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -78895,6 +78901,12 @@
         "repo": "https://github.com/mohcc/fhir-zw-lab-ig",
         "branch": "main",
         "lastSeen": "2026-06-11T12:18:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/fhir-zw-lab-ig/branches/testing/package.tgz",
+        "repo": "https://github.com/costateixeira/fhir-zw-lab-ig",
+        "branch": "testing",
+        "lastSeen": "2026-06-12T06:08:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/mohcc/fhir-zw-lab-ig/branches/main/package.tgz"
