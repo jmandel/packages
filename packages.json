@@ -12822,7 +12822,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3-SNAPSHOT",
-        "lastSeen": "2026-06-12T06:50:32.000Z"
+        "lastSeen": "2026-06-12T10:44:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/poa-privilege/package.tgz",
@@ -12955,6 +12955,18 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23173_new_observation_codes",
         "lastSeen": "2026-06-12T07:34:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23451_add_observation_code_rejse_saette_sig_test_60_sek/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-23451_add_observation_code_rejse_saette_sig_test_60_sek",
+        "lastSeen": "2026-06-12T09:54:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/search-param-in-intro/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "search-param-in-intro",
+        "lastSeen": "2026-06-12T09:46:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -14844,7 +14856,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/main/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "main",
-        "lastSeen": "2026-05-14T08:10:10.000Z"
+        "lastSeen": "2026-06-12T10:49:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/add-tables/package.tgz",
@@ -14862,13 +14874,19 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/comitology-wg/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "comitology-wg",
-        "lastSeen": "2026-06-12T07:44:14.000Z"
+        "lastSeen": "2026-06-12T10:23:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/gh-pages/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "gh-pages",
         "lastSeen": "2026-05-18T09:41:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/Aurora/package.tgz",
+        "repo": "https://github.com/EEHRxF/logical-model",
+        "branch": "Aurora",
+        "lastSeen": "2026-06-12T10:38:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -20700,7 +20718,7 @@
         "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-93-logical-information-model/package.tgz",
         "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
         "branch": "issue-93-logical-information-model",
-        "lastSeen": "2026-06-12T06:21:18.000Z"
+        "lastSeen": "2026-06-12T11:05:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/pr-76/package.tgz",
@@ -22111,6 +22129,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "128-dead-link---landing-page",
         "lastSeen": "2026-04-30T06:36:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/add-vbpk/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "add-vbpk",
+        "lastSeen": "2026-06-12T11:21:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -27786,7 +27810,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreference",
-        "lastSeen": "2026-06-12T08:57:37.000Z"
+        "lastSeen": "2026-06-12T10:50:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -34206,7 +34230,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2026-05-18T07:26:58.000Z"
+        "lastSeen": "2026-06-12T10:00:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -60816,7 +60840,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2026-06-11T18:29:46.000Z"
+        "lastSeen": "2026-06-12T11:48:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/v1.0.0-ballot/package.tgz",
@@ -63360,7 +63384,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/April26/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "April26",
-        "lastSeen": "2026-06-09T14:03:04.000Z"
+        "lastSeen": "2026-06-12T11:49:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -69414,7 +69438,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-06-12T07:38:27.000Z"
+        "lastSeen": "2026-06-12T11:16:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -75870,7 +75894,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-12T08:51:36.000Z"
+        "lastSeen": "2026-06-12T10:10:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
