@@ -642,7 +642,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/actnow/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/actnow",
         "branch": "main",
-        "lastSeen": "2026-06-15T06:15:35.000Z"
+        "lastSeen": "2026-06-15T06:26:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz"
@@ -4410,7 +4410,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emr",
         "branch": "master",
-        "lastSeen": "2026-06-12T16:04:45.000Z"
+        "lastSeen": "2026-06-15T07:48:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/prepare-ballot-1.0.0/package.tgz",
@@ -4434,7 +4434,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "master",
-        "lastSeen": "2026-06-12T15:27:42.000Z"
+        "lastSeen": "2026-06-15T07:47:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2024/package.tgz",
@@ -4513,6 +4513,12 @@
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "prepare-ballot-2.0.0",
         "lastSeen": "2026-06-12T15:12:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ems",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2026-06-15T08:11:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz"
@@ -13872,7 +13878,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-12T12:25:01.000Z"
+        "lastSeen": "2026-06-15T08:20:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -14406,7 +14412,7 @@
         "url": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz",
         "repo": "https://github.com/MoH-Ethiopia/ETBase",
         "branch": "main",
-        "lastSeen": "2026-06-15T06:14:44.000Z"
+        "lastSeen": "2026-06-15T07:58:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz"
@@ -20580,7 +20586,7 @@
         "url": "https://build.fhir.org/ig/ph-ereferral-organization/ph-ereferral/branches/main/package.tgz",
         "repo": "https://github.com/ph-ereferral-organization/ph-ereferral",
         "branch": "main",
-        "lastSeen": "2026-06-09T07:43:27.000Z"
+        "lastSeen": "2026-06-15T07:36:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/feature-14-sushi-ci-validation/package.tgz",
@@ -31201,6 +31207,12 @@
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "issue-24",
         "lastSeen": "2026-06-10T09:31:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/hl7-be/infsec",
+        "branch": "release-candidate",
+        "lastSeen": "2026-06-15T07:28:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/infsec/branches/issue-1/package.tgz"
@@ -36384,7 +36396,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "master",
-        "lastSeen": "2026-06-10T10:01:53.000Z"
+        "lastSeen": "2026-06-15T07:52:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging/branches/ballot-fixes/package.tgz",
@@ -36786,7 +36798,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "master",
-        "lastSeen": "2026-06-10T10:02:57.000Z"
+        "lastSeen": "2026-06-15T07:53:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/FHIR-53075-rename-title/package.tgz",
@@ -69576,7 +69588,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_HumanName/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_HumanName",
-        "lastSeen": "2026-06-11T15:45:37.000Z"
+        "lastSeen": "2026-06-15T07:23:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Practitioner/package.tgz",
@@ -69588,7 +69600,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-06-13T17:01:39.000Z"
+        "lastSeen": "2026-06-15T08:18:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
