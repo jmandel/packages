@@ -931,6 +931,12 @@
         "repo": "https://github.com/ansforge/IG-fhir-annuaire",
         "branch": "balmss-swagger",
         "lastSeen": "2026-06-15T08:52:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/balmss-swagger-BAL-pref/package.tgz",
+        "repo": "https://github.com/ansforge/IG-fhir-annuaire",
+        "branch": "balmss-swagger-BAL-pref",
+        "lastSeen": "2026-06-16T14:41:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
@@ -14478,13 +14484,25 @@
         "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/release-candidate/package.tgz",
         "repo": "https://github.com/costateixeira/ETBase-1",
         "branch": "release-candidate",
-        "lastSeen": "2026-06-16T08:48:19.000Z"
+        "lastSeen": "2026-06-16T15:12:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/patch-5/package.tgz",
         "repo": "https://github.com/costateixeira/ETBase-1",
         "branch": "patch-5",
         "lastSeen": "2026-06-16T12:36:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/connectathon/package.tgz",
+        "repo": "https://github.com/costateixeira/ETBase-1",
+        "branch": "connectathon",
+        "lastSeen": "2026-06-16T15:24:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/recover-reorg/package.tgz",
+        "repo": "https://github.com/costateixeira/ETBase-1",
+        "branch": "recover-reorg",
+        "lastSeen": "2026-06-16T15:25:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz"
@@ -36120,7 +36138,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "master",
-        "lastSeen": "2026-06-16T10:39:22.000Z"
+        "lastSeen": "2026-06-16T14:57:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/update_gitignore/package.tgz",
@@ -36156,7 +36174,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/gc-dev/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "gc-dev",
-        "lastSeen": "2026-06-16T13:15:36.000Z"
+        "lastSeen": "2026-06-16T15:18:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/fix-examples/package.tgz",
@@ -36546,7 +36564,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-56725-narrative-report-refactor/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-56725-narrative-report-refactor",
-        "lastSeen": "2026-06-15T15:06:31.000Z"
+        "lastSeen": "2026-06-16T15:44:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -37050,7 +37068,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-56725-narrative-report-refactor/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-56725-narrative-report-refactor",
-        "lastSeen": "2026-06-16T08:13:45.000Z"
+        "lastSeen": "2026-06-16T15:44:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -39049,6 +39067,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-service-request",
         "lastSeen": "2026-06-15T16:21:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-note-a-propos-evolutions/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-note-a-propos-evolutions",
+        "lastSeen": "2026-06-16T15:24:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -69696,7 +69720,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-06-16T12:14:03.000Z"
+        "lastSeen": "2026-06-16T14:41:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
