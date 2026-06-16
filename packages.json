@@ -1308,7 +1308,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/CC/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/CC",
         "branch": "main",
-        "lastSeen": "2026-06-15T02:54:28.000Z"
+        "lastSeen": "2026-06-16T03:55:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/CC/branches/main/package.tgz"
@@ -9492,7 +9492,7 @@
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/gpccmp-fhir-ig",
         "branch": "master",
-        "lastSeen": "2026-06-04T03:08:25.000Z"
+        "lastSeen": "2026-06-16T04:47:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/gpccmp-fhir-ig/branches/collapsible-form-version-2/package.tgz",
@@ -14455,6 +14455,12 @@
         "repo": "https://github.com/MoH-Ethiopia/ETBase",
         "branch": "main",
         "lastSeen": "2026-06-15T07:58:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/costateixeira/ETBase-1",
+        "branch": "release-candidate",
+        "lastSeen": "2026-06-16T06:25:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz"
@@ -20587,6 +20593,12 @@
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "feat-305-acs-clinical-case-examples",
         "lastSeen": "2026-06-12T06:09:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-348-psgc-example-errors/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-core",
+        "branch": "fix-348-psgc-example-errors",
+        "lastSeen": "2026-06-16T04:06:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -26029,6 +26041,12 @@
         "repo": "https://github.com/AuDigitalHealth/au-fhir-base",
         "branch": "service-provision-conditions-codesystem-changes",
         "lastSeen": "2026-05-22T05:12:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/number-times-dispensed/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "number-times-dispensed",
+        "lastSeen": "2026-06-16T04:31:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -27912,7 +27930,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-prof/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-prof",
-        "lastSeen": "2026-06-09T03:10:22.000Z"
+        "lastSeen": "2026-06-16T04:10:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
@@ -31254,7 +31272,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "release-candidate",
-        "lastSeen": "2026-06-15T09:38:42.000Z"
+        "lastSeen": "2026-06-16T06:06:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/fix-download-links/package.tgz",
@@ -75450,7 +75468,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.2.3/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.2.3",
-        "lastSeen": "2026-06-16T02:27:49.000Z"
+        "lastSeen": "2026-06-16T03:54:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
