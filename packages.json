@@ -9210,7 +9210,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-cms-2026/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-cms-2026",
         "branch": "main",
-        "lastSeen": "2026-06-09T13:11:59.000Z"
+        "lastSeen": "2026-06-16T17:19:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/ld-20260526-fix-bad-measure-data/package.tgz",
@@ -45954,7 +45954,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2026-06-11T16:00:07.000Z"
+        "lastSeen": "2026-06-16T16:03:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -46524,7 +46524,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postSTU2BallotChanges/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postSTU2BallotChanges",
-        "lastSeen": "2026-06-10T02:55:24.000Z"
+        "lastSeen": "2026-06-16T16:02:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/LRN-Updates/package.tgz",
@@ -46794,7 +46794,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/pfe-stu3-ballot/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "pfe-stu3-ballot",
-        "lastSeen": "2026-06-15T15:33:22.000Z"
+        "lastSeen": "2026-06-16T15:41:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz"
@@ -52429,6 +52429,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates-06082026",
         "lastSeen": "2026-06-15T20:56:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates-esdm-97/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "dd-deqm-updates-esdm-97",
+        "lastSeen": "2026-06-16T16:51:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
@@ -54073,6 +54079,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "dbarwin-oo-jun15",
         "lastSeen": "2026-06-16T01:25:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/es-FHIR-53036-update-DeviceAlert-terminology-to-THO/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "es-FHIR-53036-update-DeviceAlert-terminology-to-THO",
+        "lastSeen": "2026-06-16T16:11:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
