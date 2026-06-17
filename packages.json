@@ -1441,6 +1441,12 @@
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "V1.0.0-RC1",
         "lastSeen": "2026-06-16T00:42:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/test-factory/package.tgz",
+        "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
+        "branch": "test-factory",
+        "lastSeen": "2026-06-17T21:10:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-remove-test/package.tgz"
@@ -3420,7 +3426,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-06-17T11:36:00.000Z"
+        "lastSeen": "2026-06-17T21:27:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
