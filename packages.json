@@ -3420,7 +3420,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-06-10T12:48:35.000Z"
+        "lastSeen": "2026-06-17T11:36:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -12732,7 +12732,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-06-16T09:04:40.000Z"
+        "lastSeen": "2026-06-17T11:23:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -13074,7 +13074,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23560_better_documentation_of_CCR0198/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23560_better_documentation_of_CCR0198",
-        "lastSeen": "2026-06-17T08:43:47.000Z"
+        "lastSeen": "2026-06-17T10:14:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/sender-careteam-search-param/package.tgz",
@@ -13956,7 +13956,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-15T13:50:04.000Z"
+        "lastSeen": "2026-06-17T11:28:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -19152,7 +19152,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "main",
-        "lastSeen": "2026-06-17T09:33:04.000Z"
+        "lastSeen": "2026-06-17T11:37:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/4-0-x-dependency-challenge/package.tgz",
@@ -19428,7 +19428,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-patient-enrollment-credential/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "add-patient-enrollment-credential",
-        "lastSeen": "2026-04-08T13:40:08.000Z"
+        "lastSeen": "2026-06-17T11:36:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-healthcare-professional-delegation-credential/package.tgz",
@@ -19459,6 +19459,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "add-authorization-information-model",
         "lastSeen": "2026-06-11T09:04:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-serviceprovider-and-healthcareprovider-credentials/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "add-serviceprovider-and-healthcareprovider-credentials",
+        "lastSeen": "2026-06-17T11:48:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -22860,7 +22866,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-17T09:53:58.000Z"
+        "lastSeen": "2026-06-17T11:05:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -31404,7 +31410,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "release-candidate",
-        "lastSeen": "2026-06-16T06:06:13.000Z"
+        "lastSeen": "2026-06-17T11:53:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/fix-download-links/package.tgz",
@@ -51372,13 +51378,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-06-04T16:36:28.000Z"
+        "lastSeen": "2026-06-17T10:38:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-06-04T16:52:10.000Z"
+        "lastSeen": "2026-06-17T10:54:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
@@ -61434,7 +61440,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/organization-type-v2.0.0/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "organization-type-v2.0.0",
-        "lastSeen": "2026-05-28T08:34:25.000Z"
+        "lastSeen": "2026-06-17T11:27:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/wg-medication/package.tgz",
@@ -69948,7 +69954,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Practitioner/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Practitioner",
-        "lastSeen": "2026-06-16T10:16:26.000Z"
+        "lastSeen": "2026-06-17T10:43:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
@@ -69973,6 +69979,12 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_test",
         "lastSeen": "2026-06-15T18:46:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_AllergyIntolerance",
+        "lastSeen": "2026-06-17T11:35:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -75715,6 +75727,12 @@
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.2.3",
         "lastSeen": "2026-06-16T05:42:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.2.4/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/pas",
+        "branch": "1.2.4",
+        "lastSeen": "2026-06-17T08:58:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
