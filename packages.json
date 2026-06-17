@@ -13956,7 +13956,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-17T11:28:23.000Z"
+        "lastSeen": "2026-06-17T12:47:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -19105,6 +19105,12 @@
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "vol3-table-syntax",
         "lastSeen": "2026-06-03T15:29:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/localisation/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-360-ig",
+        "branch": "localisation",
+        "lastSeen": "2026-06-17T13:24:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz"
@@ -19464,7 +19470,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-serviceprovider-and-healthcareprovider-credentials/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "add-serviceprovider-and-healthcareprovider-credentials",
-        "lastSeen": "2026-06-17T11:48:41.000Z"
+        "lastSeen": "2026-06-17T12:21:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -20676,7 +20682,7 @@
         "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/jgsuess/ph-core",
         "branch": "main",
-        "lastSeen": "2026-06-17T09:15:03.000Z"
+        "lastSeen": "2026-06-17T13:40:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/322-allergyintolerance-examples-alignment/package.tgz",
@@ -20688,7 +20694,7 @@
         "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/release-please--branches--main/package.tgz",
         "repo": "https://github.com/jgsuess/ph-core",
         "branch": "release-please--branches--main",
-        "lastSeen": "2026-06-17T09:15:50.000Z"
+        "lastSeen": "2026-06-17T13:40:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/323-immunization-examples-alignment/package.tgz",
@@ -28062,7 +28068,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-prof/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-prof",
-        "lastSeen": "2026-06-17T05:25:26.000Z"
+        "lastSeen": "2026-06-17T12:04:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
@@ -36420,13 +36426,13 @@
         "url": "https://build.fhir.org/ig/bvdh/jwg-api/branches/ballot-recond-authorization/package.tgz",
         "repo": "https://github.com/bvdh/jwg-api",
         "branch": "ballot-recond-authorization",
-        "lastSeen": "2026-06-04T08:48:36.000Z"
+        "lastSeen": "2026-06-17T12:42:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/apply-may27-votes/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "apply-may27-votes",
-        "lastSeen": "2026-06-10T17:11:39.000Z"
+        "lastSeen": "2026-06-17T13:34:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -45618,7 +45624,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-06-10T18:29:48.000Z"
+        "lastSeen": "2026-06-17T13:08:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -52116,7 +52122,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-06-11T21:35:40.000Z"
+        "lastSeen": "2026-06-17T12:37:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -54181,6 +54187,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "es-FHIR-53036-update-DeviceAlert-terminology-to-THO",
         "lastSeen": "2026-06-16T16:11:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/security-consent-FHIR-54637/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "security-consent-FHIR-54637",
+        "lastSeen": "2026-06-17T13:39:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
