@@ -14478,7 +14478,7 @@
         "url": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz",
         "repo": "https://github.com/MoH-Ethiopia/ETBase",
         "branch": "main",
-        "lastSeen": "2026-06-16T12:37:19.000Z"
+        "lastSeen": "2026-06-17T06:49:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/release-candidate/package.tgz",
@@ -14503,6 +14503,12 @@
         "repo": "https://github.com/costateixeira/ETBase-1",
         "branch": "recover-reorg",
         "lastSeen": "2026-06-16T15:25:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/ETBase-1/branches/first-release/package.tgz",
+        "repo": "https://github.com/costateixeira/ETBase-1",
+        "branch": "first-release",
+        "lastSeen": "2026-06-17T06:30:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/MoH-Ethiopia/ETBase/branches/main/package.tgz"
@@ -20652,7 +20658,7 @@
         "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/jgsuess/ph-core",
         "branch": "main",
-        "lastSeen": "2026-06-17T01:59:38.000Z"
+        "lastSeen": "2026-06-17T07:46:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/322-allergyintolerance-examples-alignment/package.tgz",
@@ -20664,7 +20670,7 @@
         "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/release-please--branches--main/package.tgz",
         "repo": "https://github.com/jgsuess/ph-core",
         "branch": "release-please--branches--main",
-        "lastSeen": "2026-06-17T01:59:54.000Z"
+        "lastSeen": "2026-06-17T07:54:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/323-immunization-examples-alignment/package.tgz",
@@ -26143,6 +26149,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "number-times-dispensed",
         "lastSeen": "2026-06-16T04:31:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-56041/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "cr-FHIR-56041",
+        "lastSeen": "2026-06-17T06:51:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -52008,7 +52020,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cql-ig",
         "branch": "main",
-        "lastSeen": "2026-04-23T03:34:53.000Z"
+        "lastSeen": "2026-06-17T06:21:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/v1.0.0-ballot/package.tgz",
@@ -60541,6 +60553,66 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-813-Add-OID-for-USPS-State-value-set",
         "lastSeen": "2026-06-13T06:43:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-828-Create-a-new-US-Realm-CodeSystem--US-Claim-Information-Category-Codes-and-associated-ValueSet-including-all-codes-from-this-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-828-Create-a-new-US-Realm-CodeSystem--US-Claim-Information-Category-Codes-and-associated-ValueSet-including-all-codes-from-this-CodeSystem",
+        "lastSeen": "2026-06-17T07:28:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-821-Add-codes-to-the-Claim-Information-Category-Codes-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-821-Add-codes-to-the-Claim-Information-Category-Codes-CodeSystem",
+        "lastSeen": "2026-06-17T07:32:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-817-Create-a-new-CodeSystem--Claim-Payment-Component-Category-Codes--and-associated-ValueSet-including-all-codes-from-this-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-817-Create-a-new-CodeSystem--Claim-Payment-Component-Category-Codes--and-associated-ValueSet-including-all-codes-from-this-CodeSystem",
+        "lastSeen": "2026-06-17T07:29:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-819-Add-codes-to-the-Adjudication-Value-Codes-and-improve-definitions-of-existing-codes/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-819-Add-codes-to-the-Adjudication-Value-Codes-and-improve-definitions-of-existing-codes",
+        "lastSeen": "2026-06-17T07:23:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-818-Create-a-new-CodeSystem--Claim-Adjudication-Basis-Category-Codes--and-associated-ValueSet-including-all-codes-from-this-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-818-Create-a-new-CodeSystem--Claim-Adjudication-Basis-Category-Codes--and-associated-ValueSet-including-all-codes-from-this-CodeSystem",
+        "lastSeen": "2026-06-17T07:28:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-815-Add-codes-to-the-Payment-Status-Codes-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-815-Add-codes-to-the-Payment-Status-Codes-CodeSystem",
+        "lastSeen": "2026-06-17T07:33:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-816-Create-a-new-CodeSystem--Process-Note-Class-Codes-and-associated-ValueSet-including-all-codes-from-this-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-816-Create-a-new-CodeSystem--Process-Note-Class-Codes-and-associated-ValueSet-including-all-codes-from-this-CodeSystem",
+        "lastSeen": "2026-06-17T07:25:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-814-Add-codes-to-the-Benefit-Type-Codes-CodeSystem-and-improve-definitions-of-existing-codes/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-814-Add-codes-to-the-Benefit-Type-Codes-CodeSystem-and-improve-definitions-of-existing-codes",
+        "lastSeen": "2026-06-17T07:30:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-824-Create-new-codes-in-the-Coverage-Copay-Type-Codes-CodeSystem-for-more-details-deductible-and-maximum/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-824-Create-new-codes-in-the-Coverage-Copay-Type-Codes-CodeSystem-for-more-details-deductible-and-maximum",
+        "lastSeen": "2026-06-17T07:31:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-823-Create-new-codes-in-the-Coverage-Class-Codes-CodeSystem/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-823-Create-new-codes-in-the-Coverage-Class-Codes-CodeSystem",
+        "lastSeen": "2026-06-17T07:33:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -69792,7 +69864,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-06-16T14:41:21.000Z"
+        "lastSeen": "2026-06-17T07:50:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -76302,7 +76374,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-16T12:26:34.000Z"
+        "lastSeen": "2026-06-17T07:03:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
