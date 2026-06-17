@@ -20652,13 +20652,25 @@
         "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/jgsuess/ph-core",
         "branch": "main",
-        "lastSeen": "2026-06-17T00:44:50.000Z"
+        "lastSeen": "2026-06-17T01:59:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/322-allergyintolerance-examples-alignment/package.tgz",
         "repo": "https://github.com/eabuenaventura/eab-ph-core",
         "branch": "322-allergyintolerance-examples-alignment",
-        "lastSeen": "2026-06-17T01:26:45.000Z"
+        "lastSeen": "2026-06-17T01:37:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/release-please--branches--main/package.tgz",
+        "repo": "https://github.com/jgsuess/ph-core",
+        "branch": "release-please--branches--main",
+        "lastSeen": "2026-06-17T01:59:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/323-immunization-examples-alignment/package.tgz",
+        "repo": "https://github.com/eabuenaventura/eab-ph-core",
+        "branch": "323-immunization-examples-alignment",
+        "lastSeen": "2026-06-17T02:20:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -20892,7 +20904,7 @@
         "url": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-93-logical-information-model/package.tgz",
         "repo": "https://github.com/jldalisay95/ph-ereferral-jld",
         "branch": "issue-93-logical-information-model",
-        "lastSeen": "2026-06-16T08:07:19.000Z"
+        "lastSeen": "2026-06-17T01:56:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/pr-76/package.tgz",
@@ -30277,6 +30289,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_ignoreWarnings",
         "lastSeen": "2026-06-11T08:50:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_afmm2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_afmm2",
+        "lastSeen": "2026-06-17T02:18:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
