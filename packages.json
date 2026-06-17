@@ -20298,7 +20298,7 @@
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UP-Manila-SILab/ph-core",
         "branch": "main",
-        "lastSeen": "2026-06-17T05:56:53.000Z"
+        "lastSeen": "2026-06-17T17:27:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/150-fr-u-change-naming-convention-of-examples/package.tgz",
@@ -20724,7 +20724,7 @@
         "url": "https://build.fhir.org/ig/eabuenaventura/eab-ph-core/branches/329-organization-and-location-examples-alignment/package.tgz",
         "repo": "https://github.com/eabuenaventura/eab-ph-core",
         "branch": "329-organization-and-location-examples-alignment",
-        "lastSeen": "2026-06-17T04:36:23.000Z"
+        "lastSeen": "2026-06-17T17:30:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jgsuess/ph-core/branches/v0.1.1/package.tgz",
@@ -45642,7 +45642,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-06-17T13:08:28.000Z"
+        "lastSeen": "2026-06-17T15:45:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -56526,7 +56526,7 @@
         "url": "https://build.fhir.org/ig/HL7/pc-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/pc-incubator",
         "branch": "main",
-        "lastSeen": "2026-05-28T07:18:39.000Z"
+        "lastSeen": "2026-06-17T16:35:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/pc-incubator/branches/main/package.tgz"
@@ -60673,6 +60673,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-823-Create-new-codes-in-the-Coverage-Class-Codes-CodeSystem",
         "lastSeen": "2026-06-17T07:33:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-822-Add-payment-related-identifier-types-to-CodeSystem-v2-0203/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-822-Add-payment-related-identifier-types-to-CodeSystem-v2-0203",
+        "lastSeen": "2026-06-17T15:42:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -64794,7 +64800,7 @@
         "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/NkrIG",
         "branch": "develop",
-        "lastSeen": "2026-06-16T12:40:56.000Z"
+        "lastSeen": "2026-06-17T17:15:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/container-for-igbuilder/package.tgz",
