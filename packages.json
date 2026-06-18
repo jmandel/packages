@@ -9606,7 +9606,7 @@
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz",
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "master",
-        "lastSeen": "2026-06-04T05:16:11.000Z"
+        "lastSeen": "2026-06-17T23:48:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/resource-tester/package.tgz",
@@ -52770,7 +52770,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2026-06-16T13:07:18.000Z"
+        "lastSeen": "2026-06-18T01:06:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -52807,6 +52807,12 @@
         "repo": "https://github.com/joofio/vulcan-eproduct-info",
         "branch": "patch-1",
         "lastSeen": "2023-12-06T14:21:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/dosing-population-model/package.tgz",
+        "repo": "https://github.com/HL7/emedicinal-product-info",
+        "branch": "dosing-population-model",
+        "lastSeen": "2026-06-18T01:06:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz"
@@ -75432,7 +75438,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/nzhts-ig/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/nzhts-ig",
         "branch": "uat",
-        "lastSeen": "2026-02-26T21:43:47.000Z"
+        "lastSeen": "2026-06-18T01:07:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/daniel-thomson/nzhts/branches/main/package.tgz"
