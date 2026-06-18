@@ -13914,7 +13914,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-16T10:48:42.000Z"
+        "lastSeen": "2026-06-18T07:20:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -13939,6 +13939,12 @@
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "use-id-in-organization-practitioner-resources",
         "lastSeen": "2026-06-17T08:50:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/revert-2-use-id-in-organization-practitioner-resources/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
+        "branch": "revert-2-use-id-in-organization-practitioner-resources",
+        "lastSeen": "2026-06-18T07:20:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -13974,7 +13980,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-17T12:47:04.000Z"
+        "lastSeen": "2026-06-18T07:53:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -19116,7 +19122,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "main",
-        "lastSeen": "2026-06-17T15:42:12.000Z"
+        "lastSeen": "2026-06-18T07:23:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol3-table-syntax/package.tgz",
@@ -19128,7 +19134,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/localisation/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "localisation",
-        "lastSeen": "2026-06-17T15:43:21.000Z"
+        "lastSeen": "2026-06-18T06:31:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol1/package.tgz",
@@ -19146,7 +19152,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/auths/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "auths",
-        "lastSeen": "2026-06-17T14:12:29.000Z"
+        "lastSeen": "2026-06-18T07:19:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz"
@@ -22914,7 +22920,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-17T11:05:32.000Z"
+        "lastSeen": "2026-06-18T07:52:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -39582,7 +39588,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
-        "lastSeen": "2026-04-24T07:46:21.000Z"
+        "lastSeen": "2026-06-18T07:54:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/v0.1.0/package.tgz",
@@ -39666,7 +39672,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/sync-eisen-epic-842/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "sync-eisen-epic-842",
-        "lastSeen": "2026-06-03T16:13:48.000Z"
+        "lastSeen": "2026-06-18T06:54:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/endpoint-lifecycle-transition/package.tgz",
@@ -39678,13 +39684,25 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/endpoint-versioning/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "endpoint-versioning",
-        "lastSeen": "2026-06-11T14:21:16.000Z"
+        "lastSeen": "2026-06-18T07:00:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/endpoint-usage-metadata/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "endpoint-usage-metadata",
         "lastSeen": "2026-06-15T12:06:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/ehds-alignment-847/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "ehds-alignment-847",
+        "lastSeen": "2026-06-18T07:03:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/FHIR-publisher-update/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "FHIR-publisher-update",
+        "lastSeen": "2026-06-18T07:03:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -64842,7 +64860,7 @@
         "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/NkrIG",
         "branch": "develop",
-        "lastSeen": "2026-06-17T17:15:02.000Z"
+        "lastSeen": "2026-06-18T06:54:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/container-for-igbuilder/package.tgz",
@@ -64854,7 +64872,7 @@
         "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/main/package.tgz",
         "repo": "https://github.com/IKNL/NkrIG",
         "branch": "main",
-        "lastSeen": "2026-06-16T12:51:18.000Z"
+        "lastSeen": "2026-06-18T07:58:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/v1.4.1/package.tgz",
