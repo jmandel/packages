@@ -20820,7 +20820,7 @@
         "url": "https://build.fhir.org/ig/ph-ereferral-organization/ph-ereferral/branches/main/package.tgz",
         "repo": "https://github.com/ph-ereferral-organization/ph-ereferral",
         "branch": "main",
-        "lastSeen": "2026-06-16T07:33:44.000Z"
+        "lastSeen": "2026-06-19T02:32:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/feature-14-sushi-ci-validation/package.tgz",
@@ -26292,7 +26292,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/build-pipeline-redesign/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "build-pipeline-redesign",
-        "lastSeen": "2026-06-19T01:45:59.000Z"
+        "lastSeen": "2026-06-19T03:25:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/canonical-redirects-preview/package.tgz",
@@ -28188,7 +28188,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreference",
-        "lastSeen": "2026-06-12T10:50:20.000Z"
+        "lastSeen": "2026-06-19T02:36:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_conf-page-changes/package.tgz",
@@ -30475,6 +30475,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_qafromreview",
         "lastSeen": "2026-06-18T04:18:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/build-pipeline-redesign/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "build-pipeline-redesign",
+        "lastSeen": "2026-06-19T03:08:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
