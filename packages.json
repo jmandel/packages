@@ -10693,6 +10693,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "remove-frequency-if-not-necessary",
         "lastSeen": "2026-06-16T08:57:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/add-logical-models/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "add-logical-models",
+        "lastSeen": "2026-06-19T04:27:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -13926,7 +13932,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-18T07:20:17.000Z"
+        "lastSeen": "2026-06-19T06:13:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -13957,6 +13963,12 @@
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "revert-2-use-id-in-organization-practitioner-resources",
         "lastSeen": "2026-06-18T07:20:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/update-fhir-api/package.tgz",
+        "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
+        "branch": "update-fhir-api",
+        "lastSeen": "2026-06-19T06:11:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/master/package.tgz"
@@ -28194,7 +28206,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_conf-page-changes/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_conf-page-changes",
-        "lastSeen": "2026-06-18T05:51:14.000Z"
+        "lastSeen": "2026-06-19T04:58:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -30481,6 +30493,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "build-pipeline-redesign",
         "lastSeen": "2026-06-19T03:08:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_home-aups/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_home-aups",
+        "lastSeen": "2026-06-19T04:38:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
