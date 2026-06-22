@@ -13080,7 +13080,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23141_CCR0320OA1_Documentation/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23141_CCR0320OA1_Documentation",
-        "lastSeen": "2026-06-09T09:54:43.000Z"
+        "lastSeen": "2026-06-22T08:04:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23173_new_observation_codes/package.tgz",
@@ -20802,7 +20802,7 @@
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/feat-359-capabilitystatement/package.tgz",
         "repo": "https://github.com/niccoreyes/ph-core",
         "branch": "feat-359-capabilitystatement",
-        "lastSeen": "2026-06-22T06:16:28.000Z"
+        "lastSeen": "2026-06-22T06:51:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -30108,7 +30108,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_suppressed-data/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_suppressed-data",
-        "lastSeen": "2025-11-06T09:14:09.000Z"
+        "lastSeen": "2026-06-22T07:36:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_FHIR-53374/package.tgz",
@@ -35688,7 +35688,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-hackathons/branches/main/package.tgz",
         "repo": "https://github.com/hl7dk/dk-hackathons",
         "branch": "main",
-        "lastSeen": "2026-06-21T21:02:59.000Z"
+        "lastSeen": "2026-06-22T08:01:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-hackathon/branches/main/package.tgz"
@@ -39384,13 +39384,19 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-service-request/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-service-request",
-        "lastSeen": "2026-06-15T16:21:02.000Z"
+        "lastSeen": "2026-06-22T07:17:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-note-a-propos-evolutions/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-note-a-propos-evolutions",
         "lastSeen": "2026-06-16T15:24:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-procedure/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "nr-doc-core-procedure",
+        "lastSeen": "2026-06-22T07:36:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -52783,6 +52789,12 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates-esdm-97",
         "lastSeen": "2026-06-17T20:37:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/DW-index-diagrams/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "DW-index-diagrams",
+        "lastSeen": "2026-06-22T08:11:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
