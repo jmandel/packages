@@ -12954,7 +12954,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3-SNAPSHOT/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3-SNAPSHOT",
-        "lastSeen": "2026-06-18T11:11:53.000Z"
+        "lastSeen": "2026-06-22T17:22:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/poa-privilege/package.tgz",
@@ -13123,6 +13123,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "fix-typo",
         "lastSeen": "2026-06-18T11:10:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/contactpoint-invariant/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "contactpoint-invariant",
+        "lastSeen": "2026-06-22T16:32:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -43950,7 +43956,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/ci-lingo/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "ci-lingo",
-        "lastSeen": "2026-06-08T21:07:07.000Z"
+        "lastSeen": "2026-06-22T16:32:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz"
@@ -48120,7 +48126,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2026-06-12T15:21:47.000Z"
+        "lastSeen": "2026-06-22T16:35:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -51666,13 +51672,13 @@
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/hugh/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "hugh",
-        "lastSeen": "2026-06-17T10:38:59.000Z"
+        "lastSeen": "2026-06-22T17:54:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/vulcan-udp-ig",
         "branch": "main",
-        "lastSeen": "2026-06-17T10:54:07.000Z"
+        "lastSeen": "2026-06-22T17:54:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vulcan-udp-ig/branches/main/package.tgz"
