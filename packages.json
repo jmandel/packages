@@ -2760,7 +2760,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2026-06-10T14:31:51.000Z"
+        "lastSeen": "2026-06-23T06:42:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -7950,7 +7950,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "main",
-        "lastSeen": "2026-06-13T12:42:24.000Z"
+        "lastSeen": "2026-06-23T06:44:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
@@ -23052,7 +23052,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-22T10:55:01.000Z"
+        "lastSeen": "2026-06-23T07:08:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -28285,6 +28285,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_medicationdispense",
         "lastSeen": "2026-06-23T00:45:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference-hf/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_documentreference-hf",
+        "lastSeen": "2026-06-23T07:34:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -37753,6 +37759,12 @@
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "fix-invariant",
         "lastSeen": "2026-05-05T12:23:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/lab-rpt-section-proposal/package.tgz",
+        "repo": "https://github.com/hl7-eu/laboratory",
+        "branch": "lab-rpt-section-proposal",
+        "lastSeen": "2026-06-23T06:21:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -68154,7 +68166,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/20260623-exampleupdate-SKS/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "20260623-exampleupdate-SKS",
-        "lastSeen": "2026-06-23T05:44:57.000Z"
+        "lastSeen": "2026-06-23T07:15:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz"
@@ -76008,7 +76020,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2026-06-23T03:36:59.000Z"
+        "lastSeen": "2026-06-23T07:27:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
@@ -76074,7 +76086,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2026-06-17T08:59:24.000Z"
+        "lastSeen": "2026-06-23T06:00:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -76188,7 +76200,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.2.4/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.2.4",
-        "lastSeen": "2026-06-23T02:19:58.000Z"
+        "lastSeen": "2026-06-23T06:11:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
