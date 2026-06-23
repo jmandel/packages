@@ -17683,6 +17683,18 @@
         "repo": "https://github.com/vadi2/snomed-procedure-ichi",
         "branch": "regenerate-conceptmap",
         "lastSeen": "2026-04-29T13:35:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/patrick-werner/TestDeSCT/branches/expansion-params/package.tgz",
+        "repo": "https://github.com/patrick-werner/TestDeSCT",
+        "branch": "expansion-params",
+        "lastSeen": "2026-06-23T15:53:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/patrick-werner/TestDeSCT/branches/language-jurisdiction/package.tgz",
+        "repo": "https://github.com/patrick-werner/TestDeSCT",
+        "branch": "language-jurisdiction",
+        "lastSeen": "2026-06-23T15:49:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk_MunicipalityObservationResults/branches/master/package.tgz"
@@ -18018,7 +18030,7 @@
         "url": "https://build.fhir.org/ig/CesarMsc1975/IPSLansysAr/branches/main/package.tgz",
         "repo": "https://github.com/CesarMsc1975/IPSLansysAr",
         "branch": "main",
-        "lastSeen": "2026-06-23T15:11:03.000Z"
+        "lastSeen": "2026-06-23T15:51:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CesarMsc1975/IPSLansysAr/branches/main/package.tgz"
@@ -20364,7 +20376,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "connectathon-july-2026",
-        "lastSeen": "2026-06-22T21:37:53.000Z"
+        "lastSeen": "2026-06-23T15:26:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026-questionnaires/package.tgz",
@@ -22314,7 +22326,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2026-06-09T09:29:35.000Z"
+        "lastSeen": "2026-06-23T16:04:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -34542,7 +34554,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/tei/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/tei",
         "branch": "master",
-        "lastSeen": "2026-05-05T13:06:48.000Z"
+        "lastSeen": "2026-06-23T16:20:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz"
@@ -34674,7 +34686,7 @@
         "url": "https://build.fhir.org/ig/HL7-cr/core/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cr/core",
         "branch": "main",
-        "lastSeen": "2026-05-03T17:21:15.000Z"
+        "lastSeen": "2026-06-23T16:16:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hiecr/ig-core/branches/main/package.tgz"
@@ -34686,7 +34698,7 @@
         "url": "https://build.fhir.org/ig/HL7-cr/imaging-report/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cr/imaging-report",
         "branch": "main",
-        "lastSeen": "2026-05-03T17:31:16.000Z"
+        "lastSeen": "2026-06-23T16:24:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cr/imaging-report/branches/main/package.tgz"
@@ -34698,7 +34710,7 @@
         "url": "https://build.fhir.org/ig/HL7-cr/laboratory-results/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cr/laboratory-results",
         "branch": "main",
-        "lastSeen": "2026-05-03T17:32:01.000Z"
+        "lastSeen": "2026-06-23T16:23:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cr/laboratory-results/branches/main/package.tgz"
@@ -34728,7 +34740,7 @@
         "url": "https://build.fhir.org/ig/HL7-cr/terminology/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cr/terminology",
         "branch": "main",
-        "lastSeen": "2026-05-03T17:22:09.000Z"
+        "lastSeen": "2026-06-23T16:22:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cr/terminology/branches/main/package.tgz"
@@ -36516,7 +36528,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "master",
-        "lastSeen": "2026-06-23T14:48:37.000Z"
+        "lastSeen": "2026-06-23T15:52:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/update_gitignore/package.tgz",
@@ -67488,7 +67500,7 @@
         "url": "https://build.fhir.org/ig/jmandel/periodicity/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/periodicity",
         "branch": "main",
-        "lastSeen": "2026-06-23T15:23:30.000Z"
+        "lastSeen": "2026-06-23T15:45:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jmandel/periodicity/branches/main/package.tgz"
