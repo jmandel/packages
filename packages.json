@@ -13488,7 +13488,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-06-24T11:30:14.000Z"
+        "lastSeen": "2026-06-24T13:26:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -13656,7 +13656,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/dpd_rettelser_22062026/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "dpd_rettelser_22062026",
-        "lastSeen": "2026-06-24T12:11:07.000Z"
+        "lastSeen": "2026-06-24T13:39:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.21.1/package.tgz",
@@ -19884,7 +19884,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-06-24T11:00:59.000Z"
+        "lastSeen": "2026-06-24T14:04:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -23118,7 +23118,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-24T13:10:14.000Z"
+        "lastSeen": "2026-06-24T14:18:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -36781,6 +36781,12 @@
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "apply-may27-votes",
         "lastSeen": "2026-06-18T16:30:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/bvdh-deployment/package.tgz",
+        "repo": "https://github.com/euridice-org/eu-health-data-api",
+        "branch": "bvdh-deployment",
+        "lastSeen": "2026-06-24T14:00:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -51078,7 +51084,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "main",
-        "lastSeen": "2026-06-10T13:51:57.000Z"
+        "lastSeen": "2026-06-24T14:14:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/dependency-updates/package.tgz",
@@ -51499,6 +51505,12 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "fhir-54292-override-reason-categories",
         "lastSeen": "2026-06-03T19:37:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/formatting-only/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "formatting-only",
+        "lastSeen": "2026-06-24T14:10:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -52902,7 +52914,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-06-24T11:51:59.000Z"
+        "lastSeen": "2026-06-24T13:17:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -52998,7 +53010,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-57199/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-57199",
-        "lastSeen": "2026-06-24T11:56:05.000Z"
+        "lastSeen": "2026-06-24T13:14:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates-esdm97-2/package.tgz",
@@ -75066,7 +75078,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/MeOW-r4/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ph4h",
         "branch": "MeOW-r4",
-        "lastSeen": "2026-06-24T12:42:51.000Z"
+        "lastSeen": "2026-06-24T13:14:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/main/package.tgz"
@@ -77622,7 +77634,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "main",
-        "lastSeen": "2026-06-18T11:56:09.000Z"
+        "lastSeen": "2026-06-24T13:47:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/forms-overview/package.tgz",
