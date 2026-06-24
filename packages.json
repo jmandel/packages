@@ -13482,7 +13482,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-06-22T06:01:14.000Z"
+        "lastSeen": "2026-06-24T11:01:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -19842,7 +19842,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-06-24T09:17:43.000Z"
+        "lastSeen": "2026-06-24T11:00:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -23076,7 +23076,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-06-24T08:27:07.000Z"
+        "lastSeen": "2026-06-24T10:17:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -39876,7 +39876,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
-        "lastSeen": "2026-06-18T07:54:40.000Z"
+        "lastSeen": "2026-06-24T11:20:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/v0.1.0/package.tgz",
@@ -39984,7 +39984,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/ehds-alignment-847/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "ehds-alignment-847",
-        "lastSeen": "2026-06-18T12:09:36.000Z"
+        "lastSeen": "2026-06-24T10:03:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/FHIR-publisher-update/package.tgz",
@@ -52500,7 +52500,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-06-18T16:08:12.000Z"
+        "lastSeen": "2026-06-24T10:51:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -52854,7 +52854,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-06-23T14:23:27.000Z"
+        "lastSeen": "2026-06-24T10:20:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -52957,6 +52957,24 @@
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates-esdm97-2",
         "lastSeen": "2026-06-23T16:28:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-57628/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-57628",
+        "lastSeen": "2026-06-24T11:14:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56909/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-56909",
+        "lastSeen": "2026-06-24T11:20:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-57554/package.tgz",
+        "repo": "https://github.com/HL7/davinci-deqm",
+        "branch": "FHIR-57554",
+        "lastSeen": "2026-06-24T11:03:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
@@ -57324,7 +57342,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-06-22T11:59:06.000Z"
+        "lastSeen": "2026-06-24T11:19:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
@@ -57391,6 +57409,12 @@
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "FHIR-39507",
         "lastSeen": "2026-06-22T13:25:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/update-fhir-template/package.tgz",
+        "repo": "https://github.com/HL7/uv-pocd",
+        "branch": "update-fhir-template",
+        "lastSeen": "2026-06-24T10:10:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz"
@@ -70494,7 +70518,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_AllergyIntolerance",
-        "lastSeen": "2026-06-24T08:18:12.000Z"
+        "lastSeen": "2026-06-24T10:34:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-decor-ids/package.tgz",
