@@ -46213,6 +46213,12 @@
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "Block-Vote-3",
         "lastSeen": "2026-06-12T19:27:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/cms-connectathon-7/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "cms-connectathon-7",
+        "lastSeen": "2026-06-24T18:52:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
@@ -73272,7 +73278,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/main/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "main",
-        "lastSeen": "2026-06-10T15:16:33.000Z"
+        "lastSeen": "2026-06-24T19:50:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/token-exchange/package.tgz",
@@ -73302,7 +73308,7 @@
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/modular-access-constraints/package.tgz",
         "repo": "https://github.com/jmandel/smart-permission-tickets-wip",
         "branch": "modular-access-constraints",
-        "lastSeen": "2026-06-24T17:36:21.000Z"
+        "lastSeen": "2026-06-24T19:47:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/jmandel/smart-permission-tickets-wip/branches/identity-evidence-reqs/package.tgz",
