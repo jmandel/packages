@@ -3481,6 +3481,12 @@
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "23-bundle-profiling",
         "lastSeen": "2026-04-15T09:48:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/notemplate/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "notemplate",
+        "lastSeen": "2026-06-24T11:39:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
@@ -12774,7 +12780,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-06-18T12:13:48.000Z"
+        "lastSeen": "2026-06-24T11:44:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -13092,7 +13098,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23141_CCR0320OA1_Documentation/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23141_CCR0320OA1_Documentation",
-        "lastSeen": "2026-06-24T09:03:39.000Z"
+        "lastSeen": "2026-06-24T11:43:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23173_new_observation_codes/package.tgz",
@@ -13482,7 +13488,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-06-24T11:01:04.000Z"
+        "lastSeen": "2026-06-24T11:30:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -13650,7 +13656,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/dpd_rettelser_22062026/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "dpd_rettelser_22062026",
-        "lastSeen": "2026-06-22T12:56:52.000Z"
+        "lastSeen": "2026-06-24T12:11:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -31722,7 +31728,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/infsec",
         "branch": "release-candidate",
-        "lastSeen": "2026-06-22T14:20:34.000Z"
+        "lastSeen": "2026-06-24T11:44:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/infsec/branches/fix-download-links/package.tgz",
@@ -52500,7 +52506,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-06-24T10:51:07.000Z"
+        "lastSeen": "2026-06-24T11:54:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -52644,7 +52650,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-56863/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "FHIR-56863",
-        "lastSeen": "2026-06-20T15:38:38.000Z"
+        "lastSeen": "2026-06-24T11:33:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/br-57727-data-requirements/package.tgz",
@@ -52854,7 +52860,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-06-24T10:20:57.000Z"
+        "lastSeen": "2026-06-24T11:51:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -52950,13 +52956,13 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-57199/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-57199",
-        "lastSeen": "2026-06-22T09:50:01.000Z"
+        "lastSeen": "2026-06-24T11:56:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates-esdm97-2/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates-esdm97-2",
-        "lastSeen": "2026-06-23T16:28:05.000Z"
+        "lastSeen": "2026-06-24T11:57:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-57628/package.tgz",
@@ -70464,19 +70470,19 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Patient",
-        "lastSeen": "2026-06-16T10:15:22.000Z"
+        "lastSeen": "2026-06-24T11:40:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Address/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Address",
-        "lastSeen": "2026-06-18T08:41:16.000Z"
+        "lastSeen": "2026-06-24T11:36:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_ContactPoint/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_ContactPoint",
-        "lastSeen": "2026-06-16T10:14:57.000Z"
+        "lastSeen": "2026-06-24T11:38:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_HumanName/package.tgz",
@@ -70525,6 +70531,18 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876-decor-ids",
         "lastSeen": "2026-06-18T14:38:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Organization/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_Organization",
+        "lastSeen": "2026-06-24T12:01:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Location/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_Location",
+        "lastSeen": "2026-06-24T12:00:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
