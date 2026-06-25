@@ -12780,7 +12780,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-06-24T11:44:30.000Z"
+        "lastSeen": "2026-06-25T10:59:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -13014,7 +13014,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0303/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0303",
-        "lastSeen": "2026-05-08T09:00:24.000Z"
+        "lastSeen": "2026-06-25T09:50:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/fix-carecommunication-profile/package.tgz",
@@ -13147,6 +13147,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "contactpoint-invariant",
         "lastSeen": "2026-06-22T16:32:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23825_improve_GLN-EAN_description/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-23825_improve_GLN-EAN_description",
+        "lastSeen": "2026-06-25T10:42:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -14076,7 +14082,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-25T08:53:39.000Z"
+        "lastSeen": "2026-06-25T11:01:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -26461,6 +26467,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "canonical-redirects-preview",
         "lastSeen": "2026-06-18T23:31:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft_medstat-binding/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "ft_medstat-binding",
+        "lastSeen": "2026-06-25T10:54:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -28344,7 +28356,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-prof/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-prof",
-        "lastSeen": "2026-06-25T03:29:14.000Z"
+        "lastSeen": "2026-06-25T11:15:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
@@ -29802,7 +29814,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-06-25T07:57:08.000Z"
+        "lastSeen": "2026-06-25T10:25:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -30697,6 +30709,12 @@
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "fixdependencies",
         "lastSeen": "2026-06-25T07:44:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_medstat-binding/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-ps",
+        "branch": "ft_medstat-binding",
+        "lastSeen": "2026-06-25T11:16:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -36798,7 +36816,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/jp-deployment-bas-adoption/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "jp-deployment-bas-adoption",
-        "lastSeen": "2026-06-24T16:29:01.000Z"
+        "lastSeen": "2026-06-25T10:02:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -37050,7 +37068,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-manifest",
         "branch": "master",
-        "lastSeen": "2026-06-24T07:52:04.000Z"
+        "lastSeen": "2026-06-25T11:09:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/ihe-trial-prep/package.tgz"
@@ -64765,6 +64783,12 @@
         "repo": "https://github.com/IHE/pharm-meow",
         "branch": "r4",
         "lastSeen": "2026-06-24T17:49:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/r4-rr/package.tgz",
+        "repo": "https://github.com/IHE/pharm-meow",
+        "branch": "r4-rr",
+        "lastSeen": "2026-06-25T10:14:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/pharm-meow/branches/main/package.tgz"
@@ -70596,7 +70620,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-06-24T07:48:28.000Z"
+        "lastSeen": "2026-06-25T10:50:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
@@ -70632,7 +70656,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Organization/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Organization",
-        "lastSeen": "2026-06-24T12:01:08.000Z"
+        "lastSeen": "2026-06-25T10:02:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Location/package.tgz",
