@@ -52849,6 +52849,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "dependsOn_update_6-25-26",
         "lastSeen": "2026-06-25T20:23:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/DW-misc-edits/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "DW-misc-edits",
+        "lastSeen": "2026-06-26T21:24:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -53184,7 +53190,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56902/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "FHIR-56902",
-        "lastSeen": "2026-06-26T20:48:11.000Z"
+        "lastSeen": "2026-06-26T21:28:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
