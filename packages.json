@@ -19350,7 +19350,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/profile-queries/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "profile-queries",
-        "lastSeen": "2026-06-29T17:25:12.000Z"
+        "lastSeen": "2026-06-29T18:05:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz"
@@ -44059,6 +44059,12 @@
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "2.0.1_rebuild",
         "lastSeen": "2026-06-20T00:52:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/example_pilot/package.tgz",
+        "repo": "https://github.com/HL7/davinci-pct",
+        "branch": "example_pilot",
+        "lastSeen": "2026-06-29T17:49:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz"
@@ -53592,7 +53598,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2026-06-17T15:37:54.000Z"
+        "lastSeen": "2026-06-29T17:32:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -64950,7 +64956,7 @@
         "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/r4/package.tgz",
         "repo": "https://github.com/IHE/pharm-meow",
         "branch": "r4",
-        "lastSeen": "2026-06-26T20:23:20.000Z"
+        "lastSeen": "2026-06-29T17:35:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/pharm-meow/branches/r4-rr/package.tgz",
