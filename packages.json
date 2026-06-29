@@ -70788,7 +70788,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Patient",
-        "lastSeen": "2026-06-29T21:43:15.000Z"
+        "lastSeen": "2026-06-29T22:09:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Address/package.tgz",
@@ -77040,13 +77040,19 @@
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-06-29T21:07:31.000Z"
+        "lastSeen": "2026-06-29T21:59:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/UDM-ServiceIdentifierCM/package.tgz",
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "UDM-ServiceIdentifierCM",
         "lastSeen": "2026-06-19T19:20:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/mise/package.tgz",
+        "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
+        "branch": "mise",
+        "lastSeen": "2026-06-29T22:18:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/package.tgz"
