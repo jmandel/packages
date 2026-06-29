@@ -3846,7 +3846,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_cpe/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "oe_cpe",
-        "lastSeen": "2026-06-10T16:11:18.000Z"
+        "lastSeen": "2026-06-29T14:56:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/150-guidance-text-for-antibiogram-genotyping/package.tgz",
@@ -12792,7 +12792,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-06-25T15:36:24.000Z"
+        "lastSeen": "2026-06-29T14:16:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -39648,7 +39648,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-condition/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-condition",
-        "lastSeen": "2026-06-29T09:11:50.000Z"
+        "lastSeen": "2026-06-29T15:19:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-service-request/package.tgz",
@@ -39684,7 +39684,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-immunization/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-immunization",
-        "lastSeen": "2026-06-29T10:25:12.000Z"
+        "lastSeen": "2026-06-29T15:18:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-medication/package.tgz",
@@ -70740,7 +70740,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-06-29T12:36:35.000Z"
+        "lastSeen": "2026-06-29T14:46:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -70770,7 +70770,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Patient",
-        "lastSeen": "2026-06-24T11:40:22.000Z"
+        "lastSeen": "2026-06-29T15:12:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Address/package.tgz",
@@ -75324,7 +75324,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/MeOW-r4/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ph4h",
         "branch": "MeOW-r4",
-        "lastSeen": "2026-06-29T12:52:46.000Z"
+        "lastSeen": "2026-06-29T14:43:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/main/package.tgz"
@@ -77767,6 +77767,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "healthcareservice-multilingual-name",
         "lastSeen": "2026-06-29T12:20:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/specimen-collector-types/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "specimen-collector-types",
+        "lastSeen": "2026-06-29T13:59:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
