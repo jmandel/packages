@@ -19956,7 +19956,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-06-29T06:38:12.000Z"
+        "lastSeen": "2026-06-30T10:58:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -28434,7 +28434,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-prof/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-prof",
-        "lastSeen": "2026-06-29T05:26:07.000Z"
+        "lastSeen": "2026-06-30T11:10:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
@@ -28476,7 +28476,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-example/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-example",
-        "lastSeen": "2026-06-30T02:07:00.000Z"
+        "lastSeen": "2026-06-30T10:36:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference-examples/package.tgz",
@@ -31650,7 +31650,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/telemonitoring/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "telemonitoring",
-        "lastSeen": "2026-06-01T08:10:03.000Z"
+        "lastSeen": "2026-06-30T11:26:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/phase2-merged/package.tgz",
@@ -40207,6 +40207,12 @@
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "fix-lang-redirect-blank-homepage",
         "lastSeen": "2026-06-25T16:18:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/gfa-852-sbi-uit-organization-type/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "gfa-852-sbi-uit-organization-type",
+        "lastSeen": "2026-06-30T10:12:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -70794,7 +70800,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-06-30T09:47:32.000Z"
+        "lastSeen": "2026-06-30T10:01:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -70878,7 +70884,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_AllergyIntolerance",
-        "lastSeen": "2026-06-30T07:31:29.000Z"
+        "lastSeen": "2026-06-30T09:52:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-decor-ids/package.tgz",
@@ -77424,7 +77430,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-30T07:38:34.000Z"
+        "lastSeen": "2026-06-30T10:24:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -77826,7 +77832,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/update-workflow-translations/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "update-workflow-translations",
-        "lastSeen": "2026-06-30T07:26:31.000Z"
+        "lastSeen": "2026-06-30T10:53:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/healthcareservice-multilingual-name/package.tgz",
@@ -77839,6 +77845,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "specimen-collector-types",
         "lastSeen": "2026-06-30T06:57:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/patient-managing-org-ms/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "patient-managing-org-ms",
+        "lastSeen": "2026-06-30T10:08:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
