@@ -9379,6 +9379,12 @@
         "repo": "https://github.com/cqframework/aphl-chronic-ig",
         "branch": "new_eicr_profiles",
         "lastSeen": "2026-06-29T18:42:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/aphl-chronic-ig/branches/validations_known_issues/package.tgz",
+        "repo": "https://github.com/cqframework/aphl-chronic-ig",
+        "branch": "validations_known_issues",
+        "lastSeen": "2026-06-29T23:42:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/aphl-chronic-ig/branches/main/package.tgz"
@@ -28483,6 +28489,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_endpoint-examples",
         "lastSeen": "2026-06-29T05:43:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_relatedperson-sp/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_relatedperson-sp",
+        "lastSeen": "2026-06-29T22:48:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -47250,7 +47262,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-pfe",
         "branch": "master",
-        "lastSeen": "2026-06-25T16:44:20.000Z"
+        "lastSeen": "2026-06-29T23:27:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-pfe/branches/FHIR-38618/package.tgz",
@@ -77052,7 +77064,7 @@
         "url": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/mise/package.tgz",
         "repo": "https://github.com/CoBHA/CoBHRM-FHIR-IG",
         "branch": "mise",
-        "lastSeen": "2026-06-29T22:18:33.000Z"
+        "lastSeen": "2026-06-29T22:57:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/package.tgz"
