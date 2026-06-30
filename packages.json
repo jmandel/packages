@@ -14058,7 +14058,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-30T05:54:16.000Z"
+        "lastSeen": "2026-06-30T06:39:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -14130,7 +14130,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-06-29T13:39:35.000Z"
+        "lastSeen": "2026-06-30T07:05:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -19308,7 +19308,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "main",
-        "lastSeen": "2026-06-18T09:53:05.000Z"
+        "lastSeen": "2026-06-30T07:30:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol3-table-syntax/package.tgz",
@@ -70860,7 +70860,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_AllergyIntolerance",
-        "lastSeen": "2026-06-24T15:02:46.000Z"
+        "lastSeen": "2026-06-30T07:31:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-decor-ids/package.tgz",
@@ -76470,7 +76470,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/base",
         "branch": "main",
-        "lastSeen": "2026-03-31T03:09:32.000Z"
+        "lastSeen": "2026-06-30T07:26:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz"
@@ -77814,13 +77814,13 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/healthcareservice-multilingual-name/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "healthcareservice-multilingual-name",
-        "lastSeen": "2026-06-29T12:20:03.000Z"
+        "lastSeen": "2026-06-30T07:19:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/specimen-collector-types/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "specimen-collector-types",
-        "lastSeen": "2026-06-29T13:59:23.000Z"
+        "lastSeen": "2026-06-30T06:57:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
@@ -78007,6 +78007,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "screening",
         "lastSeen": "2026-06-24T06:07:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/DHIS2/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "DHIS2",
+        "lastSeen": "2026-06-30T07:09:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
