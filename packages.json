@@ -28404,7 +28404,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/r3-composition/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "r3-composition",
-        "lastSeen": "2026-06-30T04:38:59.000Z"
+        "lastSeen": "2026-06-30T13:05:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_no-known-meds/package.tgz",
@@ -28434,13 +28434,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-prof/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-prof",
-        "lastSeen": "2026-06-30T11:10:53.000Z"
+        "lastSeen": "2026-06-30T13:02:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreference",
-        "lastSeen": "2026-06-29T12:52:12.000Z"
+        "lastSeen": "2026-06-30T12:23:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_conf-page-changes/package.tgz",
@@ -28470,7 +28470,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_endpoint/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_endpoint",
-        "lastSeen": "2026-06-30T12:10:29.000Z"
+        "lastSeen": "2026-06-30T12:40:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-example/package.tgz",
@@ -28482,7 +28482,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference-examples/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreference-examples",
-        "lastSeen": "2026-06-29T05:17:52.000Z"
+        "lastSeen": "2026-06-30T12:28:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_endpoint-examples/package.tgz",
@@ -28494,13 +28494,25 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_relatedperson-sp/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_relatedperson-sp",
-        "lastSeen": "2026-06-29T22:48:18.000Z"
+        "lastSeen": "2026-06-30T12:27:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_aubbasefutureR7/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_aubbasefutureR7",
         "lastSeen": "2026-06-30T02:38:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_endpoint-informative/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_endpoint-informative",
+        "lastSeen": "2026-06-30T12:52:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-inform/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_diagrep-inform",
+        "lastSeen": "2026-06-30T13:02:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -62076,7 +62088,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2026-06-30T00:31:24.000Z"
+        "lastSeen": "2026-06-30T12:49:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/v1.0.0-ballot/package.tgz",
@@ -70806,7 +70818,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-06-30T10:01:15.000Z"
+        "lastSeen": "2026-06-30T12:54:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -77436,7 +77448,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-06-30T10:24:04.000Z"
+        "lastSeen": "2026-06-30T12:19:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
