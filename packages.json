@@ -14136,7 +14136,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-07-01T08:58:03.000Z"
+        "lastSeen": "2026-07-01T13:40:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -19369,9 +19369,27 @@
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "profile-queries",
         "lastSeen": "2026-06-29T18:05:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/extra-vol1/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-360-ig",
+        "branch": "extra-vol1",
+        "lastSeen": "2026-07-01T13:27:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz"
+  },
+  "fhir.nl.eoverdracht.routering": {
+    "name": "fhir.nl.eoverdracht.routering",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-eoverdracht-routering-ig/branches/main/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-eoverdracht-routering-ig",
+        "branch": "main",
+        "lastSeen": "2026-07-01T13:43:51.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nuts-foundation/nl-eoverdracht-routering-ig/branches/main/package.tgz"
   },
   "fhir.nl.generic-functions-ig": {
     "name": "fhir.nl.generic-functions-ig",
@@ -23946,7 +23964,7 @@
         "url": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cda-adi",
         "branch": "main",
-        "lastSeen": "2026-06-19T15:38:42.000Z"
+        "lastSeen": "2026-07-01T14:14:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cda-adi/branches/main/package.tgz"
@@ -31585,6 +31603,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "release-candidate-jct-device",
         "lastSeen": "2026-05-30T09:09:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/belrai/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "belrai",
+        "lastSeen": "2026-07-01T14:19:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -67614,7 +67638,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-base",
         "branch": "main",
-        "lastSeen": "2026-04-10T05:35:49.000Z"
+        "lastSeen": "2026-07-01T13:47:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-base/branches/dr-term/package.tgz",
@@ -67770,7 +67794,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-eu-ehds/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-eu-ehds",
         "branch": "main",
-        "lastSeen": "2026-04-09T16:42:24.000Z"
+        "lastSeen": "2026-07-01T13:46:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-eu-ehds/branches/main/package.tgz"
@@ -67830,7 +67854,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
         "branch": "main",
-        "lastSeen": "2026-03-28T10:37:38.000Z"
+        "lastSeen": "2026-07-01T14:09:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/lt-ig-lifestyle-audra/package.tgz",
@@ -67896,7 +67920,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
         "branch": "main",
-        "lastSeen": "2026-04-10T05:24:00.000Z"
+        "lastSeen": "2026-07-01T13:48:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/vitalsigns-kati/package.tgz",
@@ -67915,6 +67939,12 @@
         "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
         "branch": "kati",
         "lastSeen": "2026-04-09T16:32:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/add-rebuild-ci-workflow/package.tgz",
+        "repo": "https://github.com/HL7LT/ig-lt-vitalsigns",
+        "branch": "add-rebuild-ci-workflow",
+        "lastSeen": "2026-07-01T13:48:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-vitalsigns/branches/main/package.tgz"
@@ -70926,7 +70956,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-01T13:13:00.000Z"
+        "lastSeen": "2026-07-01T13:28:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
@@ -70962,7 +70992,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Organization/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Organization",
-        "lastSeen": "2026-07-01T13:20:17.000Z"
+        "lastSeen": "2026-07-01T13:58:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Location/package.tgz",
