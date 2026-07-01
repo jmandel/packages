@@ -1038,7 +1038,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "main",
-        "lastSeen": "2025-03-04T17:43:41.000Z"
+        "lastSeen": "2026-07-01T15:35:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/for-comment-template/package.tgz",
@@ -3498,7 +3498,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2026-05-26T07:52:26.000Z"
+        "lastSeen": "2026-07-01T16:10:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -4033,6 +4033,12 @@
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "1.14.0",
         "lastSeen": "2026-05-26T15:09:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_rsv/package.tgz",
+        "repo": "https://github.com/ahdis/ch-elm",
+        "branch": "oe_rsv",
+        "lastSeen": "2026-07-01T16:07:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz"
@@ -20539,6 +20545,12 @@
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "connectathon-july-2026-questionnaires",
         "lastSeen": "2026-06-02T20:33:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026-mltmods/package.tgz",
+        "repo": "https://github.com/paciowg/sample-data-fsh",
+        "branch": "connectathon-july-2026-mltmods",
+        "lastSeen": "2026-07-01T14:54:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/main/package.tgz"
@@ -48552,7 +48564,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2026-06-25T17:24:52.000Z"
+        "lastSeen": "2026-07-01T15:17:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -50101,6 +50113,12 @@
         "repo": "https://github.com/HL7/vrdr",
         "branch": "FHIR49660_ReturnBundleNarrativeUpdate",
         "lastSeen": "2025-08-01T19:21:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/vrdr/branches/EHR-UseCase/package.tgz",
+        "repo": "https://github.com/HL7/vrdr",
+        "branch": "EHR-UseCase",
+        "lastSeen": "2026-07-01T16:50:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/vrdr/branches/master/package.tgz"
@@ -51235,6 +51253,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "export-cleanup",
         "lastSeen": "2026-07-01T15:04:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/manifest-cleanup/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "manifest-cleanup",
+        "lastSeen": "2026-07-01T16:23:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -55080,7 +55104,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-clinical-document",
         "branch": "main",
-        "lastSeen": "2026-06-18T11:28:33.000Z"
+        "lastSeen": "2026-07-01T15:33:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-clinical-document/branches/complexExtensionSlicing/package.tgz",
@@ -67710,7 +67734,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-breast",
         "branch": "main",
-        "lastSeen": "2026-05-17T08:36:55.000Z"
+        "lastSeen": "2026-07-01T15:38:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-breast/branches/kati/package.tgz",
@@ -67740,7 +67764,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-cervical",
         "branch": "main",
-        "lastSeen": "2026-05-17T08:38:18.000Z"
+        "lastSeen": "2026-07-01T15:39:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cervical/branches/kati/package.tgz",
@@ -67758,7 +67782,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-colorectal",
         "branch": "main",
-        "lastSeen": "2026-05-17T08:38:18.000Z"
+        "lastSeen": "2026-07-01T15:39:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-colorectal/branches/ADP-review/package.tgz",
@@ -67782,7 +67806,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cvd/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-cvd",
         "branch": "main",
-        "lastSeen": "2026-04-10T05:28:05.000Z"
+        "lastSeen": "2026-07-01T15:39:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-cvd/branches/kati/package.tgz",
@@ -67866,7 +67890,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lifestyle",
         "branch": "main",
-        "lastSeen": "2026-07-01T14:09:52.000Z"
+        "lastSeen": "2026-07-01T15:39:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lifestyle/branches/lt-ig-lifestyle-audra/package.tgz",
@@ -67908,7 +67932,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-lung/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-lung",
         "branch": "main",
-        "lastSeen": "2026-03-27T05:54:34.000Z"
+        "lastSeen": "2026-07-01T15:39:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-lung/branches/main/package.tgz"
@@ -67920,7 +67944,7 @@
         "url": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz",
         "repo": "https://github.com/HL7LT/ig-lt-prostate",
         "branch": "main",
-        "lastSeen": "2026-04-30T19:42:57.000Z"
+        "lastSeen": "2026-07-01T15:38:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7LT/ig-lt-prostate/branches/main/package.tgz"
@@ -70968,7 +70992,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-01T15:02:33.000Z"
+        "lastSeen": "2026-07-01T17:04:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
