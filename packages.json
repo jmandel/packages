@@ -1099,6 +1099,12 @@
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "nr-prepare-publication-0.2.0",
         "lastSeen": "2025-03-04T08:30:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-remove-js-template/package.tgz",
+        "repo": "https://github.com/ansforge/IG-template",
+        "branch": "nr-remove-js-template",
+        "lastSeen": "2026-07-02T08:34:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -9292,6 +9298,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/TylerHaigh/test-fhir-ig/branches/main/package.tgz"
+  },
+  "com.sensotrend.fhir-ig-tests": {
+    "name": "com.sensotrend.fhir-ig-tests",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/Sensotrend/fhir-ig-tests/branches/main/package.tgz",
+        "repo": "https://github.com/Sensotrend/fhir-ig-tests",
+        "branch": "main",
+        "lastSeen": "2026-07-02T08:54:16.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/Sensotrend/fhir-ig-tests/branches/main/package.tgz"
   },
   "com.sensotrend.multiProfileValidation": {
     "name": "com.sensotrend.multiProfileValidation",
@@ -20004,7 +20022,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-02T07:13:24.000Z"
+        "lastSeen": "2026-07-02T08:16:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -36912,7 +36930,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "main",
-        "lastSeen": "2026-05-11T17:34:35.000Z"
+        "lastSeen": "2026-07-02T09:04:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/jp-deployment/package.tgz",
