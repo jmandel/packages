@@ -13224,13 +13224,13 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0298/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0298",
-        "lastSeen": "2026-06-26T08:29:19.000Z"
+        "lastSeen": "2026-07-03T11:10:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23541_CCR0298_Story1/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23541_CCR0298_Story1",
-        "lastSeen": "2026-06-30T08:33:00.000Z"
+        "lastSeen": "2026-07-03T11:09:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-21848-add-additional-conditions/package.tgz",
@@ -26706,13 +26706,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/6.1.1-draft/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "6.1.1-draft",
-        "lastSeen": "2026-07-03T09:03:26.000Z"
+        "lastSeen": "2026-07-03T10:58:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-6.1.1-draft/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "release-6.1.1-draft",
         "lastSeen": "2026-07-03T08:49:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-6.1.1-draft-2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "release-6.1.1-draft-2",
+        "lastSeen": "2026-07-03T11:01:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -28698,7 +28704,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.1.0-draft/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "2.1.0-draft",
-        "lastSeen": "2026-07-03T06:13:25.000Z"
+        "lastSeen": "2026-07-03T10:24:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/adopt-centralized-pipeline/package.tgz",
@@ -69990,7 +69996,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/Notes_testexamples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-notes",
         "branch": "Notes_testexamples",
-        "lastSeen": "2026-07-03T08:43:53.000Z"
+        "lastSeen": "2026-07-03T10:37:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/1.0.0/package.tgz",
