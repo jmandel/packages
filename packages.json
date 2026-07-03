@@ -20382,7 +20382,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "master",
-        "lastSeen": "2026-07-02T22:33:12.000Z"
+        "lastSeen": "2026-07-03T00:32:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/v3.0.0-release-source/package.tgz",
@@ -26610,7 +26610,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/build-pipeline-redesign/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "build-pipeline-redesign",
-        "lastSeen": "2026-06-20T23:47:28.000Z"
+        "lastSeen": "2026-07-03T00:40:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/canonical-redirects-preview/package.tgz",
@@ -26670,7 +26670,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-07-01T23:09:25.000Z"
+        "lastSeen": "2026-07-03T00:19:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -28572,13 +28572,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreference-examples/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreference-examples",
-        "lastSeen": "2026-07-02T10:03:24.000Z"
+        "lastSeen": "2026-07-02T23:31:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_endpoint-examples/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_endpoint-examples",
-        "lastSeen": "2026-07-02T00:35:45.000Z"
+        "lastSeen": "2026-07-03T00:23:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_relatedperson-sp/package.tgz",
@@ -28596,7 +28596,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_endpoint-informative/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_endpoint-informative",
-        "lastSeen": "2026-07-02T09:47:34.000Z"
+        "lastSeen": "2026-07-02T23:34:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-inform/package.tgz",
@@ -28608,7 +28608,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_composition-informative/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_composition-informative",
-        "lastSeen": "2026-07-01T21:56:37.000Z"
+        "lastSeen": "2026-07-02T23:32:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_relperson_sp/package.tgz",
@@ -28620,7 +28620,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreferene-informative/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreferene-informative",
-        "lastSeen": "2026-07-01T21:56:32.000Z"
+        "lastSeen": "2026-07-02T23:33:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.1.0-draft/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "2.1.0-draft",
+        "lastSeen": "2026-07-03T00:22:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -51325,6 +51331,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "manifest-cleanup",
         "lastSeen": "2026-07-02T16:58:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/revert-165-argo25/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "revert-165-argo25",
+        "lastSeen": "2026-07-02T23:12:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
