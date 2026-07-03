@@ -25650,7 +25650,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-07-02T12:32:04.000Z"
+        "lastSeen": "2026-07-03T03:29:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -26640,7 +26640,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/6.1.0-draft1/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "6.1.0-draft1",
-        "lastSeen": "2026-07-02T13:02:11.000Z"
+        "lastSeen": "2026-07-03T03:28:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/release-6.1.0-draft/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "release-6.1.0-draft",
+        "lastSeen": "2026-07-03T03:20:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -26670,7 +26676,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-07-03T00:19:46.000Z"
+        "lastSeen": "2026-07-03T02:56:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -28578,7 +28584,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_endpoint-examples/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_endpoint-examples",
-        "lastSeen": "2026-07-03T01:39:26.000Z"
+        "lastSeen": "2026-07-03T02:38:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_relatedperson-sp/package.tgz",
@@ -28626,7 +28632,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.1.0-draft/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "2.1.0-draft",
-        "lastSeen": "2026-07-03T00:22:43.000Z"
+        "lastSeen": "2026-07-03T03:00:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -59388,7 +59394,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-07-01T10:22:46.000Z"
+        "lastSeen": "2026-07-03T03:35:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -76249,6 +76255,12 @@
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uatfixes",
         "lastSeen": "2025-06-09T23:15:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/sampling-api/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-sdhr",
+        "branch": "sampling-api",
+        "lastSeen": "2026-07-03T03:29:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-primary-care-acquisition/branches/uat/package.tgz"
