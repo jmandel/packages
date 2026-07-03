@@ -15295,6 +15295,12 @@
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "second-nonpaper-062026",
         "lastSeen": "2026-07-03T07:46:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/second-nonpaper-202606/package.tgz",
+        "repo": "https://github.com/EEHRxF/logical-model",
+        "branch": "second-nonpaper-202606",
+        "lastSeen": "2026-07-03T13:26:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -28723,6 +28729,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "release-2.1.0-draft",
         "lastSeen": "2026-07-03T06:18:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/release-2.1.0-draft-1/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "release-2.1.0-draft-1",
+        "lastSeen": "2026-07-03T13:23:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -40332,7 +40344,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
-        "lastSeen": "2026-06-24T11:20:34.000Z"
+        "lastSeen": "2026-07-03T13:06:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/v0.1.0/package.tgz",
@@ -40428,13 +40440,13 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/endpoint-versioning/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "endpoint-versioning",
-        "lastSeen": "2026-06-18T07:00:49.000Z"
+        "lastSeen": "2026-07-03T13:13:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/endpoint-usage-metadata/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "endpoint-usage-metadata",
-        "lastSeen": "2026-06-19T07:29:33.000Z"
+        "lastSeen": "2026-07-03T13:16:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/ehds-alignment-847/package.tgz",
@@ -40471,6 +40483,12 @@
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "carve-out-practitioners",
         "lastSeen": "2026-07-01T11:27:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/package-download/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "package-download",
+        "lastSeen": "2026-07-03T13:37:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
