@@ -26754,7 +26754,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-07-03T07:41:39.000Z"
+        "lastSeen": "2026-07-03T23:58:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -28710,7 +28710,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.1.0-draft/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "2.1.0-draft",
-        "lastSeen": "2026-07-03T10:24:05.000Z"
+        "lastSeen": "2026-07-04T00:08:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/adopt-centralized-pipeline/package.tgz",
@@ -28735,6 +28735,18 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "release-2.1.0-draft-1",
         "lastSeen": "2026-07-03T13:23:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/release-2.1.0-draft-3/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "release-2.1.0-draft-3",
+        "lastSeen": "2026-07-04T00:09:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/release-2.1.0-draft-2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "release-2.1.0-draft-2",
+        "lastSeen": "2026-07-04T00:03:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
