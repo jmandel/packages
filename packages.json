@@ -15282,7 +15282,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/main/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "main",
-        "lastSeen": "2026-06-12T10:49:11.000Z"
+        "lastSeen": "2026-07-06T14:19:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/add-tables/package.tgz",
@@ -15324,7 +15324,7 @@
         "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/second-nonpaper-202606/package.tgz",
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "second-nonpaper-202606",
-        "lastSeen": "2026-07-03T13:26:22.000Z"
+        "lastSeen": "2026-07-06T14:21:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -55321,6 +55321,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "security-consent-FHIR-54637",
         "lastSeen": "2026-06-17T14:45:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/FHIR-54631/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "FHIR-54631",
+        "lastSeen": "2026-07-06T13:50:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -58140,19 +58146,19 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/FHIR-15359/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "FHIR-15359",
-        "lastSeen": "2026-06-30T13:55:44.000Z"
+        "lastSeen": "2026-07-06T14:22:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/FHIR-15334/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "FHIR-15334",
-        "lastSeen": "2026-07-06T12:20:38.000Z"
+        "lastSeen": "2026-07-06T14:29:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/FHIR-51356/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "FHIR-51356",
-        "lastSeen": "2026-06-30T15:27:40.000Z"
+        "lastSeen": "2026-07-06T14:08:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz"
@@ -62478,7 +62484,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "main",
-        "lastSeen": "2026-07-06T13:28:18.000Z"
+        "lastSeen": "2026-07-06T15:29:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/v1.0.0-ballot/package.tgz",
@@ -71257,6 +71263,12 @@
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "dev-test",
         "lastSeen": "2026-07-06T11:59:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/dev-test-2/package.tgz",
+        "repo": "https://github.com/Nictiz/AZ-IG",
+        "branch": "dev-test-2",
+        "lastSeen": "2026-07-06T14:07:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -78516,7 +78528,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "main",
-        "lastSeen": "2026-07-01T06:38:54.000Z"
+        "lastSeen": "2026-07-06T15:09:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/forms-overview/package.tgz",
@@ -78558,7 +78570,13 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/bump-uz-core-0.6.0/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "bump-uz-core-0.6.0",
-        "lastSeen": "2026-07-06T12:40:18.000Z"
+        "lastSeen": "2026-07-06T15:15:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/harden-ci-publisher-install/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "harden-ci-publisher-install",
+        "lastSeen": "2026-07-06T14:04:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
