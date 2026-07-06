@@ -28747,6 +28747,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "release-2.1.0-draft-2",
         "lastSeen": "2026-07-04T00:03:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_update-warn/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_update-warn",
+        "lastSeen": "2026-07-06T02:49:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
