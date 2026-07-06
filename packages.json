@@ -10722,7 +10722,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/develop/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "develop",
-        "lastSeen": "2026-07-06T09:39:26.000Z"
+        "lastSeen": "2026-07-06T11:02:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/startenddatum/package.tgz",
@@ -10776,7 +10776,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/periode-kleiner-tag/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "periode-kleiner-tag",
-        "lastSeen": "2026-07-06T09:42:27.000Z"
+        "lastSeen": "2026-07-06T11:01:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -13236,7 +13236,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0298/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0298",
-        "lastSeen": "2026-07-03T11:10:37.000Z"
+        "lastSeen": "2026-07-06T10:54:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23541_CCR0298_Story1/package.tgz",
@@ -13255,6 +13255,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23424_FSD-17650_Bestilling-af-nye-participant-function-koder",
         "lastSeen": "2026-07-01T10:04:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ccr0298-competence-identifier-system/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "ccr0298-competence-identifier-system",
+        "lastSeen": "2026-07-06T10:52:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -71233,6 +71239,12 @@
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "dev",
         "lastSeen": "2026-07-03T09:26:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/dev-test/package.tgz",
+        "repo": "https://github.com/Nictiz/AZ-IG",
+        "branch": "dev-test",
+        "lastSeen": "2026-07-06T10:04:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -77880,7 +77892,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-07-06T09:00:15.000Z"
+        "lastSeen": "2026-07-06T10:51:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -78313,6 +78325,24 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "changelog-0.5.0-realign",
         "lastSeen": "2026-07-06T07:55:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-0.6.0-to-package-feed/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-0.6.0-to-package-feed",
+        "lastSeen": "2026-07-06T09:20:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/add-release-workflow/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "add-release-workflow",
+        "lastSeen": "2026-07-06T09:39:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/0.6.0/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "0.6.0",
+        "lastSeen": "2026-07-06T10:01:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
@@ -79956,7 +79986,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/master/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "master",
-        "lastSeen": "2026-07-01T10:52:37.000Z"
+        "lastSeen": "2026-07-06T11:26:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/test/package.tgz",
