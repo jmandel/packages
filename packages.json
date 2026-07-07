@@ -11154,7 +11154,7 @@
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/dev/package.tgz",
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "dev",
-        "lastSeen": "2026-07-07T06:56:46.000Z"
+        "lastSeen": "2026-07-07T07:48:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/v2026.0.1/package.tgz",
@@ -11179,6 +11179,12 @@
         "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
         "branch": "v2026.4.1",
         "lastSeen": "2026-06-15T12:51:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/v2026.5.0/package.tgz",
+        "repo": "https://github.com/medizininformatik-initiative/kerndatensatzmodul-proms",
+        "branch": "v2026.5.0",
+        "lastSeen": "2026-07-07T07:49:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medizininformatik-initiative/kerndatensatzmodul-proms/branches/main/package.tgz"
@@ -13242,7 +13248,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0298/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0298",
-        "lastSeen": "2026-07-06T12:12:18.000Z"
+        "lastSeen": "2026-07-07T07:54:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23541_CCR0298_Story1/package.tgz",
@@ -14214,7 +14220,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-07-07T07:01:27.000Z"
+        "lastSeen": "2026-07-07T08:22:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -19477,6 +19483,12 @@
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "rego",
         "lastSeen": "2026-07-03T10:02:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol3-r4-stu3-split/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-360-ig",
+        "branch": "vol3-r4-stu3-split",
+        "lastSeen": "2026-07-07T09:00:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz"
@@ -20088,7 +20100,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-07T06:27:35.000Z"
+        "lastSeen": "2026-07-07T09:01:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -22596,7 +22608,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "main",
-        "lastSeen": "2026-07-01T11:17:42.000Z"
+        "lastSeen": "2026-07-07T08:34:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/SSNrDisplayNameCorrection/package.tgz",
@@ -23322,7 +23334,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-Core-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-Core-R4",
         "branch": "main",
-        "lastSeen": "2026-07-06T05:32:29.000Z"
+        "lastSeen": "2026-07-07T09:51:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-Core-R4/branches/main/package.tgz"
@@ -23334,7 +23346,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-07-06T06:47:05.000Z"
+        "lastSeen": "2026-07-07T09:22:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -35556,7 +35568,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2026-07-07T06:46:36.000Z"
+        "lastSeen": "2026-07-07T09:16:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -40062,7 +40074,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-medication/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-medication",
-        "lastSeen": "2026-06-29T12:42:48.000Z"
+        "lastSeen": "2026-07-07T09:34:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-allergy-intolerance/package.tgz",
@@ -40614,7 +40626,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-06-25T14:55:05.000Z"
+        "lastSeen": "2026-07-07T07:52:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -68514,7 +68526,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_UpdateExamples/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-acknowledgement",
         "branch": "SKS_UpdateExamples",
-        "lastSeen": "2025-11-05T13:38:11.000Z"
+        "lastSeen": "2026-07-07T09:05:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/SKS_ACK_test/package.tgz",
@@ -68844,7 +68856,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2026-06-29T12:48:40.000Z"
+        "lastSeen": "2026-07-07T08:13:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -69013,6 +69025,18 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.5.0.15-githubpages",
         "lastSeen": "2026-06-29T12:48:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster_testmaterialeupdate_sks/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "githubpagesmaster_testmaterialeupdate_sks",
+        "lastSeen": "2026-07-07T08:07:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.16-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.16-githubpages",
+        "lastSeen": "2026-07-07T08:07:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -70435,6 +70459,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
         "branch": "2.0.0-xdsdocs-tms-use-cases",
         "lastSeen": "2026-06-22T12:55:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/2.0.0-xdsdocs-tms-pagecontent/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
+        "branch": "2.0.0-xdsdocs-tms-pagecontent",
+        "lastSeen": "2026-07-07T09:10:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/master/package.tgz"
@@ -71382,7 +71412,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Location/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Location",
-        "lastSeen": "2026-07-02T14:07:35.000Z"
+        "lastSeen": "2026-07-07T09:27:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Procedure/package.tgz",
