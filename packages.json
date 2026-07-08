@@ -1104,7 +1104,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-remove-js-template/package.tgz",
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "nr-remove-js-template",
-        "lastSeen": "2026-07-08T09:42:28.000Z"
+        "lastSeen": "2026-07-08T11:27:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -37567,6 +37567,12 @@
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "xtehr-mapping",
         "lastSeen": "2026-07-08T07:02:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/merge-xtehr/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r4",
+        "branch": "merge-xtehr",
+        "lastSeen": "2026-07-08T11:13:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -38088,7 +38094,13 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/xtehr-mapping/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "xtehr-mapping",
-        "lastSeen": "2026-07-08T07:01:08.000Z"
+        "lastSeen": "2026-07-08T11:14:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/merge-xtehr/package.tgz",
+        "repo": "https://github.com/hl7-eu/imaging-r5",
+        "branch": "merge-xtehr",
+        "lastSeen": "2026-07-08T11:13:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -78499,6 +78511,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "semver-terminology-versions",
         "lastSeen": "2026-07-08T08:33:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/ci-direct-publisher-download/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "ci-direct-publisher-download",
+        "lastSeen": "2026-07-08T11:16:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
