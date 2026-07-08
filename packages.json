@@ -44544,7 +44544,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/example_pilot/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "example_pilot",
-        "lastSeen": "2026-06-29T17:49:40.000Z"
+        "lastSeen": "2026-07-08T14:50:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz"
@@ -54017,6 +54017,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz"
   },
+  "hl7.fhir.uv.epi-apac": {
+    "name": "hl7.fhir.uv.epi-apac",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/scc88/aseanepi/branches/main/package.tgz",
+        "repo": "https://github.com/scc88/aseanepi",
+        "branch": "main",
+        "lastSeen": "2026-07-08T15:00:52.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/scc88/aseanepi/branches/main/package.tgz"
+  },
   "hl7.fhir.uv.epi-asean": {
     "name": "hl7.fhir.uv.epi-asean",
     "locations": [
@@ -58188,7 +58200,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-07-01T12:03:35.000Z"
+        "lastSeen": "2026-07-08T15:06:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
