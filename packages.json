@@ -13206,7 +13206,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23173_new_observation_codes/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23173_new_observation_codes",
-        "lastSeen": "2026-07-08T07:02:39.000Z"
+        "lastSeen": "2026-07-08T08:40:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23451_add_observation_code_rejse_saette_sig_test_60_sek/package.tgz",
@@ -14244,7 +14244,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-07-07T08:22:25.000Z"
+        "lastSeen": "2026-07-08T08:59:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -20130,7 +20130,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-08T07:37:11.000Z"
+        "lastSeen": "2026-07-08T08:55:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -32376,7 +32376,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "master",
-        "lastSeen": "2026-05-18T07:23:54.000Z"
+        "lastSeen": "2026-07-08T08:28:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v2/package.tgz",
@@ -33120,7 +33120,7 @@
         "url": "https://build.fhir.org/ig/annabel-uzl/patient-monitoring/branches/main/package.tgz",
         "repo": "https://github.com/annabel-uzl/patient-monitoring",
         "branch": "main",
-        "lastSeen": "2026-05-19T11:03:59.000Z"
+        "lastSeen": "2026-07-08T08:28:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-monitoring/branches/master/package.tgz"
@@ -37584,7 +37584,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-manifest",
         "branch": "master",
-        "lastSeen": "2026-07-02T16:00:06.000Z"
+        "lastSeen": "2026-07-08T08:52:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/ihe-trial-prep/package.tgz"
@@ -70494,7 +70494,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/2.0.0-xdsdoc-tms/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-xds-documents",
         "branch": "2.0.0-xdsdoc-tms",
-        "lastSeen": "2026-07-08T08:17:49.000Z"
+        "lastSeen": "2026-07-08T09:16:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-xds-documents/branches/2.0.0-xdsdocs-rch/package.tgz",
@@ -75984,7 +75984,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/MeOW-r4/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ph4h",
         "branch": "MeOW-r4",
-        "lastSeen": "2026-07-07T21:07:29.000Z"
+        "lastSeen": "2026-07-08T08:49:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/main/package.tgz"
@@ -78493,6 +78493,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "0.6.0",
         "lastSeen": "2026-07-06T10:01:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/semver-terminology-versions/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "semver-terminology-versions",
+        "lastSeen": "2026-07-08T08:33:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
