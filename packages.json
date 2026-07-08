@@ -19470,7 +19470,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/auths/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "auths",
-        "lastSeen": "2026-06-18T07:19:06.000Z"
+        "lastSeen": "2026-07-08T15:45:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/index-en-menu/package.tgz",
@@ -49063,6 +49063,12 @@
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "FHIR-53798_and_FHIR-53799",
         "lastSeen": "2026-04-07T19:28:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/Aaron_3.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
+        "branch": "Aaron_3.0",
+        "lastSeen": "2026-07-08T15:40:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz"
@@ -51631,6 +51637,12 @@
         "repo": "https://github.com/HL7/bulk-data",
         "branch": "revert-165-argo25",
         "lastSeen": "2026-07-02T23:12:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/bulk-data/branches/qa-fixes/package.tgz",
+        "repo": "https://github.com/HL7/bulk-data",
+        "branch": "qa-fixes",
+        "lastSeen": "2026-07-08T15:26:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/bulk-data/branches/master/package.tgz"
@@ -54025,6 +54037,12 @@
         "repo": "https://github.com/scc88/aseanepi",
         "branch": "main",
         "lastSeen": "2026-07-08T15:00:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/scc88/apacepi/branches/main/package.tgz",
+        "repo": "https://github.com/scc88/apacepi",
+        "branch": "main",
+        "lastSeen": "2026-07-08T15:31:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/scc88/aseanepi/branches/main/package.tgz"
@@ -76026,7 +76044,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/MeOW-r4/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-ph4h",
         "branch": "MeOW-r4",
-        "lastSeen": "2026-07-08T13:59:44.000Z"
+        "lastSeen": "2026-07-08T15:54:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ph4h/branches/main/package.tgz"
