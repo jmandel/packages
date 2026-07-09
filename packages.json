@@ -941,6 +941,18 @@
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-annuaire/branches/main/package.tgz"
   },
+  "ans.fhir.fr.document-core": {
+    "name": "ans.fhir.fr.document-core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
+        "branch": "main",
+        "lastSeen": "2026-07-09T15:51:04.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz"
+  },
   "ans.fhir.fr.eprescription": {
     "name": "ans.fhir.fr.eprescription",
     "locations": [
@@ -1104,7 +1116,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-remove-js-template/package.tgz",
         "repo": "https://github.com/ansforge/IG-template",
         "branch": "nr-remove-js-template",
-        "lastSeen": "2026-07-09T15:19:33.000Z"
+        "lastSeen": "2026-07-09T15:50:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -19452,7 +19464,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "main",
-        "lastSeen": "2026-07-09T14:26:39.000Z"
+        "lastSeen": "2026-07-09T16:08:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol3-table-syntax/package.tgz",
@@ -20766,7 +20778,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "connectathon-july-2026",
-        "lastSeen": "2026-07-08T22:46:48.000Z"
+        "lastSeen": "2026-07-09T15:46:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026-questionnaires/package.tgz",
@@ -54264,7 +54276,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2026-07-07T15:54:14.000Z"
+        "lastSeen": "2026-07-09T16:17:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -71622,7 +71634,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-09T15:03:08.000Z"
+        "lastSeen": "2026-07-09T15:39:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
