@@ -19440,7 +19440,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/main/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "main",
-        "lastSeen": "2026-07-08T13:12:42.000Z"
+        "lastSeen": "2026-07-09T07:27:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/vol3-table-syntax/package.tgz",
@@ -19524,7 +19524,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/audit-trail/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-360-ig",
         "branch": "audit-trail",
-        "lastSeen": "2026-07-08T14:09:24.000Z"
+        "lastSeen": "2026-07-09T07:28:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-360-ig/branches/performance/package.tgz",
@@ -20148,7 +20148,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-09T05:38:18.000Z"
+        "lastSeen": "2026-07-09T07:06:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -28794,7 +28794,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_documentreferene-informative/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_documentreferene-informative",
-        "lastSeen": "2026-07-09T01:54:04.000Z"
+        "lastSeen": "2026-07-09T07:26:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/2.1.0-draft/package.tgz",
@@ -71599,6 +71599,12 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_SpecificLanguageCodes",
         "lastSeen": "2026-07-07T11:42:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_profile-to-logicalmodel/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_profile-to-logicalmodel",
+        "lastSeen": "2026-07-09T06:42:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -78144,7 +78150,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-07-08T13:27:51.000Z"
+        "lastSeen": "2026-07-09T05:56:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -78907,6 +78913,12 @@
         "repo": "https://github.com/vadi2/VadimTestIG",
         "branch": "pattern-codeableconcept-choice-not-rendered",
         "lastSeen": "2026-06-09T10:33:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/vadi2/VadimTestIG/branches/supplement-pin-repro/package.tgz",
+        "repo": "https://github.com/vadi2/VadimTestIG",
+        "branch": "supplement-pin-repro",
+        "lastSeen": "2026-07-09T07:40:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/VadimTestIG/branches/pattern-codeableconcept-choice-not-rendered/package.tgz"
