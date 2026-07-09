@@ -20694,7 +20694,7 @@
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026/package.tgz",
         "repo": "https://github.com/paciowg/sample-data-fsh",
         "branch": "connectathon-july-2026",
-        "lastSeen": "2026-07-08T20:58:57.000Z"
+        "lastSeen": "2026-07-08T22:46:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/paciowg/sample-data-fsh/branches/connectathon-july-2026-questionnaires/package.tgz",
@@ -26809,6 +26809,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "release-6.1.1-draft-2",
         "lastSeen": "2026-07-03T11:01:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/ft-r7-prep1/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "ft-r7-prep1",
+        "lastSeen": "2026-07-08T22:52:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
