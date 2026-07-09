@@ -424,6 +424,14 @@
     }
   },
   {
+    "name": "be.fhir.pregnancy-status",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/main/package.tgz",
+      "repo": "https://github.com/hl7-be/pregnancy-status",
+      "branch": "main"
+    }
+  },
+  {
     "name": "bha-ig",
     "current": {
       "url": "https://build.fhir.org/ig/RatioPBC/bha-ig/branches/moehrke-remove-test/package.tgz",
