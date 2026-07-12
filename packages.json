@@ -43488,7 +43488,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2026-07-12T19:42:46.000Z"
+        "lastSeen": "2026-07-12T20:11:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -53635,6 +53635,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "DW-misc-edits",
         "lastSeen": "2026-06-26T21:24:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/br-57509-clarify-calculation-semantics/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "br-57509-clarify-calculation-semantics",
+        "lastSeen": "2026-07-12T20:25:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
