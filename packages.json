@@ -3582,7 +3582,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2026-07-14T13:29:26.000Z"
+        "lastSeen": "2026-07-14T14:24:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -40915,6 +40915,12 @@
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "security-854",
         "lastSeen": "2026-07-14T13:56:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/device-867/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "device-867",
+        "lastSeen": "2026-07-14T14:53:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -49038,7 +49044,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/dd-qicore-updates-07142026/package.tgz",
         "repo": "https://github.com/HL7/fhir-qi-core",
         "branch": "dd-qicore-updates-07142026",
-        "lastSeen": "2026-07-14T14:00:10.000Z"
+        "lastSeen": "2026-07-14T14:32:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-qi-core/branches/master/package.tgz"
@@ -65850,7 +65856,7 @@
         "url": "https://build.fhir.org/ig/IHE/PCC.QEDm/branches/CP-PCC-0329_QEDm-IPSSummary/package.tgz",
         "repo": "https://github.com/IHE/PCC.QEDm",
         "branch": "CP-PCC-0329_QEDm-IPSSummary",
-        "lastSeen": "2026-07-14T13:13:17.000Z"
+        "lastSeen": "2026-07-14T14:33:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/QEDm/branches/master/package.tgz"
@@ -66546,7 +66552,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-06-03T13:26:10.000Z"
+        "lastSeen": "2026-07-14T14:14:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -71838,7 +71844,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-13T08:09:34.000Z"
+        "lastSeen": "2026-07-14T14:48:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
@@ -71886,7 +71892,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Procedure/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Procedure",
-        "lastSeen": "2026-07-13T08:07:44.000Z"
+        "lastSeen": "2026-07-14T14:48:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_LiquidNarratives2/package.tgz",
