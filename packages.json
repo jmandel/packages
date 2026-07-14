@@ -1441,6 +1441,12 @@
         "repo": "https://github.com/hl7-be/pregnancy-status",
         "branch": "main",
         "lastSeen": "2026-07-14T08:18:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/hl7-be/pregnancy-status",
+        "branch": "release-candidate",
+        "lastSeen": "2026-07-14T08:24:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/main/package.tgz"
@@ -3576,7 +3582,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "master",
-        "lastSeen": "2026-07-01T16:10:31.000Z"
+        "lastSeen": "2026-07-14T08:53:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_apiupdate/package.tgz",
@@ -4116,7 +4122,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/oe_rsv/package.tgz",
         "repo": "https://github.com/ahdis/ch-elm",
         "branch": "oe_rsv",
-        "lastSeen": "2026-07-01T18:13:50.000Z"
+        "lastSeen": "2026-07-14T08:53:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-elm/branches/1.4.1/package.tgz",
@@ -12960,7 +12966,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-07-13T07:22:55.000Z"
+        "lastSeen": "2026-07-14T08:46:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -13344,7 +13350,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0298/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0298",
-        "lastSeen": "2026-07-13T13:46:07.000Z"
+        "lastSeen": "2026-07-14T08:20:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23541_CCR0298_Story1/package.tgz",
@@ -37794,7 +37800,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-5674-addenda-refactor/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-5674-addenda-refactor",
-        "lastSeen": "2026-07-13T14:59:13.000Z"
+        "lastSeen": "2026-07-14T08:30:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -38328,7 +38334,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-5674-addenda-refactor/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-5674-addenda-refactor",
-        "lastSeen": "2026-07-13T14:58:55.000Z"
+        "lastSeen": "2026-07-14T08:31:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -78396,7 +78402,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-07-14T06:50:06.000Z"
+        "lastSeen": "2026-07-14T08:32:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -78864,7 +78870,13 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/ssv-conceptmap-dedup/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "ssv-conceptmap-dedup",
-        "lastSeen": "2026-07-13T12:12:44.000Z"
+        "lastSeen": "2026-07-14T08:11:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/ssv-cm-scopes/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "ssv-cm-scopes",
+        "lastSeen": "2026-07-14T08:06:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
