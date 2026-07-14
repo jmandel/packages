@@ -1440,7 +1440,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/main/package.tgz",
         "repo": "https://github.com/hl7-be/pregnancy-status",
         "branch": "main",
-        "lastSeen": "2026-07-09T14:21:54.000Z"
+        "lastSeen": "2026-07-14T08:18:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/main/package.tgz"
@@ -14328,7 +14328,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-07-13T13:32:16.000Z"
+        "lastSeen": "2026-07-14T07:58:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -37776,7 +37776,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/section-1/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "section-1",
-        "lastSeen": "2026-07-13T12:11:04.000Z"
+        "lastSeen": "2026-07-14T07:40:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/xtehr-mapping/package.tgz",
@@ -38310,7 +38310,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/section-1/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r5",
         "branch": "section-1",
-        "lastSeen": "2026-07-13T12:10:09.000Z"
+        "lastSeen": "2026-07-14T07:41:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/xtehr-mapping/package.tgz",
@@ -78396,7 +78396,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-07-13T14:18:24.000Z"
+        "lastSeen": "2026-07-14T06:50:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -79026,7 +79026,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "main",
-        "lastSeen": "2026-07-09T10:38:58.000Z"
+        "lastSeen": "2026-07-14T07:58:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/forms-overview/package.tgz",
@@ -79081,6 +79081,18 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "fix-066-mapping-discharge-rows",
         "lastSeen": "2026-07-09T09:57:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/fix-066-1-identifiers/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "fix-066-1-identifiers",
+        "lastSeen": "2026-07-14T07:38:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/docs-finding-documents/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "docs-finding-documents",
+        "lastSeen": "2026-07-14T07:50:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
