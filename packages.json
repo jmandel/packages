@@ -9312,7 +9312,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-qicore-2025",
         "branch": "master",
-        "lastSeen": "2026-07-11T22:42:32.000Z"
+        "lastSeen": "2026-07-15T03:46:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/imported/package.tgz",
@@ -9366,7 +9366,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-cms-2026/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-cms-2026",
         "branch": "main",
-        "lastSeen": "2026-07-11T22:57:15.000Z"
+        "lastSeen": "2026-07-15T03:47:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-qicore-2025/branches/ld-20260526-fix-bad-measure-data/package.tgz",
@@ -15948,7 +15948,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2026-06-01T02:49:22.000Z"
+        "lastSeen": "2026-07-15T03:42:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -20298,7 +20298,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-14T06:14:35.000Z"
+        "lastSeen": "2026-07-15T05:00:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -25920,7 +25920,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-07-15T01:24:58.000Z"
+        "lastSeen": "2026-07-15T04:33:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -26814,7 +26814,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-07-14T03:08:40.000Z"
+        "lastSeen": "2026-07-15T04:11:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-base/branches/au-base-endpoint-proposal/package.tgz",
@@ -26982,13 +26982,19 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-base/branches/cr-FHIR-57797-Endpoint/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/au-fhir-base",
         "branch": "cr-FHIR-57797-Endpoint",
-        "lastSeen": "2026-07-14T06:45:15.000Z"
+        "lastSeen": "2026-07-15T04:30:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-57797-Endpoint/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-FHIR-57797-Endpoint",
-        "lastSeen": "2026-07-14T06:44:32.000Z"
+        "lastSeen": "2026-07-15T04:29:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-endpoint-afmm1/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "cr-endpoint-afmm1",
+        "lastSeen": "2026-07-15T03:36:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -40938,7 +40944,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/security-854/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "security-854",
-        "lastSeen": "2026-07-14T13:56:52.000Z"
+        "lastSeen": "2026-07-15T05:09:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/device-867/package.tgz",
@@ -55836,7 +55842,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/instance-rendering/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "instance-rendering",
-        "lastSeen": "2026-07-09T03:46:30.000Z"
+        "lastSeen": "2026-07-15T04:59:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -57978,7 +57984,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/rh-mapping/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "rh-mapping",
-        "lastSeen": "2026-06-22T20:29:38.000Z"
+        "lastSeen": "2026-07-15T03:51:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
@@ -58860,7 +58866,7 @@
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/master/package.tgz",
         "repo": "https://github.com/HL7/sdc",
         "branch": "master",
-        "lastSeen": "2026-07-09T04:18:38.000Z"
+        "lastSeen": "2026-07-15T05:01:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sdc/branches/BP-extract-enhancements/package.tgz",
@@ -68874,7 +68880,7 @@
         "url": "https://build.fhir.org/ig/cqframework/dqm-content-cms-2025/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/dqm-content-cms-2025",
         "branch": "main",
-        "lastSeen": "2026-07-11T22:51:36.000Z"
+        "lastSeen": "2026-07-15T03:44:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/dqm-content-cms-2024/branches/main/package.tgz"
@@ -77040,7 +77046,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uat",
-        "lastSeen": "2026-07-15T03:24:00.000Z"
+        "lastSeen": "2026-07-15T05:07:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/main/package.tgz",
