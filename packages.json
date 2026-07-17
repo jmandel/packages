@@ -35964,7 +35964,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "Pavlina",
-        "lastSeen": "2026-07-16T09:39:34.000Z"
+        "lastSeen": "2026-07-17T08:44:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/Subsekce-Composition/package.tgz",
@@ -66997,6 +66997,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "v1.0.0-rc3",
         "lastSeen": "2026-06-04T06:57:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue163-questionnaire-ppod/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "issue163-questionnaire-ppod",
+        "lastSeen": "2026-07-17T08:23:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -67249,6 +67255,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "v1.0.0-rc3",
         "lastSeen": "2026-06-04T06:59:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue-163-ppod-questionnairestu3/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "issue-163-ppod-questionnairestu3",
+        "lastSeen": "2026-07-17T08:56:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -71904,7 +71916,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-07-17T08:20:08.000Z"
+        "lastSeen": "2026-07-17T08:36:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/TestScripts/package.tgz",
@@ -71988,7 +72000,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-17T08:06:16.000Z"
+        "lastSeen": "2026-07-17T08:57:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
