@@ -18804,7 +18804,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/jk-profile-updates/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
         "branch": "jk-profile-updates",
-        "lastSeen": "2026-07-17T11:24:07.000Z"
+        "lastSeen": "2026-07-17T12:49:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/main/package.tgz"
@@ -20106,7 +20106,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-authorization-information-model/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "add-authorization-information-model",
-        "lastSeen": "2026-06-11T09:04:36.000Z"
+        "lastSeen": "2026-07-17T12:44:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-serviceprovider-and-healthcareprovider-credentials/package.tgz",
@@ -29149,6 +29149,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_qa-fixes",
         "lastSeen": "2026-07-17T01:47:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_meddisp-examples/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_meddisp-examples",
+        "lastSeen": "2026-07-17T11:52:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
