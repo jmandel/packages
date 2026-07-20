@@ -9331,6 +9331,12 @@
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "QICore6-pattern-updates",
         "lastSeen": "2026-05-11T15:38:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/July-2026-Updates/package.tgz",
+        "repo": "https://github.com/cqframework/cms-qmd",
+        "branch": "July-2026-Updates",
+        "lastSeen": "2026-07-20T17:12:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz"
@@ -54396,7 +54402,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/dd-deqm-updates-07202026/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "dd-deqm-updates-07202026",
-        "lastSeen": "2026-07-20T15:48:44.000Z"
+        "lastSeen": "2026-07-20T17:49:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-03-13/package.tgz"
@@ -72102,7 +72108,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/AZ-1145/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "AZ-1145",
-        "lastSeen": "2026-07-20T16:37:44.000Z"
+        "lastSeen": "2026-07-20T17:47:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
