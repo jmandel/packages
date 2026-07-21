@@ -27120,7 +27120,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-medication-ingredient-xver/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-medication-ingredient-xver",
-        "lastSeen": "2026-07-21T02:13:01.000Z"
+        "lastSeen": "2026-07-21T03:18:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/qa-terminology1/package.tgz",
@@ -27138,7 +27138,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr_medication-ingredient-xver-test/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr_medication-ingredient-xver-test",
-        "lastSeen": "2026-07-20T22:21:45.000Z"
+        "lastSeen": "2026-07-21T03:00:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -60115,6 +60115,12 @@
         "repo": "https://github.com/FHIR/sql-on-fhir-v2",
         "branch": "releases",
         "lastSeen": "2024-10-08T09:55:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/hl7-urls-styling/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "hl7-urls-styling",
+        "lastSeen": "2026-07-21T03:38:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -72949,6 +72955,12 @@
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "sqlquery-view-sources",
         "lastSeen": "2026-07-21T00:52:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/replace-ci-links/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "replace-ci-links",
+        "lastSeen": "2026-07-21T02:35:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/v2.0.0/package.tgz"
