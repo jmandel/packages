@@ -40698,7 +40698,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-procedure/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-procedure",
-        "lastSeen": "2026-06-29T12:42:51.000Z"
+        "lastSeen": "2026-07-22T12:56:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-encounter/package.tgz",
@@ -45174,7 +45174,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "master",
-        "lastSeen": "2026-06-29T15:03:38.000Z"
+        "lastSeen": "2026-07-22T12:38:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/provider_api/package.tgz",
@@ -58338,7 +58338,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-07-22T12:37:42.000Z"
+        "lastSeen": "2026-07-22T14:16:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
@@ -67878,13 +67878,13 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "main",
-        "lastSeen": "2026-07-09T19:06:54.000Z"
+        "lastSeen": "2026-07-22T13:45:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/R6/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "R6",
-        "lastSeen": "2026-05-05T19:58:11.000Z"
+        "lastSeen": "2026-07-22T13:42:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz"
@@ -68122,6 +68122,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testExclusion/branches/main/package.tgz"
+  },
+  "johnmoehrke.testlist.example": {
+    "name": "johnmoehrke.testlist.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/testList/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/testList",
+        "branch": "main",
+        "lastSeen": "2026-07-22T13:35:26.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/testList/branches/main/package.tgz"
   },
   "johnmoehrke.testmed.example": {
     "name": "johnmoehrke.testmed.example",
@@ -68550,7 +68562,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway",
         "branch": "2.0.0",
-        "lastSeen": "2026-07-21T14:49:16.000Z"
+        "lastSeen": "2026-07-22T13:52:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.2.0/package.tgz",
@@ -72258,7 +72270,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/develop/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "develop",
-        "lastSeen": "2026-07-22T12:19:52.000Z"
+        "lastSeen": "2026-07-22T13:06:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/NICTIZ-47057/package.tgz",
@@ -72372,7 +72384,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_AllergyIntolerance",
-        "lastSeen": "2026-07-10T11:06:57.000Z"
+        "lastSeen": "2026-07-22T13:29:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-decor-ids/package.tgz",
@@ -78270,7 +78282,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.2.5/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.2.5",
-        "lastSeen": "2026-07-21T07:59:58.000Z"
+        "lastSeen": "2026-07-22T12:15:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
