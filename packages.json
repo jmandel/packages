@@ -1104,7 +1104,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-repertoire-offre-ressources-sante/branches/update-dependencies-fr-core-annuaire/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-repertoire-offre-ressources-sante",
         "branch": "update-dependencies-fr-core-annuaire",
-        "lastSeen": "2026-07-22T15:10:53.000Z"
+        "lastSeen": "2026-07-22T16:23:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-repertoire-offre-ressources-sante/branches/update-dependencies-fr-core-annuaire/package.tgz"
@@ -29353,6 +29353,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_uscore9.0.0-update",
         "lastSeen": "2026-07-22T08:02:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/au-fhir-core/branches/master/package.tgz",
+        "repo": "https://github.com/niccoreyes/au-fhir-core",
+        "branch": "master",
+        "lastSeen": "2026-07-22T16:40:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -35706,7 +35712,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/tei/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/tei",
         "branch": "master",
-        "lastSeen": "2026-06-23T16:20:19.000Z"
+        "lastSeen": "2026-07-22T16:01:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/SIGTEv2-IG/branches/master/package.tgz"
@@ -35952,7 +35958,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2026-07-10T05:32:26.000Z"
+        "lastSeen": "2026-07-22T16:09:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -47292,7 +47298,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-07-22T14:46:35.000Z"
+        "lastSeen": "2026-07-22T16:26:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -60828,7 +60834,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-xver/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-xver",
         "branch": "main",
-        "lastSeen": "2026-07-08T19:58:34.000Z"
+        "lastSeen": "2026-07-22T16:48:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cross-version/branches/main/package.tgz"
@@ -63420,7 +63426,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/jd-tickets/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "jd-tickets",
-        "lastSeen": "2026-07-22T15:31:38.000Z"
+        "lastSeen": "2026-07-22T16:42:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
@@ -68580,7 +68586,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/2.0.0/package.tgz",
         "repo": "https://github.com/hl7dk/kl-gateway",
         "branch": "2.0.0",
-        "lastSeen": "2026-07-22T15:48:10.000Z"
+        "lastSeen": "2026-07-22T16:11:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/kl-gateway/branches/1.2.0/package.tgz",
