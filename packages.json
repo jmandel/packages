@@ -13422,7 +13422,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23931_FDD0195_CCR0333_data_controller_responsibility_on_eoc/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23931_FDD0195_CCR0333_data_controller_responsibility_on_eoc",
-        "lastSeen": "2026-07-09T09:02:53.000Z"
+        "lastSeen": "2026-07-23T08:21:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0298/package.tgz",
@@ -13488,7 +13488,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ccr0298-rename-seb-competences/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ccr0298-rename-seb-competences",
-        "lastSeen": "2026-07-23T08:01:44.000Z"
+        "lastSeen": "2026-07-23T08:53:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -15565,6 +15565,12 @@
         "repo": "https://github.com/EEHRxF/logical-model",
         "branch": "second-nonpaper-202606",
         "lastSeen": "2026-07-21T09:03:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/EEHRxF/logical-model/branches/third-nonpaper-202607/package.tgz",
+        "repo": "https://github.com/EEHRxF/logical-model",
+        "branch": "third-nonpaper-202607",
+        "lastSeen": "2026-07-23T08:27:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
@@ -20472,7 +20478,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-22T08:33:19.000Z"
+        "lastSeen": "2026-07-23T08:51:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -25205,6 +25211,18 @@
     ],
     "current": "https://build.fhir.org/ig/HL7/dhfp-ig/branches/main/package.tgz"
   },
+  "hl7.ehrs.us.medlistfp": {
+    "name": "hl7.ehrs.us.medlistfp",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7/medlistfp-ig/branches/main/package.tgz",
+        "repo": "https://github.com/HL7/medlistfp-ig",
+        "branch": "main",
+        "lastSeen": "2026-07-23T08:32:54.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7/medlistfp-ig/branches/main/package.tgz"
+  },
   "hl7.ehrs.uv.base": {
     "name": "hl7.ehrs.uv.base",
     "locations": [
@@ -25770,7 +25788,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xshare-ips-plus/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xshare-ips-plus",
         "branch": "master",
-        "lastSeen": "2026-07-21T07:06:25.000Z"
+        "lastSeen": "2026-07-23T08:35:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xshare-ips-plus/branches/master/package.tgz"
@@ -40722,7 +40740,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-procedure/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-procedure",
-        "lastSeen": "2026-07-22T12:56:12.000Z"
+        "lastSeen": "2026-07-23T09:10:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-encounter/package.tgz",
@@ -72396,7 +72414,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-23T07:47:38.000Z"
+        "lastSeen": "2026-07-23T09:16:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
