@@ -1104,7 +1104,7 @@
         "url": "https://build.fhir.org/ig/ansforge/IG-fhir-repertoire-offre-ressources-sante/branches/update-dependencies-fr-core-annuaire/package.tgz",
         "repo": "https://github.com/ansforge/IG-fhir-repertoire-offre-ressources-sante",
         "branch": "update-dependencies-fr-core-annuaire",
-        "lastSeen": "2026-07-22T16:23:30.000Z"
+        "lastSeen": "2026-07-23T08:16:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-fhir-repertoire-offre-ressources-sante/branches/update-dependencies-fr-core-annuaire/package.tgz"
@@ -13483,6 +13483,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.4-SNAPSHOT",
         "lastSeen": "2026-07-21T12:57:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/ccr0298-rename-seb-competences/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "ccr0298-rename-seb-competences",
+        "lastSeen": "2026-07-23T08:01:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -25176,7 +25182,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-ehrs/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-ehrs",
         "branch": "main",
-        "lastSeen": "2025-12-13T09:32:20.000Z"
+        "lastSeen": "2026-07-23T07:39:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-ehrs/branches/main/package.tgz"
@@ -27186,7 +27192,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-medication-ingredient-xver/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-medication-ingredient-xver",
-        "lastSeen": "2026-07-23T06:52:55.000Z"
+        "lastSeen": "2026-07-23T07:24:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/qa-terminology1/package.tgz",
@@ -72390,7 +72396,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-43876",
-        "lastSeen": "2026-07-22T09:06:40.000Z"
+        "lastSeen": "2026-07-23T07:47:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_PractitionerRole/package.tgz",
