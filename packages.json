@@ -27276,7 +27276,13 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/qa-medstrengthfixes/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "qa-medstrengthfixes",
-        "lastSeen": "2026-07-24T00:29:45.000Z"
+        "lastSeen": "2026-07-24T01:56:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/editorial-extensionpack-usage/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "editorial-extensionpack-usage",
+        "lastSeen": "2026-07-24T02:18:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -29382,7 +29388,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_medinfo-page/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_medinfo-page",
-        "lastSeen": "2026-07-23T22:31:13.000Z"
+        "lastSeen": "2026-07-24T01:29:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_ips2.0.1-update/package.tgz",
@@ -29424,13 +29430,19 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_uscore9.0.0-update/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_uscore9.0.0-update",
-        "lastSeen": "2026-07-23T22:30:58.000Z"
+        "lastSeen": "2026-07-24T01:18:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/niccoreyes/au-fhir-core",
         "branch": "master",
         "lastSeen": "2026-07-22T16:40:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_table_styles/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_table_styles",
+        "lastSeen": "2026-07-24T02:10:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -58464,7 +58476,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-07-24T00:56:44.000Z"
+        "lastSeen": "2026-07-24T02:13:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
