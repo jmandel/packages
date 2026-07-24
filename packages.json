@@ -486,7 +486,7 @@
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/Shift-Hannah-ValueSets/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/SLS-ValueSets",
         "branch": "Shift-Hannah-ValueSets",
-        "lastSeen": "2026-07-24T00:35:47.000Z"
+        "lastSeen": "2026-07-24T13:52:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/main/package.tgz"
@@ -13062,7 +13062,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-07-23T09:12:34.000Z"
+        "lastSeen": "2026-07-24T13:30:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -13507,6 +13507,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "ccr0298-rename-seb-competences",
         "lastSeen": "2026-07-23T08:53:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-22188_support_new_SOR_organization_types/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-22188_support_new_SOR_organization_types",
+        "lastSeen": "2026-07-24T13:23:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -25836,7 +25842,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xshare-ips-plus/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xshare-ips-plus",
         "branch": "master",
-        "lastSeen": "2026-07-24T12:16:07.000Z"
+        "lastSeen": "2026-07-24T13:23:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xshare-ips-plus/branches/master/package.tgz"
@@ -47226,7 +47232,7 @@
         "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/main/package.tgz",
         "repo": "https://github.com/FHIR/MADFSH",
         "branch": "main",
-        "lastSeen": "2026-06-19T13:43:21.000Z"
+        "lastSeen": "2026-07-24T13:48:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/MADFSH/branches/deps_012626/package.tgz",
@@ -49710,7 +49716,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2026-07-17T23:54:27.000Z"
+        "lastSeen": "2026-07-24T13:31:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
