@@ -29334,7 +29334,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-inform/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-inform",
-        "lastSeen": "2026-07-28T07:50:44.000Z"
+        "lastSeen": "2026-07-28T11:33:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_composition-informative/package.tgz",
@@ -38376,13 +38376,13 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-56781-ImagingDeviceTypeVS/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-56781-ImagingDeviceTypeVS",
-        "lastSeen": "2026-07-20T15:12:01.000Z"
+        "lastSeen": "2026-07-28T11:41:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-56784-Procedure_code_valueset/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-56784-Procedure_code_valueset",
-        "lastSeen": "2026-07-28T08:56:10.000Z"
+        "lastSeen": "2026-07-28T11:47:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -38922,13 +38922,13 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-56781-ImagingDeviceTypeVS/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-56781-ImagingDeviceTypeVS",
-        "lastSeen": "2026-07-20T15:10:58.000Z"
+        "lastSeen": "2026-07-28T11:36:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-56784-Procedure_code_valueset/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-56784-Procedure_code_valueset",
-        "lastSeen": "2026-07-28T08:57:03.000Z"
+        "lastSeen": "2026-07-28T11:43:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -67368,7 +67368,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-07-27T12:55:09.000Z"
+        "lastSeen": "2026-07-28T12:06:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -72684,7 +72684,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/develop/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "develop",
-        "lastSeen": "2026-07-28T08:18:19.000Z"
+        "lastSeen": "2026-07-28T11:35:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/NICTIZ-47057/package.tgz",
@@ -80005,6 +80005,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "lab-obsdef-loinc-ui-binding",
         "lastSeen": "2026-07-21T11:41:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/roosyabuddy-patch-1/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "roosyabuddy-patch-1",
+        "lastSeen": "2026-07-28T10:57:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
