@@ -10434,7 +10434,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-06-11T10:18:31.000Z"
+        "lastSeen": "2026-07-28T10:43:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -10938,7 +10938,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/1.0.5/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "1.0.5",
-        "lastSeen": "2026-06-12T09:19:27.000Z"
+        "lastSeen": "2026-07-28T10:59:25.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/1.0.6/package.tgz",
@@ -10950,7 +10950,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/1.0.7/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "1.0.7",
-        "lastSeen": "2026-06-15T13:48:12.000Z"
+        "lastSeen": "2026-07-28T10:59:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/remove-frequency-if-not-necessary/package.tgz",
@@ -10993,6 +10993,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "textgenerierung-spec",
         "lastSeen": "2026-07-28T10:06:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/restrict-decimals/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "restrict-decimals",
+        "lastSeen": "2026-07-28T11:10:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -36162,7 +36168,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-core/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-core",
         "branch": "master",
-        "lastSeen": "2026-07-22T16:09:26.000Z"
+        "lastSeen": "2026-07-28T10:58:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ncez-cz/cz-core/branches/master/package.tgz",
@@ -36678,7 +36684,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/Pavlina/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-lab",
         "branch": "Pavlina",
-        "lastSeen": "2026-07-28T06:40:36.000Z"
+        "lastSeen": "2026-07-28T11:04:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/master/package.tgz"
@@ -72739,6 +72745,12 @@
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "updateLinksToAdPublication-3",
         "lastSeen": "2026-07-27T14:50:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/logicalModel/package.tgz",
+        "repo": "https://github.com/Nictiz/AZ-IG",
+        "branch": "logicalModel",
+        "lastSeen": "2026-07-28T10:55:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -72822,7 +72834,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_AllergyIntolerance",
-        "lastSeen": "2026-07-28T09:55:31.000Z"
+        "lastSeen": "2026-07-28T11:10:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-decor-ids/package.tgz",
