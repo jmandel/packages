@@ -11017,6 +11017,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "122-DosageStructuredRequiresBoth-to-warning",
         "lastSeen": "2026-07-28T12:44:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/129-examples-validation/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "129-examples-validation",
+        "lastSeen": "2026-07-28T15:19:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -38388,7 +38394,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-5674-addenda-refactor/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "FHIR-5674-addenda-refactor",
-        "lastSeen": "2026-07-28T12:15:19.000Z"
+        "lastSeen": "2026-07-28T14:58:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-56781-ImagingDeviceTypeVS/package.tgz",
@@ -38934,7 +38940,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-5674-addenda-refactor/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "FHIR-5674-addenda-refactor",
-        "lastSeen": "2026-07-28T12:15:16.000Z"
+        "lastSeen": "2026-07-28T14:58:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-56781-ImagingDeviceTypeVS/package.tgz",
@@ -49692,7 +49698,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-07-28T13:37:07.000Z"
+        "lastSeen": "2026-07-28T14:56:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/params-table/package.tgz",
@@ -58656,7 +58662,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-07-28T05:00:10.000Z"
+        "lastSeen": "2026-07-28T14:59:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
@@ -72654,7 +72660,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "0.1.0",
-        "lastSeen": "2026-07-17T08:36:08.000Z"
+        "lastSeen": "2026-07-28T14:49:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/TestScripts/package.tgz",
@@ -72942,7 +72948,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-47281/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-47281",
-        "lastSeen": "2026-07-28T14:00:22.000Z"
+        "lastSeen": "2026-07-28T14:29:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-47281/package.tgz"
