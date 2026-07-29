@@ -810,7 +810,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-cda-document-core/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-cda-document-core",
         "branch": "main",
-        "lastSeen": "2026-07-28T20:31:31.000Z"
+        "lastSeen": "2026-07-29T12:57:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-cda-document-core/branches/test-enrichissement/package.tgz",
@@ -11040,7 +11040,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/prepare-2.0.0/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "prepare-2.0.0",
-        "lastSeen": "2026-07-29T11:41:34.000Z"
+        "lastSeen": "2026-07-29T14:11:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -38173,6 +38173,12 @@
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "ballot-recon-mhd-query-alignment",
         "lastSeen": "2026-07-22T12:19:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/ballot-recon-hpas-hdas-definitions/package.tgz",
+        "repo": "https://github.com/euridice-org/eu-health-data-api",
+        "branch": "ballot-recon-hpas-hdas-definitions",
+        "lastSeen": "2026-07-29T13:30:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -38394,7 +38400,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/master/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "master",
-        "lastSeen": "2026-06-08T12:45:31.000Z"
+        "lastSeen": "2026-07-29T13:09:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/ballot-1.0.0-resolution/package.tgz",
@@ -38940,7 +38946,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/master/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "master",
-        "lastSeen": "2026-06-08T12:44:31.000Z"
+        "lastSeen": "2026-07-29T13:09:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r5/branches/ballot-1.0.0-resolution/package.tgz",
@@ -49747,6 +49753,12 @@
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "cap-statement-improvements",
         "lastSeen": "2026-07-28T19:55:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/profile-search-improvements/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-quality-core",
+        "branch": "profile-search-improvements",
+        "lastSeen": "2026-07-29T13:59:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz"
@@ -72865,6 +72877,12 @@
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "logicalModel",
         "lastSeen": "2026-07-28T13:45:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/UpdateFunctionalMapping/package.tgz",
+        "repo": "https://github.com/Nictiz/AZ-IG",
+        "branch": "UpdateFunctionalMapping",
+        "lastSeen": "2026-07-29T13:38:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
@@ -73032,7 +73050,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-07-29T12:51:44.000Z"
+        "lastSeen": "2026-07-29T13:57:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -73044,7 +73062,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-47281/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-47281",
-        "lastSeen": "2026-07-29T07:23:24.000Z"
+        "lastSeen": "2026-07-29T14:14:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-47281/package.tgz"
