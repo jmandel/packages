@@ -835,6 +835,12 @@
         "repo": "https://github.com/ansforge/interop-IG-cda-document-core",
         "branch": "nriss-patch-1",
         "lastSeen": "2026-07-28T16:21:11.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-cda-document-core/branches/update-title-section-composants/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-cda-document-core",
+        "branch": "update-title-section-composants",
+        "lastSeen": "2026-07-29T12:38:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-cda-document-core/branches/main/package.tgz"
@@ -20616,7 +20622,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-07-28T06:44:15.000Z"
+        "lastSeen": "2026-07-29T12:55:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -54276,7 +54282,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-07-27T15:13:48.000Z"
+        "lastSeen": "2026-07-29T12:34:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -54510,7 +54516,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-57188/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "FHIR-57188",
-        "lastSeen": "2026-07-28T17:27:39.000Z"
+        "lastSeen": "2026-07-29T12:43:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-57189/package.tgz",
@@ -73026,7 +73032,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-07-29T11:45:34.000Z"
+        "lastSeen": "2026-07-29T12:51:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -77712,7 +77718,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "main",
-        "lastSeen": "2026-07-03T08:02:03.000Z"
+        "lastSeen": "2026-07-29T12:15:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/costateixeira/smart-trust/branches/main/package.tgz",
@@ -77935,6 +77941,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-trust",
         "branch": "MeowUpdates",
         "lastSeen": "2026-07-29T11:15:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/v1.7.0-releaseCandidate/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-trust",
+        "branch": "v1.7.0-releaseCandidate",
+        "lastSeen": "2026-07-29T12:20:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-trust/branches/1.0.0/package.tgz"
@@ -79650,7 +79662,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-07-28T11:51:46.000Z"
+        "lastSeen": "2026-07-29T12:12:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
