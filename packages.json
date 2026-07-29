@@ -27432,7 +27432,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-07-28T12:37:54.000Z"
+        "lastSeen": "2026-07-28T23:14:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -29364,7 +29364,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_diagrep-inform/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "ft_diagrep-inform",
-        "lastSeen": "2026-07-28T11:33:36.000Z"
+        "lastSeen": "2026-07-28T23:00:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_composition-informative/package.tgz",
@@ -29586,7 +29586,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/3.0.0-ballot1/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "3.0.0-ballot1",
-        "lastSeen": "2026-07-28T22:27:56.000Z"
+        "lastSeen": "2026-07-28T22:59:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_general-qa/package.tgz",
@@ -58710,7 +58710,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-07-28T18:00:22.000Z"
+        "lastSeen": "2026-07-28T23:32:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
@@ -60114,7 +60114,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz",
         "repo": "https://github.com/HL7/smart-scheduling-links",
         "branch": "main",
-        "lastSeen": "2026-07-21T18:44:47.000Z"
+        "lastSeen": "2026-07-28T23:01:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/FMG-QA-Review-1.0.0/package.tgz",
@@ -78156,7 +78156,13 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/sehr-content-updates/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "sehr-content-updates",
-        "lastSeen": "2026-07-28T21:41:54.000Z"
+        "lastSeen": "2026-07-28T23:19:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/sehr-content-updates-km/package.tgz",
+        "repo": "https://github.com/tewhatuora/fhir-sdhr",
+        "branch": "sehr-content-updates-km",
+        "lastSeen": "2026-07-28T23:14:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/tewhatuora/fhir-primary-care-acquisition/branches/uat/package.tgz"
