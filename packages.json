@@ -1045,6 +1045,12 @@
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "nriss-patch-2",
         "lastSeen": "2026-07-27T16:14:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/fix-issues/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
+        "branch": "fix-issues",
+        "lastSeen": "2026-07-29T14:35:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz"
@@ -10452,7 +10458,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-07-29T11:31:56.000Z"
+        "lastSeen": "2026-07-29T14:43:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -36738,7 +36744,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-lab",
         "branch": "master",
-        "lastSeen": "2026-05-26T08:34:17.000Z"
+        "lastSeen": "2026-07-29T14:29:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/cz-lab/branches/Pavlina/package.tgz",
@@ -49746,7 +49752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/params-table/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "params-table",
-        "lastSeen": "2026-07-24T15:10:22.000Z"
+        "lastSeen": "2026-07-29T14:44:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/cap-statement-improvements/package.tgz",
@@ -49758,7 +49764,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/profile-search-improvements/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "profile-search-improvements",
-        "lastSeen": "2026-07-29T13:59:52.000Z"
+        "lastSeen": "2026-07-29T14:19:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/notes-to-balloters/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-quality-core",
+        "branch": "notes-to-balloters",
+        "lastSeen": "2026-07-29T14:41:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz"
@@ -54540,7 +54552,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-56819/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "FHIR-56819",
-        "lastSeen": "2026-07-28T21:15:11.000Z"
+        "lastSeen": "2026-07-29T14:22:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/FHIR-57187/package.tgz",
@@ -60168,7 +60180,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/main/package.tgz",
         "repo": "https://github.com/HL7/smart-scheduling-links",
         "branch": "main",
-        "lastSeen": "2026-07-28T23:01:42.000Z"
+        "lastSeen": "2026-07-29T14:29:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/smart-scheduling-links/branches/FMG-QA-Review-1.0.0/package.tgz",
@@ -61206,7 +61218,7 @@
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "master",
-        "lastSeen": "2026-07-15T15:47:27.000Z"
+        "lastSeen": "2026-07-29T15:10:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/phoenix/package.tgz",
@@ -72882,7 +72894,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/UpdateFunctionalMapping/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "UpdateFunctionalMapping",
-        "lastSeen": "2026-07-29T13:38:10.000Z"
+        "lastSeen": "2026-07-29T14:24:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
