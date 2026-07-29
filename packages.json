@@ -23916,7 +23916,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "main",
-        "lastSeen": "2026-07-28T04:24:21.000Z"
+        "lastSeen": "2026-07-29T17:38:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/BO_rework_use_case_2/package.tgz"
@@ -49746,7 +49746,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-07-29T15:31:41.000Z"
+        "lastSeen": "2026-07-29T16:48:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/params-table/package.tgz",
@@ -49771,6 +49771,12 @@
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "notes-to-balloters",
         "lastSeen": "2026-07-29T14:41:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/requirements-tables/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-quality-core",
+        "branch": "requirements-tables",
+        "lastSeen": "2026-07-29T17:41:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz"
@@ -58770,7 +58776,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-07-29T16:33:00.000Z"
+        "lastSeen": "2026-07-29T17:33:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
@@ -58789,6 +58795,12 @@
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "rh-mapping",
         "lastSeen": "2026-07-16T17:11:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-omop-ig",
+        "branch": "1.0.0",
+        "lastSeen": "2026-07-29T17:12:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz"
