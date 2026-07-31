@@ -1056,7 +1056,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/specific-profile-img/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "specific-profile-img",
-        "lastSeen": "2026-07-31T07:56:08.000Z"
+        "lastSeen": "2026-07-31T09:38:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz"
@@ -36210,7 +36210,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "main",
-        "lastSeen": "2026-07-30T20:24:33.000Z"
+        "lastSeen": "2026-07-31T09:40:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
@@ -41028,7 +41028,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-service-request/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-service-request",
-        "lastSeen": "2026-07-23T10:01:36.000Z"
+        "lastSeen": "2026-07-31T09:44:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-note-a-propos-evolutions/package.tgz",
@@ -41652,7 +41652,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-07-28T15:21:44.000Z"
+        "lastSeen": "2026-07-31T10:19:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -67897,6 +67897,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "HarmkeKoning-patch-1",
         "lastSeen": "2026-07-28T09:49:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-171-rename-legallycapable/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "issue-171-rename-legallycapable",
+        "lastSeen": "2026-07-31T09:54:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -68161,6 +68167,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "HarmkeKoning-patch-2",
         "lastSeen": "2026-07-28T10:00:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue-171-R4-rename-legallycapable/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "issue-171-R4-rename-legallycapable",
+        "lastSeen": "2026-07-31T10:16:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
