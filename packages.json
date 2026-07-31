@@ -1056,7 +1056,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/specific-profile-img/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "specific-profile-img",
-        "lastSeen": "2026-07-31T09:38:39.000Z"
+        "lastSeen": "2026-07-31T13:07:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz"
@@ -16554,7 +16554,7 @@
         "url": "https://build.fhir.org/ig/IHE-Germany/fachbereich/branches/main/package.tgz",
         "repo": "https://github.com/IHE-Germany/fachbereich",
         "branch": "main",
-        "lastSeen": "2026-07-23T13:19:53.000Z"
+        "lastSeen": "2026-07-31T13:50:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE-Germany/fachbereich/branches/main/package.tgz"
@@ -36216,7 +36216,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/amb",
         "branch": "main",
-        "lastSeen": "2026-07-31T12:40:28.000Z"
+        "lastSeen": "2026-07-31T13:35:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/amb/branches/Tomas/package.tgz",
@@ -41076,7 +41076,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-allergy-intolerance/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-allergy-intolerance",
-        "lastSeen": "2026-07-20T15:52:52.000Z"
+        "lastSeen": "2026-07-31T13:28:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/htr-doc-core-medication-ald-prevention/package.tgz",
@@ -54822,7 +54822,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-07-31T12:31:38.000Z"
+        "lastSeen": "2026-07-31T14:03:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -54996,7 +54996,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/br-changes-2026-07-28/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "br-changes-2026-07-28",
-        "lastSeen": "2026-07-29T06:21:42.000Z"
+        "lastSeen": "2026-07-31T13:39:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-57142/package.tgz",
@@ -67914,7 +67914,13 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issues-175-176-dataexchange-clarifications/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issues-175-176-dataexchange-clarifications",
-        "lastSeen": "2026-07-31T11:55:09.000Z"
+        "lastSeen": "2026-07-31T13:54:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-144-obligations/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "issue-144-obligations",
+        "lastSeen": "2026-07-31T14:05:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
