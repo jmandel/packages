@@ -41070,7 +41070,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-immunization/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-immunization",
-        "lastSeen": "2026-07-21T08:00:10.000Z"
+        "lastSeen": "2026-07-31T17:49:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-medication/package.tgz",
@@ -45685,6 +45685,12 @@
         "repo": "https://github.com/HL7/davinci-epdx",
         "branch": "pre-publish-2.2.0",
         "lastSeen": "2026-07-23T17:31:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/ci-rebuild-trigger-2026-07-31/package.tgz",
+        "repo": "https://github.com/HL7/davinci-epdx",
+        "branch": "ci-rebuild-trigger-2026-07-31",
+        "lastSeen": "2026-07-31T16:51:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-epdx/branches/master/package.tgz"
@@ -49782,7 +49788,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-07-31T04:13:34.000Z"
+        "lastSeen": "2026-07-31T17:30:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/params-table/package.tgz",
@@ -49819,6 +49825,12 @@
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "authors",
         "lastSeen": "2026-07-29T20:41:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/mapping-updates/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-quality-core",
+        "branch": "mapping-updates",
+        "lastSeen": "2026-07-31T17:45:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz"
