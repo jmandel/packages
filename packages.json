@@ -26316,7 +26316,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-07-27T11:32:34.000Z"
+        "lastSeen": "2026-08-03T00:43:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -27420,7 +27420,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr_medication-ingredient-xver-test/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr_medication-ingredient-xver-test",
-        "lastSeen": "2026-07-26T03:18:42.000Z"
+        "lastSeen": "2026-08-03T00:44:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/qa-medstrengthfixes/package.tgz",
@@ -27480,7 +27480,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-08-02T23:31:48.000Z"
+        "lastSeen": "2026-08-03T00:51:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -29653,6 +29653,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "release-3.0.0-ballot1",
         "lastSeen": "2026-07-29T02:32:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/ft_pubchanges/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "ft_pubchanges",
+        "lastSeen": "2026-08-03T00:32:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
