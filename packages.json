@@ -1177,6 +1177,12 @@
         "repo": "https://github.com/ansforge/interop-IG-metier-document-core",
         "branch": "mappingCorps",
         "lastSeen": "2026-08-03T08:16:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-metier-document-core/branches/fusion-mapping-corps/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-metier-document-core",
+        "branch": "fusion-mapping-corps",
+        "lastSeen": "2026-08-03T13:37:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-metier-document-core/branches/main/package.tgz"
@@ -48144,7 +48150,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2026-07-31T01:36:13.000Z"
+        "lastSeen": "2026-08-03T14:59:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -48714,7 +48720,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postSTU2BallotChanges/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postSTU2BallotChanges",
-        "lastSeen": "2026-07-31T01:35:21.000Z"
+        "lastSeen": "2026-08-03T14:59:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/LRN-Updates/package.tgz",
@@ -49182,7 +49188,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
-        "lastSeen": "2026-08-03T13:46:30.000Z"
+        "lastSeen": "2026-08-03T14:22:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/QA-2026/package.tgz",
@@ -59508,7 +59514,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-07-29T07:44:51.000Z"
+        "lastSeen": "2026-08-03T15:25:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
@@ -67638,7 +67644,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-08-03T13:29:06.000Z"
+        "lastSeen": "2026-08-03T15:16:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -68257,6 +68263,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "downloads-page",
         "lastSeen": "2026-08-03T11:57:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issues-175-176-data-exch-clarifications/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "issues-175-176-data-exch-clarifications",
+        "lastSeen": "2026-08-03T15:19:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -73182,7 +73194,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Procedure/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Procedure",
-        "lastSeen": "2026-07-27T18:46:40.000Z"
+        "lastSeen": "2026-08-03T14:57:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_LiquidNarratives2/package.tgz",
@@ -73242,7 +73254,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-08-03T09:59:42.000Z"
+        "lastSeen": "2026-08-03T15:19:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-allergymerge/package.tgz",
@@ -73255,6 +73267,12 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_obligations",
         "lastSeen": "2026-08-03T10:34:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_main/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_main",
+        "lastSeen": "2026-08-03T15:18:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
