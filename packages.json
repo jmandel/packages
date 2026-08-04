@@ -13194,7 +13194,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-08-03T08:14:20.000Z"
+        "lastSeen": "2026-08-04T11:23:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -41724,7 +41724,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-08-04T11:08:17.000Z"
+        "lastSeen": "2026-08-04T12:00:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -49224,7 +49224,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
-        "lastSeen": "2026-08-03T17:39:48.000Z"
+        "lastSeen": "2026-08-04T11:18:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/QA-2026/package.tgz",
@@ -60840,7 +60840,7 @@
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/main/package.tgz",
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "main",
-        "lastSeen": "2026-07-28T04:38:44.000Z"
+        "lastSeen": "2026-08-04T12:01:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/align-operation-parameters/package.tgz",
@@ -73212,7 +73212,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_AllergyIntolerance/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_AllergyIntolerance",
-        "lastSeen": "2026-08-04T10:04:44.000Z"
+        "lastSeen": "2026-08-04T11:45:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-decor-ids/package.tgz",
@@ -73296,7 +73296,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-08-04T10:39:21.000Z"
+        "lastSeen": "2026-08-04T11:49:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-allergymerge/package.tgz",
@@ -80479,6 +80479,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "prepare-release-0.7.0",
         "lastSeen": "2026-08-04T10:00:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/0.7.0/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "0.7.0",
+        "lastSeen": "2026-08-04T10:58:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
