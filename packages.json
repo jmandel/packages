@@ -20449,6 +20449,12 @@
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "add-serviceprovider-and-healthcareprovider-credentials",
         "lastSeen": "2026-06-18T04:51:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/record-identifiers/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
+        "branch": "record-identifiers",
+        "lastSeen": "2026-08-04T12:41:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/routing/package.tgz"
@@ -26070,7 +26076,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/xshare-yb/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/xshare-yb",
         "branch": "master",
-        "lastSeen": "2026-07-14T14:08:09.000Z"
+        "lastSeen": "2026-08-04T12:40:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/xShare/branches/master/package.tgz"
@@ -35580,7 +35586,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/clcore_ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/clcore_ig",
         "branch": "master",
-        "lastSeen": "2026-07-31T19:49:45.000Z"
+        "lastSeen": "2026-08-04T12:51:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/clcore_ig/branches/main/package.tgz",
@@ -40656,7 +40662,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-07-27T15:08:09.000Z"
+        "lastSeen": "2026-08-04T12:30:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -41130,7 +41136,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-immunization/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-immunization",
-        "lastSeen": "2026-08-03T09:11:35.000Z"
+        "lastSeen": "2026-08-04T12:15:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-medication/package.tgz",
@@ -41724,7 +41730,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-08-04T12:00:10.000Z"
+        "lastSeen": "2026-08-04T12:40:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -49896,7 +49902,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/mapping-updates/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "mapping-updates",
-        "lastSeen": "2026-08-03T20:20:26.000Z"
+        "lastSeen": "2026-08-04T12:21:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz"
@@ -60846,7 +60852,7 @@
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/align-operation-parameters/package.tgz",
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "align-operation-parameters",
-        "lastSeen": "2026-08-01T10:05:20.000Z"
+        "lastSeen": "2026-08-04T13:02:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/ballot-changelog-and-note/package.tgz",
@@ -68017,6 +68023,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "Issue-164-patient-id-in-search-query-and-issue-170-device-query",
         "lastSeen": "2026-08-03T11:26:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/qa-fixes-1.0/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-R4",
+        "branch": "qa-fixes-1.0",
+        "lastSeen": "2026-08-04T12:33:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz"
@@ -68305,6 +68317,12 @@
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "issues-175-176-data-exch-clarifications",
         "lastSeen": "2026-08-04T07:59:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/qa-fixes-1.0/package.tgz",
+        "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
+        "branch": "qa-fixes-1.0",
+        "lastSeen": "2026-08-04T12:34:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -73296,7 +73314,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-08-04T11:49:00.000Z"
+        "lastSeen": "2026-08-04T12:40:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-allergymerge/package.tgz",
@@ -73314,7 +73332,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_main/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_main",
-        "lastSeen": "2026-08-04T10:17:48.000Z"
+        "lastSeen": "2026-08-04T12:36:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-dev/package.tgz",
@@ -79962,7 +79980,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-08-04T10:32:14.000Z"
+        "lastSeen": "2026-08-04T11:58:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
