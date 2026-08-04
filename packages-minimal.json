@@ -3520,6 +3520,14 @@
     }
   },
   {
+    "name": "hl7.fhir.be.drp-fix",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/drp-1.1.0-fixed/package.tgz",
+      "repo": "https://github.com/hl7-be/referral-uhmep",
+      "branch": "drp-1.1.0-fixed"
+    }
+  },
+  {
     "name": "hl7.fhir.be.eattestation",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-be/eattestation/branches/master/package.tgz",
