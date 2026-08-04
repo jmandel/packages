@@ -1008,7 +1008,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "main",
-        "lastSeen": "2026-08-03T07:00:33.000Z"
+        "lastSeen": "2026-08-04T07:50:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/nr-fix-template-ref/package.tgz",
@@ -1044,7 +1044,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/nriss-patch-2/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "nriss-patch-2",
-        "lastSeen": "2026-07-27T16:14:29.000Z"
+        "lastSeen": "2026-08-04T07:47:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/fix-issues/package.tgz",
@@ -1057,6 +1057,12 @@
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "specific-profile-img",
         "lastSeen": "2026-08-03T07:41:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/align-profiles-with-updated-mapping/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
+        "branch": "align-profiles-with-updated-mapping",
+        "lastSeen": "2026-08-04T07:19:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz"
@@ -13639,6 +13645,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-22188_support_new_SOR_organization_types",
         "lastSeen": "2026-07-24T13:23:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3_prep/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "release_2026.3_prep",
+        "lastSeen": "2026-08-04T07:21:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -67998,7 +68010,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/issue-144-obligations/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "issue-144-obligations",
-        "lastSeen": "2026-08-02T13:13:22.000Z"
+        "lastSeen": "2026-08-04T08:16:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/Issue-164-patient-id-in-search-query-and-issue-170-device-query/package.tgz",
@@ -68022,7 +68034,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "develop",
-        "lastSeen": "2026-07-31T11:30:36.000Z"
+        "lastSeen": "2026-08-04T08:13:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/14-QA/package.tgz",
@@ -68262,7 +68274,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue-163-ppod-questionnairestu3/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "issue-163-ppod-questionnairestu3",
-        "lastSeen": "2026-07-17T08:56:01.000Z"
+        "lastSeen": "2026-08-04T07:59:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/HarmkeKoning-patch-2/package.tgz",
@@ -68274,25 +68286,25 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue-171-R4-rename-legallycapable/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "issue-171-R4-rename-legallycapable",
-        "lastSeen": "2026-08-04T07:17:47.000Z"
+        "lastSeen": "2026-08-04T07:30:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue-164-patient-id-in-search-query-and-issue-170-device-query/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "issue-164-patient-id-in-search-query-and-issue-170-device-query",
-        "lastSeen": "2026-08-03T11:24:58.000Z"
+        "lastSeen": "2026-08-04T08:00:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/downloads-page/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "downloads-page",
-        "lastSeen": "2026-08-03T11:57:30.000Z"
+        "lastSeen": "2026-08-04T08:00:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issues-175-176-data-exch-clarifications/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-STU3",
         "branch": "issues-175-176-data-exch-clarifications",
-        "lastSeen": "2026-08-03T15:30:52.000Z"
+        "lastSeen": "2026-08-04T07:59:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/issue44/package.tgz"
@@ -73278,7 +73290,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-08-04T07:26:24.000Z"
+        "lastSeen": "2026-08-04T07:49:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-allergymerge/package.tgz",
