@@ -3408,6 +3408,14 @@
     }
   },
   {
+    "name": "hl7.fhir.au.encounter",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7au/au-fhir-encounter/branches/master/package.tgz",
+      "repo": "https://github.com/hl7au/au-fhir-encounter",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.au.ereq",
     "current": {
       "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz",
@@ -7896,6 +7904,14 @@
     }
   },
   {
+    "name": "inami.fhir.be.ereferral",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2-0-0/package.tgz",
+      "repo": "https://github.com/hl7-be/referral-uhmep",
+      "branch": "release-2-0-0"
+    }
+  },
+  {
     "name": "international-birth-and-child-model",
     "current": {
       "url": "https://build.fhir.org/ig/HL7/fetal_records/branches/main/package.tgz",
@@ -10108,6 +10124,30 @@
     "current": {
       "url": "https://build.fhir.org/ig/pablumar/github-guia-tsi/branches/main/package.tgz",
       "repo": "https://github.com/pablumar/github-guia-tsi",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "tw.gov.mohw.cdc.aids",
+    "current": {
+      "url": "https://build.fhir.org/ig/omnifhir/aids/branches/main/package.tgz",
+      "repo": "https://github.com/omnifhir/aids",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "tw.gov.mohw.cdc.tb",
+    "current": {
+      "url": "https://build.fhir.org/ig/omnifhir/tb/branches/main/package.tgz",
+      "repo": "https://github.com/omnifhir/tb",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "tw.gov.mohw.cdc.thas",
+    "current": {
+      "url": "https://build.fhir.org/ig/THASFHIR/ig/branches/main/package.tgz",
+      "repo": "https://github.com/THASFHIR/ig",
       "branch": "main"
     }
   },

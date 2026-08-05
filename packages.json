@@ -29795,6 +29795,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7au/draft.hl7.org.au-ig/branches/master/package.tgz"
   },
+  "hl7.fhir.au.encounter": {
+    "name": "hl7.fhir.au.encounter",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-encounter/branches/master/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-encounter",
+        "branch": "master",
+        "lastSeen": "2026-08-05T04:58:07.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7au/au-fhir-encounter/branches/master/package.tgz"
+  },
   "hl7.fhir.au.ereq": {
     "name": "hl7.fhir.au.ereq",
     "locations": [
@@ -55254,7 +55266,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-08-05T03:31:40.000Z"
+        "lastSeen": "2026-08-05T05:50:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -55278,7 +55290,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ebm-incubator",
         "branch": "main",
-        "lastSeen": "2026-08-05T03:21:51.000Z"
+        "lastSeen": "2026-08-05T07:51:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz"
@@ -68447,6 +68459,18 @@
     ],
     "current": "https://build.fhir.org/ig/jgsuess/ph-ig-review/branches/master/package.tgz"
   },
+  "inami.fhir.be.ereferral": {
+    "name": "inami.fhir.be.ereferral",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2-0-0/package.tgz",
+        "repo": "https://github.com/hl7-be/referral-uhmep",
+        "branch": "release-2-0-0",
+        "lastSeen": "2026-08-05T06:40:51.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2-0-0/package.tgz"
+  },
   "international-birth-and-child-model": {
     "name": "international-birth-and-child-model",
     "locations": [
@@ -73326,7 +73350,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_profile-to-logicalmodel/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_profile-to-logicalmodel",
-        "lastSeen": "2026-07-20T06:18:35.000Z"
+        "lastSeen": "2026-08-05T07:30:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Document/package.tgz",
@@ -79055,6 +79079,42 @@
     ],
     "current": "https://build.fhir.org/ig/pablumar/github-guia-tsi/branches/main/package.tgz"
   },
+  "tw.gov.mohw.cdc.aids": {
+    "name": "tw.gov.mohw.cdc.aids",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/omnifhir/aids/branches/main/package.tgz",
+        "repo": "https://github.com/omnifhir/aids",
+        "branch": "main",
+        "lastSeen": "2026-08-05T07:23:25.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/omnifhir/aids/branches/main/package.tgz"
+  },
+  "tw.gov.mohw.cdc.tb": {
+    "name": "tw.gov.mohw.cdc.tb",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/omnifhir/tb/branches/main/package.tgz",
+        "repo": "https://github.com/omnifhir/tb",
+        "branch": "main",
+        "lastSeen": "2026-08-05T07:22:30.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/omnifhir/tb/branches/main/package.tgz"
+  },
+  "tw.gov.mohw.cdc.thas": {
+    "name": "tw.gov.mohw.cdc.thas",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/THASFHIR/ig/branches/main/package.tgz",
+        "repo": "https://github.com/THASFHIR/ig",
+        "branch": "main",
+        "lastSeen": "2026-08-05T06:21:08.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/THASFHIR/ig/branches/main/package.tgz"
+  },
   "tw.gov.mohw.hpa.pad": {
     "name": "tw.gov.mohw.hpa.pad",
     "locations": [
@@ -79110,7 +79170,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/cql",
         "branch": "main",
-        "lastSeen": "2026-08-05T03:55:36.000Z"
+        "lastSeen": "2026-08-05T05:59:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/0.0.1/package.tgz",
@@ -80034,7 +80094,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-08-04T13:14:50.000Z"
+        "lastSeen": "2026-08-05T05:20:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -80718,7 +80778,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "main",
-        "lastSeen": "2026-08-04T14:03:04.000Z"
+        "lastSeen": "2026-08-05T07:45:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/forms-overview/package.tgz",
@@ -80803,6 +80863,24 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "bump-core-0.7.0",
         "lastSeen": "2026-08-04T14:03:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/reset-error-threshold/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "reset-error-threshold",
+        "lastSeen": "2026-08-05T06:30:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/add-release-workflow/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "add-release-workflow",
+        "lastSeen": "2026-08-05T07:18:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/add-forms-page/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-integration",
+        "branch": "add-forms-page",
+        "lastSeen": "2026-08-05T07:34:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
