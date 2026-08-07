@@ -160,6 +160,22 @@
     }
   },
   {
+    "name": "fhir.ke.nccp",
+    "current": {
+      "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/fixedWarnings/package.tgz",
+      "repo": "https://github.com/IntelliSOFT-Consulting/nccpFHIRIG",
+      "branch": "fixedWarnings"
+    }
+  },
+  {
+    "name": "fhir.kenyaClaimsIG",
+    "current": {
+      "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/fixCodesystems/package.tgz",
+      "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+      "branch": "fixCodesystems"
+    }
+  },
+  {
     "name": "fhir.kenyaEmergencyIG",
     "current": {
       "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/main/package.tgz",
@@ -173,6 +189,14 @@
       "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG/branches/profiles/package.tgz",
       "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Emmergency-FHIR-IG",
       "branch": "profiles"
+    }
+  },
+  {
+    "name": "fhir.kenyaPSIG",
+    "current": {
+      "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/profileValidation/package.tgz",
+      "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+      "branch": "profileValidation"
     }
   },
   {
@@ -413,6 +437,22 @@
       "url": "https://build.fhir.org/ig/hl7dk/dk-hackathons/branches/main/package.tgz",
       "repo": "https://github.com/hl7dk/dk-hackathons",
       "branch": "main"
+    }
+  },
+  {
+    "name": "hl7.fhir.eu.base",
+    "current": {
+      "url": "https://build.fhir.org/ig/patrick-werner/base/branches/master/package.tgz",
+      "repo": "https://github.com/patrick-werner/base",
+      "branch": "master"
+    }
+  },
+  {
+    "name": "hl7.fhir.eu.base-r5",
+    "current": {
+      "url": "https://build.fhir.org/ig/patrick-werner/base-r5/branches/master/package.tgz",
+      "repo": "https://github.com/patrick-werner/base-r5",
+      "branch": "master"
     }
   },
   {
@@ -786,9 +826,9 @@
   {
     "name": "nictiz.fhir.nl.r4.acutezorg",
     "current": {
-      "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/GitHubissue32_5layermodel/package.tgz",
+      "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/Encounter.class-comments/package.tgz",
       "repo": "https://github.com/Nictiz/AZ-IG",
-      "branch": "GitHubissue32_5layermodel"
+      "branch": "Encounter.class-comments"
     }
   },
   {

@@ -486,7 +486,7 @@
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/Shift-Hannah-ValueSets/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/SLS-ValueSets",
         "branch": "Shift-Hannah-ValueSets",
-        "lastSeen": "2026-07-26T13:52:37.000Z"
+        "lastSeen": "2026-08-07T13:27:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/main/package.tgz"
@@ -1008,7 +1008,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "main",
-        "lastSeen": "2026-08-07T09:42:05.000Z"
+        "lastSeen": "2026-08-07T12:54:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/nr-fix-template-ref/package.tgz",
@@ -14706,7 +14706,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vjl/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vjl",
         "branch": "main",
-        "lastSeen": "2026-06-26T12:49:23.000Z"
+        "lastSeen": "2026-08-07T12:47:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vjl/branches/main/package.tgz"
@@ -37675,6 +37675,18 @@
         "repo": "https://github.com/hl7-eu/base",
         "branch": "fix-warning",
         "lastSeen": "2026-04-17T13:33:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/patrick-werner/base/branches/master/package.tgz",
+        "repo": "https://github.com/patrick-werner/base",
+        "branch": "master",
+        "lastSeen": "2026-08-07T12:40:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/base/branches/multi-version-jekyll/package.tgz",
+        "repo": "https://github.com/hl7-eu/base",
+        "branch": "multi-version-jekyll",
+        "lastSeen": "2026-08-07T13:35:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base/branches/master/package.tgz"
@@ -37741,6 +37753,18 @@
         "repo": "https://github.com/hl7-eu/base-r5",
         "branch": "v2.0.0",
         "lastSeen": "2026-04-24T11:05:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/patrick-werner/base-r5/branches/master/package.tgz",
+        "repo": "https://github.com/patrick-werner/base-r5",
+        "branch": "master",
+        "lastSeen": "2026-08-07T12:41:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/multi-version-jekyll/package.tgz",
+        "repo": "https://github.com/hl7-eu/base-r5",
+        "branch": "multi-version-jekyll",
+        "lastSeen": "2026-08-07T13:34:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/base-r5/branches/master/package.tgz"
@@ -69329,6 +69353,42 @@
     ],
     "current": "https://build.fhir.org/ig/AMuellerDVMD/KDLgoesSCT/branches/main/package.tgz"
   },
+  "ke.fhir.core": {
+    "name": "ke.fhir.core",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/canonicalUpdate/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "canonicalUpdate",
+        "lastSeen": "2026-08-07T12:56:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2026-08-07T12:57:18.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
+  },
+  "ke.fhir.eclaims": {
+    "name": "ke.fhir.eclaims",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/canonicalUpdate/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "canonicalUpdate",
+        "lastSeen": "2026-08-07T13:05:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2026-08-07T13:06:49.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-eClaims-FHIR-IG/branches/main/package.tgz"
+  },
   "ke.fhir.emergency": {
     "name": "ke.fhir.emergency",
     "locations": [
@@ -69346,6 +69406,42 @@
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emergency-FHIR-IG/branches/main/package.tgz"
+  },
+  "ke.fhir.nccp": {
+    "name": "ke.fhir.nccp",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/fixes/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/nccpFHIRIG",
+        "branch": "fixes",
+        "lastSeen": "2026-08-07T13:02:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/nccpFHIRIG",
+        "branch": "main",
+        "lastSeen": "2026-08-07T13:02:36.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/nccpFHIRIG/branches/main/package.tgz"
+  },
+  "ke.fhir.patient-summary": {
+    "name": "ke.fhir.patient-summary",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/canonicalUrl/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "canonicalUrl",
+        "lastSeen": "2026-08-07T13:08:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG",
+        "branch": "main",
+        "lastSeen": "2026-08-07T13:10:11.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Patient-Summary-FHIR-IG/branches/main/package.tgz"
   },
   "kenya-training-bk": {
     "name": "kenya-training-bk",
@@ -73435,6 +73531,12 @@
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "GitHubissue32_5layermodel",
         "lastSeen": "2026-08-04T09:27:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/Encounter.class-comments/package.tgz",
+        "repo": "https://github.com/Nictiz/AZ-IG",
+        "branch": "Encounter.class-comments",
+        "lastSeen": "2026-08-07T12:51:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/0.1.0/package.tgz"
