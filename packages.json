@@ -50052,7 +50052,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-08-07T16:57:31.000Z"
+        "lastSeen": "2026-08-07T17:57:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/params-table/package.tgz",
@@ -55440,7 +55440,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-08-07T14:34:09.000Z"
+        "lastSeen": "2026-08-07T17:09:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -55464,7 +55464,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ebm-incubator",
         "branch": "main",
-        "lastSeen": "2026-08-05T19:14:57.000Z"
+        "lastSeen": "2026-08-07T17:54:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz"
@@ -57103,6 +57103,18 @@
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "FHIR-55945",
         "lastSeen": "2026-08-07T16:27:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/FHIR-57236/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "FHIR-57236",
+        "lastSeen": "2026-08-07T17:43:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/FHIR-58057/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "FHIR-58057",
+        "lastSeen": "2026-08-07T18:04:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz"
