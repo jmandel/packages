@@ -1081,6 +1081,12 @@
         "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
         "branch": "adverseEvent",
         "lastSeen": "2026-08-06T21:32:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/update-fr-composition-document/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-fhir-document-core",
+        "branch": "update-fr-composition-document",
+        "lastSeen": "2026-08-07T10:30:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-fhir-document-core/branches/main/package.tgz"
@@ -31175,6 +31181,18 @@
     ],
     "current": "https://build.fhir.org/ig/HealthIntersections/au-ips/branches/master/package.tgz"
   },
+  "hl7.fhir.au.ncdhc": {
+    "name": "hl7.fhir.au.ncdhc",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-childhealth/branches/draft-rebuild1/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-childhealth",
+        "branch": "draft-rebuild1",
+        "lastSeen": "2026-08-07T10:29:58.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/hl7au/au-fhir-childhealth/branches/draft-rebuild1/package.tgz"
+  },
   "hl7.fhir.au.pd": {
     "name": "hl7.fhir.au.pd",
     "locations": [
@@ -37362,7 +37380,19 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/addition-crossboarderexchange/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "addition-crossboarderexchange",
-        "lastSeen": "2026-08-07T10:00:28.000Z"
+        "lastSeen": "2026-08-07T11:06:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.8.0-documentation-update/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "3.8.0-documentation-update",
+        "lastSeen": "2026-08-07T10:55:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.8.0-addition-crossboarderexchange/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-core",
+        "branch": "3.8.0-addition-crossboarderexchange",
+        "lastSeen": "2026-08-07T10:40:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -38232,7 +38262,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/kheitmann/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "kheitmann",
-        "lastSeen": "2026-08-07T10:02:28.000Z"
+        "lastSeen": "2026-08-07T10:19:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/giorgio/package.tgz",
@@ -79537,6 +79567,12 @@
         "repo": "https://github.com/sfaassn2025-source/base",
         "branch": "main",
         "lastSeen": "2026-06-08T05:51:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Chimes-AI-Projects/base/branches/main/package.tgz",
+        "repo": "https://github.com/Chimes-AI-Projects/base",
+        "branch": "main",
+        "lastSeen": "2026-08-07T10:45:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz"
