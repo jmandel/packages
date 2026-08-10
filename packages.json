@@ -1219,6 +1219,12 @@
         "repo": "https://github.com/ansforge/interop-IG-metier-document-core",
         "branch": "mappingSection",
         "lastSeen": "2026-08-05T13:42:48.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-metier-document-core/branches/fix-bugs/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-metier-document-core",
+        "branch": "fix-bugs",
+        "lastSeen": "2026-08-10T11:40:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-metier-document-core/branches/main/package.tgz"
@@ -13722,7 +13728,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/changes_to_release_2026.3_IG_version_10_0_0/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "changes_to_release_2026.3_IG_version_10_0_0",
-        "lastSeen": "2026-08-10T10:57:44.000Z"
+        "lastSeen": "2026-08-10T12:12:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -13938,7 +13944,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "main",
-        "lastSeen": "2026-08-10T11:21:14.000Z"
+        "lastSeen": "2026-08-10T12:31:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/dk-ehmi-eer-config/package.tgz",
@@ -32305,6 +32311,12 @@
         "repo": "https://github.com/hl7-be/allergy",
         "branch": "may-updates",
         "lastSeen": "2026-05-05T07:57:25.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/allergy/branches/issue-131/package.tgz",
+        "repo": "https://github.com/hl7-be/allergy",
+        "branch": "issue-131",
+        "lastSeen": "2026-08-10T13:39:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/allergy/branches/issue-100/package.tgz"
@@ -34626,7 +34638,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/public-health",
         "branch": "master",
-        "lastSeen": "2024-06-11T14:00:49.000Z"
+        "lastSeen": "2026-08-10T13:36:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/releasecandidate/package.tgz",
@@ -34704,7 +34716,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/issue-65/package.tgz",
         "repo": "https://github.com/hl7-be/public-health",
         "branch": "issue-65",
-        "lastSeen": "2026-08-10T11:46:04.000Z"
+        "lastSeen": "2026-08-10T13:52:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/hl7-be/public-health",
+        "branch": "release-candidate",
+        "lastSeen": "2026-08-10T13:34:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/public-health/branches/qa-cleanup/package.tgz"
@@ -44562,7 +44580,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-cql-ig",
         "branch": "main",
-        "lastSeen": "2026-07-27T06:36:31.000Z"
+        "lastSeen": "2026-08-10T12:47:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-cql-ig/branches/add-fhir-helpers-library/package.tgz",
@@ -50088,7 +50106,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "main",
-        "lastSeen": "2026-08-08T01:22:39.000Z"
+        "lastSeen": "2026-08-10T12:47:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/params-table/package.tgz",
@@ -54642,7 +54660,7 @@
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cql-ig",
         "branch": "main",
-        "lastSeen": "2026-08-07T20:14:55.000Z"
+        "lastSeen": "2026-08-10T12:55:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cql-ig/branches/v1.0.0-ballot/package.tgz",
@@ -59874,7 +59892,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-08-06T14:05:47.000Z"
+        "lastSeen": "2026-08-10T13:06:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
@@ -61399,6 +61417,12 @@
         "repo": "https://github.com/HL7/fhir-testing-ig",
         "branch": "main",
         "lastSeen": "2026-08-04T06:52:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-testing-ig/branches/FHIR-51475-search-example/package.tgz",
+        "repo": "https://github.com/HL7/fhir-testing-ig",
+        "branch": "FHIR-51475-search-example",
+        "lastSeen": "2026-08-10T13:38:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-testing-ig/branches/main/package.tgz"
@@ -81246,7 +81270,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "main",
-        "lastSeen": "2026-08-05T09:13:12.000Z"
+        "lastSeen": "2026-08-10T12:11:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/forms-overview/package.tgz",
