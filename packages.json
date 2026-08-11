@@ -810,7 +810,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-cda-document-core/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-cda-document-core",
         "branch": "main",
-        "lastSeen": "2026-08-11T08:09:50.000Z"
+        "lastSeen": "2026-08-11T09:28:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-cda-document-core/branches/test-enrichissement/package.tgz",
@@ -1237,6 +1237,12 @@
         "repo": "https://github.com/ansforge/interop-IG-metier-document-core",
         "branch": "nr-patch-artifacts",
         "lastSeen": "2026-08-11T07:58:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-metier-document-core/branches/nriss-patch-2/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-metier-document-core",
+        "branch": "nriss-patch-2",
+        "lastSeen": "2026-08-11T08:41:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/interop-IG-metier-document-core/branches/main/package.tgz"
@@ -60037,6 +60043,12 @@
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "fmg-qa-review-20260728",
         "lastSeen": "2026-07-29T07:39:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/ballot3-prep/package.tgz",
+        "repo": "https://github.com/HL7/uv-pocd",
+        "branch": "ballot3-prep",
+        "lastSeen": "2026-08-11T09:51:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz"
@@ -68112,7 +68124,7 @@
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/develop/package.tgz",
         "repo": "https://github.com/IKNL/PZP-FHIR-R4",
         "branch": "develop",
-        "lastSeen": "2026-08-06T12:38:01.000Z"
+        "lastSeen": "2026-08-11T09:43:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-R4/branches/main/package.tgz",
@@ -69546,7 +69558,13 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-08-07T12:57:18.000Z"
+        "lastSeen": "2026-08-11T10:01:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/AddedMissingProfiles/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
+        "branch": "AddedMissingProfiles",
+        "lastSeen": "2026-08-11T10:00:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
