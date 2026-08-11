@@ -23653,6 +23653,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "165-optional-cardinalities-patient",
         "lastSeen": "2026-06-19T08:22:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/153-healthcareservice-profile/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "153-healthcareservice-profile",
+        "lastSeen": "2026-08-11T21:19:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -23905,6 +23911,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "85-patient-cardinalities-to-optional",
         "lastSeen": "2026-06-19T08:25:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/76-add-healthcare-service/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
+        "branch": "76-add-healthcare-service",
+        "lastSeen": "2026-08-11T21:20:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/main/package.tgz"
@@ -55302,7 +55314,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-08-11T20:05:23.000Z"
+        "lastSeen": "2026-08-11T20:58:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -57271,6 +57283,12 @@
         "repo": "https://github.com/HL7/fhir-udap-security-ig",
         "branch": "FHIR-58057",
         "lastSeen": "2026-08-11T16:48:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/FHIR-56280/package.tgz",
+        "repo": "https://github.com/HL7/fhir-udap-security-ig",
+        "branch": "FHIR-56280",
+        "lastSeen": "2026-08-11T20:28:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-udap-security-ig/branches/main/package.tgz"
@@ -59358,7 +59376,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-08-10T17:27:20.000Z"
+        "lastSeen": "2026-08-11T21:14:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
