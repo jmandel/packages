@@ -32255,6 +32255,18 @@
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
   },
+  "hl7.fhir.au.terminology": {
+    "name": "hl7.fhir.au.terminology",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/jimsteel/hl7-au-terminology-ig/branches/main/package.tgz",
+        "repo": "https://github.com/jimsteel/hl7-au-terminology-ig",
+        "branch": "main",
+        "lastSeen": "2026-08-11T04:28:35.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/jimsteel/hl7-au-terminology-ig/branches/main/package.tgz"
+  },
   "hl7.fhir.be.allergy": {
     "name": "hl7.fhir.be.allergy",
     "locations": [
@@ -46878,7 +46890,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/STU2-2026-05/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "STU2-2026-05",
-        "lastSeen": "2026-08-10T22:10:11.000Z"
+        "lastSeen": "2026-08-11T02:58:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz"
@@ -79398,7 +79410,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/nzhts-ig/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/nzhts-ig",
         "branch": "uat",
-        "lastSeen": "2026-06-29T00:52:22.000Z"
+        "lastSeen": "2026-08-11T03:45:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/daniel-thomson/nzhts/branches/main/package.tgz"
