@@ -498,7 +498,7 @@
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/main/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/demo-fhir-data",
         "branch": "main",
-        "lastSeen": "2026-05-08T16:59:56.000Z"
+        "lastSeen": "2026-08-12T14:20:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/demo-fhir-data/branches/encounters/package.tgz",
@@ -24168,7 +24168,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-08-10T10:06:48.000Z"
+        "lastSeen": "2026-08-12T15:03:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -38886,7 +38886,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-r4/branches/R6-test/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-r4",
         "branch": "R6-test",
-        "lastSeen": "2026-08-12T12:37:41.000Z"
+        "lastSeen": "2026-08-12T15:04:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -41016,7 +41016,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-08-11T07:28:10.000Z"
+        "lastSeen": "2026-08-12T14:44:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -41130,7 +41130,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nriss-patch-1/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nriss-patch-1",
-        "lastSeen": "2026-06-05T13:12:47.000Z"
+        "lastSeen": "2026-08-12T14:22:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-fix-vs-marital-status/package.tgz",
@@ -46926,7 +46926,7 @@
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/master/package.tgz",
         "repo": "https://github.com/HL7/carin-digital-insurance-card",
         "branch": "master",
-        "lastSeen": "2026-08-12T13:31:55.000Z"
+        "lastSeen": "2026-08-12T14:42:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/carin-digital-insurance-card/branches/stu_update/package.tgz",
@@ -50311,6 +50311,12 @@
         "repo": "https://github.com/HL7/fhir-us-quality-core",
         "branch": "final-tweaks",
         "lastSeen": "2026-08-07T19:42:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/tweak-dep-entries/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-quality-core",
+        "branch": "tweak-dep-entries",
+        "lastSeen": "2026-08-12T14:18:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-quality-core/branches/main/package.tgz"
@@ -50484,7 +50490,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-sdoh-clinicalcare",
         "branch": "master",
-        "lastSeen": "2026-07-31T23:23:18.000Z"
+        "lastSeen": "2026-08-12T14:59:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/branches/capstmtrendering/package.tgz",
@@ -69318,7 +69324,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/correction/branches/R6/package.tgz",
         "repo": "https://github.com/JohnMoehrke/correction",
         "branch": "R6",
-        "lastSeen": "2026-03-24T14:20:23.000Z"
+        "lastSeen": "2026-08-12T14:22:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/correction/branches/main/package.tgz"
@@ -73866,7 +73872,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Patient",
-        "lastSeen": "2026-08-12T10:09:59.000Z"
+        "lastSeen": "2026-08-12T15:10:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Address/package.tgz",
