@@ -3066,7 +3066,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2026-06-23T06:42:39.000Z"
+        "lastSeen": "2026-08-13T07:24:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -14724,7 +14724,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-spd",
         "branch": "main",
-        "lastSeen": "2026-06-30T11:57:26.000Z"
+        "lastSeen": "2026-08-13T07:40:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-spd/branches/work-in-progress/package.tgz",
@@ -32875,6 +32875,12 @@
         "repo": "https://github.com/hl7-be/core",
         "branch": "issue-157",
         "lastSeen": "2025-07-03T12:41:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core/branches/release-candidate/package.tgz",
+        "repo": "https://github.com/hl7-be/core",
+        "branch": "release-candidate",
+        "lastSeen": "2026-08-13T08:33:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -35437,6 +35443,12 @@
         "repo": "https://github.com/hl7-be/terminology",
         "branch": "mycarenet-updates",
         "lastSeen": "2026-04-03T13:54:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/architecture/package.tgz",
+        "repo": "https://github.com/hl7-be/terminology",
+        "branch": "architecture",
+        "lastSeen": "2026-08-13T08:04:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/terminology/branches/draft/package.tgz"
@@ -41508,7 +41520,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-medication/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-doc-core-medication",
-        "lastSeen": "2026-08-12T15:19:46.000Z"
+        "lastSeen": "2026-08-13T08:10:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-doc-core-allergy-intolerance/package.tgz",
@@ -60072,7 +60084,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "master",
-        "lastSeen": "2026-08-12T13:32:38.000Z"
+        "lastSeen": "2026-08-13T07:45:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/observation-mappping/package.tgz",
@@ -80790,7 +80802,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-08-13T05:57:55.000Z"
+        "lastSeen": "2026-08-13T07:13:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
