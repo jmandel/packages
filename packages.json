@@ -46170,7 +46170,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2026-08-12T17:36:22.000Z"
+        "lastSeen": "2026-08-13T16:36:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/1.2.0/package.tgz",
@@ -59551,6 +59551,12 @@
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "jnolen-transport-examples",
         "lastSeen": "2026-08-12T21:29:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-fixes-08132026/package.tgz",
+        "repo": "https://github.com/HL7/oo-incubator",
+        "branch": "dbarwin-fixes-08132026",
+        "lastSeen": "2026-08-13T16:28:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz"
@@ -61441,6 +61447,12 @@
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "gino-20260813-ballot-fixes",
         "lastSeen": "2026-08-13T14:33:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/3.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "3.0.0-ballot",
+        "lastSeen": "2026-08-13T16:57:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
