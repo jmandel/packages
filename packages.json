@@ -64165,6 +64165,12 @@
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-831-Add-HL7-Australia-code-systems-and-identifier-systems-as-THO-External-Code-Systems-and-External-Identifier-Systems",
         "lastSeen": "2026-08-17T17:02:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-842-Remove-MeSH-content-from-EBM-Code-Systems/package.tgz",
+        "repo": "https://github.com/HL7/UTG",
+        "branch": "UP-842-Remove-MeSH-content-from-EBM-Code-Systems",
+        "lastSeen": "2026-08-17T21:49:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
