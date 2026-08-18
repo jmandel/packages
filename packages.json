@@ -3768,7 +3768,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-08-18T11:08:39.000Z"
+        "lastSeen": "2026-08-18T15:37:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -32568,7 +32568,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "release-candidate",
-        "lastSeen": "2026-08-12T11:03:47.000Z"
+        "lastSeen": "2026-08-18T15:00:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ec-ehealth/childrecord/branches/release-candidate/package.tgz",
@@ -32940,7 +32940,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "release-candidate",
-        "lastSeen": "2026-08-14T12:19:53.000Z"
+        "lastSeen": "2026-08-18T14:58:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz"
@@ -38742,7 +38742,7 @@
         "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/PatientLookup-tickets-regelkraut/package.tgz",
         "repo": "https://github.com/euridice-org/eu-health-data-api",
         "branch": "PatientLookup-tickets-regelkraut",
-        "lastSeen": "2026-08-18T14:09:42.000Z"
+        "lastSeen": "2026-08-18T15:09:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/1.0.0-ballot/package.tgz"
@@ -55512,7 +55512,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-08-18T14:24:20.000Z"
+        "lastSeen": "2026-08-18T15:11:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -69468,13 +69468,19 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "main",
-        "lastSeen": "2026-08-17T13:39:51.000Z"
+        "lastSeen": "2026-08-18T15:44:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/R6/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "R6",
         "lastSeen": "2026-08-16T20:23:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/extension-depth/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
+        "branch": "extension-depth",
+        "lastSeen": "2026-08-18T15:35:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz"
@@ -69569,6 +69575,18 @@
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/disableSearches/branches/main/package.tgz"
   },
+  "johnmoehrke.emancipation.example": {
+    "name": "johnmoehrke.emancipation.example",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/emancipation/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/emancipation",
+        "branch": "main",
+        "lastSeen": "2026-08-18T15:34:05.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/emancipation/branches/main/package.tgz"
+  },
   "johnmoehrke.phr": {
     "name": "johnmoehrke.phr",
     "locations": [
@@ -69588,7 +69606,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/RelatedPersonConsent/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/RelatedPersonConsent",
         "branch": "main",
-        "lastSeen": "2026-07-09T18:28:55.000Z"
+        "lastSeen": "2026-08-18T15:35:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/RelatedPersonConsent/branches/second/package.tgz",
