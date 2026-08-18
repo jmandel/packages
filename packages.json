@@ -33157,6 +33157,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "release-candidate2",
         "lastSeen": "2026-08-14T13:27:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/encounter/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "encounter",
+        "lastSeen": "2026-08-18T13:43:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -34278,7 +34284,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/clinical-report/package.tgz",
         "repo": "https://github.com/hl7-be/patient-dossier",
         "branch": "clinical-report",
-        "lastSeen": "2026-07-14T19:58:56.000Z"
+        "lastSeen": "2026-08-18T13:26:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/main/package.tgz"
@@ -34512,7 +34518,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/pregnancy-status",
         "branch": "release-candidate",
-        "lastSeen": "2026-07-20T20:49:39.000Z"
+        "lastSeen": "2026-08-18T14:00:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/pregnancy-status/branches/issue-1/package.tgz",
@@ -74004,7 +74010,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/AZ-1160/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "AZ-1160",
-        "lastSeen": "2026-07-22T12:44:48.000Z"
+        "lastSeen": "2026-08-18T14:04:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/AZ-1144/package.tgz",
@@ -74238,7 +74244,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Condition/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Condition",
-        "lastSeen": "2026-08-04T13:29:10.000Z"
+        "lastSeen": "2026-08-18T13:21:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-43876-allergymerge/package.tgz",
@@ -81726,7 +81732,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "main",
-        "lastSeen": "2026-08-17T06:50:21.000Z"
+        "lastSeen": "2026-08-18T13:31:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/forms-overview/package.tgz",
