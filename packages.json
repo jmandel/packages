@@ -16482,7 +16482,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2026-08-18T20:48:21.000Z"
+        "lastSeen": "2026-08-19T00:52:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -24642,7 +24642,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.base.template",
         "branch": "master",
-        "lastSeen": "2026-05-15T07:02:42.000Z"
+        "lastSeen": "2026-08-19T01:31:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz"
@@ -24654,7 +24654,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.fhir.template",
         "branch": "master",
-        "lastSeen": "2026-05-15T06:46:26.000Z"
+        "lastSeen": "2026-08-19T01:32:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz"
@@ -24666,7 +24666,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.sparked.template",
         "branch": "master",
-        "lastSeen": "2026-05-15T06:30:36.000Z"
+        "lastSeen": "2026-08-19T01:31:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/ft-v0.5.0/package.tgz",
@@ -31249,6 +31249,12 @@
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "ft-bundle-support",
         "lastSeen": "2026-07-31T07:26:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/fix-ips-version/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-erequesting",
+        "branch": "fix-ips-version",
+        "lastSeen": "2026-08-19T01:06:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_wave2/package.tgz"
@@ -55524,7 +55530,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-deqm",
         "branch": "master",
-        "lastSeen": "2026-08-18T23:25:11.000Z"
+        "lastSeen": "2026-08-19T00:43:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-deqm/branches/FHIR-56028/package.tgz",
@@ -58416,7 +58422,7 @@
         "url": "https://build.fhir.org/ig/HL7/mapping-language-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/mapping-language-ig",
         "branch": "main",
-        "lastSeen": "2026-08-18T06:41:11.000Z"
+        "lastSeen": "2026-08-19T00:19:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/mapping-language-ig/branches/main/package.tgz"
