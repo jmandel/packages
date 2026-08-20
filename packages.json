@@ -1584,7 +1584,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26",
         "branch": "main",
-        "lastSeen": "2026-08-18T03:24:39.000Z"
+        "lastSeen": "2026-08-20T02:27:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26/branches/main/package.tgz"
@@ -10579,6 +10579,12 @@
         "repo": "https://github.com/aehrc/smart-forms-ig",
         "branch": "testing",
         "lastSeen": "2026-08-19T23:41:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/ignorewarnings-oid-wildcard/package.tgz",
+        "repo": "https://github.com/aehrc/smart-forms-ig",
+        "branch": "ignorewarnings-oid-wildcard",
+        "lastSeen": "2026-08-20T02:10:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/aehrc/smart-forms-ig/branches/master/package.tgz"
@@ -48720,7 +48726,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2026-08-18T19:07:01.000Z"
+        "lastSeen": "2026-08-20T02:25:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -49308,7 +49314,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-msd-example/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-msd-example",
-        "lastSeen": "2026-08-18T19:02:53.000Z"
+        "lastSeen": "2026-08-20T02:19:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz"
@@ -49770,7 +49776,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
-        "lastSeen": "2026-08-19T19:45:20.000Z"
+        "lastSeen": "2026-08-20T01:54:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/QA-2026/package.tgz",
@@ -62166,7 +62172,7 @@
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/Vulcan-schedule-ig",
         "branch": "master",
-        "lastSeen": "2026-08-19T16:58:09.000Z"
+        "lastSeen": "2026-08-20T02:46:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/Vulcan-schedule-ig/branches/phoenix/package.tgz",
