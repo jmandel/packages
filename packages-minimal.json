@@ -1616,6 +1616,14 @@
     }
   },
   {
+    "name": "ee.fhir.qre",
+    "current": {
+      "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-qre/branches/main/package.tgz",
+      "repo": "https://github.com/TEHIK-EE/ig-ee-qre",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ee.fhir.referral",
     "current": {
       "url": "https://build.fhir.org/ig/johannes-holm/FHIR-referral/branches/main/package.tgz",
