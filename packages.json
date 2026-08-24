@@ -6276,7 +6276,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/cc-flow-4-ps/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "cc-flow-4-ps",
-        "lastSeen": "2026-08-24T08:30:22.000Z"
+        "lastSeen": "2026-08-24T09:21:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/pdqm/package.tgz"
@@ -24437,6 +24437,18 @@
     ],
     "current": "https://build.fhir.org/ig/gabriel0316/ig-tooling/branches/main/package.tgz"
   },
+  "hl7.at.fhir.ig.template": {
+    "name": "hl7.at.fhir.ig.template",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/hl7.at.fhir.ig.template/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Austria/hl7.at.fhir.ig.template",
+        "branch": "main",
+        "lastSeen": "2026-08-24T09:44:46.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Austria/hl7.at.fhir.ig.template/branches/main/package.tgz"
+  },
   "hl7.at.fhir.messaging.r5": {
     "name": "hl7.at.fhir.messaging.r5",
     "locations": [
@@ -32622,7 +32634,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/allergy/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/allergy",
         "branch": "release-candidate",
-        "lastSeen": "2026-08-21T13:31:10.000Z"
+        "lastSeen": "2026-08-24T09:40:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/allergy/branches/issue-100/package.tgz"
@@ -32826,7 +32838,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "master",
-        "lastSeen": "2026-08-19T07:29:27.000Z"
+        "lastSeen": "2026-08-24T09:26:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/issue-57/package.tgz",
@@ -33096,7 +33108,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/core",
         "branch": "release-candidate",
-        "lastSeen": "2026-08-19T08:26:22.000Z"
+        "lastSeen": "2026-08-24T09:25:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core/branches/v2.2.0/package.tgz",
@@ -39192,7 +39204,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-7/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "block-vote-7",
-        "lastSeen": "2026-08-20T12:23:57.000Z"
+        "lastSeen": "2026-08-24T09:43:35.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -39756,7 +39768,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-7/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "block-vote-7",
-        "lastSeen": "2026-08-20T12:23:50.000Z"
+        "lastSeen": "2026-08-24T09:43:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -42402,7 +42414,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-08-21T11:58:17.000Z"
+        "lastSeen": "2026-08-24T09:20:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -65341,6 +65353,12 @@
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "organization-type-only",
         "lastSeen": "2026-08-24T08:35:58.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/validation-rules-test/package.tgz",
+        "repo": "https://github.com/HL7Sweden/basprofiler-r4",
+        "branch": "validation-rules-test",
+        "lastSeen": "2026-08-24T10:07:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
@@ -74460,7 +74478,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Organization/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Organization",
-        "lastSeen": "2026-08-20T14:33:25.000Z"
+        "lastSeen": "2026-08-24T09:24:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Location/package.tgz",
