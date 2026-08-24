@@ -6276,7 +6276,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/cc-flow-4-ps/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "cc-flow-4-ps",
-        "lastSeen": "2026-08-24T11:35:24.000Z"
+        "lastSeen": "2026-08-24T12:20:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/pdqm/package.tgz"
@@ -13380,7 +13380,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.3/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.3",
-        "lastSeen": "2026-08-04T11:23:51.000Z"
+        "lastSeen": "2026-08-24T12:37:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0224_update_IG/package.tgz",
@@ -13758,7 +13758,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-23931_FDD0195_CCR0333_data_controller_responsibility_on_eoc/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "FUT1-23931_FDD0195_CCR0333_data_controller_responsibility_on_eoc",
-        "lastSeen": "2026-07-23T08:21:59.000Z"
+        "lastSeen": "2026-08-24T12:05:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0298/package.tgz",
@@ -35658,7 +35658,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-renaming/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "release-candidate-renaming",
-        "lastSeen": "2026-08-24T11:38:19.000Z"
+        "lastSeen": "2026-08-24T13:08:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -39222,7 +39222,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-7/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "block-vote-7",
-        "lastSeen": "2026-08-24T09:43:35.000Z"
+        "lastSeen": "2026-08-24T12:58:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/initial-version/package.tgz"
@@ -39786,7 +39786,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-7/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "block-vote-7",
-        "lastSeen": "2026-08-24T09:43:03.000Z"
+        "lastSeen": "2026-08-24T12:58:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging/branches/qa-fixes-ballot1/package.tgz"
@@ -49962,7 +49962,7 @@
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/main/package.tgz",
         "repo": "https://github.com/HL7/us-fhir-ps",
         "branch": "main",
-        "lastSeen": "2026-08-24T01:06:08.000Z"
+        "lastSeen": "2026-08-24T12:58:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/us-fhir-ps/branches/QA-2026/package.tgz",
@@ -56082,7 +56082,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ebm-incubator",
         "branch": "main",
-        "lastSeen": "2026-08-21T09:29:28.000Z"
+        "lastSeen": "2026-08-24T13:09:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz"
@@ -68653,6 +68653,12 @@
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "include-pdf",
         "lastSeen": "2026-08-21T15:21:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/fix-release-1-0-0-issues/package.tgz",
+        "repo": "https://github.com/IHE/RAD.MADO",
+        "branch": "fix-release-1-0-0-issues",
+        "lastSeen": "2026-08-24T12:06:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/bvdh/bvdh-ihe-mado/branches/main/package.tgz"
@@ -70200,7 +70206,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "main",
-        "lastSeen": "2026-08-17T18:22:15.000Z"
+        "lastSeen": "2026-08-24T12:42:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/AddedMissingProfiles/package.tgz",
@@ -70218,7 +70224,7 @@
         "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/patientFix/package.tgz",
         "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-core-FHIR-IG",
         "branch": "patientFix",
-        "lastSeen": "2026-08-17T18:13:17.000Z"
+        "lastSeen": "2026-08-24T12:41:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/branches/main/package.tgz"
@@ -74599,6 +74605,24 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_helpful-feedback",
         "lastSeen": "2026-08-20T13:02:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48178-HumanName/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_NICTIZ-48178-HumanName",
+        "lastSeen": "2026-08-24T13:17:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48178-Patient/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_NICTIZ-48178-Patient",
+        "lastSeen": "2026-08-24T13:13:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48178-Location/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_NICTIZ-48178-Location",
+        "lastSeen": "2026-08-24T12:56:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -80598,7 +80622,7 @@
         "url": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz",
         "repo": "https://github.com/sfaassn2025-source/base",
         "branch": "main",
-        "lastSeen": "2026-08-24T07:40:25.000Z"
+        "lastSeen": "2026-08-24T13:06:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz"
