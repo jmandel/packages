@@ -3768,7 +3768,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-08-19T11:52:18.000Z"
+        "lastSeen": "2026-08-25T09:33:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -33852,7 +33852,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/medication",
         "branch": "master",
-        "lastSeen": "2026-07-08T08:28:29.000Z"
+        "lastSeen": "2026-08-25T09:42:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/medication/branches/v2/package.tgz",
@@ -35676,7 +35676,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-renaming/package.tgz",
         "repo": "https://github.com/hl7-be/referral",
         "branch": "release-candidate-renaming",
-        "lastSeen": "2026-08-24T13:08:30.000Z"
+        "lastSeen": "2026-08-25T09:50:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral/branches/master/package.tgz"
@@ -42450,7 +42450,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-08-24T09:20:55.000Z"
+        "lastSeen": "2026-08-25T09:45:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -74460,7 +74460,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_Patient",
-        "lastSeen": "2026-08-18T09:25:49.000Z"
+        "lastSeen": "2026-08-25T09:32:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Address/package.tgz",
@@ -74640,7 +74640,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48178-Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48178-Patient",
-        "lastSeen": "2026-08-24T13:13:43.000Z"
+        "lastSeen": "2026-08-25T09:31:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48178-Location/package.tgz",
@@ -81967,6 +81967,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "components-architecture-diagram",
         "lastSeen": "2026-08-20T11:59:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/worktree-components-wave3/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "worktree-components-wave3",
+        "lastSeen": "2026-08-25T08:52:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
