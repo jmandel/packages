@@ -82,9 +82,9 @@
   {
     "name": "ch.fhir.ig.ch-ig",
     "current": {
-      "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_conceptmap_sd_mappings/package.tgz",
+      "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_contained_primitive_extension/package.tgz",
       "repo": "https://github.com/ahdis/ch-ig",
-      "branch": "oe_conceptmap_sd_mappings"
+      "branch": "oe_contained_primitive_extension"
     }
   },
   {
@@ -402,9 +402,9 @@
   {
     "name": "hl7.fhir.be.referral",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-be/referral/branches/release-candidate-renaming/package.tgz",
+      "url": "https://build.fhir.org/ig/hl7-be/referral/branches/v1.0.0/package.tgz",
       "repo": "https://github.com/hl7-be/referral",
-      "branch": "release-candidate-renaming"
+      "branch": "v1.0.0"
     }
   },
   {
