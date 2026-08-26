@@ -24360,7 +24360,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-08-20T12:53:21.000Z"
+        "lastSeen": "2026-08-26T13:49:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/17-restrict-references-to-patient-practitioner-organization-to-referenceidentifier-and-require-referencetype/package.tgz",
@@ -42486,7 +42486,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/supplementary-registers/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "supplementary-registers",
-        "lastSeen": "2026-08-25T15:01:48.000Z"
+        "lastSeen": "2026-08-26T13:55:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/healthcareservice-type-valueset/package.tgz",
@@ -42823,6 +42823,12 @@
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "feature_geplande_zorgactiviteiten",
         "lastSeen": "2026-08-19T19:19:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/feauture_geplande_zorgactiviteiten_skill/package.tgz",
+        "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
+        "branch": "feauture_geplande_zorgactiviteiten_skill",
+        "lastSeen": "2026-08-26T13:53:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz"
@@ -74766,7 +74772,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48178-Location/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48178-Location",
-        "lastSeen": "2026-08-24T12:56:59.000Z"
+        "lastSeen": "2026-08-26T14:05:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Device/package.tgz",
@@ -74778,7 +74784,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-Document/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-Document",
-        "lastSeen": "2026-08-26T13:20:02.000Z"
+        "lastSeen": "2026-08-26T14:08:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-ContactPoint/package.tgz",
@@ -74790,37 +74796,49 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-Patient/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-Patient",
-        "lastSeen": "2026-08-26T13:30:13.000Z"
+        "lastSeen": "2026-08-26T13:47:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-Organization/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-Organization",
-        "lastSeen": "2026-08-26T13:10:26.000Z"
+        "lastSeen": "2026-08-26T13:45:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-PractitionerRole/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-PractitionerRole",
-        "lastSeen": "2026-08-26T13:11:12.000Z"
+        "lastSeen": "2026-08-26T13:33:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-Address/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-Address",
-        "lastSeen": "2026-08-26T13:13:33.000Z"
+        "lastSeen": "2026-08-26T13:51:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-Practitioner/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-Practitioner",
-        "lastSeen": "2026-08-26T13:10:57.000Z"
+        "lastSeen": "2026-08-26T13:32:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_DeviceUse/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_DeviceUse",
         "lastSeen": "2026-08-26T13:23:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-Location/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_NICTIZ-48180-Location",
+        "lastSeen": "2026-08-26T14:06:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180-HumanName/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_NICTIZ-48180-HumanName",
+        "lastSeen": "2026-08-26T13:47:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
