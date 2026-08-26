@@ -39270,7 +39270,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/block-vote-7/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r4",
         "branch": "block-vote-7",
-        "lastSeen": "2026-08-25T13:29:33.000Z"
+        "lastSeen": "2026-08-26T11:46:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r4/branches/FHIR-58196-composition-section-imagingStudy-optional/package.tgz",
@@ -39840,7 +39840,7 @@
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/block-vote-7/package.tgz",
         "repo": "https://github.com/oijauregui/ehdsimaging-r5",
         "branch": "block-vote-7",
-        "lastSeen": "2026-08-25T13:28:37.000Z"
+        "lastSeen": "2026-08-26T11:47:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/oijauregui/ehdsimaging-r5/branches/FHIR-58196-composition-section-imagingStudy-optional/package.tgz",
@@ -42504,7 +42504,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-08-26T10:15:14.000Z"
+        "lastSeen": "2026-08-26T11:01:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -74731,6 +74731,12 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48178-Location",
         "lastSeen": "2026-08-24T12:56:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Device/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_Device",
+        "lastSeen": "2026-08-26T11:39:42.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -81444,7 +81450,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-08-26T06:09:11.000Z"
+        "lastSeen": "2026-08-26T11:13:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -82081,6 +82087,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "diagram-mdm-vaccination-resources",
         "lastSeen": "2026-08-26T05:43:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/blood-diagram-resources/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "blood-diagram-resources",
+        "lastSeen": "2026-08-26T10:54:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
