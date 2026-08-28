@@ -1590,7 +1590,19 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26/branches/PracRole-type-code-displayName/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26",
         "branch": "PracRole-type-code-displayName",
-        "lastSeen": "2026-08-27T08:03:09.000Z"
+        "lastSeen": "2026-08-28T03:20:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26/branches/reverting-au-time-zome-extension-healthcareservice/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26",
+        "branch": "reverting-au-time-zome-extension-healthcareservice",
+        "lastSeen": "2026-08-28T02:15:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26/branches/mock-main-branch/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26",
+        "branch": "mock-main-branch",
+        "lastSeen": "2026-08-28T03:47:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/HCPD-Snapshot-26.0.0-HL7AU-Connectathon-Aug-25-26/branches/main/package.tgz"
@@ -24396,7 +24408,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-08-26T13:49:58.000Z"
+        "lastSeen": "2026-08-28T05:57:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/17-restrict-references-to-patient-practitioner-organization-to-referenceidentifier-and-require-referencetype/package.tgz",
@@ -24420,7 +24432,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/14-list-read-und-list-write-entfernen/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "14-list-read-und-list-write-entfernen",
-        "lastSeen": "2026-08-26T12:59:09.000Z"
+        "lastSeen": "2026-08-28T05:59:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz"
@@ -28050,7 +28062,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-08-03T01:22:22.000Z"
+        "lastSeen": "2026-08-27T23:32:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -31710,7 +31722,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-08-04T21:08:36.000Z"
+        "lastSeen": "2026-08-27T23:48:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -37476,7 +37488,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-08-27T22:22:50.000Z"
+        "lastSeen": "2026-08-28T05:38:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -58866,7 +58878,7 @@
         "url": "https://build.fhir.org/ig/HL7/mapping-language-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/mapping-language-ig",
         "branch": "main",
-        "lastSeen": "2026-08-19T00:19:42.000Z"
+        "lastSeen": "2026-08-28T05:11:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/mapping-language-ig/branches/main/package.tgz"
@@ -62419,6 +62431,12 @@
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "2026-08-gg-sct-laterality",
         "lastSeen": "2026-08-24T20:26:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2026-08-gg-sct-subsumes/package.tgz",
+        "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
+        "branch": "2026-08-gg-sct-subsumes",
+        "lastSeen": "2026-08-28T01:57:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz"
@@ -74941,6 +74959,12 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-48180-HumanName",
         "lastSeen": "2026-08-27T08:00:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-48180_2-Location/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_NICTIZ-48180_2-Location",
+        "lastSeen": "2026-08-27T23:28:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -80908,6 +80932,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
+  },
+  "tw.gov.mohw.nricm.twcm": {
+    "name": "tw.gov.mohw.nricm.twcm",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz",
+        "repo": "https://github.com/nricmig/Nricm_TWCMIG",
+        "branch": "main",
+        "lastSeen": "2026-08-28T02:41:39.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz"
   },
   "tw.gov.mohw.sfaa.base": {
     "name": "tw.gov.mohw.sfaa.base",
