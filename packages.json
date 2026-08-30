@@ -10710,7 +10710,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-08-27T12:49:28.000Z"
+        "lastSeen": "2026-08-30T09:24:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -11329,6 +11329,30 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "menu-structure",
         "lastSeen": "2026-08-27T12:06:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/prepare-publication/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "prepare-publication",
+        "lastSeen": "2026-08-30T09:08:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "2.0.0-ballot",
+        "lastSeen": "2026-08-30T09:25:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/vorbereitung-2.0.0-ballot/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "vorbereitung-2.0.0-ballot",
+        "lastSeen": "2026-08-30T08:55:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/fix-release-notes-dublette/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "fix-release-notes-dublette",
+        "lastSeen": "2026-08-30T09:23:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -21114,7 +21138,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-08-29T05:43:05.000Z"
+        "lastSeen": "2026-08-30T11:24:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -70571,6 +70595,24 @@
     ],
     "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-Emergency-FHIR-IG/branches/main/package.tgz"
   },
+  "ke.fhir.eprescription": {
+    "name": "ke.fhir.eprescription",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-ePrescription-IG/branches/renamedCanonical/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-ePrescription-IG",
+        "branch": "renamedCanonical",
+        "lastSeen": "2026-08-30T09:31:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-ePrescription-IG/branches/main/package.tgz",
+        "repo": "https://github.com/IntelliSOFT-Consulting/Kenya-ePrescription-IG",
+        "branch": "main",
+        "lastSeen": "2026-08-30T09:32:21.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-ePrescription-IG/branches/main/package.tgz"
+  },
   "ke.fhir.nccp": {
     "name": "ke.fhir.nccp",
     "locations": [
@@ -81006,7 +81048,7 @@
         "url": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz",
         "repo": "https://github.com/nricmig/Nricm_TWCMIG",
         "branch": "main",
-        "lastSeen": "2026-08-29T14:16:00.000Z"
+        "lastSeen": "2026-08-30T12:03:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz"
