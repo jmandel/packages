@@ -728,6 +728,14 @@
     }
   },
   {
+    "name": "inami.fhir.be.ereferral",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2.1.0/package.tgz",
+      "repo": "https://github.com/hl7-be/referral-uhmep",
+      "branch": "release-2.1.0"
+    }
+  },
+  {
     "name": "johnmoehrke.correction.example",
     "current": {
       "url": "https://build.fhir.org/ig/JohnMoehrke/correction/branches/R6/package.tgz",
@@ -845,6 +853,14 @@
       "url": "https://build.fhir.org/ig/MoH-Ethiopia/HIV-ET-01/branches/main/package.tgz",
       "repo": "https://github.com/MoH-Ethiopia/HIV-ET-01",
       "branch": "main"
+    }
+  },
+  {
+    "name": "smart.who.int.ig-starter-kit",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-starter-kit/branches/aipackage/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-ig-starter-kit",
+      "branch": "aipackage"
     }
   },
   {
