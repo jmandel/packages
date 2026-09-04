@@ -9630,7 +9630,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-09-01T19:13:56.000Z"
+        "lastSeen": "2026-09-04T17:38:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -20976,7 +20976,7 @@
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/split-notification-and-workflow-page/package.tgz",
         "repo": "https://github.com/nuts-foundation/nl-generic-functions-ig",
         "branch": "split-notification-and-workflow-page",
-        "lastSeen": "2026-06-05T15:26:29.000Z"
+        "lastSeen": "2026-09-04T16:05:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nuts-foundation/nl-generic-functions-ig/branches/add-authorization-information-model/package.tgz",
@@ -21234,7 +21234,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-09-04T14:08:20.000Z"
+        "lastSeen": "2026-09-04T17:12:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -33996,7 +33996,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/glucose-monitoring",
         "branch": "release-candidate",
-        "lastSeen": "2026-09-04T12:14:22.000Z"
+        "lastSeen": "2026-09-04T14:32:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/issue-6/package.tgz",
+        "repo": "https://github.com/hl7-be/glucose-monitoring",
+        "branch": "issue-6",
+        "lastSeen": "2026-09-04T14:25:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/master/package.tgz"
@@ -36912,7 +36918,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/TEI-Quirurgico/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/TEI-Quirurgico",
         "branch": "master",
-        "lastSeen": "2025-12-23T19:05:33.000Z"
+        "lastSeen": "2026-09-04T15:48:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/TEI-Quirurgico/branches/master/package.tgz"
@@ -36990,7 +36996,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/IG_snre/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/IG_snre",
         "branch": "master",
-        "lastSeen": "2024-06-04T14:25:15.000Z"
+        "lastSeen": "2026-09-04T16:28:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/snre/branches/master/package.tgz"
@@ -37062,7 +37068,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/IG_Urgencia/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/IG_Urgencia",
         "branch": "master",
-        "lastSeen": "2026-09-03T16:22:39.000Z"
+        "lastSeen": "2026-09-04T15:47:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/IG_Urgencia/branches/master/package.tgz"
@@ -37734,7 +37740,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-08-31T13:55:14.000Z"
+        "lastSeen": "2026-09-04T16:50:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -56850,7 +56856,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-09-03T20:18:50.000Z"
+        "lastSeen": "2026-09-04T16:23:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -69474,7 +69480,7 @@
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/master/package.tgz",
         "repo": "https://github.com/IHE/RAD.MADO",
         "branch": "master",
-        "lastSeen": "2026-09-04T00:07:40.000Z"
+        "lastSeen": "2026-09-04T15:34:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/RAD.MADO/branches/call20260402/package.tgz",
