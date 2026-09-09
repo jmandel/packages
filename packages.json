@@ -5724,7 +5724,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/annex8_openid/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "annex8_openid",
-        "lastSeen": "2026-09-09T12:58:11.000Z"
+        "lastSeen": "2026-09-09T18:58:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-463-publisher-yaml/package.tgz",
@@ -16860,7 +16860,7 @@
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/master/package.tgz",
         "repo": "https://github.com/cqframework/sample-content-ig",
         "branch": "master",
-        "lastSeen": "2026-08-19T05:24:41.000Z"
+        "lastSeen": "2026-09-09T20:28:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/sample-content-ig/branches/qa-fixes/package.tgz",
@@ -28428,7 +28428,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-09-08T05:40:09.000Z"
+        "lastSeen": "2026-09-09T21:25:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -38442,7 +38442,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/feature-immunization/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "feature-immunization",
-        "lastSeen": "2026-09-07T14:24:09.000Z"
+        "lastSeen": "2026-09-09T20:00:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -49693,6 +49693,18 @@
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "add_count",
         "lastSeen": "2026-07-16T11:31:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/FHIR-56337-Remove-CMS-Extensions-From-Verification/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "FHIR-56337-Remove-CMS-Extensions-From-Verification",
+        "lastSeen": "2026-09-09T21:16:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/FHIR-57242-Verify-Element-Not-Resource/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "FHIR-57242-Verify-Element-Not-Resource",
+        "lastSeen": "2026-09-09T21:09:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
