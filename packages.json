@@ -11431,6 +11431,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "add-prn-logical",
         "lastSeen": "2026-09-01T04:39:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/remove-einnahmeanlass/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "remove-einnahmeanlass",
+        "lastSeen": "2026-09-10T04:44:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -21342,7 +21348,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-09-09T07:48:33.000Z"
+        "lastSeen": "2026-09-10T04:33:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -45840,7 +45846,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-09-09T23:57:17.000Z"
+        "lastSeen": "2026-09-10T03:18:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -49986,7 +49992,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2026-09-01T17:07:28.000Z"
+        "lastSeen": "2026-09-10T04:53:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -50556,7 +50562,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postSTU2BallotChanges/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postSTU2BallotChanges",
-        "lastSeen": "2026-09-01T15:52:44.000Z"
+        "lastSeen": "2026-09-10T04:52:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/LRN-Updates/package.tgz",
