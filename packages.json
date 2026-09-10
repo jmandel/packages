@@ -45840,7 +45840,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-09-09T04:41:00.000Z"
+        "lastSeen": "2026-09-09T23:57:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -45943,6 +45943,12 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "9.0.0",
         "lastSeen": "2026-06-01T15:34:18.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/Config-10.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "Config-10.0.0-ballot",
+        "lastSeen": "2026-09-09T22:48:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -49488,7 +49494,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-08-03T21:11:28.000Z"
+        "lastSeen": "2026-09-09T22:52:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -49692,19 +49698,25 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/add_count/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "add_count",
-        "lastSeen": "2026-07-16T11:31:22.000Z"
+        "lastSeen": "2026-09-09T21:33:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/FHIR-56337-Remove-CMS-Extensions-From-Verification/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "FHIR-56337-Remove-CMS-Extensions-From-Verification",
-        "lastSeen": "2026-09-09T21:16:37.000Z"
+        "lastSeen": "2026-09-09T22:51:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/FHIR-57242-Verify-Element-Not-Resource/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "FHIR-57242-Verify-Element-Not-Resource",
         "lastSeen": "2026-09-09T21:09:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/FHIR-57885-Birth-Year-Only/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "FHIR-57885-Birth-Year-Only",
+        "lastSeen": "2026-09-09T22:54:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
