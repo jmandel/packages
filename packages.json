@@ -6336,7 +6336,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/mhd/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "mhd",
-        "lastSeen": "2026-09-09T15:56:23.000Z"
+        "lastSeen": "2026-09-15T10:01:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/pdqm/package.tgz"
@@ -14022,7 +14022,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.4/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "release_2026.4",
-        "lastSeen": "2026-09-11T08:00:46.000Z"
+        "lastSeen": "2026-09-15T09:54:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/release_2026.4-SNAPSHOT/package.tgz",
@@ -14131,6 +14131,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_FUT1-25209-kpro-treatment-area-all-conditions",
         "lastSeen": "2026-09-11T06:58:16.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_FUT1-25296-careplan-communication-capabilitystatement/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "feature_FUT1-25296-careplan-communication-capabilitystatement",
+        "lastSeen": "2026-09-15T08:30:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -21372,7 +21378,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-09-10T11:56:25.000Z"
+        "lastSeen": "2026-09-15T07:27:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -24726,7 +24732,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-09-14T11:50:03.000Z"
+        "lastSeen": "2026-09-15T08:15:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/17-restrict-references-to-patient-practitioner-organization-to-referenceidentifier-and-require-referencetype/package.tgz",
@@ -24828,7 +24834,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "main",
-        "lastSeen": "2026-09-14T18:29:30.000Z"
+        "lastSeen": "2026-09-15T08:38:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/Dosierungen/package.tgz",
@@ -33366,7 +33372,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/childrecord",
         "branch": "master",
-        "lastSeen": "2026-08-26T12:32:03.000Z"
+        "lastSeen": "2026-09-15T09:02:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/childrecord/branches/pdf/package.tgz",
@@ -39336,7 +39342,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/cancer-common",
         "branch": "master",
-        "lastSeen": "2026-06-12T16:45:12.000Z"
+        "lastSeen": "2026-09-15T07:39:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/cancer-common/branches/1.0.0-ballot/package.tgz",
@@ -66978,7 +66984,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/master/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-medication-scheme",
         "branch": "master",
-        "lastSeen": "2026-08-31T11:48:22.000Z"
+        "lastSeen": "2026-09-15T07:53:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-medication-scheme/branches/work-in-progress/package.tgz",
@@ -71028,7 +71034,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2.1.0/package.tgz",
         "repo": "https://github.com/hl7-be/referral-uhmep",
         "branch": "release-2.1.0",
-        "lastSeen": "2026-09-02T10:10:03.000Z"
+        "lastSeen": "2026-09-15T06:54:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2-0-0/package.tgz"
@@ -73657,6 +73663,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "20260623-exampleupdate-SKS",
         "lastSeen": "2026-06-25T12:30:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/CCexample_20260915/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
+        "branch": "CCexample_20260915",
+        "lastSeen": "2026-09-15T07:11:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz"
