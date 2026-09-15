@@ -23514,7 +23514,13 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-09-15T02:26:25.000Z"
+        "lastSeen": "2026-09-15T21:25:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-base2",
+        "branch": "2026-09-gg-html-fixes",
+        "lastSeen": "2026-09-15T20:48:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz"
@@ -26748,7 +26754,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/idea4rc",
         "branch": "master",
-        "lastSeen": "2026-09-15T13:07:11.000Z"
+        "lastSeen": "2026-09-15T21:04:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/idea4rc/branches/puml-subdir/package.tgz",
@@ -45625,6 +45631,12 @@
         "repo": "https://github.com/HL7/cdc-opioid-cpg",
         "branch": "stu1-qa",
         "lastSeen": "2026-04-07T20:47:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cdc-opioid-cpg/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/HL7/cdc-opioid-cpg",
+        "branch": "1.0.0",
+        "lastSeen": "2026-09-15T18:59:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cdc-opioid-cpg/branches/main/package.tgz"
@@ -56676,7 +56688,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "main",
-        "lastSeen": "2026-09-15T17:41:01.000Z"
+        "lastSeen": "2026-09-15T19:42:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-measures/branches/master/package.tgz",
@@ -56965,6 +56977,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "DW-Measure-Report-examples",
         "lastSeen": "2026-08-12T00:03:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/2.0.0/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "2.0.0",
+        "lastSeen": "2026-09-15T20:39:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -62622,7 +62640,7 @@
         "url": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/fhir-57766-jwks-caching/package.tgz",
         "repo": "https://github.com/HL7/smart-app-launch",
         "branch": "fhir-57766-jwks-caching",
-        "lastSeen": "2026-09-15T18:47:45.000Z"
+        "lastSeen": "2026-09-15T20:01:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/smart-app-launch/branches/master/package.tgz"
