@@ -56,11 +56,19 @@
     }
   },
   {
+    "name": "ch.fhir.ig.ch-emr",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/master/package.tgz",
+      "repo": "https://github.com/hl7ch/ch-emr",
+      "branch": "master"
+    }
+  },
+  {
     "name": "ch.fhir.ig.ch-epr-fhir",
     "current": {
-      "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/annex8_openid/package.tgz",
+      "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/annex8_openid_iua_link/package.tgz",
       "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
-      "branch": "annex8_openid"
+      "branch": "annex8_openid_iua_link"
     }
   },
   {
@@ -768,6 +776,14 @@
     }
   },
   {
+    "name": "medcom.fhir.dk.hospitalnotification",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/branches/testexamples/package.tgz",
+      "repo": "https://github.com/medcomdk/dk-medcom-hospitalnotification",
+      "branch": "testexamples"
+    }
+  },
+  {
     "name": "medcom.fhir.dk.notes",
     "current": {
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-notes/branches/1.0.0-rc1/package.tgz",
@@ -954,9 +970,9 @@
   {
     "name": "vadimperetok.in",
     "current": {
-      "url": "https://build.fhir.org/ig/vadi2/VadimTestIG/branches/supplement-pin-repro/package.tgz",
+      "url": "https://build.fhir.org/ig/vadi2/VadimTestIG/branches/server-side-supplement-repro/package.tgz",
       "repo": "https://github.com/vadi2/VadimTestIG",
-      "branch": "supplement-pin-repro"
+      "branch": "server-side-supplement-repro"
     }
   },
   {
