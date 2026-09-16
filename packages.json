@@ -5755,6 +5755,48 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "issue-479-publisher-errors",
         "lastSeen": "2026-09-16T17:01:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-468-claude-md/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-468-claude-md",
+        "lastSeen": "2026-09-16T18:00:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-469-ci/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-469-ci",
+        "lastSeen": "2026-09-16T18:02:07.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-443-atc-capabilitystatement/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-443-atc-capabilitystatement",
+        "lastSeen": "2026-09-16T17:53:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-455-related-slicing/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-455-related-slicing",
+        "lastSeen": "2026-09-16T17:39:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-486-changelog-todo/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-486-changelog-todo",
+        "lastSeen": "2026-09-16T17:25:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-493-sex-gender-closed/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-493-sex-gender-closed",
+        "lastSeen": "2026-09-16T17:25:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-449-deferred-changelog/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-449-deferred-changelog",
+        "lastSeen": "2026-09-16T17:24:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -24901,6 +24943,12 @@
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "examples_do1",
         "lastSeen": "2026-09-16T12:38:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/examples_do2/package.tgz",
+        "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
+        "branch": "examples_do2",
+        "lastSeen": "2026-09-16T17:51:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/BO_rework_use_case_2/package.tgz"
@@ -43741,6 +43789,12 @@
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "notification-payloadtype",
         "lastSeen": "2026-09-15T15:34:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/canonical/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "canonical",
+        "lastSeen": "2026-09-16T19:51:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/fhir-ig-setup/package.tgz"
@@ -63576,7 +63630,7 @@
         "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/fhir-tools-ig",
         "branch": "master",
-        "lastSeen": "2026-09-16T15:58:55.000Z"
+        "lastSeen": "2026-09-16T18:27:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/main/package.tgz",
@@ -71597,6 +71651,18 @@
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/SlicingSlicedExtension/branches/main/package.tgz"
   },
+  "johnmoehrke.slsvaluesets": {
+    "name": "johnmoehrke.slsvaluesets",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/SLSValueSets/branches/main/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/SLSValueSets",
+        "branch": "main",
+        "lastSeen": "2026-09-16T18:22:38.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/JohnMoehrke/SLSValueSets/branches/main/package.tgz"
+  },
   "johnmoehrke.test-valuesets.example": {
     "name": "johnmoehrke.test-valuesets.example",
     "locations": [
@@ -77927,6 +77993,18 @@
     ],
     "current": "https://build.fhir.org/ig/pablumar/github-guia-servtrans/branches/main/package.tgz"
   },
+  "shift-task-force.sls-ri": {
+    "name": "shift-task-force.sls-ri",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/SHIFT-Task-Force/sls-ri-ig/branches/main/package.tgz",
+        "repo": "https://github.com/SHIFT-Task-Force/sls-ri-ig",
+        "branch": "main",
+        "lastSeen": "2026-09-16T17:13:40.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/SHIFT-Task-Force/sls-ri-ig/branches/main/package.tgz"
+  },
   "shift.privacy.examples": {
     "name": "shift.privacy.examples",
     "locations": [
@@ -83394,7 +83472,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-09-16T10:36:36.000Z"
+        "lastSeen": "2026-09-16T18:08:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -84103,6 +84181,12 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "warnings-back-to-0",
         "lastSeen": "2026-09-16T10:16:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/publication-build/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "publication-build",
+        "lastSeen": "2026-09-16T17:48:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
