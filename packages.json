@@ -16962,13 +16962,13 @@
         "url": "https://build.fhir.org/ig/shpringman/fhir-fod/branches/main/package.tgz",
         "repo": "https://github.com/shpringman/fhir-fod",
         "branch": "main",
-        "lastSeen": "2026-09-19T13:37:49.000Z"
+        "lastSeen": "2026-09-20T14:34:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-fod/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-fod",
         "branch": "main",
-        "lastSeen": "2026-09-19T13:40:08.000Z"
+        "lastSeen": "2026-09-20T14:52:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/shpringman/fhir-fod/branches/main/package.tgz"
@@ -60882,13 +60882,13 @@
         "url": "https://build.fhir.org/ig/HL7/imaging-service-request-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/imaging-service-request-ig",
         "branch": "master",
-        "lastSeen": "2026-09-20T11:38:23.000Z"
+        "lastSeen": "2026-09-20T15:53:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/imaging-service-request-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/imaging-service-request-ig",
         "branch": "main",
-        "lastSeen": "2026-09-20T11:36:56.000Z"
+        "lastSeen": "2026-09-20T15:52:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/imaging-service-request-ig/branches/master/package.tgz"
@@ -61306,6 +61306,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-ips/branches/master/package.tgz"
+  },
+  "hl7.fhir.uv.ips.test": {
+    "name": "hl7.fhir.uv.ips.test",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/costateixeira/IPS-Test-package/branches/master/package.tgz",
+        "repo": "https://github.com/costateixeira/IPS-Test-package",
+        "branch": "master",
+        "lastSeen": "2026-09-20T16:09:16.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/costateixeira/IPS-Test-package/branches/master/package.tgz"
   },
   "hl7.fhir.uv.javascript": {
     "name": "hl7.fhir.uv.javascript",

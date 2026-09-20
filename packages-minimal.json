@@ -6520,6 +6520,14 @@
     }
   },
   {
+    "name": "hl7.fhir.uv.ips.test",
+    "current": {
+      "url": "https://build.fhir.org/ig/costateixeira/IPS-Test-package/branches/master/package.tgz",
+      "repo": "https://github.com/costateixeira/IPS-Test-package",
+      "branch": "master"
+    }
+  },
+  {
     "name": "hl7.fhir.uv.javascript",
     "current": {
       "url": "https://build.fhir.org/ig/bvdh/hl7-javascript-expression/branches/master/package.tgz",
