@@ -23628,7 +23628,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-09-17T03:35:09.000Z"
+        "lastSeen": "2026-09-21T18:06:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
@@ -37956,7 +37956,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/main/package.tgz",
         "repo": "https://github.com/HL7-cz/hdr",
         "branch": "main",
-        "lastSeen": "2026-07-24T09:15:27.000Z"
+        "lastSeen": "2026-09-21T17:11:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/hdr/branches/develop/package.tgz",
@@ -38256,7 +38256,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-09-21T16:58:54.000Z"
+        "lastSeen": "2026-09-21T19:32:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -48300,7 +48300,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2026-09-15T17:43:57.000Z"
+        "lastSeen": "2026-09-21T19:25:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
@@ -50304,7 +50304,13 @@
         "url": "https://build.fhir.org/ig/HL7/ode/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ode",
         "branch": "main",
-        "lastSeen": "2026-08-20T20:58:01.000Z"
+        "lastSeen": "2026-09-21T18:04:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ode/branches/post-connectathon-validated/package.tgz",
+        "repo": "https://github.com/HL7/ode",
+        "branch": "post-connectathon-validated",
+        "lastSeen": "2026-09-21T17:55:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ode/branches/main/package.tgz"
