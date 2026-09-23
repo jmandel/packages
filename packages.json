@@ -1356,7 +1356,13 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-IG-style/branches/main/package.tgz",
         "repo": "https://github.com/ansforge/interop-IG-style",
         "branch": "main",
-        "lastSeen": "2026-09-07T07:51:32.000Z"
+        "lastSeen": "2026-09-23T11:43:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ansforge/interop-IG-style/branches/fix-toc-duplicate-config/package.tgz",
+        "repo": "https://github.com/ansforge/interop-IG-style",
+        "branch": "fix-toc-duplicate-config",
+        "lastSeen": "2026-09-23T11:41:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ansforge/IG-template/branches/nr-test-deps/package.tgz"
@@ -14250,7 +14256,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/CCR0329_S1/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0329_S1",
-        "lastSeen": "2026-09-22T07:30:10.000Z"
+        "lastSeen": "2026-09-23T08:47:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -14556,7 +14562,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/3.0.0-prod-environment-2/package.tgz",
         "repo": "https://github.com/medcomdk/dk-ehmi-eer-configurations",
         "branch": "3.0.0-prod-environment-2",
-        "lastSeen": "2026-09-22T06:38:54.000Z"
+        "lastSeen": "2026-09-23T11:32:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-configurations/branches/main/package.tgz"
@@ -15378,7 +15384,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-vris",
         "branch": "main",
-        "lastSeen": "2026-09-23T06:22:49.000Z"
+        "lastSeen": "2026-09-23T11:39:52.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-vris/branches/main/package.tgz"
@@ -35394,7 +35400,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/careplan-team/package.tgz",
         "repo": "https://github.com/hl7-be/patient-dossier",
         "branch": "careplan-team",
-        "lastSeen": "2026-07-08T08:00:31.000Z"
+        "lastSeen": "2026-09-23T08:50:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/clinical-report/package.tgz",
@@ -35406,7 +35412,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/episode-of-care/package.tgz",
         "repo": "https://github.com/hl7-be/patient-dossier",
         "branch": "episode-of-care",
-        "lastSeen": "2026-09-16T09:56:34.000Z"
+        "lastSeen": "2026-09-23T08:49:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-dossier/branches/main/package.tgz"
@@ -35952,7 +35958,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/public-health",
         "branch": "master",
-        "lastSeen": "2026-08-10T13:36:27.000Z"
+        "lastSeen": "2026-09-23T08:42:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/releasecandidate/package.tgz",
@@ -36037,6 +36043,12 @@
         "repo": "https://github.com/hl7-be/public-health",
         "branch": "release-candidate",
         "lastSeen": "2026-09-18T09:42:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/public-health/branches/v1.0.4/package.tgz",
+        "repo": "https://github.com/hl7-be/public-health",
+        "branch": "v1.0.4",
+        "lastSeen": "2026-09-23T08:40:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/public-health/branches/qa-cleanup/package.tgz"
@@ -36684,7 +36696,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/terminology",
         "branch": "release-candidate",
-        "lastSeen": "2026-09-20T08:14:04.000Z"
+        "lastSeen": "2026-09-23T07:51:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/terminology/branches/draft/package.tgz"
@@ -37980,7 +37992,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/cz-ems",
         "branch": "master",
-        "lastSeen": "2026-05-22T06:20:46.000Z"
+        "lastSeen": "2026-09-23T09:55:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/cz-ems/branches/Develop/package.tgz",
@@ -38863,6 +38875,12 @@
         "repo": "https://github.com/hl7dk/dk-hackathons",
         "branch": "missing-merge-corrected",
         "lastSeen": "2026-08-18T12:38:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7dk/dk-hackathons/branches/recordings/package.tgz",
+        "repo": "https://github.com/hl7dk/dk-hackathons",
+        "branch": "recordings",
+        "lastSeen": "2026-09-23T11:48:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-hackathon/branches/main/package.tgz"
@@ -44016,7 +44034,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-09-21T08:16:16.000Z"
+        "lastSeen": "2026-09-23T08:36:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -55824,7 +55842,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/cards-are-transient/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "cards-are-transient",
-        "lastSeen": "2026-08-05T16:27:33.000Z"
+        "lastSeen": "2026-09-23T11:21:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/remove-stu-text/package.tgz",
@@ -62022,7 +62040,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/FHIR-R6/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "FHIR-R6",
-        "lastSeen": "2026-09-22T16:37:20.000Z"
+        "lastSeen": "2026-09-23T11:50:13.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/2.0.0/package.tgz",
@@ -73920,7 +73938,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "githubpagesmaster",
-        "lastSeen": "2026-07-14T06:56:47.000Z"
+        "lastSeen": "2026-09-23T08:05:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.-5.0.2-githubpages/package.tgz",
@@ -74101,6 +74119,12 @@
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
         "branch": "v.5.0.16-githubpages",
         "lastSeen": "2026-07-07T08:07:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.17-githubpages/package.tgz",
+        "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
+        "branch": "v.5.0.17-githubpages",
+        "lastSeen": "2026-09-23T08:06:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/master/package.tgz"
@@ -74112,7 +74136,7 @@
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/master/package.tgz",
         "repo": "https://github.com/medcomdk/dk-medcom-carecommunication-testscripts",
         "branch": "master",
-        "lastSeen": "2026-05-19T06:30:59.000Z"
+        "lastSeen": "2026-09-23T07:57:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts/branches/v.4.0.1-rc1/package.tgz",
@@ -76884,7 +76908,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-47281/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_NICTIZ-47281",
-        "lastSeen": "2026-09-09T13:51:02.000Z"
+        "lastSeen": "2026-09-23T08:41:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-47281/package.tgz"
@@ -77994,7 +78018,7 @@
         "url": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/main/package.tgz",
         "repo": "https://github.com/SanteonNL/sim-on-fhir",
         "branch": "main",
-        "lastSeen": "2026-04-14T10:31:45.000Z"
+        "lastSeen": "2026-09-23T11:46:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/main/package.tgz"
@@ -80454,7 +80478,7 @@
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/main/package.tgz",
         "repo": "https://github.com/WorldHealthOrganization/smart-icvp",
         "branch": "main",
-        "lastSeen": "2026-09-22T11:16:18.000Z"
+        "lastSeen": "2026-09-23T11:32:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-icvp/branches/jct-testdependencies/package.tgz",
@@ -82872,7 +82896,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/empd/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/empd",
         "branch": "main",
-        "lastSeen": "2026-09-22T08:19:50.000Z"
+        "lastSeen": "2026-09-23T08:28:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/empd/branches/main/package.tgz"
