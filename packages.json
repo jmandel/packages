@@ -14796,7 +14796,7 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "main",
-        "lastSeen": "2026-09-28T05:31:07.000Z"
+        "lastSeen": "2026-09-29T07:11:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.9.4/package.tgz",
@@ -15072,7 +15072,13 @@
         "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/DHDB--Ventral-hernie-cicatrice-type-/package.tgz",
         "repo": "https://github.com/KIP-infrastructure/implementation-guide",
         "branch": "DHDB--Ventral-hernie-cicatrice-type-",
-        "lastSeen": "2026-09-24T10:54:58.000Z"
+        "lastSeen": "2026-09-29T07:05:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/2.26.1/package.tgz",
+        "repo": "https://github.com/KIP-infrastructure/implementation-guide",
+        "branch": "2.26.1",
+        "lastSeen": "2026-09-29T07:12:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/KIP-infrastructure/implementation-guide/branches/main/package.tgz"
@@ -31153,6 +31159,12 @@
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "cr_fhir-58786-58787",
         "lastSeen": "2026-09-28T23:39:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr_fhir-58432/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-core",
+        "branch": "cr_fhir-58432",
+        "lastSeen": "2026-09-29T01:16:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -58296,7 +58308,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2026-09-28T22:30:04.000Z"
+        "lastSeen": "2026-09-29T06:20:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -59646,7 +59658,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/FHIR-50924/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "FHIR-50924",
-        "lastSeen": "2026-09-22T13:54:00.000Z"
+        "lastSeen": "2026-09-29T06:09:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/dbarwin-oo-sept28/package.tgz",
@@ -83208,7 +83220,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2026-08-27T03:44:54.000Z"
+        "lastSeen": "2026-09-29T02:02:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -83335,6 +83347,12 @@
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.2.6",
         "lastSeen": "2026-09-09T06:09:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.2.7/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/pas",
+        "branch": "1.2.7",
+        "lastSeen": "2026-09-29T02:01:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -84114,7 +84132,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-09-28T09:14:11.000Z"
+        "lastSeen": "2026-09-29T06:13:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
