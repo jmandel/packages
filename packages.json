@@ -487,6 +487,12 @@
         "repo": "https://github.com/SHIFT-Task-Force/SLS-ValueSets",
         "branch": "Shift-Hannah-ValueSets",
         "lastSeen": "2026-09-16T21:44:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/auto-expansion/package.tgz",
+        "repo": "https://github.com/SHIFT-Task-Force/SLS-ValueSets",
+        "branch": "auto-expansion",
+        "lastSeen": "2026-09-28T20:47:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/main/package.tgz"
@@ -1182,7 +1188,7 @@
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-document-patient-summary/branches/separationIG/package.tgz",
         "repo": "https://github.com/ansforge/interop-ig-fhir-document-patient-summary",
         "branch": "separationIG",
-        "lastSeen": "2026-09-28T15:34:15.000Z"
+        "lastSeen": "2026-09-28T21:39:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-document-patient-summary/branches/main/package.tgz",
@@ -10932,7 +10938,7 @@
         "url": "https://build.fhir.org/ig/dbojicic/test-repo/branches/main/package.tgz",
         "repo": "https://github.com/dbojicic/test-repo",
         "branch": "main",
-        "lastSeen": "2026-09-21T05:47:20.000Z"
+        "lastSeen": "2026-09-28T22:48:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/dbojicic/test-repo/branches/main/package.tgz"
@@ -31146,7 +31152,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr_fhir-58786-58787/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "cr_fhir-58786-58787",
-        "lastSeen": "2026-09-28T03:50:00.000Z"
+        "lastSeen": "2026-09-28T23:39:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -38598,7 +38604,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "master",
-        "lastSeen": "2026-09-26T21:31:18.000Z"
+        "lastSeen": "2026-09-28T22:00:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/FixyProEmaples/package.tgz",
@@ -48744,7 +48750,7 @@
         "url": "https://build.fhir.org/ig/argonautproject/USCDIV7/branches/main/package.tgz",
         "repo": "https://github.com/argonautproject/USCDIV7",
         "branch": "main",
-        "lastSeen": "2026-09-17T01:13:50.000Z"
+        "lastSeen": "2026-09-28T23:16:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/USCDIV7/branches/main/package.tgz"
@@ -50802,7 +50808,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2026-09-25T18:48:46.000Z"
+        "lastSeen": "2026-09-28T22:16:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -51372,7 +51378,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postSTU2BallotChanges/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postSTU2BallotChanges",
-        "lastSeen": "2026-09-25T18:47:26.000Z"
+        "lastSeen": "2026-09-28T22:11:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/LRN-Updates/package.tgz",
@@ -58290,7 +58296,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "master",
-        "lastSeen": "2026-09-03T03:59:12.000Z"
+        "lastSeen": "2026-09-28T22:30:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/vadi2/package.tgz",
@@ -59586,7 +59592,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/FHIR-43081/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "FHIR-43081",
-        "lastSeen": "2026-06-11T18:49:01.000Z"
+        "lastSeen": "2026-09-28T22:15:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/dbarwin-oo-jun15/package.tgz",
@@ -59641,6 +59647,12 @@
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "FHIR-50924",
         "lastSeen": "2026-09-22T13:54:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/dbarwin-oo-sept28/package.tgz",
+        "repo": "https://github.com/HL7/fhir-extensions",
+        "branch": "dbarwin-oo-sept28",
+        "lastSeen": "2026-09-28T23:21:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/master/package.tgz"
@@ -64158,7 +64170,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-09-28T14:25:42.000Z"
+        "lastSeen": "2026-09-28T23:14:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -83400,7 +83412,7 @@
         "url": "https://build.fhir.org/ig/Lorex/TWLongTermCare_IG_Build/branches/main/package.tgz",
         "repo": "https://github.com/Lorex/TWLongTermCare_IG_Build",
         "branch": "main",
-        "lastSeen": "2026-07-29T07:47:19.000Z"
+        "lastSeen": "2026-09-28T21:01:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Lorex/TWLongTermCare_IG_Build/branches/1.0.0/package.tgz",
@@ -83418,7 +83430,7 @@
         "url": "https://build.fhir.org/ig/Lorex/TWLongTermCare_IG_Build/branches/dev/package.tgz",
         "repo": "https://github.com/Lorex/TWLongTermCare_IG_Build",
         "branch": "dev",
-        "lastSeen": "2026-09-19T12:55:11.000Z"
+        "lastSeen": "2026-09-28T20:59:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Lorex/TWLongTermCare_IG_Build/branches/main/package.tgz"
