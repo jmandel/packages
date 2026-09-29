@@ -9876,7 +9876,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-09-29T14:02:44.000Z"
+        "lastSeen": "2026-09-29T22:09:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -23850,13 +23850,19 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-09-23T16:00:56.000Z"
+        "lastSeen": "2026-09-29T20:57:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "2026-09-gg-html-fixes",
         "lastSeen": "2026-09-15T20:48:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-accessibility/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-base2",
+        "branch": "2026-09-gg-accessibility",
+        "lastSeen": "2026-09-29T20:55:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz"
@@ -38646,7 +38652,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "master",
-        "lastSeen": "2026-09-28T22:00:39.000Z"
+        "lastSeen": "2026-09-29T21:43:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/FixyProEmaples/package.tgz",
@@ -58140,7 +58146,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ebm-incubator",
         "branch": "main",
-        "lastSeen": "2026-09-29T19:29:31.000Z"
+        "lastSeen": "2026-09-29T19:32:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ebm-incubator/branches/main/package.tgz"
@@ -76134,7 +76140,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/medtechlabel-wp2-im/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/medtechlabel-wp2-im",
         "branch": "master",
-        "lastSeen": "2026-09-29T18:32:07.000Z"
+        "lastSeen": "2026-09-29T20:54:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/medtechlabel-wp2-im/branches/master/package.tgz"
