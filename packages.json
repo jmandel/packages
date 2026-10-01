@@ -480,7 +480,7 @@
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/main/package.tgz",
         "repo": "https://github.com/SHIFT-Task-Force/SLS-ValueSets",
         "branch": "main",
-        "lastSeen": "2026-09-29T14:23:46.000Z"
+        "lastSeen": "2026-10-01T17:56:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/SHIFT-Task-Force/SLS-ValueSets/branches/Shift-Hannah-ValueSets/package.tgz",
@@ -9894,7 +9894,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-09-30T14:58:48.000Z"
+        "lastSeen": "2026-10-01T18:49:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -34560,7 +34560,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/episode-of-care/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "episode-of-care",
-        "lastSeen": "2026-10-01T12:54:18.000Z"
+        "lastSeen": "2026-10-01T17:03:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/v1.3.0/package.tgz",
@@ -38622,7 +38622,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "master",
-        "lastSeen": "2026-09-29T18:46:51.000Z"
+        "lastSeen": "2026-10-01T17:13:54.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
@@ -38658,7 +38658,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-09-29T16:35:51.000Z"
+        "lastSeen": "2026-10-01T18:19:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -44226,7 +44226,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/0.9.0-ballot/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "0.9.0-ballot",
-        "lastSeen": "2026-07-03T12:16:24.000Z"
+        "lastSeen": "2026-10-01T15:27:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/pseudonymisation-function/package.tgz",
@@ -55950,7 +55950,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "main",
-        "lastSeen": "2026-09-23T13:03:34.000Z"
+        "lastSeen": "2026-10-01T18:53:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/dependency-updates/package.tgz",
@@ -58248,7 +58248,7 @@
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ebm",
         "branch": "master",
-        "lastSeen": "2026-10-01T13:40:03.000Z"
+        "lastSeen": "2026-10-01T19:43:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ebm/branches/last-known-working-state/package.tgz",
@@ -64554,7 +64554,7 @@
         "url": "https://build.fhir.org/ig/HL7/txmodule-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/txmodule-incubator",
         "branch": "main",
-        "lastSeen": "2026-05-18T13:30:56.000Z"
+        "lastSeen": "2026-10-01T20:03:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/txmodule-incubator/branches/main/package.tgz"
@@ -76272,7 +76272,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/medtechlabel-wp2-im/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/medtechlabel-wp2-im",
         "branch": "master",
-        "lastSeen": "2026-09-30T17:01:58.000Z"
+        "lastSeen": "2026-10-01T19:28:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/medtechlabel-wp2-im/branches/master/package.tgz"
@@ -77503,6 +77503,12 @@
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
         "lastSeen": "2026-10-01T15:14:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/1.0.0/package.tgz",
+        "repo": "https://github.com/minvws/generiekefuncties-docs",
+        "branch": "1.0.0",
+        "lastSeen": "2026-10-01T20:04:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz"
