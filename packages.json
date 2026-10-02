@@ -10968,7 +10968,7 @@
         "url": "https://build.fhir.org/ig/dbojicic/test-repo/branches/main/package.tgz",
         "repo": "https://github.com/dbojicic/test-repo",
         "branch": "main",
-        "lastSeen": "2026-09-28T22:48:18.000Z"
+        "lastSeen": "2026-10-02T03:29:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/dbojicic/test-repo/branches/main/package.tgz"
@@ -11016,7 +11016,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-09-30T18:09:18.000Z"
+        "lastSeen": "2026-10-02T05:49:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -11736,7 +11736,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/add-migration-definition/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "add-migration-definition",
-        "lastSeen": "2026-10-01T11:04:25.000Z"
+        "lastSeen": "2026-10-02T05:45:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -34860,7 +34860,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/glucose-monitoring",
         "branch": "release-candidate",
-        "lastSeen": "2026-10-01T07:54:39.000Z"
+        "lastSeen": "2026-10-02T05:57:05.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/issue-6/package.tgz",
@@ -62701,6 +62701,12 @@
         "repo": "https://github.com/HL7/personal-health-record-format-ig",
         "branch": "development",
         "lastSeen": "2026-09-10T21:47:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/post-wgm-sprint/package.tgz",
+        "repo": "https://github.com/HL7/personal-health-record-format-ig",
+        "branch": "post-wgm-sprint",
+        "lastSeen": "2026-10-02T02:12:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/personal-health-record-format-ig/branches/master/package.tgz"
@@ -64350,7 +64356,7 @@
         "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/fhir-tools-ig",
         "branch": "master",
-        "lastSeen": "2026-09-16T18:27:15.000Z"
+        "lastSeen": "2026-10-02T01:17:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/main/package.tgz",
@@ -70963,6 +70969,12 @@
         "repo": "https://github.com/IHE/RAD.IDR",
         "branch": "TIDocMigration",
         "lastSeen": "2026-07-10T21:05:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/IHE/RAD.IDR/branches/PhaseIIUpdates/package.tgz",
+        "repo": "https://github.com/IHE/RAD.IDR",
+        "branch": "PhaseIIUpdates",
+        "lastSeen": "2026-10-02T02:18:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/RAD.IDR/branches/master/package.tgz"
