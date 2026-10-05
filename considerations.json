@@ -706,9 +706,9 @@
   {
     "name": "medcom.fhir.dk.carecommunication",
     "current": {
-      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/v.5.0.17-githubpages/package.tgz",
+      "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/branches/githubpagesmaster/package.tgz",
       "repo": "https://github.com/medcomdk/dk-medcom-carecommunication",
-      "branch": "v.5.0.17-githubpages"
+      "branch": "githubpagesmaster"
     }
   },
   {
@@ -770,9 +770,9 @@
   {
     "name": "nictiz.nl.gbb",
     "current": {
-      "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Procedure/package.tgz",
+      "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_DeviceUse/package.tgz",
       "repo": "https://github.com/Nictiz/GBB-IG",
-      "branch": "_generated_Procedure"
+      "branch": "_generated_DeviceUse"
     }
   },
   {
@@ -818,8 +818,8 @@
   {
     "name": "smart.who.int.immunizations",
     "current": {
-      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-immunizations/branches/main/package.tgz",
-      "repo": "https://github.com/WorldHealthOrganization/smart-immunizations",
+      "url": "https://build.fhir.org/ig/litlfred/smart-immunizations/branches/main/package.tgz",
+      "repo": "https://github.com/litlfred/smart-immunizations",
       "branch": "main"
     }
   },
