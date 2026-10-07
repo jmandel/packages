@@ -2928,6 +2928,14 @@
     }
   },
   {
+    "name": "hl7.at.fhir.ig-bricks",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7Austria/ig-bricks/branches/re-slice-vbpk-identifier/package.tgz",
+      "repo": "https://github.com/HL7Austria/ig-bricks",
+      "branch": "re-slice-vbpk-identifier"
+    }
+  },
+  {
     "name": "hl7.at.fhir.ig.template",
     "current": {
       "url": "https://build.fhir.org/ig/HL7Austria/hl7.at.fhir.ig.template/branches/main/package.tgz",
