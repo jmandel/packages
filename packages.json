@@ -3216,7 +3216,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "master",
-        "lastSeen": "2026-10-12T18:56:48.000Z"
+        "lastSeen": "2026-10-14T14:56:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/oe_lang_206/package.tgz",
@@ -6043,6 +6043,24 @@
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "issue-492-mhd-search-profiling",
         "lastSeen": "2026-09-30T18:21:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-510-atc-entity-min/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-510-atc-entity-min",
+        "lastSeen": "2026-10-14T16:10:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-511-tracecontext-heading/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-511-tracecontext-heading",
+        "lastSeen": "2026-10-14T16:11:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/issue-508-documentauditevent-value-x/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
+        "branch": "issue-508-documentauditevent-value-x",
+        "lastSeen": "2026-10-14T15:35:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -6630,7 +6648,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/master/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "master",
-        "lastSeen": "2026-10-12T12:29:01.000Z"
+        "lastSeen": "2026-10-14T14:25:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/cc-flow-4-ps/package.tgz",
@@ -6684,7 +6702,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/ppqm_egd_consent/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "ppqm_egd_consent",
-        "lastSeen": "2026-10-13T13:51:37.000Z"
+        "lastSeen": "2026-10-14T14:30:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/client_registration_editorial/package.tgz",
@@ -23419,6 +23437,24 @@
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "docs-0.2.1-guidance-rendering",
         "lastSeen": "2026-10-14T12:55:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/fix-0.2.1-identifier-slicing-genonce/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/ph-core",
+        "branch": "fix-0.2.1-identifier-slicing-genonce",
+        "lastSeen": "2026-10-14T18:12:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/chore-0.2.1-fmm-0-artifacts/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/ph-core",
+        "branch": "chore-0.2.1-fmm-0-artifacts",
+        "lastSeen": "2026-10-14T18:26:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/fix-0.2.1-procedure-identifiers-claim-scope/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/ph-core",
+        "branch": "fix-0.2.1-procedure-identifiers-claim-scope",
+        "lastSeen": "2026-10-14T16:44:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -35538,7 +35574,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/glucose-monitoring",
         "branch": "release-candidate",
-        "lastSeen": "2026-10-13T07:10:55.000Z"
+        "lastSeen": "2026-10-14T14:35:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/glucose-monitoring/branches/issue-6/package.tgz",
@@ -38502,7 +38538,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/NID/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/NID",
         "branch": "master",
-        "lastSeen": "2026-09-04T19:22:36.000Z"
+        "lastSeen": "2026-10-14T15:47:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/NID/branches/master/package.tgz"
@@ -40782,7 +40818,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-10-05T16:36:25.000Z"
+        "lastSeen": "2026-10-14T16:36:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -45282,7 +45318,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-10-14T10:59:25.000Z"
+        "lastSeen": "2026-10-14T18:33:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -49800,7 +49836,7 @@
         "url": "https://build.fhir.org/ig/argonautproject/USCDIV7/branches/main/package.tgz",
         "repo": "https://github.com/argonautproject/USCDIV7",
         "branch": "main",
-        "lastSeen": "2026-10-12T21:18:52.000Z"
+        "lastSeen": "2026-10-14T16:57:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/USCDIV7/branches/main/package.tgz"
@@ -57253,6 +57289,12 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "formatting-only",
         "lastSeen": "2026-06-24T14:10:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/cds-jiras-28456-54645-54883/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "cds-jiras-28456-54645-54883",
+        "lastSeen": "2026-10-14T13:56:55.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -68580,7 +68622,7 @@
         "url": "https://build.fhir.org/ig/HL7/piqi/branches/Modeling/package.tgz",
         "repo": "https://github.com/HL7/piqi",
         "branch": "Modeling",
-        "lastSeen": "2026-10-14T13:37:49.000Z"
+        "lastSeen": "2026-10-14T14:21:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/piqi/branches/main/package.tgz"
@@ -73386,7 +73428,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "main",
-        "lastSeen": "2026-08-18T15:44:00.000Z"
+        "lastSeen": "2026-10-14T16:13:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/R6/package.tgz",
@@ -73626,7 +73668,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBundle/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBundle",
         "branch": "main",
-        "lastSeen": "2026-03-18T14:45:23.000Z"
+        "lastSeen": "2026-10-14T16:21:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBundle/branches/main/package.tgz"
