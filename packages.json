@@ -3912,7 +3912,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/448-immrecomm-indication-code-extension-sliced-not-on-the-right-level/package.tgz",
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "448-immrecomm-indication-code-extension-sliced-not-on-the-right-level",
-        "lastSeen": "2026-10-12T13:32:33.000Z"
+        "lastSeen": "2026-10-14T04:19:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/449-ch-core-immunization-bindings-documentation/package.tgz",
@@ -3937,6 +3937,12 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue447_composition_epr_remove_deprecated_slices",
         "lastSeen": "2026-10-13T20:27:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue475_sushi_config_cleanup/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue475_sushi_config_cleanup",
+        "lastSeen": "2026-10-14T06:57:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -9624,7 +9630,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/402-links-in-the-conceptmaps-diagram-do-not-work/package.tgz",
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "402-links-in-the-conceptmaps-diagram-do-not-work",
-        "lastSeen": "2026-10-08T12:12:12.000Z"
+        "lastSeen": "2026-10-14T05:15:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/445-fix-build-profile-errors/package.tgz",
@@ -9733,6 +9739,18 @@
         "repo": "https://github.com/hl7ch/ch-vacd",
         "branch": "426-ch-vacd-travel-information-onsetperiod",
         "lastSeen": "2026-10-12T08:45:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/407-expand-acronym-meaning-in-the-diagram-of-use-case-3-14/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "407-expand-acronym-meaning-in-the-diagram-of-use-case-3-14",
+        "lastSeen": "2026-10-14T04:48:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/466-update-sushi-config-project-info/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-vacd",
+        "branch": "466-update-sushi-config-project-info",
+        "lastSeen": "2026-10-14T06:24:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-vacd/branches/master/package.tgz"
@@ -25656,7 +25674,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Diagnose-R4",
         "branch": "main",
-        "lastSeen": "2026-10-13T07:14:58.000Z"
+        "lastSeen": "2026-10-14T06:31:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Diagnose-R4/branches/17-restrict-references-to-patient-practitioner-organization-to-referenceidentifier-and-require-referencetype/package.tgz",
@@ -45156,7 +45174,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-10-12T07:58:49.000Z"
+        "lastSeen": "2026-10-14T06:39:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -84575,6 +84593,18 @@
     ],
     "current": "https://build.fhir.org/ig/THASFHIR/ig/branches/main/package.tgz"
   },
+  "tw.gov.mohw.cdc.twlars": {
+    "name": "tw.gov.mohw.cdc.twlars",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz",
+        "repo": "https://github.com/omnifhir/lars",
+        "branch": "main",
+        "lastSeen": "2026-10-14T06:44:24.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz"
+  },
   "tw.gov.mohw.cdc.twniis": {
     "name": "tw.gov.mohw.cdc.twniis",
     "locations": [
@@ -84606,7 +84636,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/base",
         "branch": "main",
-        "lastSeen": "2026-08-27T08:15:51.000Z"
+        "lastSeen": "2026-10-14T06:35:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/base/branches/main/package.tgz"
@@ -84618,7 +84648,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ci",
         "branch": "main",
-        "lastSeen": "2026-06-23T07:27:58.000Z"
+        "lastSeen": "2026-10-14T06:33:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ci/branches/1.0.0/package.tgz",
@@ -84642,7 +84672,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/cql",
         "branch": "main",
-        "lastSeen": "2026-10-08T02:50:43.000Z"
+        "lastSeen": "2026-10-14T06:27:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/0.0.1/package.tgz",
@@ -84672,7 +84702,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ngs/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/ngs",
         "branch": "main",
-        "lastSeen": "2026-01-05T03:18:49.000Z"
+        "lastSeen": "2026-10-14T06:34:12.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/ngs/branches/1.0.0/package.tgz",
@@ -84690,7 +84720,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "main",
-        "lastSeen": "2026-10-01T08:09:47.000Z"
+        "lastSeen": "2026-10-14T06:35:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/202503/package.tgz",
@@ -84840,7 +84870,7 @@
         "url": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz",
         "repo": "https://github.com/nricmig/Nricm_TWCMIG",
         "branch": "main",
-        "lastSeen": "2026-10-07T03:57:19.000Z"
+        "lastSeen": "2026-10-14T06:09:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz"
