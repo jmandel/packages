@@ -11466,7 +11466,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-10-15T20:17:29.000Z"
+        "lastSeen": "2026-10-15T22:13:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -12246,7 +12246,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/beispiel-dezimalgenauigkeit/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "beispiel-dezimalgenauigkeit",
-        "lastSeen": "2026-10-15T13:26:25.000Z"
+        "lastSeen": "2026-10-15T21:54:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/viererschema-freitext-beschreibung/package.tgz",
@@ -12265,6 +12265,42 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "hotfix-beispielnamen-kuerzen",
         "lastSeen": "2026-10-15T19:25:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/ueberschriften-eine-ebene-tiefer/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "ueberschriften-eine-ebene-tiefer",
+        "lastSeen": "2026-10-15T22:07:34.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/hotfix-isolation-rc1/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "hotfix-isolation-rc1",
+        "lastSeen": "2026-10-15T21:53:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/invariantentests-ergaenzen/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "invariantentests-ergaenzen",
+        "lastSeen": "2026-10-15T22:16:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/comparator-begruendung/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "comparator-begruendung",
+        "lastSeen": "2026-10-15T21:28:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/invarianten-korrekturen/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "invarianten-korrekturen",
+        "lastSeen": "2026-10-15T22:41:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/lock-2.0.0-rc.1/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "lock-2.0.0-rc.1",
+        "lastSeen": "2026-10-15T21:43:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -22704,7 +22740,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "master",
-        "lastSeen": "2026-08-17T10:08:27.000Z"
+        "lastSeen": "2026-10-15T22:28:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/v3.0.0-release-source/package.tgz",
@@ -22800,7 +22836,7 @@
         "url": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/multi-lingual-template-test/package.tgz",
         "repo": "https://github.com/HL7NZ/nzbase",
         "branch": "multi-lingual-template-test",
-        "lastSeen": "2026-10-08T23:03:42.000Z"
+        "lastSeen": "2026-10-15T22:27:03.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7NZ/nzbase/branches/master/package.tgz"
@@ -51859,6 +51895,12 @@
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "FHIR-58143-RemoveSubscription",
         "lastSeen": "2026-09-11T15:01:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/fml-fixing/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "fml-fixing",
+        "lastSeen": "2026-10-15T20:49:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
@@ -63270,7 +63312,7 @@
         "url": "https://build.fhir.org/ig/HL7/mapping-language-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/mapping-language-ig",
         "branch": "main",
-        "lastSeen": "2026-10-15T03:25:18.000Z"
+        "lastSeen": "2026-10-15T22:52:06.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/mapping-language-ig/branches/main/package.tgz"
@@ -63420,7 +63462,7 @@
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "main",
-        "lastSeen": "2026-10-09T19:11:48.000Z"
+        "lastSeen": "2026-10-15T22:27:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-cleanup-apr7/package.tgz",
@@ -63474,7 +63516,7 @@
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-qa-oct6/package.tgz",
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "dbarwin-qa-oct6",
-        "lastSeen": "2026-10-09T19:26:46.000Z"
+        "lastSeen": "2026-10-15T22:27:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz"
@@ -74004,7 +74046,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testMermaid/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testMermaid",
         "branch": "main",
-        "lastSeen": "2026-09-08T21:44:34.000Z"
+        "lastSeen": "2026-10-15T21:20:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testMermaid/branches/main/package.tgz"
