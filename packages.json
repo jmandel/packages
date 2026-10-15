@@ -11466,7 +11466,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-10-15T13:39:52.000Z"
+        "lastSeen": "2026-10-15T20:17:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -12253,6 +12253,18 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "viererschema-freitext-beschreibung",
         "lastSeen": "2026-10-15T14:46:53.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/review-befunde-ig/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "review-befunde-ig",
+        "lastSeen": "2026-10-15T20:19:54.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/hotfix-beispielnamen-kuerzen/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "hotfix-beispielnamen-kuerzen",
+        "lastSeen": "2026-10-15T19:25:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -35455,6 +35467,12 @@
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "rc-bodysite-fixes",
         "lastSeen": "2026-10-15T15:01:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/rc-problem-bodysite/package.tgz",
+        "repo": "https://github.com/hl7-be/core-clinical",
+        "branch": "rc-problem-bodysite",
+        "lastSeen": "2026-10-15T17:08:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/master/package.tgz"
@@ -38596,6 +38614,24 @@
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-BiomedicaUv/SDOH-CL/branches/main/package.tgz"
+  },
+  "hl7.fhir.cl.mhdig": {
+    "name": "hl7.fhir.cl.mhdig",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/master/package.tgz",
+        "repo": "https://github.com/HL7Chile/MHD-CL",
+        "branch": "master",
+        "lastSeen": "2026-10-15T18:36:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/main/package.tgz",
+        "repo": "https://github.com/HL7Chile/MHD-CL",
+        "branch": "main",
+        "lastSeen": "2026-10-15T18:35:17.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/master/package.tgz"
   },
   "hl7.fhir.cl.minsal.eis": {
     "name": "hl7.fhir.cl.minsal.eis",
@@ -49680,7 +49716,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2026-10-15T02:37:35.000Z"
+        "lastSeen": "2026-10-15T18:13:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -51582,7 +51618,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-10-14T22:12:37.000Z"
+        "lastSeen": "2026-10-15T20:06:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -52098,7 +52134,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "master",
-        "lastSeen": "2026-10-02T17:12:50.000Z"
+        "lastSeen": "2026-10-15T19:33:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/pacio-adi/branches/master/package.tgz",
@@ -52668,7 +52704,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/mlt-postSTU2BallotChanges/package.tgz",
         "repo": "https://github.com/HL7/fhir-pacio-adi",
         "branch": "mlt-postSTU2BallotChanges",
-        "lastSeen": "2026-10-02T17:11:57.000Z"
+        "lastSeen": "2026-10-15T19:31:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-pacio-adi/branches/LRN-Updates/package.tgz",
@@ -62443,6 +62479,12 @@
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "variant-annotation-proposal",
         "lastSeen": "2026-02-20T21:27:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/operations/package.tgz",
+        "repo": "https://github.com/HL7/genomics-reporting",
+        "branch": "operations",
+        "lastSeen": "2026-10-15T20:08:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -73878,7 +73920,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBundle/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBundle",
         "branch": "main",
-        "lastSeen": "2026-10-14T16:21:00.000Z"
+        "lastSeen": "2026-10-15T17:39:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBundle/branches/main/package.tgz"
@@ -78474,7 +78516,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/nictiz-49370/package.tgz",
         "repo": "https://github.com/Nictiz/AZ-IG",
         "branch": "nictiz-49370",
-        "lastSeen": "2026-10-15T13:40:27.000Z"
+        "lastSeen": "2026-10-15T20:22:50.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/GitHubissue22-transport-conformance/package.tgz",
