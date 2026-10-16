@@ -10350,7 +10350,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-10-13T18:48:12.000Z"
+        "lastSeen": "2026-10-16T18:20:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -25489,6 +25489,12 @@
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "167-check-profiles-if-they-match-slicing-guidance",
         "lastSeen": "2026-10-16T06:56:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/148-apply-template-for-base-igs/package.tgz",
+        "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
+        "branch": "148-apply-template-for-base-igs",
+        "lastSeen": "2026-10-16T17:38:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -25698,7 +25704,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/70-Apply-Template-for-Base-IGs/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R5",
         "branch": "70-Apply-Template-for-Base-IGs",
-        "lastSeen": "2026-10-16T16:16:11.000Z"
+        "lastSeen": "2026-10-16T17:25:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R5/branches/72-replace-austrian-extension-for-religion-with-the-international-one/package.tgz",
@@ -38736,7 +38742,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/main/package.tgz",
         "repo": "https://github.com/HL7Chile/MHD-CL",
         "branch": "main",
-        "lastSeen": "2026-10-15T18:35:17.000Z"
+        "lastSeen": "2026-10-16T19:45:02.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/master/package.tgz"
@@ -54834,7 +54840,7 @@
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/master/package.tgz",
         "repo": "https://github.com/HL7/vr-common-library",
         "branch": "master",
-        "lastSeen": "2026-10-06T19:13:37.000Z"
+        "lastSeen": "2026-10-16T18:03:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/vr-common-library/branches/1.1.0/package.tgz",
@@ -65856,7 +65862,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-10-15T23:57:44.000Z"
+        "lastSeen": "2026-10-16T17:58:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -85428,7 +85434,7 @@
         "url": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz",
         "repo": "https://github.com/nricmig/Nricm_TWCMIG",
         "branch": "main",
-        "lastSeen": "2026-10-14T08:47:43.000Z"
+        "lastSeen": "2026-10-16T18:25:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz"
@@ -89089,6 +89095,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "costateixeira-ml-updates",
         "lastSeen": "2026-05-02T19:46:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/base2-migration/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
+        "branch": "base2-migration",
+        "lastSeen": "2026-10-16T18:52:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
