@@ -2977,6 +2977,48 @@
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "ballot-1.0.0-resolution-desk",
         "lastSeen": "2026-10-05T20:11:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-7-parameterv40-cardinality/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-7-parameterv40-cardinality",
+        "lastSeen": "2026-10-16T20:27:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-10-paramtyp-displays/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-10-paramtyp-displays",
+        "lastSeen": "2026-10-16T20:27:04.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-9-identifiers-in-references/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-9-identifiers-in-references",
+        "lastSeen": "2026-10-16T20:31:03.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-8-laterality-binding/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-8-laterality-binding",
+        "lastSeen": "2026-10-16T20:29:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-11-conceptmap-todo-type/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-11-conceptmap-todo-type",
+        "lastSeen": "2026-10-16T20:29:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-6-sectioncode-binding-extensible/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-6-sectioncode-binding-extensible",
+        "lastSeen": "2026-10-16T20:26:01.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-5-outpatient-encounter/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-5-outpatient-encounter",
+        "lastSeen": "2026-10-16T20:23:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz"
@@ -24708,7 +24750,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-10-14T23:16:09.000Z"
+        "lastSeen": "2026-10-16T21:26:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
