@@ -18186,7 +18186,7 @@
         "url": "https://build.fhir.org/ig/FHIR/sample-ig/branches/master/package.tgz",
         "repo": "https://github.com/FHIR/sample-ig",
         "branch": "master",
-        "lastSeen": "2026-06-16T03:28:33.000Z"
+        "lastSeen": "2026-10-17T21:08:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/trifork/medcom-ig-sample/branches/master/package.tgz",
@@ -24804,7 +24804,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-10-16T21:26:36.000Z"
+        "lastSeen": "2026-10-17T21:29:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
@@ -26244,7 +26244,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "main",
-        "lastSeen": "2026-10-17T00:01:40.000Z"
+        "lastSeen": "2026-10-17T19:55:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/Dosierungen/package.tgz",
@@ -58122,7 +58122,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2026-10-07T05:09:41.000Z"
+        "lastSeen": "2026-10-17T19:37:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -58476,7 +58476,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/FHIR-55980/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "FHIR-55980",
-        "lastSeen": "2026-04-07T19:10:27.000Z"
+        "lastSeen": "2026-10-17T21:26:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/FHIR-50293/package.tgz",
@@ -58549,6 +58549,18 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "ig-oid-root",
         "lastSeen": "2026-10-07T22:06:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-55905-status-change-task/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "fhir-55905-status-change-task",
+        "lastSeen": "2026-10-17T20:50:52.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-59674-heading-levels/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "fhir-59674-heading-levels",
+        "lastSeen": "2026-10-17T20:07:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -72798,7 +72810,7 @@
         "url": "https://build.fhir.org/ig/IHE/RO.SMRT/branches/master/package.tgz",
         "repo": "https://github.com/IHE/RO.SMRT",
         "branch": "master",
-        "lastSeen": "2026-09-10T14:01:57.000Z"
+        "lastSeen": "2026-10-17T20:05:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/RO.SMRT/branches/master/package.tgz"
