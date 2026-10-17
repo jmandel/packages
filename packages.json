@@ -26190,7 +26190,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "main",
-        "lastSeen": "2026-10-16T11:02:13.000Z"
+        "lastSeen": "2026-10-17T00:01:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/Dosierungen/package.tgz",
@@ -26322,7 +26322,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/design_choices_1/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "design_choices_1",
-        "lastSeen": "2026-10-16T13:17:57.000Z"
+        "lastSeen": "2026-10-16T23:51:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/BO_rework_use_case_2/package.tgz"
@@ -48102,7 +48102,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-10-16T07:49:34.000Z"
+        "lastSeen": "2026-10-16T22:56:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -63643,6 +63643,12 @@
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "dbarwin-qa-oct6",
         "lastSeen": "2026-10-15T23:55:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-oct16-snapshot/package.tgz",
+        "repo": "https://github.com/HL7/oo-incubator",
+        "branch": "dbarwin-oct16-snapshot",
+        "lastSeen": "2026-10-16T23:37:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz"
