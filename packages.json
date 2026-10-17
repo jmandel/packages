@@ -2958,7 +2958,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "main",
-        "lastSeen": "2026-10-05T20:20:28.000Z"
+        "lastSeen": "2026-10-17T07:52:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/prepare-ballot-1.0.0/package.tgz",
@@ -2982,7 +2982,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-7-parameterv40-cardinality/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "ballot-7-parameterv40-cardinality",
-        "lastSeen": "2026-10-16T20:27:05.000Z"
+        "lastSeen": "2026-10-17T06:17:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-10-paramtyp-displays/package.tgz",
@@ -2994,19 +2994,19 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-9-identifiers-in-references/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "ballot-9-identifiers-in-references",
-        "lastSeen": "2026-10-16T20:31:03.000Z"
+        "lastSeen": "2026-10-17T06:46:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-8-laterality-binding/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "ballot-8-laterality-binding",
-        "lastSeen": "2026-10-16T20:29:59.000Z"
+        "lastSeen": "2026-10-17T06:25:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-11-conceptmap-todo-type/package.tgz",
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "ballot-11-conceptmap-todo-type",
-        "lastSeen": "2026-10-16T20:29:40.000Z"
+        "lastSeen": "2026-10-17T07:50:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-6-sectioncode-binding-extensible/package.tgz",
@@ -3019,6 +3019,12 @@
         "repo": "https://github.com/hl7ch/ch-alis-connect",
         "branch": "ballot-5-outpatient-encounter",
         "lastSeen": "2026-10-16T20:23:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/ballot-1.0.0-changelog-sushi-config/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-alis-connect",
+        "branch": "ballot-1.0.0-changelog-sushi-config",
+        "lastSeen": "2026-10-17T08:56:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-alis-connect/branches/main/package.tgz"
@@ -6774,7 +6780,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/issue28_iti71_representative_admin_id/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "issue28_iti71_representative_admin_id",
-        "lastSeen": "2026-10-16T07:53:57.000Z"
+        "lastSeen": "2026-10-17T07:40:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/issue38_atc_patient_audit_record_service/package.tgz",
@@ -7009,6 +7015,12 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "oe_conceptmap_choice_type_link",
         "lastSeen": "2026-10-12T18:07:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_conceptmap_mappings_tab/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "oe_conceptmap_mappings_tab",
+        "lastSeen": "2026-10-17T07:09:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -22452,7 +22464,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-10-16T14:56:03.000Z"
+        "lastSeen": "2026-10-17T10:31:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -22471,6 +22483,12 @@
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "dwgs-local-extension-fields",
         "lastSeen": "2026-10-16T14:38:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/eu-lab-2.1.0-deps/package.tgz",
+        "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
+        "branch": "eu-lab-2.1.0-deps",
+        "lastSeen": "2026-10-17T07:37:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
@@ -39864,7 +39882,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/k-order",
         "branch": "master",
-        "lastSeen": "2026-10-17T05:30:02.000Z"
+        "lastSeen": "2026-10-17T06:33:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/k-order/branches/FixyProEmaples/package.tgz",
@@ -41652,7 +41670,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/1.0.0/package.tgz",
         "repo": "https://github.com/hl7-eu/hdr",
         "branch": "1.0.0",
-        "lastSeen": "2026-10-08T07:42:14.000Z"
+        "lastSeen": "2026-10-17T06:35:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/hdr/branches/publisher-3.0.0-qa/package.tgz",
@@ -42216,7 +42234,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/1.0.0-ballot/package.tgz",
         "repo": "https://github.com/hl7-eu/imaging-manifest",
         "branch": "1.0.0-ballot",
-        "lastSeen": "2026-10-07T12:40:21.000Z"
+        "lastSeen": "2026-10-17T06:49:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/imaging-manifest/branches/ihe-trial-prep/package.tgz"
@@ -43266,7 +43284,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/2.1.0/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "2.1.0",
-        "lastSeen": "2026-10-09T10:41:09.000Z"
+        "lastSeen": "2026-10-17T06:44:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/release-2.1.0-published-dependencies/package.tgz",
@@ -48102,7 +48120,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-10-17T01:06:28.000Z"
+        "lastSeen": "2026-10-17T07:34:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
