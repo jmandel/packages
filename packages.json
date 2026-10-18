@@ -23754,7 +23754,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/feat-0.2.1-prc-licensing-terminology/package.tgz",
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "feat-0.2.1-prc-licensing-terminology",
-        "lastSeen": "2026-10-17T16:45:54.000Z"
+        "lastSeen": "2026-10-18T14:23:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -25596,7 +25596,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/151-gda-triple/package.tgz",
         "repo": "https://github.com/HL7Austria/HL7-AT-FHIR-Core-R4",
         "branch": "151-gda-triple",
-        "lastSeen": "2026-10-18T08:58:55.000Z"
+        "lastSeen": "2026-10-18T14:13:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/branches/main/package.tgz"
@@ -44628,7 +44628,7 @@
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz",
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "main",
-        "lastSeen": "2026-10-12T16:06:42.000Z"
+        "lastSeen": "2026-10-18T12:20:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/nr-create-FrPractitionerRole/package.tgz",
@@ -45133,6 +45133,12 @@
         "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
         "branch": "nr-prepare-release-3.0.0-ballot",
         "lastSeen": "2026-10-12T08:16:12.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/fix-clean-gh-pages-nested-branches/package.tgz",
+        "repo": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+        "branch": "fix-clean-gh-pages-nested-branches",
+        "lastSeen": "2026-10-18T12:19:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Interop-Sante/hl7.fhir.fr.core/branches/main/package.tgz"
@@ -66186,7 +66192,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2026-10-gg-icd-11-sydney/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "2026-10-gg-icd-11-sydney",
-        "lastSeen": "2026-10-18T10:46:41.000Z"
+        "lastSeen": "2026-10-18T14:34:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz"
