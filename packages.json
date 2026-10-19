@@ -23761,6 +23761,12 @@
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "feat-0.2.1-patient-sex-gender-example",
         "lastSeen": "2026-10-18T18:20:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/fix-0.2.1-medication-type-slicer-qa/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/ph-core",
+        "branch": "fix-0.2.1-medication-type-slicer-qa",
+        "lastSeen": "2026-10-19T01:01:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -30126,7 +30132,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-10-18T22:24:12.000Z"
+        "lastSeen": "2026-10-19T01:18:26.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -48192,7 +48198,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-10-17T07:34:48.000Z"
+        "lastSeen": "2026-10-19T01:09:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -59928,7 +59934,7 @@
         "url": "https://build.fhir.org/ig/scc88/apacepi/branches/main/package.tgz",
         "repo": "https://github.com/scc88/apacepi",
         "branch": "main",
-        "lastSeen": "2026-08-07T02:50:37.000Z"
+        "lastSeen": "2026-10-19T00:31:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/scc88/aseanepi/branches/main/package.tgz"
@@ -66048,7 +66054,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-10-18T20:22:42.000Z"
+        "lastSeen": "2026-10-19T01:12:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -66204,7 +66210,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2026-10-gg-icd-11-sydney/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "2026-10-gg-icd-11-sydney",
-        "lastSeen": "2026-10-18T20:39:06.000Z"
+        "lastSeen": "2026-10-19T00:55:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz"
@@ -84816,7 +84822,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-sdhr",
         "branch": "uat",
-        "lastSeen": "2026-09-21T23:46:29.000Z"
+        "lastSeen": "2026-10-18T23:39:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-sdhr/branches/main/package.tgz",
