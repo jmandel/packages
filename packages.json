@@ -6972,7 +6972,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/changelog_release_20261029/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "changelog_release_20261029",
-        "lastSeen": "2026-10-22T15:08:36.000Z"
+        "lastSeen": "2026-10-22T15:40:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/issue_ch_core7_mhd425/package.tgz",
@@ -10632,7 +10632,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-10-21T18:04:40.000Z"
+        "lastSeen": "2026-10-22T17:27:08.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -24049,6 +24049,12 @@
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "ci-phcore-cloud-build",
         "lastSeen": "2026-10-21T14:51:33.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/370-organization-jao-alignment/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/ph-core",
+        "branch": "370-organization-jao-alignment",
+        "lastSeen": "2026-10-22T16:21:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -26556,7 +26562,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "main",
-        "lastSeen": "2026-10-22T12:14:20.000Z"
+        "lastSeen": "2026-10-22T18:21:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/Dosierungen/package.tgz",
@@ -39090,7 +39096,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/IPS-CL",
         "branch": "master",
-        "lastSeen": "2026-10-21T19:59:06.000Z"
+        "lastSeen": "2026-10-22T15:29:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/Tesis/package.tgz",
@@ -48594,7 +48600,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-10-21T21:20:13.000Z"
+        "lastSeen": "2026-10-22T17:00:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -57774,7 +57780,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "main",
-        "lastSeen": "2026-10-19T12:39:41.000Z"
+        "lastSeen": "2026-10-22T15:56:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/dependency-updates/package.tgz",
@@ -64140,7 +64146,7 @@
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "main",
-        "lastSeen": "2026-10-20T00:06:39.000Z"
+        "lastSeen": "2026-10-22T16:15:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-cleanup-apr7/package.tgz",
@@ -74730,7 +74736,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBinary",
         "branch": "main",
-        "lastSeen": "2026-10-07T13:00:13.000Z"
+        "lastSeen": "2026-10-22T19:12:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
@@ -79890,7 +79896,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_release-1.0.0-alpha.2/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_release-1.0.0-alpha.2",
-        "lastSeen": "2026-10-19T10:52:54.000Z"
+        "lastSeen": "2026-10-22T19:09:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-51208/package.tgz",
@@ -90151,6 +90157,12 @@
         "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
         "branch": "base2-migration",
         "lastSeen": "2026-10-16T18:52:08.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template/branches/skip-post-check-when-ig-runs-own/package.tgz",
+        "repo": "https://github.com/WorldHealthOrganization/smart-ig-template",
+        "branch": "skip-post-check-when-ig-runs-own",
+        "lastSeen": "2026-10-22T16:29:49.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-ig-template-who/branches/master/package.tgz"
