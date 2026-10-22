@@ -4069,6 +4069,24 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue453_unique_binding_keys",
         "lastSeen": "2026-10-17T14:49:13.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue455_456_ech_extensions/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue455_456_ech_extensions",
+        "lastSeen": "2026-10-22T19:43:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue457_epr_consent_nested_provision/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue457_epr_consent_nested_provision",
+        "lastSeen": "2026-10-22T19:57:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue454_consent_policyrule_version/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue454_consent_policyrule_version",
+        "lastSeen": "2026-10-22T19:39:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -7207,6 +7225,18 @@
         "repo": "https://github.com/ahdis/ch-ig",
         "branch": "oe_tab_container_itemcontrol",
         "lastSeen": "2026-10-20T15:22:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_consent_r4_decision/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "oe_consent_r4_decision",
+        "lastSeen": "2026-10-22T20:30:27.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ig/branches/oe_alternate_reference/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ig",
+        "branch": "oe_alternate_reference",
+        "lastSeen": "2026-10-22T20:50:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/pjolo/ch-emc/branches/master/package.tgz"
@@ -10632,7 +10662,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-10-22T17:27:08.000Z"
+        "lastSeen": "2026-10-22T19:20:37.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -39096,7 +39126,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/IPS-CL",
         "branch": "master",
-        "lastSeen": "2026-10-22T15:29:58.000Z"
+        "lastSeen": "2026-10-22T19:55:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/IPS-CL/branches/Tesis/package.tgz",
@@ -39234,7 +39264,7 @@
         "url": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/master/package.tgz",
         "repo": "https://github.com/HL7Chile/MHD-CL",
         "branch": "master",
-        "lastSeen": "2026-10-15T18:36:32.000Z"
+        "lastSeen": "2026-10-22T19:59:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Chile/MHD-CL/branches/main/package.tgz",
@@ -64170,7 +64200,7 @@
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-oo-0603/package.tgz",
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "dbarwin-oo-0603",
-        "lastSeen": "2026-06-12T17:05:36.000Z"
+        "lastSeen": "2026-10-22T19:40:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/dbarwin-protection-test/package.tgz",
@@ -64213,6 +64243,12 @@
         "repo": "https://github.com/HL7/oo-incubator",
         "branch": "dbarwin-oct21-fmgfeedback",
         "lastSeen": "2026-10-21T21:52:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/oo-incubator/branches/labprofiles/package.tgz",
+        "repo": "https://github.com/HL7/oo-incubator",
+        "branch": "labprofiles",
+        "lastSeen": "2026-10-22T19:36:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/oo-incubator/branches/main/package.tgz"
@@ -79896,7 +79932,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_release-1.0.0-alpha.2/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_release-1.0.0-alpha.2",
-        "lastSeen": "2026-10-22T19:09:52.000Z"
+        "lastSeen": "2026-10-22T19:45:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-51208/package.tgz",
@@ -79956,13 +79992,13 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_MPI-9-Translation-name-address/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_MPI-9-Translation-name-address",
-        "lastSeen": "2026-10-22T14:01:57.000Z"
+        "lastSeen": "2026-10-22T19:52:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_GBB-29/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_GBB-29",
-        "lastSeen": "2026-10-22T12:36:07.000Z"
+        "lastSeen": "2026-10-22T19:26:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_NICTIZ-51300/package.tgz",
