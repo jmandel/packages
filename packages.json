@@ -4099,6 +4099,18 @@
         "repo": "https://github.com/hl7ch/ch-core",
         "branch": "issue462_indicationcode_documentation",
         "lastSeen": "2026-10-24T16:01:59.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue466_general_consent_decision/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue466_general_consent_decision",
+        "lastSeen": "2026-10-25T10:01:31.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-core/branches/issue465_claim_ship_relation/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-core",
+        "branch": "issue465_claim_ship_relation",
+        "lastSeen": "2026-10-25T09:53:47.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-core/branches/master/package.tgz"
@@ -9469,6 +9481,12 @@
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "issue116_118_task_owner_focus",
         "lastSeen": "2026-10-21T18:56:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/issue124_authorization_details/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "issue124_authorization_details",
+        "lastSeen": "2026-10-25T13:32:39.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -16452,7 +16470,7 @@
         "url": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-ahd/branches/main/package.tgz",
         "repo": "https://github.com/TEHIK-EE/ig-ee-ahd",
         "branch": "main",
-        "lastSeen": "2026-10-12T14:25:10.000Z"
+        "lastSeen": "2026-10-25T12:13:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TEHIK-EE/ig-ee-pet/branches/main/package.tgz"
@@ -32929,6 +32947,12 @@
         "repo": "https://github.com/hl7au/au-fhir-encounter",
         "branch": "master",
         "lastSeen": "2026-10-24T10:20:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-encounter/branches/ft_bundle-draft/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-encounter",
+        "branch": "ft_bundle-draft",
+        "lastSeen": "2026-10-25T10:26:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-encounter/branches/master/package.tgz"
@@ -65196,7 +65220,7 @@
         "url": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz",
         "repo": "https://github.com/HL7/reg-workflow-pharma",
         "branch": "main",
-        "lastSeen": "2026-10-23T18:18:42.000Z"
+        "lastSeen": "2026-10-25T14:05:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz"
@@ -88860,7 +88884,7 @@
         "url": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz",
         "repo": "https://github.com/EUVABECO/VCDS",
         "branch": "main",
-        "lastSeen": "2026-10-22T06:45:21.000Z"
+        "lastSeen": "2026-10-25T10:58:07.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/EUVABECO/VCDS/branches/main/package.tgz"
