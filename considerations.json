@@ -224,14 +224,6 @@
     }
   },
   {
-    "name": "fhir.rehabig",
-    "current": {
-      "url": "https://build.fhir.org/ig/Rehabotics-Medical-Techology-Co/RTS-IG/branches/master/package.tgz",
-      "repo": "https://github.com/Rehabotics-Medical-Techology-Co/RTS-IG",
-      "branch": "master"
-    }
-  },
-  {
     "name": "hl7.at.fhir.elga.emed.r4",
     "current": {
       "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
@@ -640,14 +632,6 @@
     }
   },
   {
-    "name": "iknl.fhir.nl.r4.ncr-ehr",
-    "current": {
-      "url": "https://build.fhir.org/ig/IKNL/NkrIG/branches/add-observation-with-comparator/package.tgz",
-      "repo": "https://github.com/IKNL/NkrIG",
-      "branch": "add-observation-with-comparator"
-    }
-  },
-  {
     "name": "iknl.fhir.stu3.pzp",
     "current": {
       "url": "https://build.fhir.org/ig/IKNL/PZP-FHIR-STU3/branches/main/package.tgz",
@@ -762,17 +746,17 @@
   {
     "name": "nictiz.nl.az",
     "current": {
-      "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/readme-align-gbb/package.tgz",
+      "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/GitHubissue92_uuids/package.tgz",
       "repo": "https://github.com/Nictiz/AZ-IG",
-      "branch": "readme-align-gbb"
+      "branch": "GitHubissue92_uuids"
     }
   },
   {
     "name": "nictiz.nl.gbb",
     "current": {
-      "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_release-1.0.0-alpha.2/package.tgz",
+      "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_GBB-164/package.tgz",
       "repo": "https://github.com/Nictiz/GBB-IG",
-      "branch": "_generated_release-1.0.0-alpha.2"
+      "branch": "_generated_GBB-164"
     }
   },
   {
