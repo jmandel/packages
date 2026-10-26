@@ -23988,7 +23988,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/main/package.tgz",
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "main",
-        "lastSeen": "2026-09-09T08:48:18.000Z"
+        "lastSeen": "2026-10-26T05:47:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/niccoreyes/ph-core/branches/fix-364-ci-build-timeout/package.tgz",
@@ -24078,7 +24078,7 @@
         "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/0.2.1/package.tgz",
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "0.2.1",
-        "lastSeen": "2026-10-22T11:34:30.000Z"
+        "lastSeen": "2026-10-26T05:30:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/refactor-0.2.1-provenance/package.tgz",
@@ -24193,6 +24193,12 @@
         "repo": "https://github.com/UPM-NTHC/ph-core",
         "branch": "370-organization-jao-alignment",
         "lastSeen": "2026-10-22T16:21:37.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/UPM-NTHC/ph-core/branches/build-ig-patch-publisher-3.0.0/package.tgz",
+        "repo": "https://github.com/UPM-NTHC/ph-core",
+        "branch": "build-ig-patch-publisher-3.0.0",
+        "lastSeen": "2026-10-26T05:35:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/UP-Manila-SILab/ph-core/branches/130-fr-u-update-ph-core-id-and-canonical-url/package.tgz"
@@ -29394,7 +29400,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-10-19T22:59:44.000Z"
+        "lastSeen": "2026-10-26T02:54:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -30540,7 +30546,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-obs-category-slicing/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "test-obs-category-slicing",
-        "lastSeen": "2026-10-26T01:16:43.000Z"
+        "lastSeen": "2026-10-26T02:52:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-55574-identifier-constraints/package.tgz",
@@ -30583,6 +30589,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-FHIR-58632",
         "lastSeen": "2026-10-22T04:12:22.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-58193/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "cr-FHIR-58193",
+        "lastSeen": "2026-10-26T03:37:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -59827,6 +59839,12 @@
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "2.0.0",
         "lastSeen": "2026-09-15T20:39:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/br-composite-enhancements/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "br-composite-enhancements",
+        "lastSeen": "2026-10-26T02:40:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -67680,7 +67698,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "master",
-        "lastSeen": "2026-10-25T23:15:38.000Z"
+        "lastSeen": "2026-10-26T03:58:56.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-184-valuesets-v2-0078-and-v3-observationintrerpretation-have-the-same-oid/package.tgz",
@@ -69204,7 +69222,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-utg/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-utg",
         "branch": "master",
-        "lastSeen": "2026-02-27T17:38:36.000Z"
+        "lastSeen": "2026-10-26T03:08:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-utg/branches/master/package.tgz"
@@ -70200,7 +70218,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/fix-snomed-errors/package.tgz",
         "repo": "https://github.com/HL7Sweden/basprofiler-r4",
         "branch": "fix-snomed-errors",
-        "lastSeen": "2026-10-18T04:46:07.000Z"
+        "lastSeen": "2026-10-26T02:25:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/master/package.tgz"
@@ -86604,7 +86622,7 @@
         "url": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz",
         "repo": "https://github.com/nricmig/Nricm_TWCMIG",
         "branch": "main",
-        "lastSeen": "2026-10-23T08:21:33.000Z"
+        "lastSeen": "2026-10-26T06:23:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz"
