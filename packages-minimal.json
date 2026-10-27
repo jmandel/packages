@@ -1168,6 +1168,14 @@
     }
   },
   {
+    "name": "com.unscripted-rx.us-pharmacy",
+    "current": {
+      "url": "https://build.fhir.org/ig/unscripted-rx/us-pharmacy-fhir-ig/branches/us-pharmacy-rename/package.tgz",
+      "repo": "https://github.com/unscripted-rx/us-pharmacy-fhir-ig",
+      "branch": "us-pharmacy-rename"
+    }
+  },
+  {
     "name": "cqf.aphl.chronic-ds",
     "current": {
       "url": "https://build.fhir.org/ig/cqframework/aphl-chronic-ig/branches/main/package.tgz",
