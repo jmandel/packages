@@ -56,6 +56,14 @@
     }
   },
   {
+    "name": "be.smals.fhir.drp-fix",
+    "current": {
+      "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/drp-1.1.1-fixed/package.tgz",
+      "repo": "https://github.com/hl7-be/referral-uhmep",
+      "branch": "drp-1.1.1-fixed"
+    }
+  },
+  {
     "name": "ch.fhir.ig.ch-emr",
     "current": {
       "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/master/package.tgz",
@@ -410,8 +418,8 @@
   {
     "name": "hl7.fhir.eu.health-data-api",
     "current": {
-      "url": "https://build.fhir.org/ig/euridice-org/eu-health-data-api/branches/main/package.tgz",
-      "repo": "https://github.com/euridice-org/eu-health-data-api",
+      "url": "https://build.fhir.org/ig/trifork/eu-health-data-api/branches/main/package.tgz",
+      "repo": "https://github.com/trifork/eu-health-data-api",
       "branch": "main"
     }
   },
@@ -642,9 +650,9 @@
   {
     "name": "inami.fhir.be.ereferral",
     "current": {
-      "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2.1.0/package.tgz",
+      "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-3.0.0/package.tgz",
       "repo": "https://github.com/hl7-be/referral-uhmep",
-      "branch": "release-2.1.0"
+      "branch": "release-3.0.0"
     }
   },
   {
@@ -746,9 +754,9 @@
   {
     "name": "nictiz.nl.az",
     "current": {
-      "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/remove-hg-pat-1/package.tgz",
+      "url": "https://build.fhir.org/ig/Nictiz/AZ-IG/branches/main/package.tgz",
       "repo": "https://github.com/Nictiz/AZ-IG",
-      "branch": "remove-hg-pat-1"
+      "branch": "main"
     }
   },
   {
