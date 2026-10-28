@@ -23125,6 +23125,12 @@
         "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
         "branch": "issue-50-uitgaande-verwijzingen",
         "lastSeen": "2026-10-28T14:10:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/pocathon-tw-la-ta-001/package.tgz",
+        "repo": "https://github.com/nuts-foundation/nl-zorginzage-ig",
+        "branch": "pocathon-tw-la-ta-001",
+        "lastSeen": "2026-10-28T20:57:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nuts-foundation/nl-zorginzage-ig/branches/main/package.tgz"
@@ -25512,7 +25518,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-10-25T22:29:43.000Z"
+        "lastSeen": "2026-10-28T20:06:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
@@ -26988,7 +26994,7 @@
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/main/package.tgz",
         "repo": "https://github.com/HL7Austria/ELGA-e-Medikation-R4",
         "branch": "main",
-        "lastSeen": "2026-10-28T16:13:28.000Z"
+        "lastSeen": "2026-10-28T21:32:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7Austria/ELGA-e-Medikation-R4/branches/Dosierungen/package.tgz",
@@ -30906,7 +30912,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-10-20T23:42:27.000Z"
+        "lastSeen": "2026-10-28T21:37:17.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -33174,7 +33180,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/cr_fhir-58678/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "cr_fhir-58678",
-        "lastSeen": "2026-10-28T10:51:09.000Z"
+        "lastSeen": "2026-10-28T21:36:01.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz"
@@ -40692,7 +40698,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-10-21T15:57:32.000Z"
+        "lastSeen": "2026-10-28T21:08:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -49104,7 +49110,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-10-28T06:00:48.000Z"
+        "lastSeen": "2026-10-28T22:07:04.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -49693,6 +49699,18 @@
         "repo": "https://github.com/HL7/davinci-ecdx",
         "branch": "2.1.0-preview-tag",
         "lastSeen": "2024-09-17T17:57:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/V2.1.0/package.tgz",
+        "repo": "https://github.com/HL7/davinci-ecdx",
+        "branch": "V2.1.0",
+        "lastSeen": "2026-10-28T22:53:51.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/Version-2.1.1/package.tgz",
+        "repo": "https://github.com/HL7/davinci-ecdx",
+        "branch": "Version-2.1.1",
+        "lastSeen": "2026-10-28T22:33:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/master/package.tgz"
@@ -50838,7 +50856,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2026-10-28T16:25:20.000Z"
+        "lastSeen": "2026-10-28T20:58:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/1.2.0/package.tgz",
@@ -50880,7 +50898,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2026-10-15T18:13:04.000Z"
+        "lastSeen": "2026-10-28T22:46:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -51066,7 +51084,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2026-09-30T20:25:16.000Z"
+        "lastSeen": "2026-10-28T22:47:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
@@ -65640,7 +65658,7 @@
         "url": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz",
         "repo": "https://github.com/HL7/reg-workflow-pharma",
         "branch": "main",
-        "lastSeen": "2026-10-28T17:38:01.000Z"
+        "lastSeen": "2026-10-28T20:02:16.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz"
