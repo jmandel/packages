@@ -23226,7 +23226,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-10-31T04:44:54.000Z"
+        "lastSeen": "2026-10-31T12:08:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -23254,6 +23254,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz"
+  },
+  "fhir.nwgenomics.nhs.uk.cancerpathologyreport": {
+    "name": "fhir.nwgenomics.nhs.uk.cancerpathologyreport",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/nw-gmsa/CancerPathologyReport/branches/main/package.tgz",
+        "repo": "https://github.com/nw-gmsa/CancerPathologyReport",
+        "branch": "main",
+        "lastSeen": "2026-10-31T13:17:43.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/nw-gmsa/CancerPathologyReport/branches/main/package.tgz"
   },
   "fhir.omop": {
     "name": "fhir.omop",
@@ -27702,7 +27714,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.base.template",
         "branch": "master",
-        "lastSeen": "2026-10-30T01:47:29.000Z"
+        "lastSeen": "2026-10-31T13:00:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.base.template/branches/master/package.tgz"
@@ -27714,7 +27726,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.fhir.template",
         "branch": "master",
-        "lastSeen": "2026-10-30T01:41:25.000Z"
+        "lastSeen": "2026-10-31T13:00:24.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/hl7.au.fhir.template/branches/master/package.tgz"
@@ -27726,7 +27738,7 @@
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/hl7.au.sparked.template",
         "branch": "master",
-        "lastSeen": "2026-10-30T01:42:12.000Z"
+        "lastSeen": "2026-10-31T13:00:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/hl7.au.sparked.template/branches/ft-v0.5.0/package.tgz",
@@ -40776,7 +40788,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/master/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "master",
-        "lastSeen": "2026-10-15T07:51:28.000Z"
+        "lastSeen": "2026-10-31T08:20:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/connection-to-czech-profile/package.tgz",
@@ -40812,7 +40824,7 @@
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/Fix-issues/package.tgz",
         "repo": "https://github.com/HL7-cz/img-order",
         "branch": "Fix-issues",
-        "lastSeen": "2026-10-30T13:31:28.000Z"
+        "lastSeen": "2026-10-31T08:10:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7-cz/img-order/branches/multi-language/package.tgz",
@@ -42240,7 +42252,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-10-31T05:41:48.000Z"
+        "lastSeen": "2026-10-31T13:26:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
@@ -44064,7 +44076,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "master",
-        "lastSeen": "2026-10-06T11:13:50.000Z"
+        "lastSeen": "2026-10-31T09:30:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/HK-lab-examples/package.tgz",
@@ -60354,7 +60366,13 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/dw-FHIR-59665/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "dw-FHIR-59665",
-        "lastSeen": "2026-10-30T23:11:07.000Z"
+        "lastSeen": "2026-10-31T11:39:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/dw-FHIR-58507/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cqm",
+        "branch": "dw-FHIR-58507",
+        "lastSeen": "2026-10-31T12:47:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -67242,7 +67260,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-10-28T17:39:14.000Z"
+        "lastSeen": "2026-10-31T08:08:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -67399,6 +67417,12 @@
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "2026-10-gg-icd-11-sydney",
         "lastSeen": "2026-10-19T00:55:09.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2026-10-gg-global-lang-packs/package.tgz",
+        "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
+        "branch": "2026-10-gg-global-lang-packs",
+        "lastSeen": "2026-10-31T09:44:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz"
