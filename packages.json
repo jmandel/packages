@@ -5388,7 +5388,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "master",
-        "lastSeen": "2026-10-30T20:00:13.000Z"
+        "lastSeen": "2026-10-31T14:42:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/2024/package.tgz",
@@ -5551,6 +5551,30 @@
         "repo": "https://github.com/hl7ch/ch-ems",
         "branch": "issue64_destination_mandatory",
         "lastSeen": "2026-10-30T23:27:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/issue73_abstract_observation/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ems",
+        "branch": "issue73_abstract_observation",
+        "lastSeen": "2026-10-31T14:43:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/issue67_identifier_assigner/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ems",
+        "branch": "issue67_identifier_assigner",
+        "lastSeen": "2026-10-31T15:24:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/issue66_naca_v_code/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ems",
+        "branch": "issue66_naca_v_code",
+        "lastSeen": "2026-10-31T14:43:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/issue63_epr_conform/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-ems",
+        "branch": "issue63_epr_conform",
+        "lastSeen": "2026-10-31T14:12:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-ems/branches/master/package.tgz"
@@ -18967,6 +18991,24 @@
         "repo": "https://github.com/HL7/fhir-fod",
         "branch": "main",
         "lastSeen": "2026-08-06T18:59:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jmandel/ig-build-test/branches/t+ü,x/package.tgz",
+        "repo": "https://github.com/jmandel/ig-build-test",
+        "branch": "t+ü,x",
+        "lastSeen": "2026-10-31T14:44:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jmandel/ig-build-test/branches/burst/package.tgz",
+        "repo": "https://github.com/jmandel/ig-build-test",
+        "branch": "burst",
+        "lastSeen": "2026-10-31T18:03:05.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/jmandel/ig-build-test/branches/master/package.tgz",
+        "repo": "https://github.com/jmandel/ig-build-test",
+        "branch": "master",
+        "lastSeen": "2026-10-31T16:43:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sample-ig/branches/master/package.tgz"
@@ -23262,7 +23304,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/CancerPathologyReport/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/CancerPathologyReport",
         "branch": "main",
-        "lastSeen": "2026-10-31T13:17:43.000Z"
+        "lastSeen": "2026-10-31T14:35:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/CancerPathologyReport/branches/main/package.tgz"
@@ -28734,7 +28776,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/master/package.tgz",
         "repo": "https://github.com/HL7/ig-template-davinci",
         "branch": "master",
-        "lastSeen": "2026-02-24T02:56:28.000Z"
+        "lastSeen": "2026-10-31T18:10:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-davinci/branches/jduteau-patch-1/package.tgz",
@@ -42252,7 +42294,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/eps",
         "branch": "master",
-        "lastSeen": "2026-10-31T13:26:18.000Z"
+        "lastSeen": "2026-10-31T17:41:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/eps/branches/update-dependencies/package.tgz",
