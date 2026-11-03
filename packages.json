@@ -23274,7 +23274,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-11-01T09:56:34.000Z"
+        "lastSeen": "2026-11-02T18:17:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -34848,7 +34848,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-11-02T06:14:44.000Z"
+        "lastSeen": "2026-11-02T23:22:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -35796,7 +35796,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_diagreport/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_diagreport",
-        "lastSeen": "2026-11-02T08:56:16.000Z"
+        "lastSeen": "2026-11-02T21:20:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_comp-core/package.tgz",
@@ -35814,7 +35814,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/ft_docref/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "ft_docref",
-        "lastSeen": "2026-11-02T07:22:15.000Z"
+        "lastSeen": "2026-11-02T23:10:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/test/package.tgz"
@@ -47250,7 +47250,7 @@
         "url": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main-r5/package.tgz",
         "repo": "https://github.com/HL7-Poland/pl-fhir-base",
         "branch": "main-r5",
-        "lastSeen": "2026-06-01T13:17:10.000Z"
+        "lastSeen": "2026-11-02T21:21:38.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7-Poland/pl-fhir-base/branches/main-r5/package.tgz"
@@ -49332,7 +49332,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-10-30T00:39:37.000Z"
+        "lastSeen": "2026-11-02T22:43:46.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -57990,7 +57990,7 @@
         "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "main",
-        "lastSeen": "2026-10-27T12:15:40.000Z"
+        "lastSeen": "2026-11-02T17:33:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/moehrke-tag-examples/package.tgz",
@@ -59995,6 +59995,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "br-59639-approach-updates",
         "lastSeen": "2026-11-02T04:23:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/br-59768-conformance/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "br-59768-conformance",
+        "lastSeen": "2026-11-02T18:58:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -60486,7 +60492,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/dw-FHIR-58507/package.tgz",
         "repo": "https://github.com/HL7/fhir-cqm",
         "branch": "dw-FHIR-58507",
-        "lastSeen": "2026-10-31T12:47:37.000Z"
+        "lastSeen": "2026-11-02T17:06:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cqm/branches/main/package.tgz"
@@ -64062,7 +64068,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/operations/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "operations",
-        "lastSeen": "2026-10-26T22:24:09.000Z"
+        "lastSeen": "2026-11-02T21:42:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz"
@@ -64350,7 +64356,7 @@
         "url": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/immunization-incubator",
         "branch": "main",
-        "lastSeen": "2026-10-07T18:28:48.000Z"
+        "lastSeen": "2026-11-02T18:51:09.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/immunization-incubator/branches/main/package.tgz"
@@ -75672,7 +75678,7 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/testBinary",
         "branch": "main",
-        "lastSeen": "2026-10-22T19:12:10.000Z"
+        "lastSeen": "2026-11-02T17:27:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/testBinary/branches/main/package.tgz"
