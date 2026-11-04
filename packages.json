@@ -666,13 +666,13 @@
         "url": "https://build.fhir.org/ig/tewhatuora/actnow/branches/main/package.tgz",
         "repo": "https://github.com/tewhatuora/actnow",
         "branch": "main",
-        "lastSeen": "2026-11-01T21:16:36.000Z"
+        "lastSeen": "2026-11-03T23:58:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/actnow/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/actnow",
         "branch": "uat",
-        "lastSeen": "2026-06-15T21:36:21.000Z"
+        "lastSeen": "2026-11-03T23:43:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/davidhay25/actnow/branches/main/package.tgz"
@@ -31093,6 +31093,18 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "ft_wg-ext",
         "lastSeen": "2026-10-30T05:38:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-57347/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "cr-FHIR-57347",
+        "lastSeen": "2026-11-03T23:07:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/FHIR-57347/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "FHIR-57347",
+        "lastSeen": "2026-11-03T22:48:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -50634,7 +50646,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-formulary",
         "branch": "master",
-        "lastSeen": "2026-11-03T19:37:40.000Z"
+        "lastSeen": "2026-11-04T00:00:01.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-formulary/branches/2.0.1/package.tgz",
@@ -66012,7 +66024,7 @@
         "url": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz",
         "repo": "https://github.com/HL7/reg-workflow-pharma",
         "branch": "main",
-        "lastSeen": "2026-11-03T15:53:01.000Z"
+        "lastSeen": "2026-11-03T23:57:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz"
