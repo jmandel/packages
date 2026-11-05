@@ -25057,6 +25057,12 @@
         "repo": "https://github.com/UPM-NTHC/ph-ereferral",
         "branch": "0.1.0",
         "lastSeen": "2026-09-21T06:37:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/niccoreyes/ph-ereferral/branches/issue-158-pin-ph-core-0-2-1/package.tgz",
+        "repo": "https://github.com/niccoreyes/ph-ereferral",
+        "branch": "issue-158-pin-ph-core-0-2-1",
+        "lastSeen": "2026-11-05T01:58:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/jldalisay95/ph-ereferral-jld/branches/issue-11-jld-rename-ig-id/package.tgz"
@@ -29934,7 +29940,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-11-02T06:14:30.000Z"
+        "lastSeen": "2026-11-05T00:44:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -51300,7 +51306,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-ra",
         "branch": "master",
-        "lastSeen": "2026-10-28T23:22:25.000Z"
+        "lastSeen": "2026-11-04T22:52:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-ra/branches/may-connectathon/package.tgz",
@@ -53202,7 +53208,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-10-26T19:55:01.000Z"
+        "lastSeen": "2026-11-04T23:01:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -58170,7 +58176,7 @@
         "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/aitransparency-ig",
         "branch": "main",
-        "lastSeen": "2026-11-04T14:13:57.000Z"
+        "lastSeen": "2026-11-04T23:25:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/aitransparency-ig/branches/moehrke-tag-examples/package.tgz",
@@ -67566,7 +67572,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-04T19:50:26.000Z"
+        "lastSeen": "2026-11-05T02:32:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
