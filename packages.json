@@ -9433,6 +9433,12 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "196-ch-vacd-recommendation-categories-remove-code",
         "lastSeen": "2026-10-19T04:14:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/193-update-swissmedic-oktober-december-2026/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "193-update-swissmedic-oktober-december-2026",
+        "lastSeen": "2026-11-05T19:05:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -19242,7 +19248,7 @@
         "url": "https://build.fhir.org/ig/argonautproject/smart-imaging/branches/focused-access-updates/package.tgz",
         "repo": "https://github.com/argonautproject/smart-imaging",
         "branch": "focused-access-updates",
-        "lastSeen": "2026-11-05T16:37:37.000Z"
+        "lastSeen": "2026-11-05T19:49:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/smart-imaging/branches/main/package.tgz"
@@ -31134,7 +31140,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-57529/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-FHIR-57529",
-        "lastSeen": "2026-10-21T07:13:39.000Z"
+        "lastSeen": "2026-11-05T22:56:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-58680/package.tgz",
@@ -31152,7 +31158,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-58632/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-FHIR-58632",
-        "lastSeen": "2026-11-03T00:40:40.000Z"
+        "lastSeen": "2026-11-05T22:17:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-58193/package.tgz",
@@ -33582,7 +33588,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-erequesting",
         "branch": "master",
-        "lastSeen": "2026-09-21T23:52:44.000Z"
+        "lastSeen": "2026-11-05T22:55:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-erequesting/branches/ft_srr/package.tgz",
@@ -51306,7 +51312,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2026-11-05T17:55:16.000Z"
+        "lastSeen": "2026-11-05T21:19:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/1.2.0/package.tgz",
@@ -61356,7 +61362,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2026-11-03T05:13:31.000Z"
+        "lastSeen": "2026-11-05T21:16:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -65196,7 +65202,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-omop-ig",
         "branch": "main",
-        "lastSeen": "2026-08-14T16:09:20.000Z"
+        "lastSeen": "2026-11-06T00:23:09.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-omop-ig/branches/1.0.0-ballot/package.tgz",
@@ -66156,7 +66162,7 @@
         "url": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz",
         "repo": "https://github.com/HL7/reg-workflow-pharma",
         "branch": "main",
-        "lastSeen": "2026-11-05T18:09:03.000Z"
+        "lastSeen": "2026-11-05T21:39:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz"
@@ -67614,7 +67620,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-05T02:32:36.000Z"
+        "lastSeen": "2026-11-05T23:55:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
