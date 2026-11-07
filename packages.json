@@ -7278,7 +7278,13 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/conformance_statements_pilot/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
         "branch": "conformance_statements_pilot",
-        "lastSeen": "2026-11-07T06:56:40.000Z"
+        "lastSeen": "2026-11-07T08:24:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/issue_iua_person_id_binding/package.tgz",
+        "repo": "https://github.com/ehealthsuisse/ch-health-dossier",
+        "branch": "issue_iua_person_id_binding",
+        "lastSeen": "2026-11-07T11:45:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-health-dossier/branches/pdqm/package.tgz"
@@ -23388,7 +23394,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-11-05T06:39:16.000Z"
+        "lastSeen": "2026-11-07T12:10:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -36798,7 +36804,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/episode-of-care/package.tgz",
         "repo": "https://github.com/hl7-be/core-clinical",
         "branch": "episode-of-care",
-        "lastSeen": "2026-11-03T09:15:01.000Z"
+        "lastSeen": "2026-11-07T08:56:14.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/core-clinical/branches/v1.3.0/package.tgz",
@@ -41268,7 +41274,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "master",
-        "lastSeen": "2026-11-04T08:09:01.000Z"
+        "lastSeen": "2026-11-07T14:25:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/2.2.0/package.tgz",
@@ -41580,7 +41586,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.8.0-documentation-update/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "3.8.0-documentation-update",
-        "lastSeen": "2026-11-04T06:40:00.000Z"
+        "lastSeen": "2026-11-07T14:27:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/3.8.0-addition-crossboarderexchange/package.tgz",
@@ -41592,7 +41598,7 @@
         "url": "https://build.fhir.org/ig/hl7dk/dk-core/branches/feature-immunization/package.tgz",
         "repo": "https://github.com/hl7dk/dk-core",
         "branch": "feature-immunization",
-        "lastSeen": "2026-11-03T15:10:58.000Z"
+        "lastSeen": "2026-11-07T14:27:05.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7dk/dk-core/branches/master/package.tgz"
@@ -59604,7 +59610,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2026-10-30T18:29:36.000Z"
+        "lastSeen": "2026-11-07T14:16:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -60091,6 +60097,18 @@
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "requests-events-tasks-overview",
         "lastSeen": "2026-10-31T22:31:43.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-50811-caption-spacing/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "fhir-50811-caption-spacing",
+        "lastSeen": "2026-11-07T14:42:50.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-50436-remove-italics/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "fhir-50436-remove-italics",
+        "lastSeen": "2026-11-07T14:41:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
