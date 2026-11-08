@@ -12186,7 +12186,7 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "main",
-        "lastSeen": "2026-10-16T06:45:54.000Z"
+        "lastSeen": "2026-11-08T13:15:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7germany/medication-dosage-ig/branches/main/package.tgz",
@@ -13056,7 +13056,49 @@
         "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/invariantentests-hapi/package.tgz",
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "invariantentests-hapi",
-        "lastSeen": "2026-11-07T20:47:30.000Z"
+        "lastSeen": "2026-11-08T11:37:39.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/dosiseinheit-hoechstens-ein-code/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "dosiseinheit-hoechstens-ein-code",
+        "lastSeen": "2026-11-08T13:38:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/ganzzahl-pruefung-ohne-mod/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "ganzzahl-pruefung-ohne-mod",
+        "lastSeen": "2026-11-08T14:33:19.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/1.0.x/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "1.0.x",
+        "lastSeen": "2026-11-08T13:42:35.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/timing-eindeutigkeit-je-schema/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "timing-eindeutigkeit-je-schema",
+        "lastSeen": "2026-11-08T13:14:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/mutationspruefung-invarianten/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "mutationspruefung-invarianten",
+        "lastSeen": "2026-11-08T14:15:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/invarianten-laufzeit-aufraeumen/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "invarianten-laufzeit-aufraeumen",
+        "lastSeen": "2026-11-08T12:27:49.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/timing-invarianten-laufzeit/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "timing-invarianten-laufzeit",
+        "lastSeen": "2026-11-08T11:39:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -23400,7 +23442,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-11-07T12:10:40.000Z"
+        "lastSeen": "2026-11-08T08:38:44.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -44478,7 +44520,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/Microbiology/package.tgz",
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "Microbiology",
-        "lastSeen": "2026-10-26T16:25:55.000Z"
+        "lastSeen": "2026-11-08T13:29:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/tx/package.tgz",
@@ -44773,6 +44815,12 @@
         "repo": "https://github.com/hl7-eu/laboratory",
         "branch": "container-device-extension",
         "lastSeen": "2026-10-29T17:11:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/update-build-scripts/package.tgz",
+        "repo": "https://github.com/hl7-eu/laboratory",
+        "branch": "update-build-scripts",
+        "lastSeen": "2026-11-08T13:28:59.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/laboratory/branches/master/package.tgz"
@@ -67704,7 +67752,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-07T03:50:21.000Z"
+        "lastSeen": "2026-11-08T09:57:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -72149,6 +72197,18 @@
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.DeIdHandbook/branches/main/package.tgz"
   },
+  "ihe.iti.dis": {
+    "name": "ihe.iti.dis",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/alan-zhang-22/ITI.DIS/branches/master/package.tgz",
+        "repo": "https://github.com/alan-zhang-22/ITI.DIS",
+        "branch": "master",
+        "lastSeen": "2026-11-08T08:53:56.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/alan-zhang-22/ITI.DIS/branches/master/package.tgz"
+  },
   "ihe.iti.dsubm": {
     "name": "ihe.iti.dsubm",
     "locations": [
@@ -73374,7 +73434,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.RESTfulATNA/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.RESTfulATNA",
         "branch": "master",
-        "lastSeen": "2026-11-07T18:03:59.000Z"
+        "lastSeen": "2026-11-08T09:34:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.RESTfulATNA/branches/master/package.tgz"
