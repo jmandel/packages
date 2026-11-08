@@ -13099,6 +13099,12 @@
         "repo": "https://github.com/hl7germany/medication-ig-de-r4",
         "branch": "timing-invarianten-laufzeit",
         "lastSeen": "2026-11-08T11:39:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/aequivalenzpruefung-invarianten/package.tgz",
+        "repo": "https://github.com/hl7germany/medication-ig-de-r4",
+        "branch": "aequivalenzpruefung-invarianten",
+        "lastSeen": "2026-11-08T18:28:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7germany/medication-ig-de-r4/branches/main/package.tgz"
@@ -61494,7 +61500,7 @@
         "url": "https://build.fhir.org/ig/HL7/emedicinal-product-info/branches/master/package.tgz",
         "repo": "https://github.com/HL7/emedicinal-product-info",
         "branch": "master",
-        "lastSeen": "2026-11-07T21:17:56.000Z"
+        "lastSeen": "2026-11-08T20:17:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/joofio/vulcan-eproduct-info/branches/merging/package.tgz",
@@ -67752,7 +67758,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-08T09:57:33.000Z"
+        "lastSeen": "2026-11-08T18:53:29.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
