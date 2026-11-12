@@ -4194,7 +4194,7 @@
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz",
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "master",
-        "lastSeen": "2026-11-09T10:25:33.000Z"
+        "lastSeen": "2026-11-12T08:07:36.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/ys_1-add-pneumokokken-and-hepatitis-c-instances/package.tgz",
@@ -4237,6 +4237,12 @@
         "repo": "https://github.com/ahdis/ch-ekm",
         "branch": "notemplate",
         "lastSeen": "2026-06-24T11:39:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/issue-46-api-publish-documentreference/package.tgz",
+        "repo": "https://github.com/ahdis/ch-ekm",
+        "branch": "issue-46-api-publish-documentreference",
+        "lastSeen": "2026-11-12T07:31:14.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ahdis/ch-ekm/branches/master/package.tgz"
@@ -5424,7 +5430,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/60-must-support-obligations/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emr",
         "branch": "60-must-support-obligations",
-        "lastSeen": "2026-11-10T15:32:13.000Z"
+        "lastSeen": "2026-11-12T08:13:30.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ehealthsuisse/ch-emr/branches/master/package.tgz"
@@ -18473,6 +18479,24 @@
     ],
     "current": "https://build.fhir.org/ig/Xt-EHR/xt-ehr-common/branches/main/package.tgz"
   },
+  "example.compiledjsontrial": {
+    "name": "example.compiledjsontrial",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/haau3/compiled-json-trial/branches/control/package.tgz",
+        "repo": "https://github.com/haau3/compiled-json-trial",
+        "branch": "control",
+        "lastSeen": "2026-11-12T08:37:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/haau3/compiled-json-trial/branches/main/package.tgz",
+        "repo": "https://github.com/haau3/compiled-json-trial",
+        "branch": "main",
+        "lastSeen": "2026-11-12T08:36:20.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/haau3/compiled-json-trial/branches/main/package.tgz"
+  },
   "example.fhir.ph.core": {
     "name": "example.fhir.ph.core",
     "locations": [
@@ -19476,7 +19500,7 @@
         "url": "https://build.fhir.org/ig/argonautproject/smart-imaging/branches/focused-access-updates/package.tgz",
         "repo": "https://github.com/argonautproject/smart-imaging",
         "branch": "focused-access-updates",
-        "lastSeen": "2026-11-11T16:17:47.000Z"
+        "lastSeen": "2026-11-12T04:48:24.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/argonautproject/smart-imaging/branches/spec-clarity-organization/package.tgz",
@@ -23628,7 +23652,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-11-11T16:19:39.000Z"
+        "lastSeen": "2026-11-12T07:24:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -29652,7 +29676,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/readi/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/readi",
         "branch": "master",
-        "lastSeen": "2026-11-11T14:11:19.000Z"
+        "lastSeen": "2026-11-12T06:58:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/readi/branches/validator-latest-and-suppressions/package.tgz",
@@ -35257,6 +35281,18 @@
         "repo": "https://github.com/hl7au/au-fhir-pd",
         "branch": "cr-variance",
         "lastSeen": "2024-07-17T03:53:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/AuDigitalHealth/au-fhir-pd/branches/AuCoreDerivingUpdates/package.tgz",
+        "repo": "https://github.com/AuDigitalHealth/au-fhir-pd",
+        "branch": "AuCoreDerivingUpdates",
+        "lastSeen": "2026-11-12T05:43:21.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-pd/branches/AuCoreDerivingUpdates/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-pd",
+        "branch": "AuCoreDerivingUpdates",
+        "lastSeen": "2026-11-12T05:44:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7au/au-fhir-pd/branches/master/package.tgz"
@@ -47598,7 +47634,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-11-11T20:52:19.000Z"
+        "lastSeen": "2026-11-12T08:12:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -49950,7 +49986,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2026-09-11T19:37:25.000Z"
+        "lastSeen": "2026-11-12T04:32:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
@@ -50604,7 +50640,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/Version-2.1.1/package.tgz",
         "repo": "https://github.com/HL7/davinci-ecdx",
         "branch": "Version-2.1.1",
-        "lastSeen": "2026-11-11T22:28:19.000Z"
+        "lastSeen": "2026-11-12T05:09:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/davinci-ecdx/branches/master/package.tgz"
@@ -51462,7 +51498,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2026-11-09T22:17:29.000Z"
+        "lastSeen": "2026-11-12T03:43:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -60823,6 +60859,12 @@
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "br-57699-metric-results",
         "lastSeen": "2026-11-10T04:38:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/br-narrative-refresh/package.tgz",
+        "repo": "https://github.com/HL7/cqf-recommendations",
+        "branch": "br-narrative-refresh",
+        "lastSeen": "2026-11-12T03:27:48.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -68358,7 +68400,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-10T11:00:55.000Z"
+        "lastSeen": "2026-11-12T05:32:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -82147,6 +82189,12 @@
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_release-1.0.0-alpha.3",
         "lastSeen": "2026-11-11T12:23:57.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_GBB-206-ConditionObligations/package.tgz",
+        "repo": "https://github.com/Nictiz/GBB-IG",
+        "branch": "_generated_GBB-206-ConditionObligations",
+        "lastSeen": "2026-11-12T07:46:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_Verrichting/package.tgz"
@@ -88410,7 +88458,7 @@
         "url": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz",
         "repo": "https://github.com/omnifhir/lars",
         "branch": "main",
-        "lastSeen": "2026-11-11T09:35:31.000Z"
+        "lastSeen": "2026-11-12T06:35:19.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz"
@@ -88470,7 +88518,7 @@
         "url": "https://build.fhir.org/ig/hyweb-cdc/niis/branches/main/package.tgz",
         "repo": "https://github.com/hyweb-cdc/niis",
         "branch": "main",
-        "lastSeen": "2026-11-09T06:24:21.000Z"
+        "lastSeen": "2026-11-12T07:28:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hyweb-cdc/niis/branches/main/package.tgz"
@@ -88812,7 +88860,7 @@
         "url": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz",
         "repo": "https://github.com/sfaassn2025-source/base",
         "branch": "main",
-        "lastSeen": "2026-10-22T05:11:23.000Z"
+        "lastSeen": "2026-11-12T05:57:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/base/branches/main/package.tgz"
@@ -89586,7 +89634,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-11-11T10:04:25.000Z"
+        "lastSeen": "2026-11-12T08:20:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -91164,13 +91212,13 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/blood-management-page/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "blood-management-page",
-        "lastSeen": "2026-11-11T10:52:49.000Z"
+        "lastSeen": "2026-11-12T08:01:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/align-hepatitis-headers/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-integration",
         "branch": "align-hepatitis-headers",
-        "lastSeen": "2026-11-11T10:52:37.000Z"
+        "lastSeen": "2026-11-12T08:00:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration/branches/suppress-plantuml-duplicate-ids/package.tgz",
