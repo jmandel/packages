@@ -2200,6 +2200,14 @@
     }
   },
   {
+    "name": "fhir.ig.hdm.example",
+    "current": {
+      "url": "https://build.fhir.org/ig/iambodo/NCD_HDM-fhir-ig/branches/main/package.tgz",
+      "repo": "https://github.com/iambodo/NCD_HDM-fhir-ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "fhir.ig.trust.aitransparency",
     "current": {
       "url": "https://build.fhir.org/ig/HL7Austria/AIST-TrustworthyAI-R5/branches/main/package.tgz",
@@ -5165,6 +5173,14 @@
       "url": "https://build.fhir.org/ig/HL7Sweden/basprofiler-r4/branches/package-id-error-issue75/package.tgz",
       "repo": "https://github.com/HL7Sweden/basprofiler-r4",
       "branch": "package-id-error-issue75"
+    }
+  },
+  {
+    "name": "hl7.fhir.se.terminology",
+    "current": {
+      "url": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.se.terminology/branches/main/package.tgz",
+      "repo": "https://github.com/HL7Sweden/hl7.fhir.se.terminology",
+      "branch": "main"
     }
   },
   {
