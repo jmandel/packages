@@ -50202,7 +50202,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-11-13T15:37:34.000Z"
+        "lastSeen": "2026-11-13T22:34:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -51954,7 +51954,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pdex-plan-net",
         "branch": "master",
-        "lastSeen": "2026-11-10T16:50:22.000Z"
+        "lastSeen": "2026-11-13T22:04:40.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/branches/1.2.0/package.tgz",
@@ -52074,7 +52074,7 @@
         "url": "https://build.fhir.org/ig/HL7/demo-collect/branches/main/package.tgz",
         "repo": "https://github.com/HL7/demo-collect",
         "branch": "main",
-        "lastSeen": "2026-11-13T17:51:49.000Z"
+        "lastSeen": "2026-11-13T19:25:37.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/demo-collect/branches/main/package.tgz"
@@ -52194,7 +52194,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2026-11-12T17:35:48.000Z"
+        "lastSeen": "2026-11-13T20:24:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
@@ -53910,7 +53910,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "master",
-        "lastSeen": "2026-11-13T18:09:29.000Z"
+        "lastSeen": "2026-11-13T21:28:32.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/ming1/package.tgz",
@@ -54217,6 +54217,12 @@
         "repo": "https://github.com/HL7/fhir-us-ndh",
         "branch": "BallotQA2",
         "lastSeen": "2026-11-11T20:13:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/BallotQA4/package.tgz",
+        "repo": "https://github.com/HL7/fhir-us-ndh",
+        "branch": "BallotQA4",
+        "lastSeen": "2026-11-13T21:26:27.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/package.tgz"
@@ -59994,7 +60000,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "main",
-        "lastSeen": "2026-11-13T06:26:47.000Z"
+        "lastSeen": "2026-11-13T18:35:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/cannonical-url-change/package.tgz",
@@ -67075,6 +67081,12 @@
         "repo": "https://github.com/HL7/reg-workflow-pharma",
         "branch": "main",
         "lastSeen": "2026-11-12T17:39:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/1.0.0-ballot/package.tgz",
+        "repo": "https://github.com/HL7/reg-workflow-pharma",
+        "branch": "1.0.0-ballot",
+        "lastSeen": "2026-11-13T20:08:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/reg-workflow-pharma/branches/main/package.tgz"
@@ -71166,7 +71178,7 @@
         "url": "https://build.fhir.org/ig/HL7/UTG/branches/UP-900-Create-am-Include-Associated-Data-Code-System/package.tgz",
         "repo": "https://github.com/HL7/UTG",
         "branch": "UP-900-Create-am-Include-Associated-Data-Code-System",
-        "lastSeen": "2026-11-12T20:09:33.000Z"
+        "lastSeen": "2026-11-13T18:38:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/UTG/branches/master/package.tgz"
@@ -73092,7 +73104,7 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.DIS/branches/master/package.tgz",
         "repo": "https://github.com/IHE/ITI.DIS",
         "branch": "master",
-        "lastSeen": "2026-11-11T14:53:40.000Z"
+        "lastSeen": "2026-11-13T23:29:53.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/alan-zhang-22/ITI.DIS/branches/master/package.tgz"
@@ -76566,7 +76578,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/spenser/branches/master/package.tgz",
         "repo": "https://github.com/costateixeira/spenser",
         "branch": "master",
-        "lastSeen": "2026-11-12T23:25:13.000Z"
+        "lastSeen": "2026-11-13T21:20:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/spenser/branches/master/package.tgz"
