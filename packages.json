@@ -6570,7 +6570,7 @@
         "url": "https://build.fhir.org/ig/ehealthsuisse/ch-epr-fhir/branches/ms-add-saml/package.tgz",
         "repo": "https://github.com/ehealthsuisse/ch-epr-fhir",
         "branch": "ms-add-saml",
-        "lastSeen": "2026-11-11T17:35:50.000Z"
+        "lastSeen": "2026-11-13T10:22:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/qligier/ch-epr-mhealth/branches/ql_renaming/package.tgz"
@@ -16195,6 +16195,12 @@
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "CCR0307_Story5_LockHandling",
         "lastSeen": "2026-11-05T13:15:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/FUT1-26430_add_DR32_sks_code/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide",
+        "branch": "FUT1-26430_add_DR32_sks_code",
+        "lastSeen": "2026-11-13T09:11:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/master/package.tgz"
@@ -23718,7 +23724,7 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/nw-gmsa.github.com",
         "branch": "main",
-        "lastSeen": "2026-11-12T10:04:19.000Z"
+        "lastSeen": "2026-11-13T10:19:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/nw-gmsa/nw-gmsa.github.com/branches/cancer-nos-cross-region-genetic-counselling/package.tgz",
@@ -29742,7 +29748,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/readi/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/readi",
         "branch": "master",
-        "lastSeen": "2026-11-12T09:56:44.000Z"
+        "lastSeen": "2026-11-13T07:31:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/readi/branches/validator-latest-and-suppressions/package.tgz",
@@ -30324,7 +30330,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "master",
-        "lastSeen": "2026-11-11T22:40:12.000Z"
+        "lastSeen": "2026-11-13T06:03:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/R5-preadopt-pronoun-rsg-exts/package.tgz",
@@ -31542,7 +31548,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/cr-FHIR-59776/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-FHIR-59776",
-        "lastSeen": "2026-11-12T00:10:10.000Z"
+        "lastSeen": "2026-11-13T05:43:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -48312,7 +48318,7 @@
         "url": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.se.terminology/branches/main/package.tgz",
         "repo": "https://github.com/HL7Sweden/hl7.fhir.se.terminology",
         "branch": "main",
-        "lastSeen": "2026-11-12T17:15:24.000Z"
+        "lastSeen": "2026-11-13T10:59:04.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7Sweden/hl7.fhir.se.terminology/branches/main/package.tgz"
@@ -50142,7 +50148,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-11-11T04:39:05.000Z"
+        "lastSeen": "2026-11-13T06:24:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -59916,7 +59922,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks-library",
         "branch": "main",
-        "lastSeen": "2026-11-12T19:36:03.000Z"
+        "lastSeen": "2026-11-13T06:26:47.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks-library/branches/cannonical-url-change/package.tgz",
@@ -66834,7 +66840,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-pocd/branches/AI-Transparency/package.tgz",
         "repo": "https://github.com/HL7/uv-pocd",
         "branch": "AI-Transparency",
-        "lastSeen": "2026-11-12T13:35:00.000Z"
+        "lastSeen": "2026-11-13T10:28:40.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/uv-pocd/branches/master/package.tgz"
@@ -88590,7 +88596,7 @@
         "url": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz",
         "repo": "https://github.com/omnifhir/lars",
         "branch": "main",
-        "lastSeen": "2026-11-12T10:56:23.000Z"
+        "lastSeen": "2026-11-13T08:51:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz"
@@ -88903,6 +88909,12 @@
         "repo": "https://github.com/TWNHIFHIR/pas",
         "branch": "1.3.0",
         "lastSeen": "2026-10-27T06:10:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/1.3.1/package.tgz",
+        "repo": "https://github.com/TWNHIFHIR/pas",
+        "branch": "1.3.1",
+        "lastSeen": "2026-11-13T08:19:15.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/TWNHIFHIR/pas/branches/main/package.tgz"
@@ -88944,7 +88956,7 @@
         "url": "https://build.fhir.org/ig/sfaassn2025-source/CRA-IG/branches/main/package.tgz",
         "repo": "https://github.com/sfaassn2025-source/CRA-IG",
         "branch": "main",
-        "lastSeen": "2026-11-12T09:24:21.000Z"
+        "lastSeen": "2026-11-13T05:53:17.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/CRA-IG/branches/main/package.tgz"
@@ -88956,7 +88968,7 @@
         "url": "https://build.fhir.org/ig/sfaassn2025-source/VFS-IG/branches/main/package.tgz",
         "repo": "https://github.com/sfaassn2025-source/VFS-IG",
         "branch": "main",
-        "lastSeen": "2026-11-10T09:25:49.000Z"
+        "lastSeen": "2026-11-13T05:53:32.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/VFS-IG/branches/main/package.tgz"
