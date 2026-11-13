@@ -19561,6 +19561,12 @@
         "repo": "https://github.com/argonautproject/smart-imaging",
         "branch": "absolute-patient-reference",
         "lastSeen": "2026-11-11T04:02:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/argonautproject/smart-imaging/branches/dec-03/package.tgz",
+        "repo": "https://github.com/argonautproject/smart-imaging",
+        "branch": "dec-03",
+        "lastSeen": "2026-11-13T01:30:51.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/argonautproject/smart-imaging/branches/main/package.tgz"
@@ -35370,7 +35376,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-11-12T21:43:07.000Z"
+        "lastSeen": "2026-11-13T00:50:45.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -60978,7 +60984,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/br-narrative-refresh/package.tgz",
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "br-narrative-refresh",
-        "lastSeen": "2026-11-12T21:03:05.000Z"
+        "lastSeen": "2026-11-12T23:02:29.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz"
@@ -64788,7 +64794,7 @@
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/genomics-reporting",
         "branch": "master",
-        "lastSeen": "2026-09-21T13:24:35.000Z"
+        "lastSeen": "2026-11-13T01:12:43.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/genomics-reporting/branches/obs-genomics-category-slice/package.tgz",
@@ -74526,13 +74532,13 @@
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/jul26/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "jul26",
-        "lastSeen": "2026-11-12T12:25:59.000Z"
+        "lastSeen": "2026-11-13T03:15:18.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/editorial-final-read/package.tgz",
         "repo": "https://github.com/IHE/ITI.VHL",
         "branch": "editorial-final-read",
-        "lastSeen": "2026-11-11T15:10:57.000Z"
+        "lastSeen": "2026-11-13T02:42:12.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/IHE/ITI.VHL/branches/master/package.tgz"
@@ -76470,7 +76476,7 @@
         "url": "https://build.fhir.org/ig/costateixeira/spenser/branches/master/package.tgz",
         "repo": "https://github.com/costateixeira/spenser",
         "branch": "master",
-        "lastSeen": "2026-11-11T15:26:59.000Z"
+        "lastSeen": "2026-11-12T23:25:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/costateixeira/spenser/branches/master/package.tgz"
