@@ -31662,7 +31662,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-core",
         "branch": "master",
-        "lastSeen": "2026-11-15T22:10:04.000Z"
+        "lastSeen": "2026-11-17T01:40:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-core/branches/main/package.tgz",
@@ -35478,7 +35478,7 @@
         "url": "https://build.fhir.org/ig/hl7au/au-fhir-ps/branches/master/package.tgz",
         "repo": "https://github.com/hl7au/au-fhir-ps",
         "branch": "master",
-        "lastSeen": "2026-11-13T00:50:45.000Z"
+        "lastSeen": "2026-11-16T23:31:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7au/draft-au-patient-summary/branches/master/package.tgz",
@@ -36462,7 +36462,7 @@
         "url": "https://build.fhir.org/ig/ChitSR/sample-ig/branches/master/package.tgz",
         "repo": "https://github.com/ChitSR/sample-ig",
         "branch": "master",
-        "lastSeen": "2026-11-10T05:54:41.000Z"
+        "lastSeen": "2026-11-17T03:21:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ChitSR/sample-ig/branches/master/package.tgz"
@@ -50226,7 +50226,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-consent-management",
         "branch": "main",
-        "lastSeen": "2026-11-12T04:32:31.000Z"
+        "lastSeen": "2026-11-17T00:27:53.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-consent-management/branches/review-use-case/package.tgz",
@@ -50280,7 +50280,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-11-16T17:54:45.000Z"
+        "lastSeen": "2026-11-16T23:05:34.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -61698,7 +61698,7 @@
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/crmi-ig",
         "branch": "master",
-        "lastSeen": "2026-11-16T20:43:48.000Z"
+        "lastSeen": "2026-11-16T23:54:02.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/crmi-ig/branches/main/package.tgz",
@@ -68479,6 +68479,42 @@
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "fhir-58973-schema-steps",
         "lastSeen": "2026-11-10T04:06:26.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-58879-contained-resources/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-58879-contained-resources",
+        "lastSeen": "2026-11-17T04:09:42.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59035-a-fhir/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-59035-a-fhir",
+        "lastSeen": "2026-11-17T02:46:44.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59036-bulk-ndjson-parquet/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-59036-bulk-ndjson-parquet",
+        "lastSeen": "2026-11-17T02:47:41.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59037-in-database-runners/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-59037-in-database-runners",
+        "lastSeen": "2026-11-17T02:48:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59040-example-status/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-59040-example-status",
+        "lastSeen": "2026-11-17T02:49:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59038-non-goals-joins/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-59038-non-goals-joins",
+        "lastSeen": "2026-11-17T02:47:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -68748,7 +68784,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-16T09:32:28.000Z"
+        "lastSeen": "2026-11-17T04:05:15.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -68941,6 +68977,12 @@
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "2026-11-gg-invalid-codes",
         "lastSeen": "2026-11-15T01:46:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2026-11-gg-supplement-unversioned/package.tgz",
+        "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
+        "branch": "2026-11-gg-supplement-unversioned",
+        "lastSeen": "2026-11-17T02:16:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz"
@@ -76932,13 +76974,13 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "main",
-        "lastSeen": "2026-11-07T18:33:19.000Z"
+        "lastSeen": "2026-11-17T00:40:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/R6/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "R6",
-        "lastSeen": "2026-11-07T19:01:16.000Z"
+        "lastSeen": "2026-11-17T01:16:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/extension-depth/package.tgz",
@@ -76951,6 +76993,12 @@
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "R6-pr-without-docs",
         "lastSeen": "2026-11-07T18:47:40.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/ai-consent-profile-and-actors/package.tgz",
+        "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
+        "branch": "ai-consent-profile-and-actors",
+        "lastSeen": "2026-11-17T00:39:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz"
@@ -88854,7 +88902,7 @@
         "url": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz",
         "repo": "https://github.com/omnifhir/lars",
         "branch": "main",
-        "lastSeen": "2026-11-16T08:42:59.000Z"
+        "lastSeen": "2026-11-17T03:07:10.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/omnifhir/lars/branches/main/package.tgz"
