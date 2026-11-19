@@ -1584,6 +1584,14 @@
     }
   },
   {
+    "name": "dk.ehmi.transitionsModel",
+    "current": {
+      "url": "https://build.fhir.org/ig/medcomdk/ehmiTransitionsModel/branches/draft-0.1.0/package.tgz",
+      "repo": "https://github.com/medcomdk/ehmiTransitionsModel",
+      "branch": "draft-0.1.0"
+    }
+  },
+  {
     "name": "dk.fhir.ig.dk-medcom-acknowledgement",
     "current": {
       "url": "https://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/branches/githubpagesmaster/package.tgz",
@@ -9928,10 +9936,58 @@
     }
   },
   {
+    "name": "org.fhir.ch.hug-training",
+    "current": {
+      "url": "https://build.fhir.org/ig/rafaeljimenez/create-ig-training/branches/main/package.tgz",
+      "repo": "https://github.com/rafaeljimenez/create-ig-training",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "org.fhir.eu.interoperabilityrun",
+    "current": {
+      "url": "https://build.fhir.org/ig/sayan801/create-ig-training/branches/main/package.tgz",
+      "repo": "https://github.com/sayan801/create-ig-training",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "org.fhir.eu.mcis",
+    "current": {
+      "url": "https://build.fhir.org/ig/michal-ciszewski/create-ig-training/branches/main/package.tgz",
+      "repo": "https://github.com/michal-ciszewski/create-ig-training",
+      "branch": "main"
+    }
+  },
+  {
     "name": "org.fhir.eu.monig",
     "current": {
       "url": "https://build.fhir.org/ig/nriss/ig-example/branches/main/package.tgz",
       "repo": "https://github.com/nriss/ig-example",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "org.fhir.fr.franck",
+    "current": {
+      "url": "https://build.fhir.org/ig/FranckCo/create-ig-training/branches/main/package.tgz",
+      "repo": "https://github.com/FranckCo/create-ig-training",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "org.fhir.se.LucasOchKatarinaOchMarkus",
+    "current": {
+      "url": "https://build.fhir.org/ig/katarinagillholm/create-ig-training/branches/main/package.tgz",
+      "repo": "https://github.com/katarinagillholm/create-ig-training",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "org.fhir.se.mf",
+    "current": {
+      "url": "https://build.fhir.org/ig/mforslundlv/create-ig-training/branches/main/package.tgz",
+      "repo": "https://github.com/mforslundlv/create-ig-training",
       "branch": "main"
     }
   },
@@ -10364,6 +10420,14 @@
     "current": {
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-ccc/branches/main/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-dak-ccc",
+      "branch": "main"
+    }
+  },
+  {
+    "name": "smart.who.int.dak-chud",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-dak-chud/branches/main/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-dak-chud",
       "branch": "main"
     }
   },
@@ -11176,6 +11240,14 @@
     }
   },
   {
+    "name": "west-a.triage",
+    "current": {
+      "url": "https://build.fhir.org/ig/vadi2/west-a-triage-ig/branches/main/package.tgz",
+      "repo": "https://github.com/vadi2/west-a-triage-ig",
+      "branch": "main"
+    }
+  },
+  {
     "name": "who-umc.fhir.poc-php",
     "current": {
       "url": "https://build.fhir.org/ig/gcangioli/who-umc-poc/branches/master/package.tgz",
@@ -11221,6 +11293,14 @@
       "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-emcare/branches/develop/package.tgz",
       "repo": "https://github.com/WorldHealthOrganization/smart-emcare",
       "branch": "develop"
+    }
+  },
+  {
+    "name": "who.fhir.fp-cds",
+    "current": {
+      "url": "https://build.fhir.org/ig/WorldHealthOrganization/smart-fp/branches/master/package.tgz",
+      "repo": "https://github.com/WorldHealthOrganization/smart-fp",
+      "branch": "master"
     }
   },
   {
