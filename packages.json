@@ -30468,7 +30468,13 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-extensions/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-extensions",
         "branch": "main",
-        "lastSeen": "2026-10-03T19:41:07.000Z"
+        "lastSeen": "2026-11-19T23:07:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/ig-template-extensions/branches/fix-resourcename-comparison/package.tgz",
+        "repo": "https://github.com/HL7/ig-template-extensions",
+        "branch": "fix-resourcename-comparison",
+        "lastSeen": "2026-11-19T22:06:34.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/ig-template-extensions/branches/main/package.tgz"
@@ -43297,6 +43303,12 @@
         "repo": "https://github.com/hl7-eu/discharge-report",
         "branch": "master",
         "lastSeen": "2026-10-08T08:03:28.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-eu/discharge-report/branches/template-v2-review/package.tgz",
+        "repo": "https://github.com/hl7-eu/discharge-report",
+        "branch": "template-v2-review",
+        "lastSeen": "2026-11-19T21:57:57.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-eu/discharge-report/branches/master/package.tgz"
@@ -50466,7 +50478,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-11-18T20:31:26.000Z"
+        "lastSeen": "2026-11-19T23:42:00.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -50575,6 +50587,12 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "Config-10.0.0-ballot",
         "lastSeen": "2026-09-09T22:48:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/fix-chained-search-params/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "fix-chained-search-params",
+        "lastSeen": "2026-11-19T22:06:00.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -60265,6 +60283,12 @@
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "ignore-claude-local-files",
         "lastSeen": "2026-11-16T08:32:29.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/fix-prefetch-multipath-example/package.tgz",
+        "repo": "https://github.com/HL7/cds-hooks",
+        "branch": "fix-prefetch-multipath-example",
+        "lastSeen": "2026-11-19T22:06:21.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz"
@@ -61218,7 +61242,7 @@
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/master/package.tgz",
         "repo": "https://github.com/HL7/cqf-recommendations",
         "branch": "master",
-        "lastSeen": "2026-11-19T15:57:59.000Z"
+        "lastSeen": "2026-11-19T21:59:06.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cqf-recommendations/branches/migrate-to-sushi/package.tgz",
@@ -66409,6 +66433,12 @@
         "repo": "https://github.com/HL7/molecular-definition-data-types",
         "branch": "example-pages-update",
         "lastSeen": "2025-09-26T21:21:17.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/qa-fixes-ak/package.tgz",
+        "repo": "https://github.com/HL7/molecular-definition-data-types",
+        "branch": "qa-fixes-ak",
+        "lastSeen": "2026-11-19T20:51:28.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/molecular-definition-data-types/branches/main/package.tgz"
@@ -69036,7 +69066,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-tx-ecosystem-ig",
         "branch": "main",
-        "lastSeen": "2026-11-19T01:55:55.000Z"
+        "lastSeen": "2026-11-20T00:36:30.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-tx-ecosystem-ig/branches/2025-01-gg-display-lang/package.tgz",
@@ -69528,7 +69558,7 @@
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz",
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "master",
-        "lastSeen": "2026-11-19T03:07:26.000Z"
+        "lastSeen": "2026-11-20T02:11:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/BP-2025-ballot-recon/package.tgz",
@@ -69619,6 +69649,12 @@
         "repo": "https://github.com/HL7/FHIRPath",
         "branch": "normative-prep",
         "lastSeen": "2026-11-19T02:49:06.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/FHIRPath/branches/FHIR-58137/package.tgz",
+        "repo": "https://github.com/HL7/FHIRPath",
+        "branch": "FHIR-58137",
+        "lastSeen": "2026-11-19T23:33:26.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/FHIRPath/branches/master/package.tgz"
@@ -89454,7 +89490,7 @@
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/main/package.tgz",
         "repo": "https://github.com/TWNHIFHIR/cql",
         "branch": "main",
-        "lastSeen": "2026-11-05T07:11:45.000Z"
+        "lastSeen": "2026-11-20T02:08:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/TWNHIFHIR/cql/branches/0.0.1/package.tgz",
