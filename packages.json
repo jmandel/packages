@@ -60576,13 +60576,13 @@
         "url": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cg-incubator",
         "branch": "main",
-        "lastSeen": "2026-11-20T20:24:30.000Z"
+        "lastSeen": "2026-11-21T21:19:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cg-incubator/branches/qa-fixes-ak/package.tgz",
         "repo": "https://github.com/HL7/cg-incubator",
         "branch": "qa-fixes-ak",
-        "lastSeen": "2026-11-20T20:17:09.000Z"
+        "lastSeen": "2026-11-21T20:51:25.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cg-incubator/branches/main/package.tgz"
@@ -60756,7 +60756,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "main",
-        "lastSeen": "2026-11-07T14:16:52.000Z"
+        "lastSeen": "2026-11-21T18:42:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/improve-background/package.tgz",
@@ -61236,7 +61236,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-50806-cancellation-states-table/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "fhir-50806-cancellation-states-table",
-        "lastSeen": "2026-11-07T15:53:14.000Z"
+        "lastSeen": "2026-11-21T18:59:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/requests-events-tasks-overview/package.tgz",
@@ -61260,19 +61260,31 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-59592-59692-preliminary-partial/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "fhir-59592-59692-preliminary-partial",
-        "lastSeen": "2026-11-07T14:58:30.000Z"
+        "lastSeen": "2026-11-21T18:46:27.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-59719-rename-task-profiles/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "fhir-59719-rename-task-profiles",
-        "lastSeen": "2026-11-07T14:56:51.000Z"
+        "lastSeen": "2026-11-21T18:40:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-53857-statusreason-codeablereference/package.tgz",
         "repo": "https://github.com/HL7/fhir-cow-ig",
         "branch": "fhir-53857-statusreason-codeablereference",
         "lastSeen": "2026-11-07T15:01:46.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-58883-business-statuses/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "fhir-58883-business-statuses",
+        "lastSeen": "2026-11-21T19:13:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/fhir-59795-surfacing-supporting-info/package.tgz",
+        "repo": "https://github.com/HL7/fhir-cow-ig",
+        "branch": "fhir-59795-surfacing-supporting-info",
+        "lastSeen": "2026-11-21T19:45:18.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/fhir-cow-ig/branches/main/package.tgz"
@@ -66852,7 +66864,7 @@
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/master/package.tgz",
         "repo": "https://github.com/HL7/uv-dx-pq",
         "branch": "master",
-        "lastSeen": "2026-07-10T19:31:56.000Z"
+        "lastSeen": "2026-11-21T17:36:16.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/uv-dx-pq/branches/1.0.0/package.tgz",
@@ -88182,7 +88194,7 @@
         "url": "https://build.fhir.org/ig/litlfred/smart-pcmt/branches/main/package.tgz",
         "repo": "https://github.com/litlfred/smart-pcmt",
         "branch": "main",
-        "lastSeen": "2026-11-19T08:41:12.000Z"
+        "lastSeen": "2026-11-21T20:46:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/WorldHealthOrganization/smart-pcmt/branches/draft-logical-model/package.tgz"
@@ -91770,7 +91782,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/clinical-views/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "clinical-views",
-        "lastSeen": "2026-11-21T15:31:08.000Z"
+        "lastSeen": "2026-11-21T20:52:58.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
