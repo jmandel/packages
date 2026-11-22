@@ -18785,6 +18785,18 @@
     ],
     "current": "https://build.fhir.org/ig/haau3/compiled-json-trial/branches/main/package.tgz"
   },
+  "example.fhir.parkour": {
+    "name": "example.fhir.parkour",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/skokolakis/Parkour-ig/branches/main/package.tgz",
+        "repo": "https://github.com/skokolakis/Parkour-ig",
+        "branch": "main",
+        "lastSeen": "2026-11-22T17:29:36.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/skokolakis/Parkour-ig/branches/main/package.tgz"
+  },
   "example.fhir.ph.core": {
     "name": "example.fhir.ph.core",
     "locations": [
@@ -52758,7 +52770,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/package.tgz",
         "repo": "https://github.com/HL7/fhir-identity-matching-ig",
         "branch": "master",
-        "lastSeen": "2026-11-19T20:24:56.000Z"
+        "lastSeen": "2026-11-22T16:19:38.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/1.0.0/package.tgz",
@@ -84568,6 +84580,18 @@
       }
     ],
     "current": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/main/package.tgz"
+  },
+  "santeon.sim-on-fhir": {
+    "name": "santeon.sim-on-fhir",
+    "locations": [
+      {
+        "url": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/v0.2.0-rc.1/package.tgz",
+        "repo": "https://github.com/SanteonNL/sim-on-fhir",
+        "branch": "v0.2.0-rc.1",
+        "lastSeen": "2026-11-22T10:30:00.000Z"
+      }
+    ],
+    "current": "https://build.fhir.org/ig/SanteonNL/sim-on-fhir/branches/v0.2.0-rc.1/package.tgz"
   },
   "sbc-fhir-ig": {
     "name": "sbc-fhir-ig",
