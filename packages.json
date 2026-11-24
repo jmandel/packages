@@ -9696,7 +9696,7 @@
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz",
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "main",
-        "lastSeen": "2026-11-02T13:56:18.000Z"
+        "lastSeen": "2026-11-24T14:54:51.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/aa_update_general_documentation/package.tgz",
@@ -9985,6 +9985,24 @@
         "repo": "https://github.com/umzhconnect/umzhconnect-ig",
         "branch": "ballot_desk_status_update",
         "lastSeen": "2026-11-03T07:42:30.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/fix_update_publisher_script/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "fix_update_publisher_script",
+        "lastSeen": "2026-11-24T09:18:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/issue109_searchparam_oftype/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "issue109_searchparam_oftype",
+        "lastSeen": "2026-11-24T07:16:20.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/searchparam_target_xpath/package.tgz",
+        "repo": "https://github.com/umzhconnect/umzhconnect-ig",
+        "branch": "searchparam_target_xpath",
+        "lastSeen": "2026-11-24T09:54:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/umzhconnect/umzhconnect-ig/branches/main/package.tgz"
@@ -11304,7 +11322,7 @@
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/main/package.tgz",
         "repo": "https://github.com/cqframework/cms-qmd",
         "branch": "main",
-        "lastSeen": "2026-11-23T14:59:31.000Z"
+        "lastSeen": "2026-11-24T15:54:22.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/cqframework/cms-qmd/branches/QICore6-pattern-updates/package.tgz",
@@ -16446,7 +16464,7 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_CCR0350/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide",
         "branch": "feature_CCR0350",
-        "lastSeen": "2026-11-23T12:59:53.000Z"
+        "lastSeen": "2026-11-24T11:13:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide/branches/feature_FUT1-26290-fdd0204-ccr0338-version-history-of-materials-assigned-to-citizens/package.tgz",
@@ -16464,7 +16482,55 @@
         "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/FUT1-25343-CCR0277S1-test-data/package.tgz",
         "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
         "branch": "FUT1-25343-CCR0277S1-test-data",
-        "lastSeen": "2026-11-05T14:17:15.000Z"
+        "lastSeen": "2026-11-24T14:28:00.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.0/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.0",
+        "lastSeen": "2026-11-24T10:05:23.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.4/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.4",
+        "lastSeen": "2026-11-24T13:39:10.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.2/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.2",
+        "lastSeen": "2026-11-24T13:07:38.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.3/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.3",
+        "lastSeen": "2026-11-24T13:27:24.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.5/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.5",
+        "lastSeen": "2026-11-24T13:51:14.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.1/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.1",
+        "lastSeen": "2026-11-24T12:49:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.1.6/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.1.6",
+        "lastSeen": "2026-11-24T14:09:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/0.2.0/package.tgz",
+        "repo": "https://github.com/fut-infrastructure/implementation-guide-test-data",
+        "branch": "0.2.0",
+        "lastSeen": "2026-11-24T14:29:08.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/fut-infrastructure/implementation-guide-test-data/branches/FUT1-25343-CCR0277S1-test-data/package.tgz"
@@ -26442,7 +26508,7 @@
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/main/package.tgz",
         "repo": "https://github.com/HL7/ig-template-base2",
         "branch": "main",
-        "lastSeen": "2026-11-23T14:55:00.000Z"
+        "lastSeen": "2026-11-24T15:40:31.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/ig-template-base2/branches/2026-09-gg-html-fixes/package.tgz",
@@ -30084,7 +30150,7 @@
         "url": "https://build.fhir.org/ig/hl7-eu/readi/branches/master/package.tgz",
         "repo": "https://github.com/hl7-eu/readi",
         "branch": "master",
-        "lastSeen": "2026-11-18T07:25:06.000Z"
+        "lastSeen": "2026-11-24T11:06:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-eu/readi/branches/validator-latest-and-suppressions/package.tgz",
@@ -37878,7 +37944,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/eattestation/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/eattestation",
         "branch": "master",
-        "lastSeen": "2024-03-14T09:12:18.000Z"
+        "lastSeen": "2026-11-24T09:23:28.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/eattestation/branches/issue-13/package.tgz",
@@ -41004,7 +41070,7 @@
         "url": "https://build.fhir.org/ig/Minsal-CL/eis/branches/master/package.tgz",
         "repo": "https://github.com/Minsal-CL/eis",
         "branch": "master",
-        "lastSeen": "2026-09-01T20:07:47.000Z"
+        "lastSeen": "2026-11-24T15:45:03.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Minsal-CL/eis/branches/PruebaRama/package.tgz",
@@ -41023,6 +41089,12 @@
         "repo": "https://github.com/Minsal-CL/eis",
         "branch": "Mapping",
         "lastSeen": "2026-04-02T17:39:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/Minsal-CL/eis/branches/nt231-v4.0.0/package.tgz",
+        "repo": "https://github.com/Minsal-CL/eis",
+        "branch": "nt231-v4.0.0",
+        "lastSeen": "2026-11-24T14:58:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/Minsal-CL/eis/branches/master/package.tgz"
@@ -48156,7 +48228,7 @@
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/master/package.tgz",
         "repo": "https://github.com/RIVO-Noord/zorgviewer-ig",
         "branch": "master",
-        "lastSeen": "2026-11-19T08:27:48.000Z"
+        "lastSeen": "2026-11-24T11:10:41.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/RIVO-Noord/zorgviewer-ig/branches/0.4.0-sprint5/package.tgz",
@@ -50701,6 +50773,18 @@
         "repo": "https://github.com/HL7/US-Core",
         "branch": "fix-changelog-ballot-counts",
         "lastSeen": "2026-11-20T16:10:47.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/fix-f12-interpreter-needed-quote/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "fix-f12-interpreter-needed-quote",
+        "lastSeen": "2026-11-24T15:17:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/US-Core/branches/fix-f02-smokingstatus-example-names/package.tgz",
+        "repo": "https://github.com/HL7/US-Core",
+        "branch": "fix-f02-smokingstatus-example-names",
+        "lastSeen": "2026-11-24T15:26:50.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz"
@@ -52050,7 +52134,7 @@
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/master/package.tgz",
         "repo": "https://github.com/HL7/davinci-pct",
         "branch": "master",
-        "lastSeen": "2026-11-23T20:31:20.000Z"
+        "lastSeen": "2026-11-24T05:39:57.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/davinci-pct/branches/phase_2/package.tgz",
@@ -59202,7 +59286,7 @@
         "url": "https://build.fhir.org/ig/HL7/admin-incubator/branches/main/package.tgz",
         "repo": "https://github.com/HL7/admin-incubator",
         "branch": "main",
-        "lastSeen": "2026-11-24T02:21:44.000Z"
+        "lastSeen": "2026-11-24T05:44:11.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/admin-incubator/branches/main/package.tgz"
@@ -59922,7 +60006,7 @@
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cds-hooks",
         "branch": "main",
-        "lastSeen": "2026-11-17T15:53:00.000Z"
+        "lastSeen": "2026-11-24T06:57:48.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/cds-hooks/branches/dependency-updates/package.tgz",
@@ -64290,7 +64374,7 @@
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/fhir-59521-medication-classification-r6/package.tgz",
         "repo": "https://github.com/HL7/fhir-extensions",
         "branch": "fhir-59521-medication-classification-r6",
-        "lastSeen": "2026-10-27T07:27:06.000Z"
+        "lastSeen": "2026-11-24T15:31:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/fhir-extensions/branches/5.4.0/package.tgz",
@@ -67038,7 +67122,7 @@
         "url": "https://build.fhir.org/ig/HL7/phd/branches/FHIR-R6/package.tgz",
         "repo": "https://github.com/HL7/phd",
         "branch": "FHIR-R6",
-        "lastSeen": "2026-11-23T20:30:23.000Z"
+        "lastSeen": "2026-11-24T13:54:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/phd/branches/2.0.0/package.tgz",
@@ -68712,7 +68796,7 @@
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/main/package.tgz",
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "main",
-        "lastSeen": "2026-11-17T22:13:39.000Z"
+        "lastSeen": "2026-11-24T07:10:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/align-operation-parameters/package.tgz",
@@ -68790,7 +68874,7 @@
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/terminology-dependent-viewdefinition/package.tgz",
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "terminology-dependent-viewdefinition",
-        "lastSeen": "2026-10-18T10:42:33.000Z"
+        "lastSeen": "2026-11-24T07:17:19.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59167-align-example-table/package.tgz",
@@ -68916,13 +69000,25 @@
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/release-3.0.0/package.tgz",
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "release-3.0.0",
-        "lastSeen": "2026-11-17T22:12:43.000Z"
+        "lastSeen": "2026-11-24T07:06:52.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-58974-shareable-metadata/package.tgz",
         "repo": "https://github.com/HL7/sql-on-fhir",
         "branch": "fhir-58974-shareable-metadata",
         "lastSeen": "2026-11-17T23:19:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhir-59918-jurisdiction-binding/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhir-59918-jurisdiction-binding",
+        "lastSeen": "2026-11-24T06:42:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/HL7/sql-on-fhir/branches/fhirpath-stu3-links/package.tgz",
+        "repo": "https://github.com/HL7/sql-on-fhir",
+        "branch": "fhirpath-stu3-links",
+        "lastSeen": "2026-11-24T06:43:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/FHIR/sql-on-fhir-v2/branches/master/package.tgz"
@@ -76308,7 +76404,13 @@
         "url": "https://build.fhir.org/ig/nw-gmsa/IHEUK-PAM-Unofficial/branches/main/package.tgz",
         "repo": "https://github.com/nw-gmsa/IHEUK-PAM-Unofficial",
         "branch": "main",
-        "lastSeen": "2026-11-23T17:25:14.000Z"
+        "lastSeen": "2026-11-24T08:49:02.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/nw-gmsa/IHEUK-PAM-Unofficial/branches/scenario-pds-mns-notifications/package.tgz",
+        "repo": "https://github.com/nw-gmsa/IHEUK-PAM-Unofficial",
+        "branch": "scenario-pds-mns-notifications",
+        "lastSeen": "2026-11-24T05:04:41.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nw-gmsa/IHEUK-PAM-Unofficial/branches/main/package.tgz"
@@ -77154,13 +77256,13 @@
         "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-3.0.0/package.tgz",
         "repo": "https://github.com/hl7-be/referral-uhmep",
         "branch": "release-3.0.0",
-        "lastSeen": "2026-11-23T15:27:28.000Z"
+        "lastSeen": "2026-11-24T10:36:55.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/draft-4.0.0/package.tgz",
         "repo": "https://github.com/hl7-be/referral-uhmep",
         "branch": "draft-4.0.0",
-        "lastSeen": "2026-11-16T08:02:14.000Z"
+        "lastSeen": "2026-11-24T08:34:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/referral-uhmep/branches/release-2-0-0/package.tgz"
@@ -83046,7 +83148,7 @@
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_MPI-11-carefuel-mappings-v2/package.tgz",
         "repo": "https://github.com/Nictiz/GBB-IG",
         "branch": "_generated_MPI-11-carefuel-mappings-v2",
-        "lastSeen": "2026-11-23T15:25:39.000Z"
+        "lastSeen": "2026-11-24T13:32:49.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_compliesWithProfile/package.tgz",
@@ -83346,7 +83448,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/main/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "main",
-        "lastSeen": "2026-11-19T15:10:34.000Z"
+        "lastSeen": "2026-11-24T15:56:59.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/rivas-examples2/package.tgz",
@@ -83388,7 +83490,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/auth-feedback-v0.5/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "auth-feedback-v0.5",
-        "lastSeen": "2026-11-23T18:33:44.000Z"
+        "lastSeen": "2026-11-24T15:04:56.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/deployment-and-fixes/package.tgz"
@@ -89892,7 +89994,7 @@
         "url": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz",
         "repo": "https://github.com/nricmig/Nricm_TWCMIG",
         "branch": "main",
-        "lastSeen": "2026-11-23T10:59:25.000Z"
+        "lastSeen": "2026-11-24T09:00:22.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/nricmig/Nricm_TWCMIG/branches/main/package.tgz"
@@ -89922,7 +90024,7 @@
         "url": "https://build.fhir.org/ig/sfaassn2025-source/CRA-IG/branches/main/package.tgz",
         "repo": "https://github.com/sfaassn2025-source/CRA-IG",
         "branch": "main",
-        "lastSeen": "2026-11-20T06:29:40.000Z"
+        "lastSeen": "2026-11-24T14:29:23.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/CRA-IG/branches/main/package.tgz"
@@ -89934,7 +90036,7 @@
         "url": "https://build.fhir.org/ig/sfaassn2025-source/VFS-IG/branches/main/package.tgz",
         "repo": "https://github.com/sfaassn2025-source/VFS-IG",
         "branch": "main",
-        "lastSeen": "2026-11-19T08:01:45.000Z"
+        "lastSeen": "2026-11-24T14:30:20.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/sfaassn2025-source/VFS-IG/branches/main/package.tgz"
@@ -90750,7 +90852,7 @@
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/main/package.tgz",
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "main",
-        "lastSeen": "2026-11-23T14:06:10.000Z"
+        "lastSeen": "2026-11-24T08:37:07.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/sync-aliases/package.tgz",
@@ -91939,6 +92041,18 @@
         "repo": "https://github.com/uzinfocom-org/digital-health-ig",
         "branch": "dhp-dark-mode",
         "lastSeen": "2026-11-23T13:32:32.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/drop-heading-workaround/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "drop-heading-workaround",
+        "lastSeen": "2026-11-24T06:58:56.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/uzinfocom-org/digital-health-ig/branches/diagram-dark-firefox/package.tgz",
+        "repo": "https://github.com/uzinfocom-org/digital-health-ig",
+        "branch": "diagram-dark-firefox",
+        "lastSeen": "2026-11-24T07:00:46.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-temp/branches/rename-package-and-canonicals/package.tgz"
@@ -92532,7 +92646,7 @@
         "url": "https://build.fhir.org/ig/vadi2/digital-health-integration/branches/form-explorer/package.tgz",
         "repo": "https://github.com/vadi2/digital-health-integration",
         "branch": "form-explorer",
-        "lastSeen": "2026-11-21T13:13:39.000Z"
+        "lastSeen": "2026-11-24T10:49:44.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/vadi2/DHP-integrations-temp/branches/main/package.tgz"
