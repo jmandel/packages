@@ -392,14 +392,6 @@
     }
   },
   {
-    "name": "hl7.fhir.be.referral",
-    "current": {
-      "url": "https://build.fhir.org/ig/hl7-be/referral/branches/v1.0.0/package.tgz",
-      "repo": "https://github.com/hl7-be/referral",
-      "branch": "v1.0.0"
-    }
-  },
-  {
     "name": "hl7.fhir.be.terminology",
     "current": {
       "url": "https://build.fhir.org/ig/hl7-be/terminology/branches/vaccine-code-lyme/package.tgz",
@@ -834,9 +826,9 @@
   {
     "name": "nictiz.nl.gbb",
     "current": {
-      "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_demo-eu-core-diff/package.tgz",
+      "url": "https://build.fhir.org/ig/Nictiz/GBB-IG/branches/_generated_demo-GBB-registry/package.tgz",
       "repo": "https://github.com/Nictiz/GBB-IG",
-      "branch": "_generated_demo-eu-core-diff"
+      "branch": "_generated_demo-GBB-registry"
     }
   },
   {
