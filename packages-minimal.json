@@ -360,6 +360,14 @@
     }
   },
   {
+    "name": "ans.fhir.fr.tddui",
+    "current": {
+      "url": "https://build.fhir.org/ig/ansforge/IG-fhir-medicosocial-transfert-donnees-dui/branches/main/package.tgz",
+      "repo": "https://github.com/ansforge/IG-fhir-medicosocial-transfert-donnees-dui",
+      "branch": "main"
+    }
+  },
+  {
     "name": "ans.fhir.fr.teleexpertise-confluence",
     "current": {
       "url": "https://build.fhir.org/ig/ansforge/interop-ig-fhir-teleexpertise-confluence/branches/revert-3-revert-2-reconciliation-contenu-teleexpertise/package.tgz",
