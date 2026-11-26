@@ -684,7 +684,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-base",
         "branch": "main",
-        "lastSeen": "2026-09-25T00:02:37.000Z"
+        "lastSeen": "2026-11-25T21:42:42.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-base/branches/dev/package.tgz",
@@ -744,7 +744,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-cda/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-cda",
         "branch": "main",
-        "lastSeen": "2026-09-25T00:03:33.000Z"
+        "lastSeen": "2026-11-25T21:59:13.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-cda/branches/main/package.tgz"
@@ -756,7 +756,7 @@
         "url": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-fhir/branches/main/package.tgz",
         "repo": "https://github.com/AuDigitalHealth/adha-template-fhir",
         "branch": "main",
-        "lastSeen": "2026-09-25T00:03:07.000Z"
+        "lastSeen": "2026-11-25T22:23:43.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/AuDigitalHealth/adha-template-fhir/branches/main/package.tgz"
@@ -5490,7 +5490,7 @@
         "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/master/package.tgz",
         "repo": "https://github.com/hl7ch/ch-emr",
         "branch": "master",
-        "lastSeen": "2026-11-25T15:17:58.000Z"
+        "lastSeen": "2026-11-25T20:17:23.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7ch/ch-emr/branches/prepare-ballot-1.0.0/package.tgz",
@@ -9751,6 +9751,18 @@
         "repo": "https://github.com/hl7ch/ch-term",
         "branch": "193-update-swissmedic-oktober-december-2026",
         "lastSeen": "2026-11-25T13:11:55.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/204-duplicate-titles/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "204-duplicate-titles",
+        "lastSeen": "2026-11-25T20:46:36.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7ch/ch-term/branches/update-terminology-deps/package.tgz",
+        "repo": "https://github.com/hl7ch/ch-term",
+        "branch": "update-terminology-deps",
+        "lastSeen": "2026-11-25T20:52:36.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7ch/ch-epr-term/branches/issue23_nameChange/package.tgz"
@@ -29898,7 +29910,7 @@
         "url": "https://build.fhir.org/ig/HL7/cmhaff-ig/branches/main/package.tgz",
         "repo": "https://github.com/HL7/cmhaff-ig",
         "branch": "main",
-        "lastSeen": "2026-11-25T19:35:15.000Z"
+        "lastSeen": "2026-11-25T20:24:54.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/HL7/cmhaff-ig/branches/main/package.tgz"
@@ -32083,6 +32095,12 @@
         "repo": "https://github.com/hl7au/au-fhir-base",
         "branch": "cr-FHIR-59776",
         "lastSeen": "2026-11-13T05:43:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7au/au-fhir-base/branches/test-obs-category-slicing-2/package.tgz",
+        "repo": "https://github.com/hl7au/au-fhir-base",
+        "branch": "test-obs-category-slicing-2",
+        "lastSeen": "2026-11-26T02:08:33.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/ci-collaborative/au-fhir-base-r4/branches/master/package.tgz"
@@ -39036,7 +39054,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/master/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "master",
-        "lastSeen": "2025-12-02T13:20:46.000Z"
+        "lastSeen": "2026-11-25T20:29:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/stvb/patient-care/branches/master/package.tgz",
@@ -39108,7 +39126,7 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/release-candidate/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "release-candidate",
-        "lastSeen": "2025-12-02T09:26:06.000Z"
+        "lastSeen": "2026-11-25T20:30:58.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/release-candidate-fix/package.tgz",
@@ -39126,13 +39144,25 @@
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/issue-45-profiles/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "issue-45-profiles",
-        "lastSeen": "2026-11-25T19:28:50.000Z"
+        "lastSeen": "2026-11-25T19:58:21.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/issue-28-participant-role-period/package.tgz",
         "repo": "https://github.com/hl7-be/patient-care",
         "branch": "issue-28-participant-role-period",
         "lastSeen": "2026-11-25T17:43:15.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/parent-base-logical-models/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "parent-base-logical-models",
+        "lastSeen": "2026-11-25T20:26:45.000Z"
+      },
+      {
+        "url": "https://build.fhir.org/ig/hl7-be/patient-care/branches/issue-45-logical-models/package.tgz",
+        "repo": "https://github.com/hl7-be/patient-care",
+        "branch": "issue-45-logical-models",
+        "lastSeen": "2026-11-25T19:55:45.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/hl7-be/patient-care/branches/restart/package.tgz"
@@ -50790,7 +50820,7 @@
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/master/package.tgz",
         "repo": "https://github.com/HL7/US-Core",
         "branch": "master",
-        "lastSeen": "2026-11-24T20:12:08.000Z"
+        "lastSeen": "2026-11-26T01:43:10.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/US-Core/branches/topic/package.tgz",
@@ -52824,7 +52854,7 @@
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/master/package.tgz",
         "repo": "https://github.com/HL7/case-reporting",
         "branch": "master",
-        "lastSeen": "2026-11-25T19:10:36.000Z"
+        "lastSeen": "2026-11-25T20:53:35.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/HL7/case-reporting/branches/2.1.2/package.tgz",
@@ -77724,13 +77754,13 @@
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/main/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "main",
-        "lastSeen": "2026-11-17T18:08:33.000Z"
+        "lastSeen": "2026-11-25T21:40:39.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/R6/package.tgz",
         "repo": "https://github.com/JohnMoehrke/ConsentAboutAI",
         "branch": "R6",
-        "lastSeen": "2026-11-17T16:02:27.000Z"
+        "lastSeen": "2026-11-25T21:44:11.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/JohnMoehrke/ConsentAboutAI/branches/extension-depth/package.tgz",
@@ -83670,7 +83700,7 @@
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/gf-identificatie-sg/package.tgz",
         "repo": "https://github.com/minvws/generiekefuncties-docs",
         "branch": "gf-identificatie-sg",
-        "lastSeen": "2026-11-25T15:39:32.000Z"
+        "lastSeen": "2026-11-25T20:31:20.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/minvws/generiekefuncties-docs/branches/overview-gfs/package.tgz",
@@ -89388,7 +89418,7 @@
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/uat/package.tgz",
         "repo": "https://github.com/tewhatuora/fhir-nzps",
         "branch": "uat",
-        "lastSeen": "2026-11-24T03:22:37.000Z"
+        "lastSeen": "2026-11-26T01:59:33.000Z"
       },
       {
         "url": "https://build.fhir.org/ig/tewhatuora/fhir-nzps/branches/v2-update/package.tgz",
@@ -95454,7 +95484,7 @@
         "url": "https://build.fhir.org/ig/MOH-Zambia/ZM-Core/branches/master/package.tgz",
         "repo": "https://github.com/MOH-Zambia/ZM-Core",
         "branch": "master",
-        "lastSeen": "2026-10-21T04:20:33.000Z"
+        "lastSeen": "2026-11-26T01:38:31.000Z"
       }
     ],
     "current": "https://build.fhir.org/ig/MOH-Zambia/ZM-Core/branches/master/package.tgz"
